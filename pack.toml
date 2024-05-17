@@ -1,0 +1,13 @@
+name = "Ssmp Modded"
+author = "sosiski.lol"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5bf1911eede1b2527f07e6545c406d4c26dd571dc6eb46ec81edb1adc1c6fa7"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.19.2"
