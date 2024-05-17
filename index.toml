@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "26df73b90bd067410fb8b26eecac12c02e55a6a30276e43efaba0a0c4431b61e"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
@@ -143,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "62f2910de0e12f66c2888691baf29e891883aded41419dec468e940a9b1031b0"
+metafile = true
+
+[[files]]
+file = "mods/disable-elytra.pw.toml"
+hash = "14947f7f6c709fec40b851944e6e38ea4cf0a61a91f0cde67885e0583844b461"
 metafile = true
 
 [[files]]
