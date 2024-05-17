@@ -391,6 +391,11 @@ hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a5e126f6ad485daa023fd7c96dda1ed42b30209b94162497422e71e702394fd8"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "e4be28c7e5186a82071ee74ebff65374dd9b3b49f65a5da80e2a5642033edca0"
 metafile = true
