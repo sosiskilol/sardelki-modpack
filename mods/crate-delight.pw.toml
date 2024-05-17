@@ -1,0 +1,13 @@
+name = "Crate Delight - Farmer's Delight"
+filename = "cratedelight-2024.05.05-1.19-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/qdGK58pt/cratedelight-2024.05.05-1.19-fabric.jar"
+hash-format = "sha1"
+hash = "c2be6971b2a8d112c4c7ac041e783b92813aac19"
+
+[update]
+[update.modrinth]
+mod-id = "9rlXSyLg"
+version = "qdGK58pt"
