@@ -1,17 +1,20 @@
 {
-  "style_name": "Default",
-  "update_tick_time": 20,
-  "list_header": [
+  "id": "default",
+  "name": "Default",
+  "header": [
     "",
-    "<dark_aqua>systemDSMP3</dark_aqua>",
-    "<gray>Players: </gray><white>%server:online%/</white><gray>%server:max_players%",
+    "<gr:#4adeff:#3d8eff><bold> Styled Player List</bold></gr> ⛏ ",
+    "",
+    "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
     ""
   ],
-  "list_footer": [
+  "footer": [
     "",
-    "<gray>Ping: </gray><white>%player:ping%</white> <gray>MSPT: </gray><white>%server:mspt%</white> <gray>TPS: </gray><white>%server:tps%</white>",
-    "<gray>Wasted time: </gray><white>%player:playtime%"
+    "<color:#555555><strikethrough>                          </strikethrough></color>",
+    "",
+    "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color>",
+    ""
   ],
-  "hidden_in_commands": false,
-  "legacy_line_joining (Remove once updating!)": true
+  "hidden": false,
+  "permission": ""
 }
