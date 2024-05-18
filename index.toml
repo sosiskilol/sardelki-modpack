@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/styledplayerlist/config.json"
+hash = "62e9b4086d456b8bc064654016e73242aae6e19377af7a15dba33ce963f84d18"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "2a8dca93f704931425dca9480beb023a62e4aba568d4e204138bcdaea62875d4"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
