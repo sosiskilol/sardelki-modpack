@@ -31,6 +31,11 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "997c16130f34bf02d072731b8495b44cdd468aab70c1c65c1b640df6895a601c"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "7dfb36ec14fa04a295d29faea1f7a8f0ea1863f38f8ebeb0b6b44a34c1e83a10"
 metafile = true
@@ -321,6 +326,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "4a17848b575f15a47ac4b7e56e63d0dc2a5cad6b978b4c8cf1817d280ed178ea"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -473,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0ad1f4d4d52d8497ced9130e5f7c66a34c5f1e83f549bc2a05ccabe50ebc9e8"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "279927202c820363c4c688e2f64ac99dc40f005840e74b443efd757c3736f43b"
 metafile = true
 
 [[files]]
