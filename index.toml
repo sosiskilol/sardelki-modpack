@@ -31,6 +31,11 @@ hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "7dfb36ec14fa04a295d29faea1f7a8f0ea1863f38f8ebeb0b6b44a34c1e83a10"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "5a3dc749f4f9004a3081b8bb87d17646fa8fa5417051f44c2367fa4a20707758"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "ad157029ae475323c871c8c1f87cc4227e99c646c908dbf934a1814ba11221cd"
 metafile = true
 
 [[files]]
