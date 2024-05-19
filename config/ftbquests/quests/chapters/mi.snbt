@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "mi"
 	group: ""
-	icon: "modern_industrialization:steam_mining_drill"
+	icon: "modern_industrialization:singularity"
 	id: "5D00354EFB1496D0"
 	order_index: 1
 	quest_links: [ ]
@@ -29,16 +29,17 @@
 					xp: 5
 				}
 			]
+			subtitle: "Ковочный молот используется для дробления разных материалов, а также создания базовых металлических деталей(пластины, болты и т.д.). Для работы с ним необходим молот."
 			tasks: [{
 				id: "075744B8ECB0F30A"
 				item: "modern_industrialization:forge_hammer"
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.5d
 			y: -1.5d
 		}
 		{
-			dependencies: ["11761C8EA101A496"]
+			dependencies: ["7A778DB057BA0124"]
 			id: "134BAC07C06904A0"
 			rewards: [
 				{
@@ -48,6 +49,11 @@
 				}
 				{
 					id: "47A5BD5B66BDAB5C"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4708CC7E833E5EA5"
 					type: "xp"
 					xp: 5
 				}
@@ -76,7 +82,13 @@
 					type: "xp"
 					xp: 5
 				}
+				{
+					id: "174B7947BE9240A0"
+					type: "xp"
+					xp: 5
+				}
 			]
+			subtitle: "Бронзовый испаритель позволит вам получать паровую энергию путем нагрева воды твердым топливом."
 			tasks: [{
 				id: "56187B2D99ECBC7F"
 				item: "modern_industrialization:bronze_boiler"
@@ -88,6 +100,11 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "28C78ADE7C1DA887"
+			rewards: [{
+				id: "590C1094890675BD"
+				type: "xp"
+				xp: 5
+			}]
 			tasks: [{
 				id: "5ABCE6A5681323CC"
 				item: "modern_industrialization:bronze_macerator"
@@ -99,68 +116,606 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "363D9FB857549E0F"
-			rewards: [{
-				id: "5039FB84B9B486B8"
-				type: "xp"
-				xp: 5
-			}]
+			rewards: [
+				{
+					id: "5039FB84B9B486B8"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "4FF50DDE529ECC9A"
+					type: "xp"
+					xp: 5
+				}
+			]
 			tasks: [{
 				id: "6F774F1923795829"
 				item: "modern_industrialization:bronze_compressor"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 0.0d
+			x: 4.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "37BC25E0E5681036"
+			rewards: [{
+				id: "74228B9885BA4A24"
+				type: "xp"
+				xp: 5
+			}]
 			tasks: [{
 				id: "12D0D4F863F1AC8D"
 				item: "modern_industrialization:bronze_mixer"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -3.0d
+			x: 4.0d
+			y: -2.5d
 		}
 		{
-			dependencies: ["2EB5266F423D8EBB"]
+			dependencies: ["05FCA97052D4F6F8"]
 			id: "5BEE187BE6756BFD"
-			rewards: [{
-				id: "6EF6D6A49CB15D20"
-				type: "xp"
-				xp: 5
-			}]
+			rewards: [
+				{
+					id: "6EF6D6A49CB15D20"
+					type: "xp"
+					xp: 5
+				}
+				{
+					id: "776E249DEBD2D54B"
+					type: "xp"
+					xp: 5
+				}
+			]
 			tasks: [{
 				id: "3F493C935B453F3C"
 				item: "modern_industrialization:coke_oven"
 				type: "item"
 			}]
 			x: 3.0d
-			y: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["5BEE187BE6756BFD"]
 			id: "18931FE404AED08C"
+			rewards: [{
+				id: "721CB0D204FB004F"
+				type: "xp"
+				xp: 5
+			}]
 			tasks: [{
 				id: "244278C797C69F32"
 				item: "modern_industrialization:steam_blast_furnace"
 				type: "item"
 			}]
 			x: 3.0d
-			y: -5.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["18931FE404AED08C"]
 			id: "2363D211D89E2D3B"
+			rewards: [{
+				id: "460C2AABD08FB0A4"
+				type: "xp"
+				xp: 5
+			}]
 			tasks: [{
 				id: "0BDBD9E5F85147CC"
 				item: "modern_industrialization:steel_ingot"
 				type: "item"
 			}]
 			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2363D211D89E2D3B"]
+			id: "4E88C1E4C64818C0"
+			rewards: [{
+				id: "7E23F6CE6CC860D8"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Стальные улучшения могут быть использованы для переделки ваших механизмов в стальные. Просто совместите ваш механизм с улучшением в сетке крафтов."
+			tasks: [{
+				id: "48893143CE1C0710"
+				item: "modern_industrialization:steel_upgrade"
+				type: "item"
+			}]
+			x: 4.0d
 			y: -6.5d
 		}
+		{
+			dependencies: ["2363D211D89E2D3B"]
+			id: "0542CA3B331CDD45"
+			rewards: [{
+				id: "5A46F819CACCD3E9"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "5E034EA892351A95"
+				item: "modern_industrialization:steam_quarry"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["37BC25E0E5681036"]
+			id: "4E0EACC87DD1F1BE"
+			rewards: [{
+				id: "2F7CE21AD9EB1186"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "2E640DC0803112D9"
+				item: "modern_industrialization:bronze_cutting_machine"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2363D211D89E2D3B"]
+			id: "75D16653D5B95D6B"
+			rewards: [{
+				id: "6E525EDF6414E074"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "0C6618B7E5CC1481"
+				item: "modern_industrialization:steel_machine_casing"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["75D16653D5B95D6B"]
+			id: "71E315141240F5B1"
+			rewards: [{
+				id: "1CD965DBAB4CCED4"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "423777813C5F4442"
+				item: "modern_industrialization:steel_wiremill"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["71E315141240F5B1"]
+			id: "30C1D5857C486F13"
+			rewards: [{
+				id: "4FD65E4C489D0655"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "56E3E7692823E414"
+				item: "modern_industrialization:resistor"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3E80CDCCCEA646EB"]
+			id: "762A97C3D9C7746C"
+			rewards: [{
+				id: "52BD59BBA6901024"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "32CC352FCA85CA8A"
+				item: "modern_industrialization:capacitor"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["71E315141240F5B1"]
+			id: "6254B8D3AA11254D"
+			rewards: [{
+				id: "24B171B9AF2E4F80"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "1703F01BDDBA8C8A"
+				item: "modern_industrialization:inductor"
+				type: "item"
+			}]
+			x: 9.0d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"30C1D5857C486F13"
+				"762A97C3D9C7746C"
+				"6254B8D3AA11254D"
+			]
+			id: "1EB52D9861FC1A55"
+			rewards: [{
+				id: "1D8E6B8D42DA5B01"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "29BC3A6F34E730D5"
+				item: "modern_industrialization:analog_circuit"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1EB52D9861FC1A55"]
+			id: "7F4C76BB16674054"
+			rewards: [{
+				id: "2BA9AFB456BD887B"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Паровая турбина позволит вам добывать электричество из пара."
+			tasks: [{
+				id: "0780563C82444115"
+				item: "modern_industrialization:lv_steam_turbine"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["179EF2B56BBA53CE"]
+			id: "70DC0E3806F6E6A3"
+			rewards: [{
+				id: "43A0665F81A5A237"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Электрическая доменная печь является улучшенной версией паровой. Как и остальные электрические механизмы имеет разгон, также позволяет производить аллюминий."
+			tasks: [{
+				id: "04C2BDDA68B700DB"
+				item: "modern_industrialization:electric_blast_furnace"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7F4C76BB16674054"]
+			id: "179EF2B56BBA53CE"
+			rewards: [{
+				id: "355757150EF8661F"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Поляризатор позволит вам производить магнитные провода и болты."
+			tasks: [{
+				id: "79B8B561082F97EE"
+				item: "modern_industrialization:polarizer"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"7F4C76BB16674054"
+				"14699A5DE0849D3E"
+			]
+			id: "33934F5639C9A22F"
+			rewards: [
+				{
+					count: 6
+					id: "53DE6EDFBC97BF1D"
+					item: "modern_industrialization:basic_upgrade"
+					type: "item"
+				}
+				{
+					id: "6640D466EB83CA9D"
+					type: "xp"
+					xp: 5
+				}
+			]
+			subtitle: "Теперь когда у вас есть добыча электричества вы можете сделать механизмы нового поколения. Они быстрее и имеют функцию разгона."
+			tasks: [
+				{
+					id: "52F2AB0A89D0EADB"
+					item: "modern_industrialization:electric_furnace"
+					type: "item"
+				}
+				{
+					id: "00A6CD99D7598FD9"
+					item: "modern_industrialization:electric_macerator"
+					type: "item"
+				}
+				{
+					id: "5E4860EB227B0E1B"
+					item: "modern_industrialization:electric_mixer"
+					type: "item"
+				}
+				{
+					id: "4CBC25BC424D06EC"
+					item: "modern_industrialization:electric_compressor"
+					type: "item"
+				}
+				{
+					id: "05234ACA046CC5CC"
+					item: "modern_industrialization:electric_cutting_machine"
+					type: "item"
+				}
+				{
+					id: "4796208550529A24"
+					item: "modern_industrialization:electric_water_pump"
+					type: "item"
+				}
+			]
+			title: "Обновите ваши механизмы"
+			x: 12.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "011B8ED68A956211"
+			rewards: [{
+				id: "2CEA86A1315E8B10"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Водяной насос позволит вам автоматически добывать воду для вашего парового испарителя или других механизмов."
+			tasks: [{
+				id: "14699A5DE0849D3E"
+				item: "modern_industrialization:bronze_water_pump"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11761C8EA101A496"]
+			id: "7A778DB057BA0124"
+			rewards: [
+				{
+					count: 32
+					id: "7781AAA3B8682783"
+					item: "modern_industrialization:tin_dust"
+					type: "item"
+				}
+				{
+					count: 96
+					id: "23F37AF41ECD71EA"
+					item: "modern_industrialization:copper_dust"
+					type: "item"
+				}
+				{
+					id: "11593046D134AA11"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "04565423F8922937"
+				item: "modern_industrialization:bronze_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["70DC0E3806F6E6A3"]
+			id: "0D7D65B96477B73D"
+			rewards: [
+				{
+					count: 64
+					id: "6FE1BAA0A730F4DC"
+					item: "modern_industrialization:bauxite_dust"
+					type: "item"
+				}
+				{
+					id: "37498A95CD0B9787"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "6E204D05513ED7E8"
+				item: "modern_industrialization:aluminum_nugget"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"0542CA3B331CDD45"
+				"6E204D05513ED7E8"
+			]
+			id: "229964086382D32A"
+			rewards: [{
+				id: "1B3A3913EE96D9A1"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "4AE9023CF7664BAD"
+				item: "modern_industrialization:electric_quarry"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["7A778DB057BA0124"]
+			id: "2F33AECE9970A0DB"
+			rewards: [{
+				id: "7073CF5C58B83BB3"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Гаечный ключ позволяет вам поворачивать механизмы, подключать трубы и провода, также помогает в постройке многоблочных механимзов, просто посмотрите на ваш многоблочный механизм держа в руке гаечный ключ."
+			tasks: [{
+				id: "2AB9172D39A20E43"
+				item: "modern_industrialization:wrench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "2A9D53AA5111A625"
+			rewards: [{
+				id: "6D7C8CA144C3AC6C"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "2F0D5ED632E1B62F"
+				item: "modern_industrialization:steam_mining_drill"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "05FCA97052D4F6F8"
+			rewards: [{
+				id: "63FFE46CEAD0B640"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Шлюзы используются для импорта или экспорта ресурсов(предметов и жидкостей) в многоблочных механизмах."
+			tasks: [
+				{
+					id: "1365A44755B622D3"
+					item: "modern_industrialization:bronze_item_input_hatch"
+					type: "item"
+				}
+				{
+					id: "0D6AC22225AB9648"
+					item: "modern_industrialization:bronze_item_output_hatch"
+					type: "item"
+				}
+				{
+					id: "43CA8991B7211D10"
+					item: "modern_industrialization:bronze_fluid_input_hatch"
+					type: "item"
+				}
+				{
+					id: "460A821C1C9029AB"
+					item: "modern_industrialization:bronze_fluid_output_hatch"
+					type: "item"
+				}
+			]
+			title: "Шлюзы"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0D7D65B96477B73D"]
+			id: "46179F679E29E1F3"
+			rewards: [{
+				id: "16848C663FF744F6"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "4ADA88289D03FEF7"
+				item: "modern_industrialization:centrifuge"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0D7D65B96477B73D"]
+			id: "21D6B25EC3C64833"
+			rewards: [{
+				id: "7288685D6EF47A96"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "55C82129924C2FCA"
+				item: "modern_industrialization:electrolyzer"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0542CA3B331CDD45"]
+			id: "22A077D71198F878"
+			rewards: [{
+				count: 8
+				id: "04EF852079FCB946"
+				item: "modern_industrialization:bronze_drill"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0727CD4755D7FA4A"
+				item: "modern_industrialization:bronze_drill"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["229964086382D32A"]
+			id: "6301CD42E0CB264A"
+			rewards: [{
+				count: 8
+				id: "785CA38C4F9C3E5D"
+				item: "modern_industrialization:gold_drill"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CA164D955B8D8C9"
+				item: "modern_industrialization:gold_drill"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["229964086382D32A"]
+			id: "396A360FE3C47776"
+			rewards: [{
+				count: 8
+				id: "15B1FA2FF745743E"
+				item: "modern_industrialization:steel_drill"
+				type: "item"
+			}]
+			tasks: [{
+				id: "58CA144DF01EE8A8"
+				item: "modern_industrialization:steel_drill"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["71E315141240F5B1"]
+			id: "3E80CDCCCEA646EB"
+			tasks: [{
+				id: "7B89C796B4A52CEE"
+				item: "modern_industrialization:rubber_sheet"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -8.5d
+		}
 	]
+	subtitle: ["Modern Industrialization (MI) - лучший технический мод для новых версий Minecraft. Является аналогом GregTech и IndustrialCraft. Возможно наиболее сложный мод в этой сборке, но в конечном итоге позволит вам дюпать предметы и стать бессмертным."]
 	title: "MI"
 }

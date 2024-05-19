@@ -1693,7 +1693,7 @@
 				type: "item"
 			}]
 			x: 17.5d
-			y: 5.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["7B76B71503A17BE4"]
@@ -1718,7 +1718,7 @@
 				type: "item"
 			}]
 			x: 17.5d
-			y: 2.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["7B76B71503A17BE4"]
@@ -2731,6 +2731,131 @@
 			}]
 			x: -15.0d
 			y: 5.0d
+		}
+		{
+			dependencies: [
+				"5F9BDB075DA4B605"
+				"373D0D5876AA0357"
+			]
+			dependency_requirement: "one_completed"
+			id: "3869F3FBC5F7FCF2"
+			tasks: [{
+				id: "1BC7D252AE9B76AC"
+				item: "createoreexcavation:drill"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3869F3FBC5F7FCF2"]
+			id: "15B2A8EE2FA9E03E"
+			tasks: [{
+				id: "7FFBD8C41937C25E"
+				item: "createoreexcavation:diamond_drill"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["15B2A8EE2FA9E03E"]
+			id: "28124E76B8A5A6DD"
+			tasks: [{
+				id: "524A661BD0034785"
+				item: "createoreexcavation:netherite_drill"
+				type: "item"
+			}]
+			x: 22.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2BEBB76B07C1FD29"]
+			id: "49476709E9B7DCDF"
+			tasks: [{
+				id: "2D5269AB8B37C517"
+				item: "createoreexcavation:vein_finder"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["118673C387F5DBA4"]
+			id: "6EC0C0BE8A14DD2C"
+			tasks: [{
+				id: "0A1F19F63383DF04"
+				item: "create_new_age:generator_coil"
+				type: "item"
+			}]
+			x: -25.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6EC0C0BE8A14DD2C"]
+			id: "41097841ABD36DF3"
+			tasks: [{
+				id: "56C26C16CB6ADC4A"
+				item: "create_new_age:carbon_brushes"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["41097841ABD36DF3"]
+			id: "725839A16B5C0E76"
+			tasks: [{
+				id: "4B42E938973B62D5"
+				item: "create_new_age:magnetite_block"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["725839A16B5C0E76"]
+			id: "1EA2A3055E6FF0E0"
+			tasks: [{
+				id: "46913AEAD1748CC0"
+				item: "create_new_age:redstone_magnet"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1EA2A3055E6FF0E0"]
+			id: "52E30A85BA93F395"
+			tasks: [{
+				id: "2BED29830934E378"
+				item: "create_new_age:layered_magnet"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["52E30A85BA93F395"]
+			id: "4E5380C00F62FB9A"
+			tasks: [{
+				id: "0F5036C683091C8B"
+				item: "create_new_age:fluxuated_magnetite"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["4E5380C00F62FB9A"]
+			id: "3319FFF0AA503818"
+			tasks: [{
+				id: "3752D9CCDEFDF1C1"
+				item: "create_new_age:netherite_magnet"
+				type: "item"
+			}]
+			x: -30.0d
+			y: -12.5d
 		}
 	]
 	title: "Create"
