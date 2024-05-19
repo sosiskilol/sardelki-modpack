@@ -507,11 +507,6 @@ hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "d974525d8d9c00ec85ceb7bb1da54139d003178a4c3e96c363cd87cad36ac727"
-metafile = true
-
-[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
 metafile = true
