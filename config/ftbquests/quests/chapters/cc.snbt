@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cc"
+	group: ""
+	icon: "computercraft:computer_advanced"
+	id: "2CA5265DD9EA884F"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "1A91CEB1C6C07EB2"
+			tasks: [{
+				id: "65ECEFBA25CAED84"
+				item: "computercraft:computer_normal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1A91CEB1C6C07EB2"]
+			id: "61DD4E34176D56A7"
+			tasks: [{
+				id: "2EAB7F6739C6A457"
+				item: "computercraft:computer_advanced"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "48EA6F1DE1F5A27E"
+			tasks: [{
+				id: "485BE3D57AE3C98E"
+				item: "computercraft:monitor_normal"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48EA6F1DE1F5A27E"]
+			id: "5E554DF27D7B45A0"
+			tasks: [{
+				id: "44CCC64087C62E63"
+				item: "computercraft:monitor_advanced"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			icon: "computercraft:computer_command"
+			id: "20D70F236761A8A9"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "39746B01226CB458"
+				title: "Компьютеризация"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2C406EA19E8264B6"
+				"279A49DD77203F79"
+				"78E519027DBAF39A"
+			]
+			id: "462F4A5736154B9A"
+			tasks: [{
+				id: "0FA1C5CA6D52C637"
+				item: "computercraft:wireless_modem_normal"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "33CDCB09FF7210BB"
+			tasks: [{
+				id: "05841B5DE14F3FBD"
+				item: "computercraft:speaker"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "7CEAB04B7AFF1592"
+			tasks: [{
+				id: "4DBC81AE09E9304A"
+				item: "computercraft:printer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "1AFA36E7E1A9FEFD"
+			tasks: [{
+				id: "7B04937F59BBF1BB"
+				item: "computercraft:disk_drive"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "279A49DD77203F79"
+			tasks: [{
+				id: "5E6D5DC20DE095EB"
+				item: "computercraft:wired_modem"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "78E519027DBAF39A"
+			tasks: [{
+				id: "7BAD834A14978C68"
+				item: "computercraft:wired_modem_full"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["462F4A5736154B9A"]
+			id: "58CE2446AD8EB155"
+			tasks: [{
+				id: "42E39145C4A3E9E9"
+				item: "computercraft:wireless_modem_advanced"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "0A839467307E584C"
+			tasks: [{
+				id: "2F48470CB8D60449"
+				item: "computercraft:turtle_normal"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0A839467307E584C"]
+			id: "4245E9159443661C"
+			tasks: [{
+				id: "6EE439A1A33B4EF6"
+				item: "computercraft:turtle_advanced"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1AFA36E7E1A9FEFD"]
+			id: "61A858BA9129A16A"
+			tasks: [{
+				id: "7FD9C4419B1B8667"
+				item: {
+					Count: 1b
+					id: "computercraft:disk"
+					tag: {
+						Color: 1118481
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "33ADEFE9DB0EE9B2"
+			tasks: [{
+				id: "6DF4E3644502975E"
+				item: "computercraft:pocket_computer_normal"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["33ADEFE9DB0EE9B2"]
+			id: "46B7ACA87B8CB7CF"
+			tasks: [{
+				id: "440FA3B53F9FD8A0"
+				item: "computercraft:pocket_computer_advanced"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["20D70F236761A8A9"]
+			id: "2C406EA19E8264B6"
+			tasks: [{
+				id: "795DD045B700E84E"
+				item: "computercraft:cable"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+	]
+	title: "CC"
+}

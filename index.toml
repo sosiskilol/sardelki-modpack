@@ -1,12 +1,60 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ad_astra.snbt"
+hash = "6ccef47650a832e0fbd0fc27d86cc097a8c0ad96324c9c2546fbb5f1527c2ab5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ae2.snbt"
+hash = "e62bbb0b59841d1018596bd183c70848db3ebabdb31ae98ed10a5aa98878ccb2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/botania.snbt"
+hash = "829c7a7bdc311b98562762b92fc6b225c9272c0364e04126cc194aefb0fd9c3c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/cc.snbt"
+hash = "ddb7bb9fe0a5ea793328c3a287c8cd5d69300a7659c70c531eefa82bf0e91b5e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/chemistry.snbt"
+hash = "8ea8ab409b1838eea460c0e11fd42a7d3d6ada55f8af081d9cef006403a5f27e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "9a695039d52a8845bab3a46df56c113f4fe7a6b0daa081fd8577f1fb1ed8e0e7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
+hash = "14c5903397f9ff878c946533b53d5f7945e7a1fc726f08eace4fa18cf676e40d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
+hash = "ce033c42d372b593df9ef7caf75f98561f38f4b130cec69f682f3aaac526e696"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mi.snbt"
+hash = "bd798448d6ce47294b06d7595c86fb57c0e132354743a5c31380148f9c21d762"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/vanilla.snbt"
+hash = "7a1d376f521cf497891c1bcc1d85d49b87868286440fd7c6752dafb74cc8fdea"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+
+[[files]]
 file = "config/styledplayerlist/config.json"
-hash = "62e9b4086d456b8bc064654016e73242aae6e19377af7a15dba33ce963f84d18"
+hash = "c8db949a3f89485da95b201f596732a1ba8f56a00452e68932c89e50db278688"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "2a8dca93f704931425dca9480beb023a62e4aba568d4e204138bcdaea62875d4"
+hash = "26540a8a46b8145132cb5c41248cc11e4cad47de9d6790550f8b71607f966b6a"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"

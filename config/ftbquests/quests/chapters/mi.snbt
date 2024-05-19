@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mi"
+	group: ""
+	icon: "modern_industrialization:steam_mining_drill"
+	id: "5D00354EFB1496D0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "11761C8EA101A496"
+			rewards: [
+				{
+					count: 2
+					id: "12F1E24F99973834"
+					item: {
+						Count: 1b
+						id: "modern_industrialization:iron_hammer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "456D2BF2E0139C3E"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "075744B8ECB0F30A"
+				item: "modern_industrialization:forge_hammer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["11761C8EA101A496"]
+			id: "134BAC07C06904A0"
+			rewards: [
+				{
+					id: "1834BC5E941D7427"
+					item: "modern_industrialization:bronze_tank"
+					type: "item"
+				}
+				{
+					id: "47A5BD5B66BDAB5C"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "6E43ED867557312F"
+				item: "modern_industrialization:fire_clay_bricks"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["134BAC07C06904A0"]
+			id: "2EB5266F423D8EBB"
+			rewards: [
+				{
+					count: 16
+					id: "5CEF3D37DA8D4258"
+					item: "modern_industrialization:fluid_pipe"
+					type: "item"
+				}
+				{
+					id: "4A5E7A2F960D0DCC"
+					type: "xp"
+					xp: 5
+				}
+			]
+			tasks: [{
+				id: "56187B2D99ECBC7F"
+				item: "modern_industrialization:bronze_boiler"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "28C78ADE7C1DA887"
+			tasks: [{
+				id: "5ABCE6A5681323CC"
+				item: "modern_industrialization:bronze_macerator"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "363D9FB857549E0F"
+			rewards: [{
+				id: "5039FB84B9B486B8"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "6F774F1923795829"
+				item: "modern_industrialization:bronze_compressor"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "37BC25E0E5681036"
+			tasks: [{
+				id: "12D0D4F863F1AC8D"
+				item: "modern_industrialization:bronze_mixer"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2EB5266F423D8EBB"]
+			id: "5BEE187BE6756BFD"
+			rewards: [{
+				id: "6EF6D6A49CB15D20"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "3F493C935B453F3C"
+				item: "modern_industrialization:coke_oven"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5BEE187BE6756BFD"]
+			id: "18931FE404AED08C"
+			tasks: [{
+				id: "244278C797C69F32"
+				item: "modern_industrialization:steam_blast_furnace"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["18931FE404AED08C"]
+			id: "2363D211D89E2D3B"
+			tasks: [{
+				id: "0BDBD9E5F85147CC"
+				item: "modern_industrialization:steel_ingot"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+	]
+	title: "MI"
+}

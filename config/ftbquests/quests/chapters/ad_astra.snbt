@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ad_astra"
+	group: ""
+	icon: "ad_astra:earth_globe"
+	id: "1376F34880DBF6FB"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Ad Astra"
+}

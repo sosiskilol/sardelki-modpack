@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmers_delight"
+	group: ""
+	icon: "farmersdelight:hamburger"
+	id: "766EE7D166CE3342"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Farmer`s Delight"
+}

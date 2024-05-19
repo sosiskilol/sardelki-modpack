@@ -1,0 +1,16 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ae2"
+	group: ""
+	icon: {
+		Count: 1b
+		id: "ae2:item_storage_cell_256k"
+		tag: { }
+	}
+	id: "721531B778879EBC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "AE2"
+}
