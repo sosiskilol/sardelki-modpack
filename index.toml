@@ -227,11 +227,6 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
-file = "mods/disable-elytra.pw.toml"
-hash = "14947f7f6c709fec40b851944e6e38ea4cf0a61a91f0cde67885e0583844b461"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
