@@ -11,6 +11,366 @@
 	id: "721531B778879EBC"
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["6798C8E76EF6BD57"]
+			id: "52EE7B40309DD75D"
+			subtitle: "Создать Вырезатель для производства процессоров в домашних условиях"
+			tasks: [{
+				id: "0169BF9F060F232F"
+				item: "ae2:inscriber"
+				type: "item"
+			}]
+			title: "TSMC"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "37DFC000AF714E1C"
+			subtitle: "Одного пока хватит"
+			tasks: [{
+				id: "791BE1CA8036339F"
+				item: "ae2:controller"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37DFC000AF714E1C"]
+			id: "765BF08F00D1F054"
+			tasks: [{
+				id: "410D42683DB762C9"
+				item: "ae2:drive"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A03FEF90DD21594"]
+			id: "6798C8E76EF6BD57"
+			rewards: [{
+				id: "0E632022A98446C6"
+				item: "ae2:silicon"
+				type: "item"
+			}]
+			subtitle: "Найти все печати для Вырезателя в метеорите"
+			tasks: [
+				{
+					id: "0384BC7A08FF91E7"
+					item: "ae2:calculation_processor_press"
+					type: "item"
+				}
+				{
+					id: "7F459BE475A47EF2"
+					item: "ae2:engineering_processor_press"
+					type: "item"
+				}
+				{
+					id: "23D27FB2EFF0C5FF"
+					item: "ae2:logic_processor_press"
+					type: "item"
+				}
+				{
+					id: "04B1950B28C217FA"
+					item: "ae2:silicon_press"
+					type: "item"
+				}
+			]
+			title: "Инопланетные технологии"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "3A03FEF90DD21594"
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				id: "0C42123C2A767B05"
+				item: "ae2:meteorite_compass"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["765BF08F00D1F054"]
+			id: "4C3FE4A0FE6FB77E"
+			tasks: [{
+				id: "6F07CD7439FFAAE6"
+				item: {
+					Count: 1b
+					id: "ae2:item_storage_cell_1k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["765BF08F00D1F054"]
+			id: "3A15B9C9FF9A58F0"
+			tasks: [{
+				id: "56695F15A740F551"
+				item: {
+					Count: 1b
+					id: "ae2:item_storage_cell_4k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["765BF08F00D1F054"]
+			id: "05D5C499A16BAF1F"
+			tasks: [{
+				id: "247FEF70882918BE"
+				item: {
+					Count: 1b
+					id: "ae2:item_storage_cell_16k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["765BF08F00D1F054"]
+			id: "74097D09B74949DD"
+			tasks: [{
+				id: "54B5F232E9A2866D"
+				item: {
+					Count: 1b
+					id: "ae2:item_storage_cell_64k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["765BF08F00D1F054"]
+			id: "6616754D349C9540"
+			subtitle: "Типов все ещё 64 :)"
+			tasks: [{
+				id: "09472EBD3D15F443"
+				item: {
+					Count: 1b
+					id: "ae2:item_storage_cell_256k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6616754D349C9540"
+				"05D5C499A16BAF1F"
+				"4C3FE4A0FE6FB77E"
+				"3A15B9C9FF9A58F0"
+				"74097D09B74949DD"
+			]
+			dependency_requirement: "one_completed"
+			id: "5D18DAC177CCCE03"
+			tasks: [{
+				id: "2B695188055CCE6E"
+				item: "ae2:terminal"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D18DAC177CCCE03"]
+			id: "4C6DCA2DF4D4DE2F"
+			subtitle: "На 35% удобнее"
+			tasks: [{
+				id: "6A3AA08C31E27EC5"
+				item: "ae2:crafting_terminal"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["49398F139340DB86"]
+			description: [""]
+			id: "0676712F2FC45596"
+			subtitle: "Нужно для обработки автокрафтов. Создайте хранилище для изготовления, по желанию блоков совместной обработки и постройте из них процессор автокрафта. Желательно два"
+			tasks: [{
+				id: "3A5653D69D182D50"
+				item: "ae2:crafting_unit"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "307F5E999C7647C8"
+			subtitle: "Ускоряет обработку автокрафтов"
+			tasks: [{
+				id: "68DD4874D1683B06"
+				item: "ae2:crafting_accelerator"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "7E434AF15BA1FD64"
+			tasks: [{
+				id: "2B7CAC279EFC8CA7"
+				item: "ae2:1k_crafting_storage"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "155CB298DDAF5321"
+			subtitle: "Красиво отображает обрабатываемый крафт процессором"
+			tasks: [{
+				id: "777FD32A78A6AF34"
+				item: "ae2:crafting_monitor"
+				type: "item"
+			}]
+			x: -12.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "0F3C852E9E7D4C6D"
+			tasks: [{
+				id: "04F632989953649A"
+				item: "ae2:4k_crafting_storage"
+				type: "item"
+			}]
+			x: -14.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "7A4B6FB246E9547B"
+			tasks: [{
+				id: "6963F2F05CB0DC2B"
+				item: "ae2:16k_crafting_storage"
+				type: "item"
+			}]
+			x: -14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "15235DC305138771"
+			tasks: [{
+				id: "1E1AE38F7C2B8739"
+				item: "ae2:64k_crafting_storage"
+				type: "item"
+			}]
+			x: -14.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0676712F2FC45596"]
+			id: "2A65731324182C97"
+			tasks: [{
+				id: "525E5C2DC92D9E11"
+				item: "ae2:256k_crafting_storage"
+				type: "item"
+			}]
+			x: -14.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2A65731324182C97"
+				"7A4B6FB246E9547B"
+				"7E434AF15BA1FD64"
+				"0F3C852E9E7D4C6D"
+				"15235DC305138771"
+			]
+			dependency_requirement: "one_completed"
+			id: "385C91CBCA9D943D"
+			subtitle: "Чтобы автокрафтить в поставщик нужно покласть шаблон. При заказе автокрафта нужно отправит нужные предметы в подключенное хранилище или механизм и будет ожидать поступления результата КАКИМ УГОДНО образом обратно в сеть. Это дают большую свободу"
+			tasks: [{
+				id: "5F023BECE32BBC1D"
+				item: "ae2:pattern_provider"
+				type: "item"
+			}]
+			x: -15.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D18DAC177CCCE03"]
+			id: "49398F139340DB86"
+			tasks: [{
+				id: "5F8103C920C8D01B"
+				item: "ae2:pattern_encoding_terminal"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["385C91CBCA9D943D"]
+			id: "6DDB2C07D0F8B071"
+			subtitle: "Позволяет смотреть шаблоны из всех поставщиков в системе"
+			tasks: [{
+				id: "3A4A2A0C101DA77A"
+				item: "ae2:pattern_access_terminal"
+				type: "item"
+			}]
+			x: -15.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["385C91CBCA9D943D"]
+			id: "222421D1B2889241"
+			subtitle: "А этим можно поставлять полученный каким угодно образом результат обратно в сеть"
+			tasks: [{
+				id: "06FC183653887750"
+				item: "ae2:import_bus"
+				type: "item"
+			}]
+			x: -17.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["222421D1B2889241"]
+			id: "76688194D445F3C4"
+			subtitle: "Как верстак, только для автокрафта. К нему подключить импортную шину не нужно, она в него встроена"
+			tasks: [{
+				id: "3D233DDB58E33D3F"
+				item: "ae2:molecular_assembler"
+				type: "item"
+			}]
+			x: -18.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3A03FEF90DD21594"]
+			id: "534EF95F7F97A0D8"
+			subtitle: "Ускоряет рост кристаллов"
+			tasks: [{
+				id: "7A00F15D9927B043"
+				item: "ae2:growth_accelerator"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
 	title: "AE2"
 }
