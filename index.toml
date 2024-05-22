@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "1a872e165ae3316f5c51143509b9cdbd4518b54d5e7b6645028ed9d3411b98f2"
+hash = "bdee03b7800f228e000ff7e98b9976982ece09ac78b84ad4469fa4ac030c2dbd"
 metafile = true
 
 [[files]]
@@ -303,12 +303,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "bfc8afbaed7f82e3a4d820a7d3b4edca6b7af8f7915e972c72832e0786fd9dbd"
+hash = "b652c5d39c9c6438eb493d1142c8f68fe962da39af84750f0fbe3ffb9787f799"
 metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.pw.toml"
-hash = "3de3ab04e31971cbbcfdf322b99576c4dab3e9e7b0715d7043be21c95969352f"
+hash = "6426a7f01aefbc2772a8509aa8f63d873894ad6676b92defba7cdf1e1213231d"
 metafile = true
 
 [[files]]
