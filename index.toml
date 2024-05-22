@@ -6,7 +6,7 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ad_astra.snbt"
-hash = "ca7e18f2cbd345a82379d260b64afc650078a75293161685d2ec3ede6c7421b9"
+hash = "51cdd0048a4660f446a520ecb22ce103416feaf252c6823778f148158322e495"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
@@ -14,11 +14,11 @@ hash = "9aa1b251b9eab9d83cea1ae9ee7f4b5e3358f6cf1aba1a7333a3ce8136900886"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
-hash = "36100f406121f945620451eb36383679b46b2a401fd2d669825e3cac28276258"
+hash = "4d913ff96d30fbd0f923f1624110e98bd77962cd1a2dfd0bb1407072c47f4897"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
-hash = "2ced3ad86f21e837313fdd05a31382bee5aa14a07a5d16070b2d820cf686511b"
+hash = "371ad67ffcedb6b3d9d023b39f091b17a863a9b601ad0428b521a0b283b368a6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chemistry.snbt"
@@ -26,7 +26,7 @@ hash = "73a04017f4e4e03bc40e52b3cca25673a869a36aadb77b8939659b0aea395072"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "b6cee7f378ad63c308b810e5023cd8945ac947b724a8d155a2a7f65ad08c7e30"
+hash = "5d351055710f714e99f694acfd3986d23f34f36ab16314e6cb01fe6bf099f441"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
@@ -34,11 +34,11 @@ hash = "061fb6f991b9090eef05fbf7e0d04c39c614518aae947ff9a82de95d1d816c58"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
-hash = "5ccdd05e435b7447cbd8c1ca0e5dac240185628f434a319a373bad9376bb3e11"
+hash = "eb198965d409d02107c80efd461fc13ff5e0bf84e5a31d29ca456e009b81cad5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
-hash = "3d789a296a6f0e1c8e23eb2ee14d31e61b67e0a91d1f79c6743eaa2ccebd3126"
+hash = "4a9b86991a6611cb5bf756ea0c1a900e8a19687354f21d803aba969b3e6a5f30"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/vanilla.snbt"

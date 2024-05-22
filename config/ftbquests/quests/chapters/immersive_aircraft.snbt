@@ -24,6 +24,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "307A2FAF63C0FBE7"
+			rewards: [{
+				count: 10
+				id: "00A96448F8E5D50D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "63981D0614539519"
 				item: "immersive_aircraft:hull"
@@ -35,6 +41,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "244C78E86E14FEE3"
+			rewards: [{
+				count: 10
+				id: "6030D98277829F45"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4DB9AB42F2D1E8D8"
 				item: "immersive_aircraft:sail"
@@ -46,6 +58,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "13EED7DAE86028AE"
+			rewards: [{
+				count: 10
+				id: "6B78945379733085"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "60FBA20DA5E5B072"
 				item: "immersive_aircraft:boiler"
@@ -57,6 +75,11 @@
 		{
 			dependencies: ["13EED7DAE86028AE"]
 			id: "27F95849CEA10A51"
+			rewards: [{
+				id: "7256D7F5B1C15370"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "66BFF843648EF1DF"
 				item: "immersive_aircraft:engine"
@@ -68,17 +91,29 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "240C97E431D3FAAE"
+			rewards: [{
+				count: 10
+				id: "703BF28C8E6AC683"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4DF8F6591A7056B3"
 				item: "immersive_aircraft:nether_engine"
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "0FCA2CA29BC5F0CE"
+			rewards: [{
+				count: 10
+				id: "6C90ECEB915B0CC1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5B8A89932E656AA7"
 				item: "immersive_aircraft:eco_engine"
@@ -90,6 +125,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "16A778044F6116EF"
+			rewards: [{
+				count: 10
+				id: "78E64BEA10951BAE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "500CEB82B65563BE"
 				item: "immersive_aircraft:propeller"
@@ -105,6 +146,12 @@
 				"16A778044F6116EF"
 			]
 			id: "46C1E980FBA15D03"
+			rewards: [{
+				count: 10
+				id: "2F22C8A8DA314D33"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "13ABEF4122DBC05E"
 				item: "immersive_aircraft:biplane"
@@ -120,6 +167,12 @@
 				"27F95849CEA10A51"
 			]
 			id: "20F4B50528220CB9"
+			rewards: [{
+				count: 10
+				id: "6156C20533D0DF81"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "67C0B165E8994A7C"
 				item: "immersive_aircraft:airship"
@@ -131,6 +184,12 @@
 		{
 			dependencies: ["20F4B50528220CB9"]
 			id: "40D78DB47D053DBD"
+			rewards: [{
+				count: 10
+				id: "16937F95518DC0F3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "586E3FDF2181A655"
 				item: "immersive_aircraft:cargo_airship"
@@ -145,6 +204,12 @@
 				"16A778044F6116EF"
 			]
 			id: "495E3AF948436E74"
+			rewards: [{
+				count: 10
+				id: "54A091D1321B41BA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C74C7C9F98F3A2C"
 				item: "immersive_aircraft:quadrocopter"
@@ -160,6 +225,12 @@
 				"16A778044F6116EF"
 			]
 			id: "0511C632AD04B9F0"
+			rewards: [{
+				count: 10
+				id: "5E502EC4F3F5FDA7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B6D2E49D851D126"
 				item: "immersive_aircraft:gyrodyne"
@@ -171,6 +242,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "5F327C99F86E9AFA"
+			rewards: [{
+				count: 10
+				id: "56EDB8D75A1099C9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "67DF17A2EEDBC2B5"
 				item: "immersive_aircraft:rotary_cannon"
@@ -182,6 +259,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "71EBAE5C9896A66A"
+			rewards: [{
+				count: 10
+				id: "1F52EC71AEAE02BB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E165469989E0025"
 				item: "immersive_aircraft:bomb_bay"
@@ -193,6 +276,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "41E1BC09A83616B9"
+			rewards: [{
+				count: 10
+				id: "734376FB8A2935F5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7FAE224642944A15"
 				item: "immersive_aircraft:heavy_crossbow"
@@ -204,6 +293,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "4D36E9CD602E032C"
+			rewards: [{
+				count: 10
+				id: "0444A0A35B064A7A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C639E265637D7CC"
 				item: "immersive_aircraft:telescope"
@@ -215,6 +310,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "0584ECB30C0AD5CE"
+			rewards: [{
+				count: 10
+				id: "5ABF55A652D1286E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6074BAE2A222B99E"
 				item: "immersive_aircraft:enhanced_propeller"
@@ -226,6 +327,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "4018402563A9D7D8"
+			rewards: [{
+				count: 10
+				id: "03D2E92A6737BFC3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "529124DC2C400E6C"
 				item: "immersive_aircraft:improved_landing_gear"
@@ -237,6 +344,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "67920CCAB294D07B"
+			rewards: [{
+				count: 10
+				id: "4A469418301E964E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "65EC8829CBC96005"
 				item: "immersive_aircraft:hull_reinforcement"
@@ -248,6 +361,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "4DC9FFE0A21FA4C9"
+			rewards: [{
+				count: 10
+				id: "099BC1210AA9E5A8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "18311420739368DC"
 				item: "immersive_aircraft:steel_boiler"
@@ -259,6 +378,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "75F13430FB700A42"
+			rewards: [{
+				count: 10
+				id: "08A7CADA192795B0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C47026D4CB74564"
 				item: "immersive_aircraft:industrial_gears"
@@ -270,6 +395,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "6DD31112853AC8DD"
+			rewards: [{
+				count: 10
+				id: "7225B5CD4D0A2185"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6883111BE79AEDD1"
 				item: "immersive_aircraft:sturdy_pipes"
@@ -281,6 +412,12 @@
 		{
 			dependencies: ["4E485B4A4573B307"]
 			id: "0FAAC50A6ED105B8"
+			rewards: [{
+				count: 10
+				id: "72CF6CE34DD035E7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6DFA27643F679D96"
 				item: "immersive_aircraft:gyroscope"
@@ -288,6 +425,23 @@
 			}]
 			x: 2.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["40D78DB47D053DBD"]
+			id: "317E3D281A5F16CC"
+			rewards: [{
+				count: 10
+				id: "6D5DEBF6265BA064"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C9AC77F25A0B448"
+				item: "immersive_aircraft:warship"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -12.0d
 		}
 	]
 	title: "Immersive Aircraft"

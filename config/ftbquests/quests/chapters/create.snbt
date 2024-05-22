@@ -18,9 +18,10 @@
 					type: "item"
 				}
 				{
-					id: "37F6EFFB24318499"
-					type: "xp"
-					xp: 10
+					count: 10
+					id: "46D987F7003242C2"
+					item: "create:experience_nugget"
+					type: "item"
 				}
 			]
 			shape: "gear"
@@ -55,6 +56,12 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "3A7DA7250A30BA67"
+			rewards: [{
+				count: 10
+				id: "4157AF22FF023951"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "начало каждого механизма"
@@ -101,9 +108,10 @@
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "5DC08E9D4B787E34"
 			rewards: [{
-				id: "37AEBD5DEFF19785"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "1E560E948CB687A2"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "основа автоматизации"
 			tasks: [{
@@ -118,11 +126,11 @@
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "78D8CB3EE6A8CC00"
 			rewards: [{
-				id: "0626329A0A8D5469"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "1A807447164AEBF6"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
-			subtitle: "выкидывай кирку"
 			tasks: [{
 				id: "756A510D696D6475"
 				item: "create:mechanical_drill"
@@ -134,20 +142,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "19DC359A1EA80203"
-			rewards: [
-				{
-					id: "056C66DEB9DA2938"
-					type: "xp"
-					xp: 10
-				}
-				{
-					count: 16
-					id: "75161CCB9676365E"
-					item: "minecraft:wheat"
-					type: "item"
-				}
-			]
-			subtitle: "на колёса дробления не хватило"
+			rewards: [{
+				count: 10
+				id: "3D01ADC5DB6E24DD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "20B9508F335A78FA"
 				item: "create:millstone"
@@ -159,6 +159,12 @@
 		{
 			dependencies: ["5DC08E9D4B787E34"]
 			id: "46A55870D3D78790"
+			rewards: [{
+				count: 10
+				id: "65EA958C3167D50B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "перевёртыш"
 			tasks: [{
 				id: "27AEE916A2A162FA"
@@ -171,7 +177,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "4C3DC4541B2B3E3C"
-			subtitle: "плющим металл"
+			rewards: [{
+				count: 10
+				id: "5DDD898E2E06A544"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6754C05720A962E9"
 				item: "create:mechanical_press"
@@ -196,6 +207,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "7FFD664A85CE2940"
+			rewards: [{
+				count: 10
+				id: "7DB2D923EDC07093"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "00B121535D801438"
 				item: "create:propeller"
@@ -207,6 +224,12 @@
 		{
 			dependencies: ["7FFD664A85CE2940"]
 			id: "381E139E8CA587D1"
+			rewards: [{
+				count: 10
+				id: "014BD10DA36453E0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "50F6B170C77637DF"
 				item: "create:encased_fan"
@@ -218,6 +241,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "5981C8959892E401"
+			rewards: [{
+				count: 10
+				id: "02648C44C6162C7D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1056C350F2A74930"
 				item: "create:whisk"
@@ -232,6 +261,12 @@
 				"46F9DA532703EDF2"
 			]
 			id: "26DBF8D7DFD1C40B"
+			rewards: [{
+				count: 10
+				id: "2626FC8C5EEA124B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "05E6B2A4BA896F48"
 				item: "create:mechanical_mixer"
@@ -246,6 +281,12 @@
 				"59E40C0D25C7BDDD"
 			]
 			id: "142EFCE9646988E7"
+			rewards: [{
+				count: 10
+				id: "33602EFD49D3C5D4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F1481AAA8443E0B"
 				item: "create:empty_blaze_burner"
@@ -257,6 +298,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "7E46836559402B9C"
+			rewards: [{
+				count: 10
+				id: "7281FBA06827880D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "111AD6F05A89CD15"
 				item: "create:mechanical_harvester"
@@ -268,6 +315,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "7AC130AD3DAA2AD4"
+			rewards: [{
+				count: 10
+				id: "352D66A62C4AC11C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "182F953CF868D750"
 				item: "create:item_vault"
@@ -279,6 +332,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "202179F9B2CB880B"
+			rewards: [{
+				count: 10
+				id: "784A4FEA904FD02B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "48021CA016732A6F"
 				item: {
@@ -296,6 +355,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "3F734EF938D092BB"
+			rewards: [{
+				count: 10
+				id: "54775CA5B86BC7DD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "21F1427E20F752A5"
 				item: "createaddition:rolling_mill"
@@ -307,6 +372,12 @@
 		{
 			dependencies: ["142EFCE9646988E7"]
 			id: "71350FA1423E3A0A"
+			rewards: [{
+				count: 10
+				id: "697C210179D93D3F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "70DCC30BBD97FFEA"
 				item: "create:blaze_burner"
@@ -318,6 +389,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "587C8B4676E91693"
+			rewards: [{
+				count: 10
+				id: "2FDFCC187136897D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C8F98EEF267FC68"
 				item: "create:mechanical_saw"
@@ -329,6 +406,12 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "5BF6955861B63198"
+			rewards: [{
+				count: 10
+				id: "2C45C78EEDEDA15F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "38AA340A9C6A0F82"
 				item: "create:mechanical_plough"
@@ -339,6 +422,12 @@
 		}
 		{
 			id: "59E40C0D25C7BDDD"
+			rewards: [{
+				count: 10
+				id: "204231543E286492"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "square"
 			tasks: [{
 				dimension: "minecraft:the_nether"
@@ -352,6 +441,12 @@
 		{
 			dependencies: ["59E40C0D25C7BDDD"]
 			id: "74722E8FC5358D8B"
+			rewards: [{
+				count: 10
+				id: "0929692DE580B828"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A9A1B5851FD3A21"
 				item: "minecraft:quartz"
@@ -363,6 +458,12 @@
 		{
 			dependencies: ["74722E8FC5358D8B"]
 			id: "1C806A71FF2AEB56"
+			rewards: [{
+				count: 10
+				id: "6767F67F111774E5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C5C910148FCFA9B"
 				item: "create:rose_quartz"
@@ -374,6 +475,12 @@
 		{
 			dependencies: ["6905243A37A2F78A"]
 			id: "3C32E711491EFF79"
+			rewards: [{
+				count: 10
+				id: "51F6FF110EF36243"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5B913A1EC630FCD4"
 				item: "create:polished_rose_quartz"
@@ -385,6 +492,12 @@
 		{
 			dependencies: ["1C806A71FF2AEB56"]
 			id: "6905243A37A2F78A"
+			rewards: [{
+				count: 10
+				id: "7F78AA8939FA82F5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C5D2C017BEB402B"
 				item: {
@@ -405,6 +518,12 @@
 				"3C32E711491EFF79"
 			]
 			id: "7A51632F6A921C75"
+			rewards: [{
+				count: 10
+				id: "6334B7552130908A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F22D2165BF7894B"
 				item: "create:electron_tube"
@@ -419,6 +538,12 @@
 				"7A51632F6A921C75"
 			]
 			id: "4D7E0B05791020F3"
+			rewards: [{
+				count: 10
+				id: "33AE98F3A5A2BAC0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "633E1D7E6A87D0D7"
 				item: "create:deployer"
@@ -433,6 +558,12 @@
 				"26DBF8D7DFD1C40B"
 			]
 			id: "3ED12DCD197C601F"
+			rewards: [{
+				count: 10
+				id: "4F12AA2970D8D4D7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "52F1355877D52091"
 				item: "create:brass_ingot"
@@ -444,6 +575,12 @@
 		{
 			dependencies: ["3ED12DCD197C601F"]
 			id: "3FD6A2579CC16E3D"
+			rewards: [{
+				count: 10
+				id: "699C3DE6787D2AD6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B7E5E387AB8508B"
 				item: "create:brass_hand"
@@ -455,6 +592,12 @@
 		{
 			dependencies: ["4D7E0B05791020F3"]
 			id: "308B84925DB2D302"
+			rewards: [{
+				count: 10
+				id: "427BA56FB3969D0B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "317B0DB7425F95AD"
 				item: "create:precision_mechanism"
@@ -466,6 +609,12 @@
 		{
 			dependencies: ["308B84925DB2D302"]
 			id: "16657481E3D0F0D7"
+			rewards: [{
+				count: 10
+				id: "61BAD92BC5DE3014"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "68C16F65660A4D6C"
 				item: "railways:white_conductor_cap"
@@ -480,6 +629,12 @@
 				"65F139D048F71327"
 			]
 			id: "55CC494AC3B7B957"
+			rewards: [{
+				count: 10
+				id: "4C7CF4EB018EF586"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1BF17234B74E1642"
 				item: "create:rotation_speed_controller"
@@ -491,6 +646,12 @@
 		{
 			dependencies: ["3ED12DCD197C601F"]
 			id: "65F139D048F71327"
+			rewards: [{
+				count: 10
+				id: "55C084DA3105BA3B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -504,6 +665,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "4B0FF96BC15730D9"
+			rewards: [{
+				count: 10
+				id: "3A124B94E0684C4A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "381E91B524FB2496"
 				item: "create:elevator_pulley"
@@ -515,6 +682,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "274F1D7E84EC9FE0"
+			rewards: [{
+				count: 10
+				id: "12704BCD228E74FE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "30272C5C716A8085"
 				item: "create:redstone_link"
@@ -526,6 +699,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "6651ED6E824A4B0F"
+			rewards: [{
+				count: 10
+				id: "21ABC103CD50260E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B78FA4A4D8EF3DE"
 				item: "create:mechanical_crafter"
@@ -537,6 +716,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "4FB5A26BB3BA5BAF"
+			rewards: [{
+				count: 10
+				id: "07F4CBAC657CA063"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3322523A220D7639"
 				item: "create:mechanical_arm"
@@ -552,9 +737,10 @@
 			]
 			id: "07E439599AE81271"
 			rewards: [{
-				id: "30299F1D45C449AD"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "446265F89445FE0F"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			shape: "gear"
 			subtitle: "бронепоезд троцкого"
@@ -570,14 +756,15 @@
 			id: "050AA88D1F85A4BB"
 			rewards: [
 				{
-					id: "6B59034A85B83A85"
-					type: "xp"
-					xp: 10
-				}
-				{
 					count: 15
 					id: "5612A60106F700DE"
 					item: "minecraft:copper_ingot"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "345DE9A4442C772A"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -595,13 +782,14 @@
 			id: "35EF825E0609180C"
 			rewards: [
 				{
-					id: "7AFC027FAF21C349"
-					type: "xp"
-					xp: 10
-				}
-				{
 					id: "575EB72A832BBCA8"
 					item: "minecraft:spyglass"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7291D48B3F065FBF"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -621,13 +809,14 @@
 			id: "1EF4FB73D61B1302"
 			rewards: [
 				{
-					id: "70946FB4E137FFCA"
-					type: "xp"
-					xp: 10
-				}
-				{
 					id: "11CC270E79126E61"
 					item: "design_decor:tap_sign"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3A06579AECD7F5CB"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -648,13 +837,14 @@
 			id: "3BD34BECB3715004"
 			rewards: [
 				{
-					id: "112D12B8D9803C4B"
-					type: "xp"
-					xp: 10
-				}
-				{
 					id: "7202C4AB91AE575C"
 					item: "create:powdered_obsidian"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0757F4F457534241"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -672,13 +862,14 @@
 			id: "14079AA60BE84075"
 			rewards: [
 				{
-					id: "7E0F7D281507BCE7"
-					type: "xp"
-					xp: 10
-				}
-				{
 					id: "7B4395A9B3C3F571"
 					item: "create:portable_fluid_interface"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "78841FB789262D45"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -696,13 +887,14 @@
 			id: "57362AB09F3C854F"
 			rewards: [
 				{
-					id: "53CB3E10507D3877"
-					type: "xp"
-					xp: 10
-				}
-				{
 					id: "2D5C00D4AF69AAA6"
 					item: "minecraft:lava_bucket"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "44EF5918AE8C2E7F"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -720,13 +912,14 @@
 			id: "59783D2D0A8901A0"
 			rewards: [
 				{
-					id: "0EE40ABD2766EB35"
-					type: "xp"
-					xp: 10
-				}
-				{
 					id: "78DDE35733BC29A9"
 					item: "minecraft:milk_bucket"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "197DCEB91ACB8500"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -742,18 +935,12 @@
 		{
 			dependencies: ["3BD34BECB3715004"]
 			id: "025E2445CE7882B7"
-			rewards: [
-				{
-					id: "56317155633FE59E"
-					type: "xp"
-					xp: 10
-				}
-				{
-					id: "243E22DA7D81BAA2"
-					item: "cratedelight:powdered_obsidian_bag"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "210B1A48816B93E2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "сила обсидиана"
 			tasks: [{
 				id: "1A0ADBF942E366D7"
@@ -767,9 +954,10 @@
 			dependencies: ["025E2445CE7882B7"]
 			id: "5F9BDB075DA4B605"
 			rewards: [{
-				id: "410D45555AB56E7A"
-				type: "xp"
-				xp: 100
+				count: 10
+				id: "05A5660970A5B989"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "удачи найти жилу"
 			tasks: [{
@@ -777,16 +965,17 @@
 				item: "createoreexcavation:drilling_machine"
 				type: "item"
 			}]
-			x: 12.5d
-			y: 2.5d
+			x: 17.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["025E2445CE7882B7"]
 			id: "373D0D5876AA0357"
 			rewards: [{
-				id: "4C0ACA68772E23D1"
-				type: "xp"
-				xp: 100
+				count: 10
+				id: "35597387A7F785CA"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "удачи найти жилу x2"
 			tasks: [{
@@ -795,15 +984,16 @@
 				type: "item"
 			}]
 			x: 15.0d
-			y: 2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["07E439599AE81271"]
 			id: "278001D4362B1D54"
 			rewards: [{
-				id: "4DB8EF4A27EF8171"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "22B548D38DC8387F"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "355877AC699F2DE5"
@@ -811,22 +1001,29 @@
 				type: "item"
 			}]
 			title: "паровозик томас буде"
-			x: 15.0d
-			y: 7.5d
+			x: 17.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["07E439599AE81271"]
 			id: "31FABB6E28A9BBEA"
 			rewards: [
 				{
-					id: "3BB012810BF3A90F"
-					type: "xp"
-					xp: 10
-				}
-				{
 					count: 10
 					id: "575637A0E3EAB36E"
 					item: "create:track_signal"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "52F61C276AF65EB0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "44BD6A04092DED18"
+					item: "railways:semaphore"
 					type: "item"
 				}
 			]
@@ -843,9 +1040,10 @@
 			dependencies: ["07E439599AE81271"]
 			id: "1C099A2AE5B5F8A4"
 			rewards: [{
-				id: "313E3C75234B57BB"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "403357B531DF6438"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "автоотцепка"
 			tasks: [{
@@ -860,9 +1058,10 @@
 			dependencies: ["07E439599AE81271"]
 			id: "68698F2AFA046435"
 			rewards: [{
-				id: "7E89318B28A82E68"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "1A378F495DE8E222"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "он следит за тобой"
 			tasks: [{
@@ -870,8 +1069,8 @@
 				item: "create:track_observer"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 5.0d
+			x: 17.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["07E439599AE81271"]
@@ -889,9 +1088,10 @@
 					type: "item"
 				}
 				{
-					id: "311B512336265B15"
-					type: "xp"
-					xp: 10
+					count: 10
+					id: "20B05AE2FCD25E29"
+					item: "create:experience_nugget"
+					type: "item"
 				}
 			]
 			subtitle: "зачем управление?"
@@ -906,6 +1106,12 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "6BB93D08D5091631"
+			rewards: [{
+				count: 10
+				id: "5E24657F7B7BEE87"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "45F5B5CDCC0D8757"
 				item: "create:copper_sheet"
@@ -917,6 +1123,12 @@
 		{
 			dependencies: ["6BB93D08D5091631"]
 			id: "14DBDE2EC071C433"
+			rewards: [{
+				count: 10
+				id: "1620442EB3840649"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "57BD527656DB3FA2"
 				item: "create:fluid_pipe"
@@ -928,6 +1140,12 @@
 		{
 			dependencies: ["14DBDE2EC071C433"]
 			id: "7291ADC3E0A8B4BE"
+			rewards: [{
+				count: 10
+				id: "2CF8402966C1DB94"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "04860F959696115E"
 				item: "create:smart_fluid_pipe"
@@ -939,6 +1157,12 @@
 		{
 			dependencies: ["14DBDE2EC071C433"]
 			id: "7A2259097979E855"
+			rewards: [{
+				count: 10
+				id: "45E18F132DC45634"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "668EC2D6FBD7B202"
 				item: "create:mechanical_pump"
@@ -950,6 +1174,12 @@
 		{
 			dependencies: ["14DBDE2EC071C433"]
 			id: "43389F807D953122"
+			rewards: [{
+				count: 10
+				id: "2D79338BEA37AD62"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A4B89B4321BA45E"
 				item: "create:fluid_valve"
@@ -978,6 +1208,12 @@
 		{
 			dependencies: ["2C375B0A85987CC9"]
 			id: "42CCEF4346652DCB"
+			rewards: [{
+				count: 10
+				id: "609F5A8A487CC5B3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C1F711E9C8AAFAB"
 				item: "create:large_water_wheel"
@@ -989,6 +1225,12 @@
 		{
 			dependencies: ["59F29BBBE32C2246"]
 			id: "62B2D7437D5F68F0"
+			rewards: [{
+				count: 10
+				id: "387B29797FA3B084"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "энергия из воздуха"
 			tasks: [{
 				id: "54D63BFDDF8D0F17"
@@ -1001,18 +1243,12 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "38135C8889E267B4"
-			rewards: [
-				{
-					id: "16CDE7EBD34145F2"
-					type: "xp"
-					xp: 10
-				}
-				{
-					id: "4FDC2E345EB7CAD7"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "4FCB6760473B1249"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "энергия из пара"
 			tasks: [{
 				id: "6908D046B8BDDFEF"
@@ -1026,9 +1262,10 @@
 			dependencies: ["1EF4FB73D61B1302"]
 			id: "492B0FD4F7D832DC"
 			rewards: [{
-				id: "0414A0D6FB6C92AD"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "5BA07424D313C076"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "оно свистит"
 			tasks: [{
@@ -1042,6 +1279,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "171E77A190ECEE85"
+			rewards: [{
+				count: 10
+				id: "5E51D974780C27F7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "69939B2CAF752A51"
 				item: "create:clutch"
@@ -1053,6 +1296,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "436406D4CE3659C4"
+			rewards: [{
+				count: 10
+				id: "03E093D396B5367D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "70E1DAB32076C7FF"
 				item: "create:gearshift"
@@ -1064,6 +1313,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "649C968A4A0B91F5"
+			rewards: [{
+				count: 10
+				id: "73DB378FB1FD012C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1A1D8A08CDA375F5"
 				item: "create:encased_chain_drive"
@@ -1075,6 +1330,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "2047A96375401E97"
+			rewards: [{
+				count: 10
+				id: "3F6E0713A70F513C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6CAE060DC78CB9C2"
 				item: "create:adjustable_chain_gearshift"
@@ -1086,6 +1347,12 @@
 		{
 			dependencies: ["381E139E8CA587D1"]
 			id: "62B9F6A3FFF65DE0"
+			rewards: [{
+				count: 10
+				id: "508B57ED714FB3F4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "050848E01A277C3F"
 				item: "create:nozzle"
@@ -1097,6 +1364,12 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "78BC34066F016406"
+			rewards: [{
+				count: 10
+				id: "49FCF2A9C740237F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "энергия из рук"
 			tasks: [{
 				id: "6642B7777EA22E88"
@@ -1109,6 +1382,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "35C82FDF057B5828"
+			rewards: [{
+				count: 10
+				id: "744A50BABEC7EAC0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7D1A305A7FE2975A"
 				item: "create:clockwork_bearing"
@@ -1120,6 +1399,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "1242C650ABBA0543"
+			rewards: [{
+				count: 10
+				id: "37729D5C1F30A516"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7986D2705F3DF6F0"
 				item: "create:cuckoo_clock"
@@ -1131,6 +1416,12 @@
 		{
 			dependencies: ["1242C650ABBA0543"]
 			id: "01AD92F43C2B84A9"
+			rewards: [{
+				count: 10
+				id: "7C591D751FA7CC10"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7711956587A83AA1"
 				item: "create:mysterious_cuckoo_clock"
@@ -1142,6 +1433,12 @@
 		{
 			dependencies: ["6BB93D08D5091631"]
 			id: "775EE3F97CA00EA5"
+			rewards: [{
+				count: 10
+				id: "037710D558F0E86E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "679916651B17BF86"
 				item: "create:copper_valve_handle"
@@ -1153,6 +1450,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "7E02769DCE2E9577"
+			rewards: [{
+				count: 10
+				id: "004C4B6BEDBE945D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "455FA5DA6C5715F6"
 				item: "create:speedometer"
@@ -1164,6 +1467,12 @@
 		{
 			dependencies: ["7E02769DCE2E9577"]
 			id: "23B34D95699D398C"
+			rewards: [{
+				count: 10
+				id: "5A30E0B2ED5A9CD4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F3F39064FDB268C"
 				item: "create:stressometer"
@@ -1175,6 +1484,12 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "69803A19E01B6FBA"
+			rewards: [{
+				count: 10
+				id: "05C0D386649226D3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F56A5625AD404B5"
 				item: "create:crushing_wheel"
@@ -1186,6 +1501,12 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "46F9DA532703EDF2"
+			rewards: [{
+				count: 10
+				id: "0EACA2ABE406AB5C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4EE30D3A0BE288FE"
 				item: "create:basin"
@@ -1197,6 +1518,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "1968909477362FA1"
+			rewards: [{
+				count: 10
+				id: "438577779B945E71"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "574F2576AB9CA628"
 				item: "create:depot"
@@ -1208,6 +1535,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "4EA3DB27370C7388"
+			rewards: [{
+				count: 10
+				id: "330DE2015D5C4B85"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3165890B85B4112E"
 				item: "create:weighted_ejector"
@@ -1219,6 +1552,12 @@
 		{
 			dependencies: ["231146B80A89D694"]
 			id: "68BE0E0367A39911"
+			rewards: [{
+				count: 10
+				id: "006EE9EBD3089614"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "369BA819ADE02931"
 				item: "create:chute"
@@ -1234,6 +1573,12 @@
 				"1F22D2165BF7894B"
 			]
 			id: "2FFEFDA4C960024C"
+			rewards: [{
+				count: 10
+				id: "5D5D0E7F4A1C7648"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1115172EE8524E4C"
 				item: "create:smart_chute"
@@ -1245,6 +1590,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "391B1DCFC341DBD6"
+			rewards: [{
+				count: 10
+				id: "13D7389933B2877E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "72F52623B9A1D5AD"
 				item: "create:mechanical_piston"
@@ -1256,6 +1607,12 @@
 		{
 			dependencies: ["391B1DCFC341DBD6"]
 			id: "0253EB5BB55FD1AB"
+			rewards: [{
+				count: 10
+				id: "1D9A434B3D67553A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "63B66CE746648CDB"
 				item: "create:sticky_mechanical_piston"
@@ -1267,6 +1624,12 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "534D2E47943ADB84"
+			rewards: [{
+				count: 10
+				id: "5D16236D64BEB834"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6DC220B12378E617"
 				item: "create:linear_chassis"
@@ -1278,6 +1641,12 @@
 		{
 			dependencies: ["534D2E47943ADB84"]
 			id: "65FF40CD59A9F38D"
+			rewards: [{
+				count: 10
+				id: "789CDF147671CC1B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4A81FA189A3ECBD0"
 				item: "create:secondary_linear_chassis"
@@ -1289,6 +1658,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "6C3EEBF4411D3473"
+			rewards: [{
+				count: 10
+				id: "20B50E8B3270546E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1D4EDD265EE093C0"
 				item: "create:gantry_carriage"
@@ -1300,6 +1675,12 @@
 		{
 			dependencies: ["6C3EEBF4411D3473"]
 			id: "3FA30989B2708CD8"
+			rewards: [{
+				count: 10
+				id: "47EA485A5EC725E2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2944365B88C53ADD"
 				item: "create:gantry_shaft"
@@ -1311,6 +1692,12 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "019E2EF289280900"
+			rewards: [{
+				count: 10
+				id: "4F23E172186280C2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "64989FC61313534A"
 				item: "create:mechanical_bearing"
@@ -1322,17 +1709,29 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "6B3733FDDE3CF96C"
+			rewards: [{
+				count: 10
+				id: "2DB76EC8F10692D2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C4903B5BF99C548"
 				item: "create:rope_pulley"
 				type: "item"
 			}]
 			x: -5.0d
-			y: -7.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "1D49A68AE7D3C1F3"
+			rewards: [{
+				count: 10
+				id: "12B0F3C82E1972D1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "16F85DC9B9AA041E"
 				item: "create:cart_assembler"
@@ -1344,6 +1743,12 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "28CB76463EADB77A"
+			rewards: [{
+				count: 10
+				id: "3DD6E6E60DE3E9E3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3DEED609A71498E8"
 				item: "create:sticker"
@@ -1358,28 +1763,46 @@
 				"1F22D2165BF7894B"
 			]
 			id: "6237F9BF46573881"
+			rewards: [{
+				count: 10
+				id: "366B9582F4EE182C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "11954A814FA9A275"
 				item: "create:contraption_controls"
 				type: "item"
 			}]
 			x: -2.5d
-			y: -7.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "4143DA29899DA760"
+			rewards: [{
+				count: 10
+				id: "1685E60ADC74C47A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "719C51FAA8FB7C4D"
 				item: "create:portable_storage_interface"
 				type: "item"
 			}]
 			x: -7.5d
-			y: -7.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "39C7F8CFEE8BFB41"
+			rewards: [{
+				count: 10
+				id: "53EBD11EC18FFE21"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F17F86E19A56BAF"
 				item: "create:redstone_contact"
@@ -1391,6 +1814,12 @@
 		{
 			dependencies: ["69803A19E01B6FBA"]
 			id: "5B0BF37B24893D1D"
+			rewards: [{
+				count: 10
+				id: "3EB99224ED0EDC78"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "354E2FD28E648609"
 				item: "create:mechanical_roller"
@@ -1402,6 +1831,12 @@
 		{
 			dependencies: ["62B2D7437D5F68F0"]
 			id: "792FB3AF78842D3A"
+			rewards: [{
+				count: 10
+				id: "323C836AC9AFCEC7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F84743849CFA134"
 				item: "create:white_sail"
@@ -1413,6 +1848,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "0124D903AA885CA0"
+			rewards: [{
+				count: 10
+				id: "7AD1DFC093460CB5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3E07F07E4EC8BD50"
 				item: "create:sequenced_gearshift"
@@ -1424,6 +1865,12 @@
 		{
 			dependencies: ["3ED12DCD197C601F"]
 			id: "207778BEE357331F"
+			rewards: [{
+				count: 10
+				id: "110C5FCEF49FA177"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5AE2BCF80FCE4CF4"
 				item: "create:flywheel"
@@ -1435,6 +1882,12 @@
 		{
 			dependencies: ["4D7E0B05791020F3"]
 			id: "6CA0BCCA8892C004"
+			rewards: [{
+				count: 10
+				id: "193A43D9D05364AA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "67C51B8E8D0C5477"
 				item: "create:track"
@@ -1447,9 +1900,10 @@
 			dependencies: ["025E2445CE7882B7"]
 			id: "52E2F00535B8AF56"
 			rewards: [{
-				id: "687B5B0F19867DA5"
-				type: "xp"
-				xp: 10
+				count: 10
+				id: "3649AD60C97A99F5"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "факторио момент"
 			tasks: [{
@@ -1466,6 +1920,12 @@
 				"2BEBB76B07C1FD29"
 			]
 			id: "382AA9007C7BB422"
+			rewards: [{
+				count: 10
+				id: "202CA05F3B452F1C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4FB5FA138F665301"
 				item: "create:andesite_funnel"
@@ -1481,6 +1941,12 @@
 				"382AA9007C7BB422"
 			]
 			id: "3926D2F928935CF3"
+			rewards: [{
+				count: 10
+				id: "579FD28CB5D1B137"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "254A81751A863352"
 				item: "create:brass_funnel"
@@ -1495,6 +1961,12 @@
 				"2BEBB76B07C1FD29"
 			]
 			id: "13C0D97F09B33411"
+			rewards: [{
+				count: 10
+				id: "11532FF07448D5B1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F47F7BC79F01899"
 				item: "create:andesite_tunnel"
@@ -1510,6 +1982,12 @@
 				"52F1355877D52091"
 			]
 			id: "1CD0C54FEFBEF49F"
+			rewards: [{
+				count: 10
+				id: "268E7FFE83DCBF6A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6C10E8D1E4351651"
 				item: "create:brass_tunnel"
@@ -1520,6 +1998,12 @@
 		}
 		{
 			id: "297ADD1CA151EC1A"
+			rewards: [{
+				count: 10
+				id: "7989F213631C6D19"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C8C238CEB03C1DD"
 				item: "minecraft:kelp"
@@ -1531,6 +2015,12 @@
 		{
 			dependencies: ["297ADD1CA151EC1A"]
 			id: "7CC527D73886A025"
+			rewards: [{
+				count: 10
+				id: "7D5FEBE33F50699B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "535B63009DC7DFB6"
 				item: "minecraft:dried_kelp"
@@ -1542,6 +2032,12 @@
 		{
 			dependencies: ["7CC527D73886A025"]
 			id: "735F565F31DE8BCB"
+			rewards: [{
+				count: 10
+				id: "1423D974D7E9A26A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "27F575B5274209A1"
 				item: "create:belt_connector"
@@ -1553,6 +2049,12 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "6E83DBE83FE4808D"
+			rewards: [{
+				count: 10
+				id: "574A36042C276305"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "466619F4724E018D"
 				item: "minecraft:observer"
@@ -1568,6 +2070,12 @@
 				"3CFA8FCBE941BCB8"
 			]
 			id: "21E4DD60F5A1F523"
+			rewards: [{
+				count: 10
+				id: "34D248B75F1558CC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "35130A5CF4203A3C"
 				item: "create:content_observer"
@@ -1582,6 +2090,12 @@
 				"1F22D2165BF7894B"
 			]
 			id: "06C5EDE480E12246"
+			rewards: [{
+				count: 10
+				id: "59C1693F79661983"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C3FEC622F2C1F3A"
 				item: "create:stockpile_switch"
@@ -1593,6 +2107,12 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "02858030F783E1AF"
+			rewards: [{
+				count: 10
+				id: "522DEBEEF406529D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A6BB16CDA1FCE2E"
 				item: "create:display_link"
@@ -1604,6 +2124,12 @@
 		{
 			dependencies: ["7A51632F6A921C75"]
 			id: "6CAC02861037B9DD"
+			rewards: [{
+				count: 10
+				id: "73251DAA92DD8EF2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "640CE5A7B845CF2A"
 				item: "create:display_board"
@@ -1615,6 +2141,12 @@
 		{
 			dependencies: ["7A51632F6A921C75"]
 			id: "20F05B0FFC187C80"
+			rewards: [{
+				count: 10
+				id: "474510D4DC983FC9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5D47F1B1C90E43E3"
 				item: "create:nixie_tube"
@@ -1626,6 +2158,12 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "2F0EDB693EE48BC4"
+			rewards: [{
+				count: 10
+				id: "165EAA221D83DF30"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "76751FB1B6B412D8"
 				item: "minecraft:lever"
@@ -1640,6 +2178,12 @@
 				"43D342CD32101F84"
 			]
 			id: "6E3687AC10F76E54"
+			rewards: [{
+				count: 10
+				id: "2372B79F39A8850F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F5ADACE4343EE33"
 				item: "create:analog_lever"
@@ -1651,6 +2195,12 @@
 		{
 			dependencies: ["2F0EDB693EE48BC4"]
 			id: "0751D20900EFDF9A"
+			rewards: [{
+				count: 10
+				id: "15E971C3FE22EC55"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F5E781DF5084B6B"
 				item: "design_decor:breaker_switch"
@@ -1662,6 +2212,12 @@
 		{
 			dependencies: ["6E3687AC10F76E54"]
 			id: "4C1711AA4E2301A3"
+			rewards: [{
+				count: 10
+				id: "1505CDFFA6B92241"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B89E1F57D77D21B"
 				item: "design_decor:stepped_lever"
@@ -1675,14 +2231,15 @@
 			id: "1B1EC3F9D8A8F94E"
 			rewards: [
 				{
-					id: "0B6C4CA277C07DF7"
-					type: "xp"
-					xp: 10
-				}
-				{
 					count: 32
 					id: "34CD5A5E2880CFED"
 					item: "create:sweet_roll"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4578AE3F0A541C55"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -1700,14 +2257,15 @@
 			id: "652E30A53EB67FDD"
 			rewards: [
 				{
-					id: "463C18E35FCCF5A7"
-					type: "xp"
-					xp: 10
-				}
-				{
 					count: 32
 					id: "6AF3E49AF54710E6"
 					item: "create:chocolate_glazed_berries"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "03FCCE93F4A6B9FA"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -1725,14 +2283,15 @@
 			id: "49B0179F26000E5F"
 			rewards: [
 				{
-					id: "5410F27F530A810C"
-					type: "xp"
-					xp: 10
-				}
-				{
 					count: 32
 					id: "446238AA98483480"
 					item: "create:honeyed_apple"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "1489BA1078F26216"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 			]
@@ -1747,6 +2306,12 @@
 		}
 		{
 			id: "232CAB1CB2770A01"
+			rewards: [{
+				count: 10
+				id: "288304D1B0B4B4C1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "42E30FD3BFFB11EE"
 				item: "create:goggles"
@@ -1757,6 +2322,12 @@
 		}
 		{
 			id: "68F078F60010FF55"
+			rewards: [{
+				count: 10
+				id: "2835933696AD6B26"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "08BCD857859EE66C"
 				item: "create:wrench"
@@ -1768,6 +2339,12 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "2D177D6DAA08BE69"
+			rewards: [{
+				count: 10
+				id: "68C2CA20264EB6CD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "45A4743767217B39"
 				item: {
@@ -1785,6 +2362,12 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "3A19C859AE187823"
+			rewards: [{
+				count: 10
+				id: "4B27869768EC12A8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "393E799304DEF58B"
 				item: {
@@ -1802,6 +2385,12 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "39E97791FA86E093"
+			rewards: [{
+				count: 10
+				id: "64CB6636B2FEC8D6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "60899338E21E35B6"
 				item: {
@@ -1819,6 +2408,12 @@
 		{
 			dependencies: ["2D177D6DAA08BE69"]
 			id: "763CC2A1D2366D85"
+			rewards: [{
+				count: 10
+				id: "28C70A9E77DFD3FF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "75EBD4A22DFB3339"
 				item: {
@@ -1836,6 +2431,12 @@
 		{
 			dependencies: ["3A19C859AE187823"]
 			id: "76EB04B6ECAA25D9"
+			rewards: [{
+				count: 10
+				id: "7CE38E9B035013A6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "454ADF443F171A8F"
 				item: {
@@ -1853,6 +2454,12 @@
 		{
 			dependencies: ["39E97791FA86E093"]
 			id: "1DF994A12989EA84"
+			rewards: [{
+				count: 10
+				id: "423435AABDCBDAF3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "51BD9DCA5EA4BAB0"
 				item: {
@@ -1870,6 +2477,12 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "69F13729EA371B6E"
+			rewards: [{
+				count: 10
+				id: "55975F6AAF20C256"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "481586D9538592F1"
 				item: {
@@ -1887,6 +2500,12 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "35675EA5C7E90DF7"
+			rewards: [{
+				count: 10
+				id: "2D9A210942190284"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "68677BBE9333C401"
 				item: {
@@ -1904,6 +2523,12 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "130BCA9764D5BA9F"
+			rewards: [{
+				count: 10
+				id: "1D02C30D8319626B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "119821BA6621BC62"
 				item: "create:wand_of_symmetry"
@@ -1915,6 +2540,12 @@
 		{
 			dependencies: ["52F1355877D52091"]
 			id: "4918A7FB348B37FE"
+			rewards: [{
+				count: 10
+				id: "3B1FADC741FED86B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0B1B5AC74C362D4B"
 				item: "create:peculiar_bell"
@@ -1926,6 +2557,12 @@
 		{
 			dependencies: ["4918A7FB348B37FE"]
 			id: "64FA45A4B132A125"
+			rewards: [{
+				count: 10
+				id: "11D0EE937F25A876"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D9528EF45C3AE9C"
 				item: "create:haunted_bell"
@@ -1936,6 +2573,12 @@
 		}
 		{
 			id: "77153D971E449878"
+			rewards: [{
+				count: 10
+				id: "2756BAFE917E5AFF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "72CCEB8E3A702171"
 				item: "create:brown_toolbox"
@@ -1947,6 +2590,12 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "04CC0AAB511EE377"
+			rewards: [{
+				count: 10
+				id: "3ECF5D5894574D78"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "19AB4AA84C108DBE"
 				item: "create:clipboard"
@@ -1958,6 +2607,12 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "588D7B9FCB74DFC1"
+			rewards: [{
+				count: 10
+				id: "68B281A30FA504E3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "468A74EF5AD4922F"
 				item: "create:filter"
@@ -1972,6 +2627,12 @@
 				"52F1355877D52091"
 			]
 			id: "531D80353A93137D"
+			rewards: [{
+				count: 10
+				id: "05D1D9018BB66482"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "052B641777DFB232"
 				item: "create:attribute_filter"
@@ -1983,6 +2644,12 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "1DBA8049BDEE1E1C"
+			rewards: [{
+				count: 10
+				id: "464D3123CC0BF19F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C475335998656A3"
 				item: "create:radial_chassis"
@@ -1993,6 +2660,13 @@
 		}
 		{
 			id: "4D842674AF727408"
+			rewards: [{
+				count: 10
+				id: "2F61FF2DDD63EFDD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			subtitle: "Вещь которая позволяет очень удобно крафтить "
 			tasks: [{
 				id: "094113FBAE45ACF2"
 				item: "create:crafting_blueprint"
@@ -2004,6 +2678,12 @@
 		{
 			dependencies: ["30272C5C716A8085"]
 			id: "04802CC5F1B792B1"
+			rewards: [{
+				count: 10
+				id: "5051DC3713D84F74"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C9846B61420701B"
 				item: "create:linked_controller"
@@ -2015,6 +2695,12 @@
 		{
 			dependencies: ["317B0DB7425F95AD"]
 			id: "49A97F3E660EE194"
+			rewards: [{
+				count: 10
+				id: "2F0666C9639E3C33"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A6EE60DAA8CCB48"
 				item: {
@@ -2032,6 +2718,12 @@
 		{
 			dependencies: ["49A97F3E660EE194"]
 			id: "59C72A492138C2E1"
+			rewards: [{
+				count: 10
+				id: "6FACAE5213D2C0A6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0EFDDADB3C7922E6"
 				item: {
@@ -2049,6 +2741,12 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "474419F945B1F3D7"
+			rewards: [{
+				count: 10
+				id: "66C214DB2E526D10"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "341CEA33498AE052"
 				item: "create:empty_schematic"
@@ -2060,6 +2758,12 @@
 		{
 			dependencies: ["474419F945B1F3D7"]
 			id: "43FC805646578EC9"
+			rewards: [{
+				count: 10
+				id: "20A71CF975D4E28B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B35CB2B4B147ADE"
 				item: "create:schematic_table"
@@ -2071,6 +2775,12 @@
 		{
 			dependencies: ["43FC805646578EC9"]
 			id: "350EFFDC3395CD63"
+			rewards: [{
+				count: 10
+				id: "415F5A38033A1AEA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "265E699BCB2601A6"
 				item: "create:schematicannon"
@@ -2082,6 +2792,12 @@
 		{
 			dependencies: ["474419F945B1F3D7"]
 			id: "5649D03E23F162A5"
+			rewards: [{
+				count: 10
+				id: "495ADEC531D5D353"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2A1296B5FA27E346"
 				item: "create:schematic_and_quill"
@@ -2106,6 +2822,12 @@
 		{
 			dependencies: ["4571B6E47BDCCF20"]
 			id: "5FC168F29500AEDF"
+			rewards: [{
+				count: 10
+				id: "21A31BFC059E9181"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E4D809A7ED19E2A"
 				item: "createaddition:copper_wire"
@@ -2117,6 +2839,12 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "4571B6E47BDCCF20"
+			rewards: [{
+				count: 10
+				id: "684A978CEE73E7E3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E47760E0B7A1D6F"
 				item: "createaddition:spool"
@@ -2128,6 +2856,12 @@
 		{
 			dependencies: ["4571B6E47BDCCF20"]
 			id: "2852355EBFFBDE62"
+			rewards: [{
+				count: 10
+				id: "3E9B188083DAC7EC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "396229EF5936F8A0"
 				item: "createaddition:gold_wire"
@@ -2139,6 +2873,12 @@
 		{
 			dependencies: ["5FC168F29500AEDF"]
 			id: "0906D64C157E7C6A"
+			rewards: [{
+				count: 10
+				id: "2527AE009C6161D0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3622E83DC6A8D56C"
 				item: "createaddition:copper_spool"
@@ -2150,6 +2890,12 @@
 		{
 			dependencies: ["2852355EBFFBDE62"]
 			id: "2A2C9B0FCA151195"
+			rewards: [{
+				count: 10
+				id: "4BF2E25E88BC8D82"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4D893849270B2A45"
 				item: "createaddition:gold_spool"
@@ -2161,6 +2907,12 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "3EFE25A81B9C1BF1"
+			rewards: [{
+				count: 10
+				id: "3A64220A2D47D5A9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4AD29794E25335B5"
 				item: "createaddition:copper_rod"
@@ -2172,6 +2924,12 @@
 		{
 			dependencies: ["3EFE25A81B9C1BF1"]
 			id: "233A135D5FE4EB43"
+			rewards: [{
+				count: 10
+				id: "632E35BE92A8F3C7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2BD5C3EA6DAA76FD"
 				item: "createaddition:gold_rod"
@@ -2183,6 +2941,12 @@
 		{
 			dependencies: ["233A135D5FE4EB43"]
 			id: "191EF0A3634D15A1"
+			rewards: [{
+				count: 10
+				id: "6D3EAD4A0AB3D8BF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1319977770934312"
 				item: "createaddition:large_connector"
@@ -2194,6 +2958,12 @@
 		{
 			dependencies: ["3EFE25A81B9C1BF1"]
 			id: "6EAC4B0D43241735"
+			rewards: [{
+				count: 10
+				id: "7D33F4DF50139CFD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6A21C66676F230BB"
 				item: "createaddition:connector"
@@ -2205,6 +2975,12 @@
 		{
 			dependencies: ["0906D64C157E7C6A"]
 			id: "2E8D065C1D84B552"
+			rewards: [{
+				count: 10
+				id: "3B79A0D0F1F0A009"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "475A6A0F8D7F92C8"
 				item: "createaddition:portable_energy_interface"
@@ -2216,6 +2992,12 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "30522D6C52736804"
+			rewards: [{
+				count: 10
+				id: "6867FA435706797E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B7401C4D77E3DE5"
 				item: "createaddition:capacitor"
@@ -2231,6 +3013,12 @@
 				"2852355EBFFBDE62"
 			]
 			id: "7EC01C9EF1044B8D"
+			rewards: [{
+				count: 10
+				id: "4C7AE6529BEBDA17"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "00DF2FE19DD18141"
 				item: "createaddition:modular_accumulator"
@@ -2245,6 +3033,12 @@
 				"0906D64C157E7C6A"
 			]
 			id: "59FA89F0AABA2688"
+			rewards: [{
+				count: 10
+				id: "2F3983A501F02C5D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "611546CA5DDB95D5"
 				item: "createaddition:tesla_coil"
@@ -2256,6 +3050,12 @@
 		{
 			dependencies: ["0906D64C157E7C6A"]
 			id: "14064D64F97DCE8D"
+			rewards: [{
+				count: 10
+				id: "09A12242AE671112"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3A0B29A4C6A03675"
 				item: "createaddition:festive_spool"
@@ -2267,6 +3067,12 @@
 		{
 			dependencies: ["233A135D5FE4EB43"]
 			id: "2691C5714350B36D"
+			rewards: [{
+				count: 10
+				id: "30EF1BDFCC7E8BE8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "72819FC692E51113"
 				item: "createaddition:iron_rod"
@@ -2282,6 +3088,12 @@
 				"0906D64C157E7C6A"
 			]
 			id: "5C7CE0DAD3425C5A"
+			rewards: [{
+				count: 10
+				id: "6D97C60B23FCC0F2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "537C58F15A4E1940"
 				item: "createaddition:alternator"
@@ -2297,6 +3109,12 @@
 				"30522D6C52736804"
 			]
 			id: "639B46DAC00F4177"
+			rewards: [{
+				count: 10
+				id: "636FDA0DCBE86C8F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7E6F1CC38766E75E"
 				item: "createaddition:electric_motor"
@@ -2325,6 +3143,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "0EAAE3243110D5B1"
+			rewards: [{
+				count: 10
+				id: "411BBE4AAF2FD9CD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "68F3A3B5C8F0CD00"
 				item: "createbigcannons:cannon_mount"
@@ -2336,6 +3160,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "1FEA390272188E60"
+			rewards: [{
+				count: 10
+				id: "7EB0CA38D2267453"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "588373225FC82635"
 				item: "createbigcannons:pair_of_cannon_wheels"
@@ -2347,6 +3177,12 @@
 		{
 			dependencies: ["1FEA390272188E60"]
 			id: "1D23FDF95748E5DD"
+			rewards: [{
+				count: 10
+				id: "32004F6C62B23169"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2E3821968FEE9A58"
 				item: "createbigcannons:cannon_carriage"
@@ -2358,6 +3194,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "24B38D37CC7198F2"
+			rewards: [{
+				count: 10
+				id: "2A0A918563375957"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "00FBDD8D8A348493"
 				item: "createbigcannons:empty_powder_charge"
@@ -2369,6 +3211,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "70A9CB5D7381773A"
+			rewards: [{
+				count: 10
+				id: "4001220CE0A7D8AB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1178AA17462CDB1B"
 				item: "createbigcannons:packed_gunpowder"
@@ -2383,6 +3231,12 @@
 				"70A9CB5D7381773A"
 			]
 			id: "139D580E798C7A21"
+			rewards: [{
+				count: 10
+				id: "4E24E4D61B11D75E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "40600AEC3DBB6BB4"
 				item: "createbigcannons:powder_charge"
@@ -2394,6 +3248,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "2F0B46D4FD09F5D2"
+			rewards: [{
+				count: 10
+				id: "0EEDA116D883B0F1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6178DDC36CABDC7A"
 				item: "createbigcannons:solid_shot"
@@ -2405,6 +3265,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "4005E7084B38DB26"
+			rewards: [{
+				count: 10
+				id: "521A377FECFC108E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "49A0F4E390B174DD"
 				item: "createbigcannons:he_shell"
@@ -2416,6 +3282,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "08EA6CCB97392EF4"
+			rewards: [{
+				count: 10
+				id: "7E43874EF9FFD0ED"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4D4AB90642540D14"
 				item: "createbigcannons:shrapnel_shell"
@@ -2427,6 +3299,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "713A486067ADF7E5"
+			rewards: [{
+				count: 10
+				id: "066D361AA711A352"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C2CC82D050DF0D7"
 				item: "createbigcannons:ap_shot"
@@ -2438,6 +3316,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "4342E7E9F6CBF4D7"
+			rewards: [{
+				count: 10
+				id: "79926A7F376F0867"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "18A0BF909DFA6152"
 				item: "createbigcannons:ap_shell"
@@ -2449,6 +3333,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "038201C03F52E882"
+			rewards: [{
+				count: 10
+				id: "37F55EE384EF03B5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6BCD4CEB712F2B91"
 				item: "createbigcannons:fluid_shell"
@@ -2460,6 +3350,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "773CCF64C35A38C7"
+			rewards: [{
+				count: 10
+				id: "69EC6EEE65E31969"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B7F2BAA56B1C03E"
 				item: "createbigcannons:smoke_shell"
@@ -2471,6 +3367,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "3F29EDB5B2BF7841"
+			rewards: [{
+				count: 10
+				id: "322B36B17DDD2F67"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "292204006389B4F6"
 				item: "createbigcannons:drop_mortar_shell"
@@ -2482,6 +3384,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "483E3D2A056C0FA0"
+			rewards: [{
+				count: 10
+				id: "772F9F46D244E88A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A490878CD8C2320"
 				item: "createbigcannons:congealed_nitro"
@@ -2493,6 +3401,12 @@
 		{
 			dependencies: ["483E3D2A056C0FA0"]
 			id: "515D7594672D2D99"
+			rewards: [{
+				count: 10
+				id: "06F13161ABC84928"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "187E97E09011D4C1"
 				item: "createbigcannons:hardened_nitro"
@@ -2504,6 +3418,12 @@
 		{
 			dependencies: ["515D7594672D2D99"]
 			id: "3BF8B96B32C1A9C9"
+			rewards: [{
+				count: 10
+				id: "22ABEDE62D511F90"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "325EF6B4C7D87319"
 				item: "createbigcannons:nitropowder"
@@ -2515,6 +3435,12 @@
 		{
 			dependencies: ["3BF8B96B32C1A9C9"]
 			id: "06E8F1E3DAD606BD"
+			rewards: [{
+				count: 10
+				id: "7733DA993C2A2C63"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B9B673DDE34C056"
 				item: {
@@ -2530,6 +3456,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "649414EFFE4A0DB6"
+			rewards: [{
+				count: 10
+				id: "2A1EBBC4303F7DAC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7BF70636B3F95F36"
 				item: "createbigcannons:bag_of_grapeshot"
@@ -2541,6 +3473,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "2397AE0776E2A2C5"
+			rewards: [{
+				count: 10
+				id: "114E7478C4A1B59A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E558C4248F6F78D"
 				item: "createbigcannons:mortar_stone"
@@ -2552,6 +3490,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "249FDF7FDB04B533"
+			rewards: [{
+				count: 10
+				id: "1808F8C86B68F704"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "092603E6C6BA4FC6"
 				item: "createbigcannons:impact_fuze"
@@ -2563,6 +3507,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "71AD007E4C9C9EF9"
+			rewards: [{
+				count: 10
+				id: "7877F07F1EF80734"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7028B21239F430CC"
 				item: {
@@ -2578,6 +3528,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "7CC5F7015912A6D6"
+			rewards: [{
+				count: 10
+				id: "5A462C875AE79BDA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A3E6B11AA90B5E4"
 				item: {
@@ -2593,6 +3549,12 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "7366925BED007F87"
+			rewards: [{
+				count: 10
+				id: "20A93BE02C71442E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "09C74D8944856134"
 				item: {
@@ -2608,6 +3570,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "00695377885C50CD"
+			rewards: [{
+				count: 10
+				id: "7358C77E2E3D1D8D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "68D76334BFDE2F8A"
 				item: "createbigcannons:ram_rod"
@@ -2619,6 +3587,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "709689A18DB5B985"
+			rewards: [{
+				count: 10
+				id: "5D15A48A82C13958"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7CF7C157CDD4AE39"
 				item: "createbigcannons:worm"
@@ -2630,6 +3604,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "5F4EB68A1D7806A4"
+			rewards: [{
+				count: 10
+				id: "1464334E8A265705"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0925CA03DE38634A"
 				item: {
@@ -2645,6 +3625,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "377F1F7BD5BA938B"
+			rewards: [{
+				count: 10
+				id: "51E1747F4ADD070D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6FD619CA4B51A306"
 				item: "createbigcannons:casting_sand"
@@ -2656,6 +3642,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "13843AA4F234817E"
+			rewards: [{
+				count: 10
+				id: "179B5624557A2C08"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "7B6F970C15A79EFF"
@@ -2679,6 +3671,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "184181E003D9D54E"
+			rewards: [{
+				count: 10
+				id: "59D1BA640B0B2CAA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "1C721B8F3835C3C6"
@@ -2702,6 +3700,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "1AFCC3FE3D156F2C"
+			rewards: [{
+				count: 10
+				id: "1BCE1CF9042409A9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D78A030200DE503"
 				item: "createbigcannons:cannon_drill"
@@ -2713,6 +3717,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "38A475C87ED4158F"
+			rewards: [{
+				count: 10
+				id: "37183ED51C833DAA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "03E91439522121FD"
 				item: "createbigcannons:cannon_loader"
@@ -2724,6 +3734,12 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "582EDC1C01B05846"
+			rewards: [{
+				count: 10
+				id: "016930471D07240A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5918EED3C075894D"
 				item: "createbigcannons:basin_foundry_lid"
@@ -2739,39 +3755,63 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "3869F3FBC5F7FCF2"
+			rewards: [{
+				count: 10
+				id: "182AA813D861C9C7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1BC7D252AE9B76AC"
 				item: "createoreexcavation:drill"
 				type: "item"
 			}]
 			x: 17.5d
-			y: 2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["3869F3FBC5F7FCF2"]
 			id: "15B2A8EE2FA9E03E"
+			rewards: [{
+				count: 10
+				id: "47B764E023A90B37"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7FFBD8C41937C25E"
 				item: "createoreexcavation:diamond_drill"
 				type: "item"
 			}]
 			x: 20.0d
-			y: 2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["15B2A8EE2FA9E03E"]
 			id: "28124E76B8A5A6DD"
+			rewards: [{
+				count: 10
+				id: "647C31324E67EAB6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "524A661BD0034785"
 				item: "createoreexcavation:netherite_drill"
 				type: "item"
 			}]
 			x: 22.5d
-			y: 2.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "49476709E9B7DCDF"
+			rewards: [{
+				count: 10
+				id: "55ACBA4370E98EA7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2D5269AB8B37C517"
 				item: "createoreexcavation:vein_finder"
@@ -2783,6 +3823,12 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "6EC0C0BE8A14DD2C"
+			rewards: [{
+				count: 10
+				id: "357BBAB5F716D481"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0A1F19F63383DF04"
 				item: "create_new_age:generator_coil"
@@ -2794,6 +3840,12 @@
 		{
 			dependencies: ["6EC0C0BE8A14DD2C"]
 			id: "41097841ABD36DF3"
+			rewards: [{
+				count: 10
+				id: "78CCDD9421A34142"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "56C26C16CB6ADC4A"
 				item: "create_new_age:carbon_brushes"
@@ -2805,6 +3857,12 @@
 		{
 			dependencies: ["41097841ABD36DF3"]
 			id: "725839A16B5C0E76"
+			rewards: [{
+				count: 10
+				id: "4E9DF5B4EE531597"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4B42E938973B62D5"
 				item: "create_new_age:magnetite_block"
@@ -2816,46 +3874,752 @@
 		{
 			dependencies: ["725839A16B5C0E76"]
 			id: "1EA2A3055E6FF0E0"
+			rewards: [{
+				count: 10
+				id: "1EBBBF10CE1896E0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "46913AEAD1748CC0"
 				item: "create_new_age:redstone_magnet"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1EA2A3055E6FF0E0"]
+			id: "52E30A85BA93F395"
+			rewards: [{
+				count: 10
+				id: "7D983FFC271E2359"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2BED29830934E378"
+				item: "create_new_age:layered_magnet"
+				type: "item"
+			}]
+			x: -35.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["52E30A85BA93F395"]
+			id: "4E5380C00F62FB9A"
+			rewards: [{
+				count: 10
+				id: "320B4373DD41CD19"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F5036C683091C8B"
+				item: "create_new_age:fluxuated_magnetite"
+				type: "item"
+			}]
+			x: -37.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4E5380C00F62FB9A"]
+			id: "3319FFF0AA503818"
+			rewards: [{
+				count: 10
+				id: "47C58606C9EE3DB7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3752D9CCDEFDF1C1"
+				item: "create_new_age:netherite_magnet"
+				type: "item"
+			}]
+			x: -40.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["35EF825E0609180C"]
+			id: "049206ADCF5F4F13"
+			rewards: [{
+				count: 10
+				id: "1E377B3E1B5B78DD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "44698317A8E6CE4A"
+				item: "create_enchantment_industry:disenchanter"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["025E2445CE7882B7"]
+			id: "6CB70064F92A5C40"
+			rewards: [{
+				count: 10
+				id: "720DFD618C93EF22"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F3B9E6CF594C3B2"
+				item: "create_enchantment_industry:enchanting_guide"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["049206ADCF5F4F13"]
+			id: "5C7A0EDA111D8BD0"
+			rewards: [{
+				count: 10
+				id: "2C88EBA1FCE5FE35"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7A66443668947229"
+				item: "create_enchantment_industry:printer"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["049206ADCF5F4F13"]
+			id: "5935020FB4D78F68"
+			rewards: [{
+				count: 10
+				id: "30D1DA0144F17459"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00FB87381CDDCB80"
+				item: "create_enchantment_industry:hyper_experience_bottle"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 2.5d
+		}
+		{
+			icon: "minecraft:magma_block"
+			id: "246D2A014A5AF383"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "4B1A298FDE9E28D7"
+				title: "Тепловые явления"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["223C97C7636A806F"]
+			id: "6C60B484082A99AE"
+			rewards: [{
+				count: 10
+				id: "4B17B8F3899C68E0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12200F424E3FE5FC"
+				item: "create_new_age:stirling_engine"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["41097841ABD36DF3"]
+			id: "71DC0389128A2BA4"
+			rewards: [{
+				count: 10
+				id: "184238DB430DDC85"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6B4B6133028AD102"
+				item: "create_new_age:energiser_t1"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["71DC0389128A2BA4"]
+			id: "1A84C42E555D1C25"
+			rewards: [{
+				count: 10
+				id: "4CE4C3CE5DEDD9B5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "320794C76AA814F5"
+				item: "create_new_age:energiser_t2"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1A84C42E555D1C25"]
+			id: "1C451DCCAB5B364D"
+			rewards: [{
+				count: 10
+				id: "322E6DECCA88FED3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68356B52CF9B8321"
+				item: "create_new_age:energiser_t3"
+				type: "item"
+			}]
+			x: -27.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["71DC0389128A2BA4"]
+			id: "1E550D36CCE879B3"
+			rewards: [{
+				count: 10
+				id: "45A169A9BAD0E88E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "238F7A6BCCD4A03B"
+				item: "create_new_age:overcharged_iron"
 				type: "item"
 			}]
 			x: -30.0d
 			y: -5.0d
 		}
 		{
-			dependencies: ["1EA2A3055E6FF0E0"]
-			id: "52E30A85BA93F395"
+			dependencies: ["1E550D36CCE879B3"]
+			id: "4A39FB8D3E65BF7B"
+			rewards: [{
+				count: 10
+				id: "142E9088F2F80B41"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
-				id: "2BED29830934E378"
-				item: "create_new_age:layered_magnet"
+				id: "725EB8AAB38F7B67"
+				item: "create_new_age:overcharged_gold"
 				type: "item"
 			}]
 			x: -30.0d
 			y: -7.5d
 		}
 		{
-			dependencies: ["52E30A85BA93F395"]
-			id: "4E5380C00F62FB9A"
+			dependencies: ["4A39FB8D3E65BF7B"]
+			id: "1A2DF2C6E9B15079"
+			rewards: [{
+				count: 10
+				id: "1B64C6B6FEF9328F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
-				id: "0F5036C683091C8B"
-				item: "create_new_age:fluxuated_magnetite"
+				id: "3FC1CFDED31245BA"
+				item: "create_new_age:overcharged_diamond"
 				type: "item"
 			}]
 			x: -30.0d
 			y: -10.0d
 		}
 		{
-			dependencies: ["4E5380C00F62FB9A"]
-			id: "3319FFF0AA503818"
-			tasks: [{
-				id: "3752D9CCDEFDF1C1"
-				item: "create_new_age:netherite_magnet"
+			dependencies: ["4852CADF2C20AA46"]
+			id: "16BBE5788A82E3AB"
+			rewards: [{
+				count: 10
+				id: "1A6987DE804BB3DE"
+				item: "create:experience_nugget"
 				type: "item"
 			}]
-			x: -30.0d
+			tasks: [{
+				id: "21B2AA0C2E33CF61"
+				item: "create_new_age:basic_motor_extension"
+				type: "item"
+			}]
+			x: -35.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["16BBE5788A82E3AB"]
+			id: "2D99450F44C1FEE5"
+			rewards: [{
+				count: 10
+				id: "75C372D4E3F15203"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71A1675B427260FA"
+				item: "create_new_age:advanced_motor_extension"
+				type: "item"
+			}]
+			x: -35.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["41097841ABD36DF3"]
+			id: "68129855122783A6"
+			rewards: [{
+				count: 10
+				id: "2322C5177746AF3A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "28CEE760ABEA78F2"
+				item: "create_new_age:copper_wire"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["68129855122783A6"]
+			id: "48E3B3E83C470DEB"
+			rewards: [{
+				count: 10
+				id: "07346158FF3BE511"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "08531B28E8CE829E"
+				item: "create_new_age:overcharged_iron_wire"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["48E3B3E83C470DEB"]
+			id: "41492CD832C2BC82"
+			rewards: [{
+				count: 10
+				id: "59C7B53C092D7AB8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "480AEC073E1D631C"
+				item: "create_new_age:overcharged_golden_wire"
+				type: "item"
+			}]
+			x: -32.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["41492CD832C2BC82"]
+			dependency_requirement: "one_completed"
+			id: "446D9E9FB2F90064"
+			rewards: [{
+				count: 10
+				id: "172A73888C6F5DFC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "03E5BCE3E0288819"
+				item: "create_new_age:overcharged_diamond_wire"
+				type: "item"
+			}]
+			x: -32.5d
 			y: -12.5d
+		}
+		{
+			dependencies: ["68129855122783A6"]
+			id: "7116909C445218F6"
+			rewards: [{
+				count: 10
+				id: "4D4CAA7F7303B2B4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "736B7DA70DCF633D"
+				item: "create_new_age:electrical_connector"
+				type: "item"
+			}]
+			x: -35.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["41097841ABD36DF3"]
+			id: "4852CADF2C20AA46"
+			rewards: [{
+				count: 10
+				id: "5E1AAA858A33AA24"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B5E5A119D2DC231"
+				item: "create_new_age:basic_motor"
+				type: "item"
+			}]
+			x: -37.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4852CADF2C20AA46"]
+			id: "20F8A44466FEF393"
+			rewards: [{
+				count: 10
+				id: "5A7A9B3B704DA289"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2592D647B46B5771"
+				item: "create_new_age:advanced_motor"
+				type: "item"
+			}]
+			x: -37.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["20F8A44466FEF393"]
+			id: "69729DC289EA6A12"
+			rewards: [{
+				count: 10
+				id: "46B105ECB1E247AF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A502C87C2BE818D"
+				item: "create_new_age:reinforced_motor"
+				type: "item"
+			}]
+			x: -37.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["246D2A014A5AF383"]
+			id: "4D9620FB56C84411"
+			rewards: [{
+				count: 10
+				id: "55556CA3BFFB792B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5090F2FB09599BA8"
+				item: "create_new_age:heat_pipe"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["4D9620FB56C84411"]
+			id: "223C97C7636A806F"
+			rewards: [{
+				count: 10
+				id: "4FE9C2F6F41EB4E3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "638220C43077BCC1"
+				item: "create_new_age:heat_pump"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["0D285E8B67AFF84A"]
+			id: "4F5E0D283DF41322"
+			rewards: [{
+				count: 10
+				id: "00D5C7DDFD955633"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "453ED10460A9D207"
+				item: "create_new_age:reactor_heat_vent"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["0D285E8B67AFF84A"]
+			id: "1D4C8D87698D704E"
+			rewards: [{
+				count: 10
+				id: "7C5D98F2C9466E34"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "55EF1904DC2CB835"
+				item: "create_new_age:reactor_fuel_acceptor"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["185B3ADF4E0FFAF9"]
+			id: "0D285E8B67AFF84A"
+			rewards: [{
+				count: 10
+				id: "72F136360CE4A809"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52649395CB4B9951"
+				item: "create_new_age:reactor_rod"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["185B3ADF4E0FFAF9"]
+			id: "6F31063CDE6483E9"
+			rewards: [{
+				count: 10
+				id: "0E435D08C48FD66A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C599BD557E123A2"
+				item: "create_new_age:reactor_glass"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -15.0d
+		}
+		{
+			dependencies: [
+				"4D9620FB56C84411"
+				"788ACB286216DD48"
+			]
+			id: "185B3ADF4E0FFAF9"
+			rewards: [{
+				count: 10
+				id: "3C0DC5FCB8BDCD2A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6C4A8B92C11570A6"
+				item: "create_new_age:reactor_casing"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -12.5d
+		}
+		{
+			dependencies: ["223C97C7636A806F"]
+			id: "5795E858EB222180"
+			rewards: [{
+				count: 10
+				id: "419D7D3503727C7E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7AC6FB0FC3A92F20"
+				item: "create_new_age:heater"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -15.0d
+		}
+		{
+			dependencies: ["4D9620FB56C84411"]
+			id: "04415C92449F4601"
+			rewards: [{
+				count: 10
+				id: "0A94E9E0EEE47C4C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "764CCF8D300026E8"
+				item: "create_new_age:basic_solar_heating_plate"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["04415C92449F4601"]
+			id: "5CD605786E6B4DA1"
+			rewards: [{
+				count: 10
+				id: "493DA2690D0E6031"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7CE9D60F062FD32A"
+				item: "create_new_age:advanced_solar_heating_plate"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["246D2A014A5AF383"]
+			id: "71AECB0B42E2DB5B"
+			rewards: [{
+				count: 10
+				id: "13DCC831A054FD9C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "213C309A0D3A9991"
+				item: "create_new_age:thorium"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["71AECB0B42E2DB5B"]
+			id: "7B1F6219A06307AF"
+			rewards: [{
+				count: 10
+				id: "508D549D9373289F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68EFE29F0DA4CFA1"
+				item: "create_new_age:radioactive_thorium"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["7B1F6219A06307AF"]
+			id: "788ACB286216DD48"
+			rewards: [{
+				count: 10
+				id: "0DD0E00596B21676"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A2430B26B8A3264"
+				item: "create_new_age:nuclear_fuel"
+				type: "item"
+			}]
+			x: -12.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["2D177D6DAA08BE69"]
+			id: "26CF8CDC287141B2"
+			rewards: [{
+				count: 10
+				id: "621622287546FAB9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2C009A1BD71079F2"
+				item: {
+					Count: 1b
+					id: "minecraft:netherite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"763CC2A1D2366D85"
+				"1DF994A12989EA84"
+				"26CF8CDC287141B2"
+				"76EB04B6ECAA25D9"
+			]
+			id: "0E434113378F6C13"
+			rewards: [{
+				count: 10
+				id: "5C8BA158EF645723"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1280E6C936184D04"
+					item: {
+						Count: 1b
+						id: "create:netherite_backtank"
+						tag: {
+							Air: 900
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "291B658DA8C31C15"
+					item: {
+						Count: 1b
+						id: "create:netherite_diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79AF470AE2A1054C"
+					item: {
+						Count: 1b
+						id: "create:netherite_diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "66F38DC09DB7D1C2"
+					item: {
+						Count: 1b
+						id: "minecraft:netherite_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Лава больше не страшна"
+			x: 10.0d
+			y: -10.0d
 		}
 	]
 	title: "Create"

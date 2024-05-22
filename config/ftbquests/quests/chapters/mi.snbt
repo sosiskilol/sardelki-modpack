@@ -82,11 +82,6 @@
 					type: "xp"
 					xp: 5
 				}
-				{
-					id: "174B7947BE9240A0"
-					type: "xp"
-					xp: 5
-				}
 			]
 			subtitle: "Бронзовый испаритель позволит вам получать паровую энергию путем нагрева воды твердым топливом."
 			tasks: [{
@@ -622,20 +617,21 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["0D7D65B96477B73D"]
+			dependencies: ["21D6B25EC3C64833"]
 			id: "46179F679E29E1F3"
 			rewards: [{
 				id: "16848C663FF744F6"
 				type: "xp"
 				xp: 5
 			}]
+			subtitle: "Центрифуга позволит вам обрабатывать некоторые материалы более выгодно, а также получать новые(например карбон)."
 			tasks: [{
 				id: "4ADA88289D03FEF7"
 				item: "modern_industrialization:centrifuge"
 				type: "item"
 			}]
-			x: 10.5d
-			y: -3.0d
+			x: 12.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0D7D65B96477B73D"]
@@ -645,13 +641,14 @@
 				type: "xp"
 				xp: 5
 			}]
+			subtitle: "Электролизер позволит вам добывать алюминий боле выгодно, а также получать новые материалы, такие как титан."
 			tasks: [{
 				id: "55C82129924C2FCA"
 				item: "modern_industrialization:electrolyzer"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -4.0d
+			x: 12.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["0542CA3B331CDD45"]
@@ -714,6 +711,139 @@
 			}]
 			x: 7.5d
 			y: -8.5d
+		}
+		{
+			dependencies: ["7F4C76BB16674054"]
+			id: "2FBEFFE754CFB2E4"
+			subtitle: "Позволяет автоматически крафтить предметы и блоки, позволяет крафтить некоторые предметы выгоднее чем на верстаке(например резисторы)."
+			tasks: [{
+				id: "71B3D6797CCB1637"
+				item: "modern_industrialization:assembler"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["46179F679E29E1F3"]
+			id: "073A3FE6C5C3B4EA"
+			subtitle: "Позволяет производить разные химические жидкости."
+			tasks: [{
+				id: "4D2E76B90DAFBBEB"
+				item: "modern_industrialization:chemical_reactor"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["073A3FE6C5C3B4EA"]
+			id: "4BF7E4A955B77A1A"
+			tasks: [{
+				id: "06D8F2FA23FE52D1"
+				item: "modern_industrialization:basic_upgrade"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1C959729CE8765AC"]
+			id: "52F8A0AFCB899513"
+			tasks: [{
+				id: "1DBC2F92F9B7A897"
+				item: "modern_industrialization:distillery"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52F8A0AFCB899513"]
+			id: "631389F46AD5C738"
+			tasks: [{
+				id: "210628E09DD1CB74"
+				item: "modern_industrialization:diesel_jetpack"
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D7D65B96477B73D"]
+			id: "3205D8A58CB9BDCF"
+			tasks: [{
+				id: "656E65514ABF30A1"
+				item: "modern_industrialization:vacuum_freezer"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3205D8A58CB9BDCF"]
+			id: "0329319075B7C7FE"
+			tasks: [{
+				id: "15425C38A171E5A3"
+				item: "modern_industrialization:stainless_steel_hot_ingot"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["073A3FE6C5C3B4EA"]
+			id: "1C959729CE8765AC"
+			tasks: [{
+				id: "2F2B14A91B01A831"
+				item: "modern_industrialization:oil_drilling_rig"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52F8A0AFCB899513"]
+			id: "2692BDE96D92BD48"
+			tasks: [{
+				id: "3D8A48A70E9DB009"
+				item: "modern_industrialization:distillation_tower"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52F8A0AFCB899513"]
+			id: "3031D30F6BAD21D9"
+			tasks: [{
+				id: "2284B6AB77E5CA7E"
+				item: "modern_industrialization:diesel_mining_drill"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["52F8A0AFCB899513"]
+			id: "5F9CE66BA04F0EAA"
+			tasks: [{
+				id: "1961B5C7BC0FD968"
+				item: "modern_industrialization:diesel_chainsaw"
+				type: "item"
+			}]
+			x: 16.0d
+			y: 0.5d
+		}
+		{
+			id: "512796D0344358E3"
+			tasks: [{
+				id: "2488A3CDD5958CCB"
+				item: "modern_industrialization:guidebook"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
 		}
 	]
 	subtitle: ["Modern Industrialization (MI) - лучший технический мод для новых версий Minecraft. Является аналогом GregTech и IndustrialCraft. Возможно наиболее сложный мод в этой сборке, но в конечном итоге позволит вам дюпать предметы и стать бессмертным."]
