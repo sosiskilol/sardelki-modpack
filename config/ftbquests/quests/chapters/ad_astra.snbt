@@ -10,7 +10,7 @@
 	quests: [
 		{
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ad_astra:tier_4_rocket"
 				tag: { }
 			}
@@ -34,6 +34,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Основа электролизации"
 			tasks: [{
 				id: "0A193C7FF4D094EE"
 				item: "ad_astra:coal_generator"
@@ -51,6 +52,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Чистая энергия(зачем?)"
 			tasks: [{
 				id: "4E8AA9A88F0C759E"
 				item: "ad_astra:solar_panel"
@@ -85,6 +87,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Сжимаем металлы под высоким давлением"
 			tasks: [{
 				id: "57D61DD6F0F85CB8"
 				item: "ad_astra:compressor"
@@ -104,6 +107,7 @@
 			}]
 			shape: "gear"
 			size: 2.0d
+			subtitle: "Печь для выплавки стали"
 			tasks: [{
 				id: "613ADFE9DCB3C90C"
 				item: "ad_astra:etrionic_blast_furnace"
@@ -121,6 +125,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "NASA Сборщик"
 			tasks: [{
 				id: "58A28E685ACDEAFB"
 				item: "ad_astra:nasa_workbench"
@@ -141,6 +146,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Перерабатывает нефть в ракетное топливо"
 			tasks: [{
 				id: "4CEA2ED35ABBB40B"
 				item: "ad_astra:fuel_refinery"
@@ -166,6 +172,7 @@
 					type: "item"
 				}
 			]
+			subtitle: "оно сосет"
 			tasks: [{
 				id: "292D50C77A4AE505"
 				item: "ad_astra:water_pump"
@@ -183,10 +190,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Молись чтоб она не развалилась по пути"
 			tasks: [{
 				id: "34667AB58E13EFF4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_1_rocket"
 					tag: { }
 				}
@@ -210,7 +218,7 @@
 			tasks: [{
 				id: "61817EAB428FD13C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:space_helmet"
 					tag: {
 						Damage: 0
@@ -236,7 +244,7 @@
 			tasks: [{
 				id: "714721F3939172A6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:space_suit"
 					tag: {
 						Damage: 0
@@ -262,7 +270,7 @@
 			tasks: [{
 				id: "59E7D29678967B57"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:space_pants"
 					tag: {
 						Damage: 0
@@ -288,7 +296,7 @@
 			tasks: [{
 				id: "7C608582874C0D0A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:space_boots"
 					tag: {
 						Damage: 0
@@ -308,6 +316,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "ДЕМОКРАТИЯ"
 			tasks: [{
 				id: "1AFF6FE3A759DA3F"
 				item: "ad_astra:oil_bucket"
@@ -325,6 +334,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Выглядит как кровь, используется для заправки ракет и машин"
 			tasks: [{
 				id: "5E05A1E6E42A959F"
 				item: "ad_astra:fuel_bucket"
@@ -357,6 +367,7 @@
 					type: "item"
 				}
 			]
+			subtitle: "Нил армстронг"
 			tasks: [{
 				dimension: "ad_astra:moon"
 				icon: "ad_astra:moon_globe"
@@ -377,6 +388,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Поможет передавать электричество"
 			tasks: [{
 				id: "2481D0FFE3E51C92"
 				item: "ad_astra:steel_cable"
@@ -394,6 +406,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Переносит больше электричества"
 			tasks: [{
 				id: "0B6F026276148546"
 				item: "ad_astra:desh_cable"
@@ -411,6 +424,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Отсюда запускать ракеты"
 			tasks: [{
 				id: "74B4F498FBF745D7"
 				item: "ad_astra:launch_pad"
@@ -430,6 +444,7 @@
 			}]
 			shape: "gear"
 			size: 2.0d
+			subtitle: "Лунная руда"
 			tasks: [{
 				id: "22497DB6BF9859BE"
 				item: "ad_astra:desh_ingot"
@@ -447,6 +462,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Мафон который определяет насколько среда предназначена для жизни"
 			tasks: [{
 				id: "2E076CBC059843AA"
 				item: "ad_astra:ti_69"
@@ -464,6 +480,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Radio"
 			tasks: [{
 				id: "1046AF71F6ECF64B"
 				item: "ad_astra:radio"
@@ -481,10 +498,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Зиг-Ган "
 			tasks: [{
 				id: "5A0938ED04D490E1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:zip_gun"
 					tag: { }
 				}
@@ -502,6 +520,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Создает благоприятную атмосферу в замкнутых пространствах"
 			tasks: [{
 				id: "6C03281BF2C47554"
 				item: "ad_astra:oxygen_distributor"
@@ -519,6 +538,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Бесполезный зато ыглядит прикольно"
 			tasks: [{
 				id: "044795F75EE23881"
 				item: "ad_astra:gravity_normalizer"
@@ -536,10 +556,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Лунный Кабриалет"
 			tasks: [{
 				id: "7A9A42DA389E21EF"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_1_rover"
 					tag: { }
 				}
@@ -577,10 +598,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Лучше первой"
 			tasks: [{
 				id: "69F7A445786CA121"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_2_rocket"
 					tag: { }
 				}
@@ -598,6 +620,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Переносим жидкости"
 			tasks: [{
 				id: "342128FD3A5971E4"
 				item: "ad_astra:desh_fluid_pipe"
@@ -615,6 +638,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Колонизация"
 			tasks: [{
 				id: "47B6F859AAA106E3"
 				item: "ad_astra:white_flag"
@@ -628,6 +652,7 @@
 			id: "0EC07C14BBD6B894"
 			shape: "gear"
 			size: 2.0d
+			subtitle: "Устойчив к жару и морозу"
 			tasks: [{
 				id: "69BE3C0D6DFE8825"
 				item: "ad_astra:ostrum_ingot"
@@ -645,6 +670,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Илон Маск"
 			tasks: [{
 				dimension: "ad_astra:mars"
 				icon: "ad_astra:mars_globe"
@@ -664,6 +690,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Переносит больше жидкости"
 			tasks: [{
 				id: "2653B24B515A4281"
 				item: "ad_astra:ostrum_fluid_pipe"
@@ -681,6 +708,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Инновационное топливо"
 			tasks: [{
 				id: "4E9AB7CFFCA32715"
 				item: "ad_astra:cryo_freezer"
@@ -698,6 +726,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Определяет наличие кислорода рядом с ним"
 			tasks: [{
 				id: "6739F7FAE86E5D90"
 				item: "ad_astra:oxygen_sensor"
@@ -715,10 +744,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Запитывает вещи внутри неё"
 			tasks: [{
 				id: "3B4BE17E98428EC7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:energizer"
 					tag: { }
 				}
@@ -739,7 +769,7 @@
 			tasks: [{
 				id: "18627E30370449FF"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_helmet"
 					tag: {
 						Damage: 0
@@ -762,7 +792,7 @@
 			tasks: [{
 				id: "618A37806BF785C0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_suit"
 					tag: {
 						Damage: 0
@@ -785,7 +815,7 @@
 			tasks: [{
 				id: "03C032A9645E04E8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_pants"
 					tag: {
 						Damage: 0
@@ -808,7 +838,7 @@
 			tasks: [{
 				id: "3F4CC0EFC8D94D0C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_boots"
 					tag: {
 						Damage: 0
@@ -828,6 +858,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Халодная вадичка"
 			tasks: [{
 				id: "511DB87FAD73CB4F"
 				item: "ad_astra:cryo_fuel_bucket"
@@ -845,10 +876,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Настоящее ракетостроение"
 			tasks: [{
 				id: "6E24F45D3E64D0A6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_3_rocket"
 					tag: { }
 				}
@@ -866,6 +898,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Не придумал"
 			tasks: [{
 				dimension: "ad_astra:venus"
 				icon: "ad_astra:venus_globe"
@@ -886,6 +919,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Второй Ад"
 			tasks: [{
 				dimension: "ad_astra:mercury"
 				icon: "ad_astra:mercury_globe"
@@ -902,6 +936,7 @@
 				"00375D4436AF05C3"
 				"162FA20E4655FAFC"
 			]
+			dependency_requirement: "one_completed"
 			id: "4397A9114FAB0189"
 			rewards: [{
 				count: 10
@@ -909,6 +944,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Вершина космической металлургии"
 			tasks: [{
 				id: "4F48F79397894185"
 				item: "ad_astra:calorite_ingot"
@@ -929,7 +965,7 @@
 			tasks: [{
 				id: "7804B9CA14C908DB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit"
 					tag: {
 						Damage: 0
@@ -952,7 +988,7 @@
 			tasks: [{
 				id: "709CA2C4DB0D3C0E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit_pants"
 					tag: {
 						Damage: 0
@@ -975,7 +1011,7 @@
 			tasks: [{
 				id: "14141CF2FAF23870"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit_boots"
 					tag: {
 						Damage: 0
@@ -998,7 +1034,7 @@
 			tasks: [{
 				id: "0F98D5BCE1F43F3C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit_helmet"
 					tag: {
 						Damage: 0
@@ -1018,10 +1054,11 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Вершина космической инженерии"
 			tasks: [{
 				id: "7B1276C23AD055E7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_4_rocket"
 					tag: { }
 				}
@@ -1039,6 +1076,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Финальная точка путешествия"
 			tasks: [{
 				dimension: "ad_astra:glacio"
 				icon: "ad_astra:glacio_globe"
@@ -1048,6 +1086,30 @@
 			}]
 			x: 35.5d
 			y: -5.0d
+		}
+		{
+			dependencies: ["0DABF09CC70E65ED"]
+			id: "0A11CE919C0BF58E"
+			rewards: [{
+				count: 10
+				id: "4CA91B1E430B888C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			subtitle: "Поможет лучше разобраться с квестами"
+			tasks: [{
+				id: "21724026C09FD05C"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "ad_astra:astrodux"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
 		}
 	]
 	title: "Ad Astra"

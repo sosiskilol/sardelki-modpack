@@ -272,7 +272,7 @@
 			tasks: [{
 				id: "7FD9C4419B1B8667"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "computercraft:disk"
 					tag: {
 						Color: 1118481

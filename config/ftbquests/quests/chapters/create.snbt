@@ -341,7 +341,7 @@
 			tasks: [{
 				id: "48021CA016732A6F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:super_glue"
 					tag: {
 						Damage: 0
@@ -501,7 +501,7 @@
 			tasks: [{
 				id: "2C5D2C017BEB402B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:sand_paper"
 					tag: {
 						Damage: 0
@@ -1079,7 +1079,7 @@
 				{
 					id: "2FE7FC91063B93CD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:super_glue"
 						tag: {
 							Damage: 0
@@ -2348,7 +2348,7 @@
 			tasks: [{
 				id: "45A4743767217B39"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:copper_diving_helmet"
 					tag: {
 						Damage: 0
@@ -2371,7 +2371,7 @@
 			tasks: [{
 				id: "393E799304DEF58B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:copper_backtank"
 					tag: {
 						Air: 900
@@ -2394,7 +2394,7 @@
 			tasks: [{
 				id: "60899338E21E35B6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:copper_diving_boots"
 					tag: {
 						Damage: 0
@@ -2417,7 +2417,7 @@
 			tasks: [{
 				id: "75EBD4A22DFB3339"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:netherite_diving_helmet"
 					tag: {
 						Damage: 0
@@ -2440,7 +2440,7 @@
 			tasks: [{
 				id: "454ADF443F171A8F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:netherite_backtank"
 					tag: {
 						Air: 900
@@ -2463,7 +2463,7 @@
 			tasks: [{
 				id: "51BD9DCA5EA4BAB0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:netherite_diving_boots"
 					tag: {
 						Damage: 0
@@ -2486,7 +2486,7 @@
 			tasks: [{
 				id: "481586D9538592F1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:potato_cannon"
 					tag: {
 						Damage: 0
@@ -2509,7 +2509,7 @@
 			tasks: [{
 				id: "68677BBE9333C401"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:extendo_grip"
 					tag: {
 						Damage: 0
@@ -2704,7 +2704,7 @@
 			tasks: [{
 				id: "7A6EE60DAA8CCB48"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create_jetpack:jetpack"
 					tag: {
 						Air: 900
@@ -2727,7 +2727,7 @@
 			tasks: [{
 				id: "0EFDDADB3C7922E6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create_jetpack:netherite_jetpack"
 					tag: {
 						Air: 900
@@ -3125,7 +3125,7 @@
 		}
 		{
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "createbigcannons:flak_autocannon_round"
 				tag: { }
 			}
@@ -3444,7 +3444,7 @@
 			tasks: [{
 				id: "7B9B673DDE34C056"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "createbigcannons:big_cartridge"
 					tag: { }
 				}
@@ -3516,7 +3516,7 @@
 			tasks: [{
 				id: "7028B21239F430CC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "createbigcannons:timed_fuze"
 					tag: { }
 				}
@@ -3537,7 +3537,7 @@
 			tasks: [{
 				id: "7A3E6B11AA90B5E4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "createbigcannons:proximity_fuze"
 					tag: { }
 				}
@@ -3558,7 +3558,7 @@
 			tasks: [{
 				id: "09C74D8944856134"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "createbigcannons:delayed_impact_fuze"
 					tag: { }
 				}
@@ -3613,7 +3613,7 @@
 			tasks: [{
 				id: "0925CA03DE38634A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "createbigcannons:machine_gun_round"
 					tag: { }
 				}
@@ -4546,7 +4546,7 @@
 			tasks: [{
 				id: "2C009A1BD71079F2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:netherite_leggings"
 					tag: {
 						Damage: 0
@@ -4575,7 +4575,7 @@
 				{
 					id: "1280E6C936184D04"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:netherite_backtank"
 						tag: {
 							Air: 900
@@ -4586,7 +4586,7 @@
 				{
 					id: "291B658DA8C31C15"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:netherite_diving_helmet"
 						tag: {
 							Damage: 0
@@ -4597,7 +4597,7 @@
 				{
 					id: "79AF470AE2A1054C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:netherite_diving_boots"
 						tag: {
 							Damage: 0
@@ -4608,7 +4608,7 @@
 				{
 					id: "66F38DC09DB7D1C2"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecraft:netherite_leggings"
 						tag: {
 							Damage: 0

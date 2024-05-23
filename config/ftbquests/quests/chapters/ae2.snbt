@@ -4,7 +4,7 @@
 	filename: "ae2"
 	group: ""
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "ae2:item_storage_cell_256k"
 		tag: { }
 	}
@@ -101,7 +101,7 @@
 			tasks: [{
 				id: "6F07CD7439FFAAE6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_1k"
 					tag: { }
 				}
@@ -116,7 +116,7 @@
 			tasks: [{
 				id: "56695F15A740F551"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_4k"
 					tag: { }
 				}
@@ -131,7 +131,7 @@
 			tasks: [{
 				id: "247FEF70882918BE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_16k"
 					tag: { }
 				}
@@ -146,7 +146,7 @@
 			tasks: [{
 				id: "54B5F232E9A2866D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_64k"
 					tag: { }
 				}
@@ -162,7 +162,7 @@
 			tasks: [{
 				id: "09472EBD3D15F443"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_256k"
 					tag: { }
 				}

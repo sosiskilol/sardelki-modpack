@@ -30,6 +30,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Укрепляет конструкцию"
 			tasks: [{
 				id: "63981D0614539519"
 				item: "immersive_aircraft:hull"
@@ -47,6 +48,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Позволяет летать"
 			tasks: [{
 				id: "4DB9AB42F2D1E8D8"
 				item: "immersive_aircraft:sail"
@@ -80,6 +82,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Основа машины"
 			tasks: [{
 				id: "66BFF843648EF1DF"
 				item: "immersive_aircraft:engine"
@@ -97,6 +100,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "4DF8F6591A7056B3"
 				item: "immersive_aircraft:nether_engine"
@@ -114,6 +118,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "5B8A89932E656AA7"
 				item: "immersive_aircraft:eco_engine"
@@ -131,6 +136,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Движущая сила"
 			tasks: [{
 				id: "500CEB82B65563BE"
 				item: "immersive_aircraft:propeller"
@@ -152,6 +158,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Самый быстрый способ перемещения"
 			tasks: [{
 				id: "13ABEF4122DBC05E"
 				item: "immersive_aircraft:biplane"
@@ -173,6 +180,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Его можно модифицировать"
 			tasks: [{
 				id: "67C0B165E8994A7C"
 				item: "immersive_aircraft:airship"
@@ -190,6 +198,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Удобный для переезда"
 			tasks: [{
 				id: "586E3FDF2181A655"
 				item: "immersive_aircraft:cargo_airship"
@@ -210,6 +219,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Зато выглядит прикольно"
 			tasks: [{
 				id: "4C74C7C9F98F3A2C"
 				item: "immersive_aircraft:quadrocopter"
@@ -231,6 +241,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Работает на ручной силе"
 			tasks: [{
 				id: "3B6D2E49D851D126"
 				item: "immersive_aircraft:gyrodyne"
@@ -248,6 +259,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "67DF17A2EEDBC2B5"
 				item: "immersive_aircraft:rotary_cannon"
@@ -265,6 +277,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "5E165469989E0025"
 				item: "immersive_aircraft:bomb_bay"
@@ -282,6 +295,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "7FAE224642944A15"
 				item: "immersive_aircraft:heavy_crossbow"
@@ -299,6 +313,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "0C639E265637D7CC"
 				item: "immersive_aircraft:telescope"
@@ -316,6 +331,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "6074BAE2A222B99E"
 				item: "immersive_aircraft:enhanced_propeller"
@@ -333,6 +349,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "529124DC2C400E6C"
 				item: "immersive_aircraft:improved_landing_gear"
@@ -350,6 +367,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "65EC8829CBC96005"
 				item: "immersive_aircraft:hull_reinforcement"
@@ -367,6 +385,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "18311420739368DC"
 				item: "immersive_aircraft:steel_boiler"
@@ -384,6 +403,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "3C47026D4CB74564"
 				item: "immersive_aircraft:industrial_gears"
@@ -401,6 +421,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "6883111BE79AEDD1"
 				item: "immersive_aircraft:sturdy_pipes"
@@ -418,6 +439,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Модификация для летателного средства"
 			tasks: [{
 				id: "6DFA27643F679D96"
 				item: "immersive_aircraft:gyroscope"
@@ -435,6 +457,7 @@
 				item: "create:experience_nugget"
 				type: "item"
 			}]
+			subtitle: "Оружие демократии"
 			tasks: [{
 				id: "1C9AC77F25A0B448"
 				item: "immersive_aircraft:warship"

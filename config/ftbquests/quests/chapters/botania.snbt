@@ -94,7 +94,7 @@
 			tasks: [{
 				id: "0900453039F5B9E2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:twig_wand"
 					tag: {
 						color1: 0
@@ -587,13 +587,13 @@
 				{
 					count: 5L
 					id: "33650FE6D23B7F8C"
-					item: { Count: 5b, id: "botania:livingrock" }
+					item: { Count: 5, id: "botania:livingrock" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "40C901FE79576F19"
-					item: { Count: 4b, id: "minecraft:lapis_block" }
+					item: { Count: 4, id: "minecraft:lapis_block" }
 					type: "item"
 				}
 			]
@@ -925,13 +925,13 @@
 				{
 					count: 8L
 					id: "3C149F828AF1A93B"
-					item: { Count: 8b, id: "botania:livingwood" }
+					item: { Count: 8, id: "botania:livingwood" }
 					type: "item"
 				}
 				{
 					count: 3L
 					id: "7300B3DD1BD0259E"
-					item: { Count: 3b, id: "botania:glimmering_livingwood" }
+					item: { Count: 3, id: "botania:glimmering_livingwood" }
 					type: "item"
 				}
 				{
@@ -942,7 +942,7 @@
 				{
 					count: 2L
 					id: "3BA0E89B2CD9BED1"
-					item: { Count: 2b, id: "botania:natura_pylon" }
+					item: { Count: 2, id: "botania:natura_pylon" }
 					type: "item"
 				}
 			]
@@ -957,7 +957,7 @@
 			tasks: [{
 				id: "10B1351D3D3C6C81"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:lexicon"
 					tag: {
 						"botania:elven_unlock": 1b
@@ -1072,7 +1072,7 @@
 			tasks: [{
 				id: "5EB3E008CB04324B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:speed"
@@ -1089,7 +1089,7 @@
 			tasks: [{
 				id: "2BBFA004178A9F1A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:strength"
@@ -1106,7 +1106,7 @@
 			tasks: [{
 				id: "02B98AA1AC04CF1A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:haste"
@@ -1123,7 +1123,7 @@
 			tasks: [{
 				id: "2D9B808F04FB1D17"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:healing"
@@ -1140,7 +1140,7 @@
 			tasks: [{
 				id: "4E4344D9A03DD126"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:jump_boost"
@@ -1157,7 +1157,7 @@
 			tasks: [{
 				id: "11C87B041A532DF2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:regen"
@@ -1174,7 +1174,7 @@
 			tasks: [{
 				id: "4636AF4CEA47B97D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:regen_weak"
@@ -1192,7 +1192,7 @@
 			tasks: [{
 				id: "3BB7006CBA6BE1C7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:resistance"
@@ -1209,7 +1209,7 @@
 			tasks: [{
 				id: "16C452DDEE509300"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:fire_resistance"
@@ -1226,7 +1226,7 @@
 			tasks: [{
 				id: "2C618000973AD269"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:water_breathing"
@@ -1243,7 +1243,7 @@
 			tasks: [{
 				id: "033B6F9D67460D66"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:night_vision"
@@ -1260,7 +1260,7 @@
 			tasks: [{
 				id: "65CFFE11F46E05FC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:brew_vial"
 					tag: {
 						brewKey: "botania:absorption"
