@@ -57,6 +57,11 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "26540a8a46b8145132cb5c41248cc11e4cad47de9d6790550f8b71607f966b6a"
 
 [[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "18cff5b24edb8e5b3e7b3fb716d0ae0489452892ee55c3dfffca021ab7f9d6fe"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
