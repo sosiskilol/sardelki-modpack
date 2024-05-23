@@ -422,6 +422,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/mods-command.pw.toml"
+hash = "d09ddd35158bc690b235adc42c84b62172c6ef0ec45fa45589b290c0233af4f4"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
