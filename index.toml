@@ -6,39 +6,39 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ad_astra.snbt"
-hash = "fde214b9ff53686b10ebf02bac97f5eea1d6a25dfb98b1f0df1a9bb809d4c190"
+hash = "528c661a840ad706477fa10c24bdf3f82bd21c1e4ddb758bce71ba8cff61f4f0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "d6ef2a1a60c76318ea49d4fba16182164f274af0079f805faaedb8105a92cf2d"
+hash = "f8a2aba75e3ddc768c3cb05fc875e675ef212d6af680cf41de54e5f627a7a313"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
-hash = "4d913ff96d30fbd0f923f1624110e98bd77962cd1a2dfd0bb1407072c47f4897"
+hash = "6ef1f37a0d4b2df5da6ae99b36d085cc9c96da256ed52ed5af25f28e183aa93b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
-hash = "371ad67ffcedb6b3d9d023b39f091b17a863a9b601ad0428b521a0b283b368a6"
+hash = "8620f3345b694af02a71caae0a0759c10a4549fdff0820b9aa6f2a8495e1c614"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chemistry.snbt"
-hash = "73a04017f4e4e03bc40e52b3cca25673a869a36aadb77b8939659b0aea395072"
+hash = "234858b93a84709b78dd2bdaed39cf912d38f65769dd84e6a9855688f44cd205"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "5d351055710f714e99f694acfd3986d23f34f36ab16314e6cb01fe6bf099f441"
+hash = "f8856d26204b34c20ec10b794bf1807ae9a482cdd355a8031616a43bb7e7ab2f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
-hash = "061fb6f991b9090eef05fbf7e0d04c39c614518aae947ff9a82de95d1d816c58"
+hash = "f6d4690fd1f3799ea4446481e35ccfd35dec18df90c5834c54220a658a191b4a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
-hash = "eb198965d409d02107c80efd461fc13ff5e0bf84e5a31d29ca456e009b81cad5"
+hash = "b39bf11f16a4f06973d7acbc4cad1b6256ae6f9cbc2d68ccbc20a7995fc039ca"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
-hash = "cef595a9a2b64301405fef2e022bf8a32ece01f5d060eb80b31e0777465d2931"
+hash = "2d7ccadbe259e30627fff79f6788ea6640b666017df7abad6d68c635bbdafab4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/vanilla.snbt"
@@ -55,11 +55,6 @@ hash = "c8db949a3f89485da95b201f596732a1ba8f56a00452e68932c89e50db278688"
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
 hash = "26540a8a46b8145132cb5c41248cc11e4cad47de9d6790550f8b71607f966b6a"
-
-[[files]]
-file = "mods/achievements-optimizer.pw.toml"
-hash = "18cff5b24edb8e5b3e7b3fb716d0ae0489452892ee55c3dfffca021ab7f9d6fe"
-metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
