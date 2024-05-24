@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "2e1b69eb0af25f04a9d682358ab26d6b3cf51bcc4e0ffbb53268a5dad10b9265"
+hash = "5f1ca3ba5d7cb046613d2b775079aec045f968677ec5ab9bea75607c86e4a2da"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/hephaestus.pw.toml"
-hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
+hash = "d9a21276de16a0e50c83cc730e24e2794a6393b238cf22ca96753d118525bd74"
 metafile = true
 
 [[files]]
