@@ -516,6 +516,11 @@ hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "1cc8781b7c9b2fe9a7a3b9ab2ae6742374a007fc075c865827f97ece36f2919d"
 metafile = true
