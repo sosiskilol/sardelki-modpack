@@ -616,6 +616,16 @@ hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ccc.pw.toml"
+hash = "697eb45ce873920529f7b74c0e55a09f7b093769478d0140e4cf4a5ffb4696ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-computercraft.pw.toml"
+hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
