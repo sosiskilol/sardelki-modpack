@@ -1,20 +1,21 @@
 {
-  "id": "default",
-  "name": "Default",
-  "header": [
+  "style_name": "Default",
+  "update_tick_time": 20,
+  "list_header": [
     "",
-    "<gr:#4adeff:#3d8eff><bold> Styled Player List</bold></gr> ⛏ ",
+    "<gr:#4adeff:#3d8eff><bold> Sosiski Modded</bold></gr> ⛏ ",
     "",
     "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
     ""
   ],
-  "footer": [
+  "list_footer": [
     "",
     "<color:#555555><strikethrough>                          </strikethrough></color>",
     "",
-    "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color>",
+    "<gray>ping: %player:ping_colored%",
+    "<gray>tps: %server:tps_colored% mspt: %server:mspt_colored%",
+    "<gray>playtime: <green>%player:playtime%",
     ""
   ],
-  "hidden": false,
-  "permission": ""
+  "hidden_in_commands": false
 }
