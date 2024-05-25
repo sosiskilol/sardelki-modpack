@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/mods-command.pw.toml"
-hash = "d09ddd35158bc690b235adc42c84b62172c6ef0ec45fa45589b290c0233af4f4"
+hash = "f4571bec7e1ffd860712cc69b077c9876eca35ed8c64424a9f4b6e11314ae831"
 metafile = true
 
 [[files]]
