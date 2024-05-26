@@ -631,6 +631,11 @@ hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "5975a2513ad3de7d0bc32684d907515d0566d8d312b609df8624f7dbc53442c8"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
