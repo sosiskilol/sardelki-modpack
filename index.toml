@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "5f1ca3ba5d7cb046613d2b775079aec045f968677ec5ab9bea75607c86e4a2da"
+hash = "9310959937cdead5163cac14f7cb9e09fe5ae23d9ec4a59086ed82231cd477f8"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "908a4dcd0909080901e66f5bed636316e10938d1795ad309697d40dd47fb7f7c"
+hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "02c0a594b11bb21ddac56521b4e0a434bc061f3aa9acc545a61169d8bb453dcf"
+hash = "c2e5139e073df0c2c7420366d9ff07ae51c2baec65dc7966bf9c22e81d403f51"
 metafile = true
 
 [[files]]
