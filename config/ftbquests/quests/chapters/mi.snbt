@@ -1016,7 +1016,7 @@
 				type: "item"
 			}]
 			x: 9.0d
-			y: 7.5d
+			y: 1.5d
 		}
 		{
 			id: "2D54667333E1B614"
@@ -1026,7 +1026,7 @@
 				type: "item"
 			}]
 			x: 9.0d
-			y: 6.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1C959729CE8765AC"]
@@ -1061,7 +1061,7 @@
 				item: "modern_industrialization:stainless_steel_drill"
 				type: "item"
 			}]
-			x: 12.0d
+			x: 9.0d
 			y: 9.0d
 		}
 		{
@@ -1116,8 +1116,8 @@
 				item: "modern_industrialization:hv_diesel_generator"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 11.5d
+			x: 11.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["0CA9CAF8924710F1"]
@@ -1142,6 +1142,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["7CE568D638504E44"]
 			id: "6221A89B54A0A5CD"
 			tasks: [{
 				id: "3CC542DED4409156"
@@ -1149,37 +1150,396 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 10.5d
+			y: 13.5d
 		}
 		{
+			dependencies: ["6221A89B54A0A5CD"]
 			id: "1B6E896F4962A0B7"
 			tasks: [{
 				id: "3C03376EEF93DFAC"
 				item: "modern_industrialization:implosion_compressor"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 10.5d
+			x: 6.5d
+			y: 14.5d
 		}
 		{
+			dependencies: ["34C3EB624686BFC1"]
 			id: "61665BFCDBC55F6A"
 			tasks: [{
 				id: "2EF1B1A1A9704923"
 				item: "modern_industrialization:nuclear_reactor"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 10.5d
+			x: 3.0d
+			y: 12.0d
 		}
 		{
+			dependencies: ["558D84795FE16216"]
 			id: "7DC5648B7589D677"
 			tasks: [{
 				id: "6390824F0ED603ED"
 				item: "modern_industrialization:nuke"
 				type: "item"
 			}]
-			x: 3.0d
+			x: -2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2DABC989CBEE2F54"]
+			id: "019DA57C9AAFAB9C"
+			tasks: [{
+				id: "3C21A1AEA7901199"
+				item: "modern_industrialization:titanium_drill"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["019DA57C9AAFAB9C"]
+			id: "0C553799D14E9581"
+			tasks: [{
+				id: "5AA90273CA1789EF"
+				item: "modern_industrialization:raw_iridium"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["6221A89B54A0A5CD"]
+			id: "2D22FF3511CDB306"
+			tasks: [{
+				id: "29511B82A4AD8C49"
+				item: "modern_industrialization:pressurizer"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0C269EAF6D9CAA9D"]
+			dependency_requirement: "all_started"
+			id: "37F8D55E7234D2BA"
+			tasks: [{
+				id: "1C8A04E865DCCC39"
+				item: "modern_industrialization:large_steam_turbine"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 13.5d
+		}
+		{
+			dependencies: [
+				"34C3EB624686BFC1"
+				"40DCD225DEB055BD"
+			]
+			id: "309E9D205D820F88"
+			tasks: [{
+				id: "2BDE9A9082F3BC59"
+				item: "modern_industrialization:large_diesel_generator"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["6564AD2712A65C16"]
+			id: "7CE568D638504E44"
+			tasks: [{
+				id: "35AB6CB3D22DE9D8"
+				item: "modern_industrialization:kanthal_coil"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"583EDAFE1DBD7C1F"
+				"7CE568D638504E44"
+			]
+			id: "47359532B3983FF9"
+			tasks: [{
+				id: "13544511968CF536"
+				item: "modern_industrialization:platinum_ingot"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["47359532B3983FF9"]
+			dependency_requirement: "all_started"
+			id: "2DABC989CBEE2F54"
+			tasks: [{
+				id: "1740506E992AC092"
+				item: "modern_industrialization:processing_unit"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"2DABC989CBEE2F54"
+				"63623BDFE8EFC2EE"
+			]
+			id: "34C3EB624686BFC1"
+			tasks: [{
+				id: "119AC62082E5657E"
+				item: "modern_industrialization:highly_advanced_machine_hull"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["6221A89B54A0A5CD"]
+			id: "63623BDFE8EFC2EE"
+			tasks: [{
+				id: "664571BB24E4AFD0"
+				item: "modern_industrialization:highly_advanced_machine_casing"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["47359532B3983FF9"]
+			id: "7504EA41DB041832"
+			tasks: [{
+				id: "214DA60CDE7C0955"
+				item: "modern_industrialization:iridium_ingot"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"7DC5648B7589D677"
+				"0669F35D4BE25352"
+			]
+			id: "25D821D8FB5BAE95"
+			tasks: [{
+				id: "3928E630770AC42E"
+				item: "modern_industrialization:singularity"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7504EA41DB041832"]
+			id: "0BD8B251D8B052B5"
+			tasks: [{
+				id: "6916623A57421019"
+				item: "modern_industrialization:mixed_ingot_iridium"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"2DABC989CBEE2F54"
+				"0BD8B251D8B052B5"
+				"3C9B0A7FC4E07922"
+			]
+			id: "469E7B8DD1F2236D"
+			tasks: [{
+				id: "025D4C69E2561EA0"
+				item: "modern_industrialization:quantum_circuit"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"41A5FF82011F3571"
+				"469E7B8DD1F2236D"
+			]
+			dependency_requirement: "all_started"
+			id: "37781AFDEB20E1AE"
+			tasks: [{
+				id: "3C7241EF8463A1C2"
+				item: "modern_industrialization:quantum_machine_hull"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["61665BFCDBC55F6A"]
+			id: "558D84795FE16216"
+			tasks: [{
+				id: "63EE628B6BA0152D"
+				item: "modern_industrialization:plutonium_ingot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"558D84795FE16216"
+				"3C9B0A7FC4E07922"
+			]
+			id: "41A5FF82011F3571"
+			tasks: [{
+				id: "3CF6C72B4201E790"
+				item: "modern_industrialization:plutonium_battery"
+				type: "item"
+			}]
+			x: 1.5d
 			y: 10.5d
+		}
+		{
+			dependencies: ["0BD8B251D8B052B5"]
+			id: "0669F35D4BE25352"
+			tasks: [{
+				id: "49F773BAB24AB68F"
+				item: "modern_industrialization:ultradense_metal_ball"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7CE568D638504E44"]
+			id: "0DC05625D9D415A5"
+			tasks: [{
+				id: "3C9B0A7FC4E07922"
+				item: "modern_industrialization:superconductor_cable"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 13.5d
+		}
+		{
+			id: "47A226569BE738EA"
+			tasks: [{
+				id: "3B823A628B3E5CFC"
+				item: "modern_industrialization:plasma_turbine"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			id: "0344E1BBAC0E9CD2"
+			tasks: [{
+				id: "2CBBCC1B0DA19C80"
+				item: "modern_industrialization:fusion_reactor"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "66CC7103EC6F2626"
+			tasks: [{
+				id: "2BA4BD0792BE25A3"
+				item: "modern_industrialization:superconductor_storage_unit"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["25D821D8FB5BAE95"]
+			id: "28FB96969DF7558A"
+			tasks: [{
+				id: "2518A7A1DF7687BD"
+				item: "modern_industrialization:uu_matter_bucket"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"25D821D8FB5BAE95"
+				"469E7B8DD1F2236D"
+			]
+			id: "3BAB2EF23218B9E3"
+			tasks: [{
+				id: "43CC5AF98663028D"
+				item: "modern_industrialization:quantum_upgrade"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"3BAB2EF23218B9E3"
+				"28FB96969DF7558A"
+			]
+			id: "719AB09702566934"
+			tasks: [{
+				id: "2E26A9744F4A259E"
+				item: "modern_industrialization:replicator"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3BAB2EF23218B9E3"]
+			id: "5F946A4E8DCAE6AC"
+			tasks: [
+				{
+					id: "69075D1CC71DDC09"
+					item: "modern_industrialization:quantum_sword"
+					type: "item"
+				}
+				{
+					id: "15B8F59EFA6C6057"
+					item: "modern_industrialization:quantum_helmet"
+					type: "item"
+				}
+				{
+					id: "658DE51F5D3D8D85"
+					item: "modern_industrialization:quantum_chestplate"
+					type: "item"
+				}
+				{
+					id: "2C64179F9D9416D1"
+					item: "modern_industrialization:quantum_leggings"
+					type: "item"
+				}
+				{
+					id: "3FEBD77BDFDC1A10"
+					item: "modern_industrialization:quantum_boots"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			id: "0A067665653E9E91"
+			tasks: [{
+				id: "680C4FC55C1C1A89"
+				item: "modern_industrialization:highly_advanced_upgrade"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			id: "6748438ABA6F86DB"
+			tasks: [{
+				id: "6345E6A7B3CED9E4"
+				item: "modern_industrialization:gravichestplate"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.0d
 		}
 	]
 	subtitle: ["Modern Industrialization (MI) - лучший технический мод для новых версий Minecraft. Является аналогом GregTech и IndustrialCraft. Возможно наиболее сложный мод в этой сборке, но в конечном итоге позволит вам дюпать предметы и стать бессмертным."]

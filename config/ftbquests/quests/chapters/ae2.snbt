@@ -15,6 +15,8 @@
 		{
 			dependencies: ["6798C8E76EF6BD57"]
 			id: "52EE7B40309DD75D"
+			shape: "gear"
+			size: 2.0d
 			subtitle: "Создать Вырезатель для производства процессоров в домашних условиях"
 			tasks: [{
 				id: "0169BF9F060F232F"
@@ -22,11 +24,18 @@
 				type: "item"
 			}]
 			title: "TSMC"
-			x: -3.5d
+			x: -5.5d
 			y: 0.0d
 		}
 		{
-			dependencies: ["52EE7B40309DD75D"]
+			dependencies: [
+				"6616754D349C9540"
+				"05D5C499A16BAF1F"
+				"4C3FE4A0FE6FB77E"
+				"3A15B9C9FF9A58F0"
+				"74097D09B74949DD"
+			]
+			dependency_requirement: "one_completed"
 			id: "37DFC000AF714E1C"
 			subtitle: "Одного пока хватит"
 			tasks: [{
@@ -34,19 +43,19 @@
 				item: "ae2:controller"
 				type: "item"
 			}]
-			x: -5.0d
+			x: -12.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["37DFC000AF714E1C"]
+			dependencies: ["5D18DAC177CCCE03"]
 			id: "765BF08F00D1F054"
 			tasks: [{
 				id: "410D42683DB762C9"
 				item: "ae2:drive"
 				type: "item"
 			}]
-			x: -6.5d
-			y: 0.0d
+			x: -9.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["3A03FEF90DD21594"]
@@ -80,23 +89,26 @@
 				}
 			]
 			title: "Инопланетные технологии"
-			x: -2.0d
+			x: -3.5d
 			y: 0.0d
 		}
 		{
+			dependencies: ["51A85AF0CE26E81D"]
 			id: "3A03FEF90DD21594"
-			shape: "octagon"
-			size: 2.0d
 			tasks: [{
 				id: "0C42123C2A767B05"
 				item: "ae2:meteorite_compass"
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["765BF08F00D1F054"]
+			dependencies: [
+				"765BF08F00D1F054"
+				"7C89875232F5AB42"
+			]
+			dependency_requirement: "one_completed"
 			id: "4C3FE4A0FE6FB77E"
 			tasks: [{
 				id: "6F07CD7439FFAAE6"
@@ -107,11 +119,15 @@
 				}
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: -3.0d
 		}
 		{
-			dependencies: ["765BF08F00D1F054"]
+			dependencies: [
+				"765BF08F00D1F054"
+				"7C89875232F5AB42"
+			]
+			dependency_requirement: "one_completed"
 			id: "3A15B9C9FF9A58F0"
 			tasks: [{
 				id: "56695F15A740F551"
@@ -122,11 +138,15 @@
 				}
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: -1.5d
 		}
 		{
-			dependencies: ["765BF08F00D1F054"]
+			dependencies: [
+				"765BF08F00D1F054"
+				"7C89875232F5AB42"
+			]
+			dependency_requirement: "one_completed"
 			id: "05D5C499A16BAF1F"
 			tasks: [{
 				id: "247FEF70882918BE"
@@ -137,11 +157,15 @@
 				}
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: 0.0d
 		}
 		{
-			dependencies: ["765BF08F00D1F054"]
+			dependencies: [
+				"765BF08F00D1F054"
+				"7C89875232F5AB42"
+			]
+			dependency_requirement: "one_completed"
 			id: "74097D09B74949DD"
 			tasks: [{
 				id: "54B5F232E9A2866D"
@@ -152,11 +176,15 @@
 				}
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: 1.5d
 		}
 		{
-			dependencies: ["765BF08F00D1F054"]
+			dependencies: [
+				"765BF08F00D1F054"
+				"7C89875232F5AB42"
+			]
+			dependency_requirement: "one_completed"
 			id: "6616754D349C9540"
 			subtitle: "Типов все ещё 64 :)"
 			tasks: [{
@@ -168,29 +196,22 @@
 				}
 				type: "item"
 			}]
-			x: -8.0d
+			x: -10.5d
 			y: 3.0d
 		}
 		{
-			dependencies: [
-				"6616754D349C9540"
-				"05D5C499A16BAF1F"
-				"4C3FE4A0FE6FB77E"
-				"3A15B9C9FF9A58F0"
-				"74097D09B74949DD"
-			]
-			dependency_requirement: "one_completed"
+			dependencies: ["52EE7B40309DD75D"]
 			id: "5D18DAC177CCCE03"
 			tasks: [{
 				id: "2B695188055CCE6E"
 				item: "ae2:terminal"
 				type: "item"
 			}]
-			x: -9.5d
+			x: -7.5d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5D18DAC177CCCE03"]
+			dependencies: ["37DFC000AF714E1C"]
 			id: "4C6DCA2DF4D4DE2F"
 			subtitle: "На 35% удобнее"
 			tasks: [{
@@ -198,7 +219,7 @@
 				item: "ae2:crafting_terminal"
 				type: "item"
 			}]
-			x: -9.5d
+			x: -12.0d
 			y: 1.5d
 		}
 		{
@@ -211,7 +232,7 @@
 				item: "ae2:crafting_unit"
 				type: "item"
 			}]
-			x: -12.5d
+			x: -15.0d
 			y: 0.0d
 		}
 		{
@@ -223,7 +244,7 @@
 				item: "ae2:crafting_accelerator"
 				type: "item"
 			}]
-			x: -12.5d
+			x: -15.0d
 			y: -1.5d
 		}
 		{
@@ -234,7 +255,7 @@
 				item: "ae2:1k_crafting_storage"
 				type: "item"
 			}]
-			x: -14.0d
+			x: -16.5d
 			y: -3.0d
 		}
 		{
@@ -246,7 +267,7 @@
 				item: "ae2:crafting_monitor"
 				type: "item"
 			}]
-			x: -12.5d
+			x: -15.0d
 			y: 1.5d
 		}
 		{
@@ -257,7 +278,7 @@
 				item: "ae2:4k_crafting_storage"
 				type: "item"
 			}]
-			x: -14.0d
+			x: -16.5d
 			y: -1.5d
 		}
 		{
@@ -268,7 +289,7 @@
 				item: "ae2:16k_crafting_storage"
 				type: "item"
 			}]
-			x: -14.0d
+			x: -16.5d
 			y: 0.0d
 		}
 		{
@@ -279,7 +300,7 @@
 				item: "ae2:64k_crafting_storage"
 				type: "item"
 			}]
-			x: -14.0d
+			x: -16.5d
 			y: 1.5d
 		}
 		{
@@ -290,7 +311,7 @@
 				item: "ae2:256k_crafting_storage"
 				type: "item"
 			}]
-			x: -14.0d
+			x: -16.5d
 			y: 3.0d
 		}
 		{
@@ -309,18 +330,18 @@
 				item: "ae2:pattern_provider"
 				type: "item"
 			}]
-			x: -15.5d
+			x: -18.0d
 			y: 0.0d
 		}
 		{
-			dependencies: ["5D18DAC177CCCE03"]
+			dependencies: ["37DFC000AF714E1C"]
 			id: "49398F139340DB86"
 			tasks: [{
 				id: "5F8103C920C8D01B"
 				item: "ae2:pattern_encoding_terminal"
 				type: "item"
 			}]
-			x: -11.0d
+			x: -13.5d
 			y: 0.0d
 		}
 		{
@@ -332,7 +353,7 @@
 				item: "ae2:pattern_access_terminal"
 				type: "item"
 			}]
-			x: -15.5d
+			x: -18.0d
 			y: 1.5d
 		}
 		{
@@ -344,7 +365,7 @@
 				item: "ae2:import_bus"
 				type: "item"
 			}]
-			x: -17.0d
+			x: -19.5d
 			y: 0.0d
 		}
 		{
@@ -356,7 +377,7 @@
 				item: "ae2:molecular_assembler"
 				type: "item"
 			}]
-			x: -18.5d
+			x: -21.0d
 			y: 0.0d
 		}
 		{
@@ -368,22 +389,512 @@
 				item: "ae2:growth_accelerator"
 				type: "item"
 			}]
-			x: 0.0d
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "51A85AF0CE26E81D"
+			tasks: [{
+				id: "08C88C09BFD1167F"
+				item: "ae2:charger"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51A85AF0CE26E81D"]
+			id: "7E735029EBED7F30"
+			subtitle: "Имеет неплохой урон"
+			tasks: [{
+				id: "1B09E107AC57C5CC"
+				item: "ae2:charged_staff"
+				type: "item"
+			}]
+			title: "Резня"
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"52EE7B40309DD75D"
+				"6FDFFC2544BA0CB6"
+			]
+			id: "3D05F85425AE23A7"
+			subtitle: "Позволяет красить компоненты МЭ сети такие как провода и терминалы цветными шариками из шариков материи"
+			tasks: [{
+				id: "0462BEC224C32E54"
+				item: {
+					Count: 1
+					id: "ae2:color_applicator"
+					tag: { }
+				}
+				type: "item"
+			}]
+			title: "Нескучные цвета"
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5D18DAC177CCCE03"]
+			id: "7C89875232F5AB42"
+			tasks: [{
+				id: "02DCD61A5E0E124A"
+				item: "ae2:chest"
+				type: "item"
+			}]
+			title: "Все в одном"
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "2A35A758CD1E3A78"
+			subtitle: "Позволяет нагревать (например превратить песок в стекло) или охлаждать (превратить воду в лёд) блоки"
+			tasks: [{
+				id: "1D8FB383E815704A"
+				item: "ae2:entropy_manipulator"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "455F2F8C7C74DB4E"
+			subtitle: "Позвляет убивать"
+			tasks: [{
+				id: "7A60B37C5C97D6DC"
+				item: {
+					Count: 1
+					id: "ae2:matter_cannon"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.5d
 			y: 2.0d
 		}
 		{
-			description: ["Максалес работай"]
-			id: "35DB05453F89DB47"
-			size: 8.0d
-			subtitle: "Максалес работай"
+			dependencies: ["3A03FEF90DD21594"]
+			id: "1D287177282D14DB"
+			subtitle: "Блок, имеющий две ключевые функции: ликвидация лишних материалов и производство сингулярности и шариков материи"
 			tasks: [{
-				id: "0F3293F8F18FEAD1"
-				item: "minecraft:oak_pressure_plate"
+				id: "72F468EB75A7B66B"
+				item: "ae2:condenser"
 				type: "item"
 			}]
-			title: "Максалес работай"
-			x: -11.0d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1D287177282D14DB"]
+			id: "6FDFFC2544BA0CB6"
+			tasks: [{
+				id: "35D8E3D09BC23DBD"
+				item: "ae2:matter_ball"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1D287177282D14DB"]
+			id: "0AB1CC99964E6C81"
+			shape: "gear"
+			subtitle: "В домашних условиях"
+			tasks: [{
+				id: "523A7FAEADF8F32F"
+				item: "ae2:singularity"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0AB1CC99964E6C81"]
+			id: "288F64309DEB83F8"
+			subtitle: "Этот предмет создаётся с помощью взрыва. Необходимо бросить Эндер-пыль и сингулярность в одно место и создать рядом взрыв достаточной силы. Для этого прекрасно подойдет ТНТ"
+			tasks: [{
+				count: 2L
+				id: "7CB131F88264B5BE"
+				item: "ae2:quantum_entangled_singularity"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "296F494A65F5E73E"
+			subtitle: "Позволяет модифицировать ячейки памяти или просмотра"
+			tasks: [{
+				id: "2D05A6B58E1A98E2"
+				item: "ae2:cell_workbench"
+				type: "item"
+			}]
+			x: -5.5d
 			y: -2.0d
+		}
+		{
+			dependencies: [
+				"296F494A65F5E73E"
+				"5D18DAC177CCCE03"
+			]
+			id: "53D6FC38FE25C54B"
+			subtitle: "Позволяет ограничивать предметы которые показывает МЭ терминал"
+			tasks: [{
+				id: "2F62DCD77C1D62D3"
+				item: "ae2:view_cell"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5D18DAC177CCCE03"]
+			id: "5279F1550372922B"
+			subtitle: "Показывает количество определенного предмета в МЭ сети"
+			tasks: [{
+				id: "72781D2795C28601"
+				item: "ae2:storage_monitor"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5279F1550372922B"]
+			id: "59C2400312AAB0C1"
+			subtitle: "Тоже самое что и монитор хранения, но позволяет взять предмет из МЭ сети"
+			tasks: [{
+				id: "085724B6A35996C1"
+				item: "ae2:conversion_monitor"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3174BFB5D0EF8385"]
+			id: "2512B50E788231EF"
+			tasks: [{
+				id: "5EBD45895343F34A"
+				item: "ae2:advanced_card"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "3174BFB5D0EF8385"
+			tasks: [{
+				id: "219C712B845F9692"
+				item: "ae2:basic_card"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3174BFB5D0EF8385"]
+			id: "45E830FA2FE92792"
+			tasks: [{
+				id: "7F81D0806A3AC684"
+				item: "ae2:redstone_card"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3174BFB5D0EF8385"]
+			id: "6FC45709AEDB9864"
+			tasks: [{
+				id: "2C2ED882CDC1E703"
+				item: "ae2:capacity_card"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3174BFB5D0EF8385"]
+			id: "64E3973FD4B42DB4"
+			tasks: [{
+				id: "16E78AC7BAF31C3F"
+				item: "ae2:void_card"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3174BFB5D0EF8385"]
+			id: "25320601A4249D7A"
+			tasks: [{
+				id: "3F1905624234FB56"
+				item: "ae2:crafting_card"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2512B50E788231EF"]
+			id: "1CD60FE79FE39505"
+			tasks: [{
+				id: "21C76C8F9E6EB9C5"
+				item: "ae2:fuzzy_card"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2512B50E788231EF"]
+			id: "758D35377D625D7D"
+			tasks: [{
+				id: "629ACB024A08D7F1"
+				item: "ae2:speed_card"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2512B50E788231EF"]
+			id: "6864B5C96EA8D426"
+			tasks: [{
+				id: "3914F3ABE4EA9C7D"
+				item: "ae2:inverter_card"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"296F494A65F5E73E"
+				"2512B50E788231EF"
+			]
+			id: "79CF2F744D229692"
+			tasks: [{
+				id: "551DAC06D59EE6ED"
+				item: "ae2:equal_distribution_card"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2512B50E788231EF"]
+			id: "0D8E9DE9A0A7E146"
+			tasks: [{
+				id: "760D40B174950410"
+				item: "ae2:energy_card"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["3A03FEF90DD21594"]
+			id: "168A86E9E2C71817"
+			subtitle: "Бесплатная и бесконечная энергия для вашей МЭ сети в размере 20 AE/t. Но есть нюанс"
+			tasks: [{
+				id: "642FCB0C9C0746F1"
+				item: "ae2:crystal_resonance_generator"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "1D457584A01334E6"
+			subtitle: "Позволяет автоматизировать переименование предметов"
+			tasks: [{
+				id: "01E9A5CC04CC32E0"
+				item: {
+					Count: 1
+					id: "ae2:name_press"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "06341F6A765DCD27"
+			tasks: [{
+				id: "14BB8BC759633423"
+				item: "ae2:network_tool"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["37DFC000AF714E1C"]
+			id: "72221E76AF0ABAE6"
+			subtitle: "Позволяет перемещать предметы из МЭ сети на внешние ячейки или наоборот"
+			tasks: [{
+				id: "51CF0226351BD2F8"
+				item: "ae2:io_port"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["72221E76AF0ABAE6"]
+			id: "5D8BB6E7EAB44D96"
+			subtitle: "Контроллирует операцию записи любых блоков на пространственную ячейку, например портала в край"
+			tasks: [{
+				id: "788380D2C4EE79CE"
+				item: "ae2:spatial_io_port"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"33CB432AC479B0FA"
+				"68AFA77B053C0D07"
+				"47F23D45ED5715A4"
+			]
+			dependency_requirement: "one_completed"
+			id: "4A35C0372F9348D2"
+			subtitle: "Является основной частью пространственной настройки ввода-вывода и определяют объем, на который будет воздействовать"
+			tasks: [{
+				id: "64ED82808FF991CC"
+				item: "ae2:spatial_pylon"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5D8BB6E7EAB44D96"]
+			id: "47F23D45ED5715A4"
+			tasks: [{
+				id: "1A646947E56105CC"
+				item: "ae2:spatial_storage_cell_2"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5D8BB6E7EAB44D96"]
+			id: "68AFA77B053C0D07"
+			tasks: [{
+				id: "640BCEC45480DE9E"
+				item: "ae2:spatial_storage_cell_16"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5D8BB6E7EAB44D96"]
+			id: "33CB432AC479B0FA"
+			tasks: [{
+				id: "439B6F62D7C565F9"
+				item: "ae2:spatial_storage_cell_128"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4A35C0372F9348D2"]
+			id: "6DDB578AC10B6AC9"
+			subtitle: "Прогружает все чанки своей МЭ сети"
+			tasks: [{
+				id: "796F457A49985D14"
+				item: "ae2:spatial_anchor"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["288F64309DEB83F8"]
+			id: "4867EADA7FDC608B"
+			shape: "gear"
+			subtitle: "Действует как кабель, но на любое расстояние или между измерениями. Для связи нужно покласть две квантовые запутанности, рекомендуется их переименовать. Также хорошо использовать пространственный якорь"
+			tasks: [
+				{
+					count: 16L
+					id: "4F2F516547FC1BDD"
+					item: "ae2:quantum_ring"
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4A5BDD7C2B1A1164"
+					item: "ae2:quantum_link"
+					type: "item"
+				}
+			]
+			title: "Квантовая связь"
+			x: -0.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7F77BC93E089C716"]
+			id: "5817A2ABCF21E67D"
+			tasks: [{
+				id: "462F49402E16BAB7"
+				item: "ae2:me_p2p_tunnel"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["52EE7B40309DD75D"]
+			id: "7F77BC93E089C716"
+			subtitle: "Используется для копирования и вставки настроек между механизмами AE2 и соединения туннелей P2P. Она также может вставлять карты улучшения в механизмы"
+			tasks: [{
+				id: "3BA474B5B3185EFD"
+				item: {
+					Count: 1
+					id: "ae2:memory_card"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5911C777CC81F71E"]
+			id: "4C8EBAA2E1267FE6"
+			tasks: [{
+				id: "704AE0F8DB76024C"
+				item: "ae2:formation_plane"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5D18DAC177CCCE03"]
+			id: "5911C777CC81F71E"
+			tasks: [{
+				id: "100885D80B81FBE8"
+				item: "ae2:annihilation_plane"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 2.0d
 		}
 	]
 	title: "AE2"

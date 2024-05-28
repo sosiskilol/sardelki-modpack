@@ -16,17 +16,29 @@
 	quests: [
 		{
 			id: "639F27DD8B17CD9E"
+			rewards: [{
+				count: 16
+				id: "7C0F4348584601F2"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4A63B0BBD852B7FA"
 				item: "tconstruct:pattern"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -7.0d
+			x: -6.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["639F27DD8B17CD9E"]
 			id: "60BC6AE538AB0492"
+			rewards: [{
+				count: 16
+				id: "0DB8B5A5A4E2DC90"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -34,11 +46,18 @@
 				item: "tconstruct:materials_and_you"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -5.5d
+			x: -6.0d
+			y: 0.5d
 		}
 		{
+			dependencies: ["60BC6AE538AB0492"]
 			id: "51C2E8CEBE2C0232"
+			rewards: [{
+				count: 16
+				id: "335C2C72C3352488"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "635DCAC6DCCC920B"
 				item: {
@@ -50,11 +69,18 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: -4.0d
+			x: -7.0d
+			y: 2.0d
 		}
 		{
+			dependencies: ["60BC6AE538AB0492"]
 			id: "76F41B15F92C9B9B"
+			rewards: [{
+				count: 16
+				id: "3B63BA5C463C83CD"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "65BA869BD90B1AED"
@@ -67,21 +93,38 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
-			y: -5.5d
+			x: -6.0d
+			y: 2.0d
 		}
 		{
+			dependencies: [
+				"6AEBAF24C3A37D8F"
+				"51C2E8CEBE2C0232"
+			]
 			id: "2708C54E5395086B"
+			rewards: [{
+				count: 16
+				id: "14AEEE44528DB945"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D50451CB871C70E"
 				item: "tconstruct:grout"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -2.5d
+			x: -6.0d
+			y: 3.5d
 		}
 		{
+			dependencies: ["2708C54E5395086B"]
 			id: "46857493BCB78AC7"
+			rewards: [{
+				count: 16
+				id: "6DD8E902CD78AC72"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -89,11 +132,18 @@
 				item: "tconstruct:puny_smelting"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -1.0d
+			x: -6.0d
+			y: 5.0d
 		}
 		{
+			dependencies: ["60BC6AE538AB0492"]
 			id: "6AEBAF24C3A37D8F"
+			rewards: [{
+				count: 16
+				id: "105129A3CCF3FC34"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "03D1DC0119BA87BB"
 				item: {
@@ -105,101 +155,186 @@
 				}
 				type: "item"
 			}]
-			x: 1.5d
-			y: -4.0d
+			x: -5.0d
+			y: 2.0d
 		}
 		{
+			dependencies: ["46857493BCB78AC7"]
 			id: "05B82A46ACE8F41C"
+			rewards: [{
+				count: 16
+				id: "38CE018AEBC156C8"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4ED8B3A2DF0F1ACA"
 				item: "tconstruct:seared_brick"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 0.5d
+			x: -6.0d
+			y: 6.5d
 		}
 		{
+			dependencies: [
+				"023E8E9071C22CB4"
+				"7FA8FE8C0A79B710"
+			]
 			id: "2290F9E934B8CE54"
+			rewards: [{
+				count: 16
+				id: "61A552F689656B91"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7A48319F4C77A51E"
 				item: "tconstruct:seared_melter"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 3.5d
+			x: -6.0d
+			y: 9.5d
 		}
 		{
+			dependencies: ["7FA8FE8C0A79B710"]
 			id: "1A5851A84FA16EF5"
+			rewards: [{
+				count: 16
+				id: "40865CBA1791630A"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6D0EF1D76F3E2BC5"
 				item: "tconstruct:seared_table"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.5d
+			x: -4.5d
+			y: 9.5d
 		}
 		{
+			dependencies: ["7FA8FE8C0A79B710"]
 			id: "29CC569071118971"
+			rewards: [{
+				count: 16
+				id: "6F9636376EF3483B"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "37B17D255DFDB023"
 				item: "tconstruct:seared_heater"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 3.5d
+			x: -3.0d
+			y: 9.5d
 		}
 		{
+			dependencies: ["023E8E9071C22CB4"]
 			id: "2D60DBE8AFBE0CBC"
+			rewards: [{
+				count: 16
+				id: "1FA35F892AABBB2E"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "19D9FDA1927F6C68"
 				item: "tconstruct:seared_faucet"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 3.5d
+			x: -9.0d
+			y: 9.5d
 		}
 		{
+			dependencies: ["023E8E9071C22CB4"]
 			id: "083FB8927F25DE8A"
+			rewards: [{
+				count: 16
+				id: "064D6C21CD61D7B5"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "05E6390388CF58F7"
 				item: "tconstruct:seared_channel"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 3.5d
+			x: -7.5d
+			y: 9.5d
 		}
 		{
+			dependencies: ["05B82A46ACE8F41C"]
 			id: "023E8E9071C22CB4"
+			rewards: [{
+				count: 16
+				id: "353F1DD1E184F138"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4F3757621777401C"
 				item: "tconstruct:seared_fuel_gauge"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 2.0d
+			x: -7.0d
+			y: 8.0d
 		}
 		{
+			dependencies: ["05B82A46ACE8F41C"]
 			id: "7FA8FE8C0A79B710"
+			rewards: [{
+				count: 16
+				id: "45D0308E8EB934D2"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6E3A729CF3E2056B"
 				item: "tconstruct:seared_ingot_gauge"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 2.0d
+			x: -5.0d
+			y: 8.0d
 		}
 		{
+			dependencies: [
+				"2D60DBE8AFBE0CBC"
+				"083FB8927F25DE8A"
+				"2290F9E934B8CE54"
+				"1A5851A84FA16EF5"
+				"29CC569071118971"
+			]
 			id: "39424AAFD8313101"
+			rewards: [{
+				count: 16
+				id: "7635E2AB311369FC"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C7D40E368580164"
 				item: "tconstruct:blank_sand_cast"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 5.0d
+			x: -7.5d
+			y: 12.0d
 		}
 		{
+			dependencies: [
+				"2D60DBE8AFBE0CBC"
+				"083FB8927F25DE8A"
+				"2290F9E934B8CE54"
+				"1A5851A84FA16EF5"
+				"29CC569071118971"
+			]
 			id: "18E80AE18CC2818A"
+			rewards: [{
+				count: 16
+				id: "2FBBD05438A708AC"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "603875F21F39526A"
@@ -222,11 +357,24 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
-			y: 5.0d
+			x: -4.5d
+			y: 12.0d
 		}
 		{
+			dependencies: [
+				"083FB8927F25DE8A"
+				"2D60DBE8AFBE0CBC"
+				"1A5851A84FA16EF5"
+				"2290F9E934B8CE54"
+				"29CC569071118971"
+			]
 			id: "1CFDF41DDD86937B"
+			rewards: [{
+				count: 16
+				id: "003DE2021D4AD0D4"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "10DEB2A9C5CC6643"
@@ -279,21 +427,38 @@
 					type: "item"
 				}
 			]
-			x: 0.5d
-			y: 5.0d
+			x: -6.0d
+			y: 12.0d
 		}
 		{
 			id: "20502B456685BF55"
+			rewards: [{
+				count: 16
+				id: "167B938136A59F8A"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2266BA7FE7C9C632"
 				item: "tconstruct:sky_slime_ball"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 3.5d
+			x: -0.5d
+			y: 9.5d
 		}
 		{
+			dependencies: [
+				"39424AAFD8313101"
+				"1CFDF41DDD86937B"
+				"18E80AE18CC2818A"
+			]
 			id: "730F1A5BE4A3950B"
+			rewards: [{
+				count: 16
+				id: "6DD83D32477788DE"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -301,22 +466,36 @@
 				item: "tconstruct:mighty_smelting"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 6.5d
+			x: -6.0d
+			y: 14.0d
 		}
 		{
+			dependencies: ["730F1A5BE4A3950B"]
 			id: "2C35DE813D5ADF3A"
+			rewards: [{
+				count: 16
+				id: "6D3680860D692992"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				count: 19L
 				id: "54B319445A9FD66F"
 				item: "tconstruct:seared_bricks"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 8.0d
+			x: -6.0d
+			y: 15.5d
 		}
 		{
+			dependencies: ["730F1A5BE4A3950B"]
 			id: "25FD2FB3EFCD6E55"
+			rewards: [{
+				count: 16
+				id: "18DE862F2CA90A6C"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4D057FE28C802117"
 				item: {
@@ -328,11 +507,18 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 8.0d
+			x: -4.5d
+			y: 15.5d
 		}
 		{
+			dependencies: ["730F1A5BE4A3950B"]
 			id: "6E97281FD3A78A3E"
+			rewards: [{
+				count: 16
+				id: "6DA58FF3A51BA054"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1B030312D35C2851"
 				item: {
@@ -344,10 +530,15 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 8.0d
+			x: -7.5d
+			y: 15.5d
 		}
 		{
+			dependencies: [
+				"2C35DE813D5ADF3A"
+				"6E97281FD3A78A3E"
+				"25FD2FB3EFCD6E55"
+			]
 			icon: {
 				Count: 1
 				id: "tconstruct:smeltery_controller"
@@ -356,6 +547,12 @@
 				}
 			}
 			id: "111CA2082C171D05"
+			rewards: [{
+				count: 16
+				id: "2911A634E0A6131D"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -363,21 +560,43 @@
 				title: "Построить плавильню"
 				type: "checkmark"
 			}]
-			x: 0.5d
-			y: 9.5d
+			x: -6.0d
+			y: 17.0d
 		}
 		{
+			dependencies: [
+				"20502B456685BF55"
+				"111CA2082C171D05"
+			]
 			id: "5A120DB921228E8B"
+			rewards: [{
+				count: 16
+				id: "1366B727916BC6CB"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
 			tasks: [{
 				id: "11CCD7DFF417BC2E"
 				item: "tconstruct:slimesteel_ingot"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 9.5d
+			x: -0.5d
+			y: 17.0d
 		}
 		{
+			dependencies: [
+				"111CA2082C171D05"
+				"5A120DB921228E8B"
+			]
 			id: "1D175730562213B1"
+			rewards: [{
+				count: 16
+				id: "1DDFECC1752E6584"
+				item: "createdeco:copper_coin"
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.5d
 			tasks: [{
 				id: "137E3572AB33015F"
 				item: {
@@ -389,8 +608,60 @@
 				}
 				type: "item"
 			}]
-			x: 0.5d
-			y: 11.5d
+			x: -0.5d
+			y: 19.0d
+		}
+		{
+			id: "2B0B5D3AD998696A"
+			tasks: [{
+				id: "76063BBC9019A7B1"
+				item: "tconstruct:nether_grout"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 17.0d
+		}
+		{
+			id: "68A26DDFA33D417E"
+			tasks: [{
+				id: "63E8BCCF38E33F74"
+				item: {
+					Count: 1
+					id: "tconstruct:foundry_controller"
+					tag: {
+						texture: "tconstruct:scorched_bricks"
+					}
+				}
+				type: "item"
+			}]
+			x: -8.5d
+			y: 19.0d
+		}
+		{
+			id: "7E6D567EFADB8A58"
+			tasks: [{
+				id: "3787E07255E1397C"
+				item: "tconstruct:scorched_ingot_tank"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 19.0d
+		}
+		{
+			id: "5A7C01C9F7D9358A"
+			tasks: [{
+				id: "33F14642878A858F"
+				item: {
+					Count: 1
+					id: "tconstruct:scorched_drain"
+					tag: {
+						texture: "tconstruct:scorched_bricks"
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 19.0d
 		}
 	]
 	title: "Tinkers Construct"
