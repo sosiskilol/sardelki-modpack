@@ -6,11 +6,11 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ad_astra.snbt"
-hash = "528c661a840ad706477fa10c24bdf3f82bd21c1e4ddb758bce71ba8cff61f4f0"
+hash = "b1af6ca62948a679ae9a82c8472f1b87a2c049ce8539667797b0cb1e95693621"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "f8a2aba75e3ddc768c3cb05fc875e675ef212d6af680cf41de54e5f627a7a313"
+hash = "4462f8520d6e89399177eb9516f1a9cf0fd94ece213f98cb991bd6d7c726513a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
@@ -18,23 +18,23 @@ hash = "4f850903a1f7a8bd4fc1428ae5c40ee9d1a91710f4e07a3ffe13324888ed410f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
-hash = "8620f3345b694af02a71caae0a0759c10a4549fdff0820b9aa6f2a8495e1c614"
+hash = "2d00dcad7a3f3259c51069f6752740c288f3a268d0f9878d7214bc0806015593"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chemistry.snbt"
-hash = "234858b93a84709b78dd2bdaed39cf912d38f65769dd84e6a9855688f44cd205"
+hash = "af97b70c39c16c93fd9ece8cbe5a0ff1aacb84403c894d5d215a681d1f4adfcc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "d370bd4eecf814f7e0e31b816ca1dd20f835607711177c6b779bb59f2b5dab55"
+hash = "ca2cabc80b9add1e78381c030c1ee324393a691e3f10670905137ca4d8b55540"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
-hash = "f6d4690fd1f3799ea4446481e35ccfd35dec18df90c5834c54220a658a191b4a"
+hash = "a88ea81b0ab14b72e37a6a7ed277cd87b9edaf70aac7425ee14b26022bdd7089"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
-hash = "b39bf11f16a4f06973d7acbc4cad1b6256ae6f9cbc2d68ccbc20a7995fc039ca"
+hash = "5f77c06f7045b2fce1a2a13f548f79f700d989c65e79c1dd3f8deef584a7dc58"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
@@ -42,11 +42,11 @@ hash = "2d7ccadbe259e30627fff79f6788ea6640b666017df7abad6d68c635bbdafab4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkers_construct.snbt"
-hash = "c0adccd4092f996af15ace4921c3c461fdfedee053fbf72edd19e01769cb0fda"
+hash = "56760ef5a941421f7f03eda97b5d8dc185e50eb72ce678743347bf8f4c1c85d2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/vanilla.snbt"
-hash = "a01346fd4f8fa93cd55f6c839709a2a8fcec1736f9dab0e91f0b0a80a1277957"
+hash = "7cfaef924aeb17efc40b7a6ca84e1e9cffe0dfe2ae6403c6985043b767771a1f"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

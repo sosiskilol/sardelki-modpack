@@ -12,15 +12,15 @@
 			id: "70315E55A563E053"
 			rewards: [
 				{
-					count: 15
-					id: "48FFA69C69DF50D0"
-					item: "create:andesite_alloy"
+					count: 10
+					id: "796066B069E0FC5E"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "46D987F7003242C2"
-					item: "create:experience_nugget"
+					count: 16
+					id: "5A70E2F7D84A9EDC"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -39,11 +39,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "59F29BBBE32C2246"
-			rewards: [{
-				id: "231F784354E9DC16"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "30653DAF38454EFE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3B7F681F556A7B64"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "ано крутица"
 			tasks: [{
 				id: "64F7F08758879249"
@@ -56,12 +65,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "3A7DA7250A30BA67"
-			rewards: [{
-				count: 10
-				id: "4157AF22FF023951"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "270A1D8CC16B71F2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0409C95FB70683FD"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "начало каждого механизма"
@@ -78,14 +95,16 @@
 			id: "11504B969800FB55"
 			rewards: [
 				{
-					id: "44043F3C27CEAA68"
-					item: "design_decor:gear_sign"
+					count: 10
+					id: "630101D00B6AA30B"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "334122C19361BC2D"
-					type: "xp"
-					xp: 10
+					count: 16
+					id: "26D56F87BA38E9E5"
+					item: "numismatics:spur"
+					type: "item"
 				}
 			]
 			subtitle: "без них никуда"
@@ -107,12 +126,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "5DC08E9D4B787E34"
-			rewards: [{
-				count: 10
-				id: "1E560E948CB687A2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "19801917DA7D06DB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "71D7D8FEC73ADBE8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "основа автоматизации"
 			tasks: [{
 				id: "0183402A7A07676D"
@@ -125,12 +152,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "78D8CB3EE6A8CC00"
-			rewards: [{
-				count: 10
-				id: "1A807447164AEBF6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "26CF40679EC30C26"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "30332AB019C4D67F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "756A510D696D6475"
 				item: "create:mechanical_drill"
@@ -142,12 +177,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "19DC359A1EA80203"
-			rewards: [{
-				count: 10
-				id: "3D01ADC5DB6E24DD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6C8BA7F5F7C9EDB2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3D694CE2CF0F3ABD"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "20B9508F335A78FA"
 				item: "create:millstone"
@@ -159,12 +202,20 @@
 		{
 			dependencies: ["5DC08E9D4B787E34"]
 			id: "46A55870D3D78790"
-			rewards: [{
-				count: 10
-				id: "65EA958C3167D50B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5FC64A1CC6FF9A13"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "097EE51175407F03"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "перевёртыш"
 			tasks: [{
 				id: "27AEE916A2A162FA"
@@ -177,12 +228,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "4C3DC4541B2B3E3C"
-			rewards: [{
-				count: 10
-				id: "5DDD898E2E06A544"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "081CF05A59DCCCCD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "483D4F182CC6BF18"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6754C05720A962E9"
 				item: "create:mechanical_press"
@@ -194,6 +253,20 @@
 		{
 			dependencies: ["4C3DC4541B2B3E3C"]
 			id: "43BA6BB5D7BCB8EE"
+			rewards: [
+				{
+					count: 10
+					id: "11BD35180B447A04"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "73B6AC99FB4EF17A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -207,12 +280,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "7FFD664A85CE2940"
-			rewards: [{
-				count: 10
-				id: "7DB2D923EDC07093"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "58E9511E06E03A6C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4BACF8C475A11D8C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "00B121535D801438"
 				item: "create:propeller"
@@ -224,12 +305,20 @@
 		{
 			dependencies: ["7FFD664A85CE2940"]
 			id: "381E139E8CA587D1"
-			rewards: [{
-				count: 10
-				id: "014BD10DA36453E0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3E80F06BF6C5754F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "34BCEEF61D04EFD1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "50F6B170C77637DF"
 				item: "create:encased_fan"
@@ -241,12 +330,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "5981C8959892E401"
-			rewards: [{
-				count: 10
-				id: "02648C44C6162C7D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5E1EC224989DC113"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "01B462DC3C310CFE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1056C350F2A74930"
 				item: "create:whisk"
@@ -261,18 +358,26 @@
 				"46F9DA532703EDF2"
 			]
 			id: "26DBF8D7DFD1C40B"
-			rewards: [{
-				count: 10
-				id: "2626FC8C5EEA124B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4295D3AAD60203A7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1C616C6D63B8C32D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "05E6B2A4BA896F48"
 				item: "create:mechanical_mixer"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 7.5d
 		}
 		{
@@ -281,12 +386,20 @@
 				"59E40C0D25C7BDDD"
 			]
 			id: "142EFCE9646988E7"
-			rewards: [{
-				count: 10
-				id: "33602EFD49D3C5D4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4FDA41B352C7095A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4DBC92060788BE6D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5F1481AAA8443E0B"
 				item: "create:empty_blaze_burner"
@@ -298,12 +411,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "7E46836559402B9C"
-			rewards: [{
-				count: 10
-				id: "7281FBA06827880D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2419B71FEC3FC80B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5CED660C0FE76374"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "111AD6F05A89CD15"
 				item: "create:mechanical_harvester"
@@ -315,12 +436,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "7AC130AD3DAA2AD4"
-			rewards: [{
-				count: 10
-				id: "352D66A62C4AC11C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1CB3BEF34B3EDDAE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4D0FFFB2552C4122"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "182F953CF868D750"
 				item: "create:item_vault"
@@ -332,12 +461,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "202179F9B2CB880B"
-			rewards: [{
-				count: 10
-				id: "784A4FEA904FD02B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1BF61F0B1A37DE86"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "387ADCD5680CADFC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "48021CA016732A6F"
 				item: {
@@ -355,12 +492,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "3F734EF938D092BB"
-			rewards: [{
-				count: 10
-				id: "54775CA5B86BC7DD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "181E92DDEADC2C24"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6D88DADD430FF8F0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "21F1427E20F752A5"
 				item: "createaddition:rolling_mill"
@@ -372,12 +517,19 @@
 		{
 			dependencies: ["142EFCE9646988E7"]
 			id: "71350FA1423E3A0A"
-			rewards: [{
-				count: 10
-				id: "697C210179D93D3F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "611EDB592FEE397C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6C189BAE3379467D"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "70DCC30BBD97FFEA"
 				item: "create:blaze_burner"
@@ -389,12 +541,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "587C8B4676E91693"
-			rewards: [{
-				count: 10
-				id: "2FDFCC187136897D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "362D96E238EACB53"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6BB5557BB8B75C3F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1C8F98EEF267FC68"
 				item: "create:mechanical_saw"
@@ -406,12 +566,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "5BF6955861B63198"
-			rewards: [{
-				count: 10
-				id: "2C45C78EEDEDA15F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31513B24D5774994"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "19C1A020DCCB74AB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "38AA340A9C6A0F82"
 				item: "create:mechanical_plough"
@@ -422,12 +590,20 @@
 		}
 		{
 			id: "59E40C0D25C7BDDD"
-			rewards: [{
-				count: 10
-				id: "204231543E286492"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "64E149D51A8B47F5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "47B307EE2CF762A5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "square"
 			tasks: [{
 				dimension: "minecraft:the_nether"
@@ -441,12 +617,20 @@
 		{
 			dependencies: ["59E40C0D25C7BDDD"]
 			id: "74722E8FC5358D8B"
-			rewards: [{
-				count: 10
-				id: "0929692DE580B828"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5BB45489FB492A8A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1EA4CCB5A7BB73F1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A9A1B5851FD3A21"
 				item: "minecraft:quartz"
@@ -458,12 +642,20 @@
 		{
 			dependencies: ["74722E8FC5358D8B"]
 			id: "1C806A71FF2AEB56"
-			rewards: [{
-				count: 10
-				id: "6767F67F111774E5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "63A821D2A94B9703"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4D183106DA5D2616"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2C5C910148FCFA9B"
 				item: "create:rose_quartz"
@@ -475,12 +667,20 @@
 		{
 			dependencies: ["6905243A37A2F78A"]
 			id: "3C32E711491EFF79"
-			rewards: [{
-				count: 10
-				id: "51F6FF110EF36243"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "614C03E609734C3A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3D9F1F65962C2278"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5B913A1EC630FCD4"
 				item: "create:polished_rose_quartz"
@@ -492,12 +692,20 @@
 		{
 			dependencies: ["1C806A71FF2AEB56"]
 			id: "6905243A37A2F78A"
-			rewards: [{
-				count: 10
-				id: "7F78AA8939FA82F5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "444C21E759F61A36"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "21442B7D1E1A9CC6"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2C5D2C017BEB402B"
 				item: {
@@ -518,12 +726,19 @@
 				"3C32E711491EFF79"
 			]
 			id: "7A51632F6A921C75"
-			rewards: [{
-				count: 10
-				id: "6334B7552130908A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6E5F11A151504BBD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3772F94272FCA29E"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F22D2165BF7894B"
 				item: "create:electron_tube"
@@ -538,12 +753,20 @@
 				"7A51632F6A921C75"
 			]
 			id: "4D7E0B05791020F3"
-			rewards: [{
-				count: 10
-				id: "33AE98F3A5A2BAC0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7F88851740EAAD34"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1F52172117522D97"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "633E1D7E6A87D0D7"
 				item: "create:deployer"
@@ -558,12 +781,19 @@
 				"26DBF8D7DFD1C40B"
 			]
 			id: "3ED12DCD197C601F"
-			rewards: [{
-				count: 10
-				id: "4F12AA2970D8D4D7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4EB92ED3C2163517"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "05898C640A41D15B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "52F1355877D52091"
 				item: "create:brass_ingot"
@@ -575,12 +805,20 @@
 		{
 			dependencies: ["3ED12DCD197C601F"]
 			id: "3FD6A2579CC16E3D"
-			rewards: [{
-				count: 10
-				id: "699C3DE6787D2AD6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1A7FEEB3B42EAC8A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6304F39FAD34A41B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6B7E5E387AB8508B"
 				item: "create:brass_hand"
@@ -592,12 +830,19 @@
 		{
 			dependencies: ["4D7E0B05791020F3"]
 			id: "308B84925DB2D302"
-			rewards: [{
-				count: 10
-				id: "427BA56FB3969D0B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5F90A5609C4289C6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "44145439A57E6728"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "317B0DB7425F95AD"
 				item: "create:precision_mechanism"
@@ -609,12 +854,20 @@
 		{
 			dependencies: ["308B84925DB2D302"]
 			id: "16657481E3D0F0D7"
-			rewards: [{
-				count: 10
-				id: "61BAD92BC5DE3014"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "40DC2594D3159416"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "27C7E4A424F9665F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "68C16F65660A4D6C"
 				item: "railways:white_conductor_cap"
@@ -629,12 +882,20 @@
 				"65F139D048F71327"
 			]
 			id: "55CC494AC3B7B957"
-			rewards: [{
-				count: 10
-				id: "4C7CF4EB018EF586"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "20CFD30D168A05FE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "730F0E0B55BB0F2E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1BF17234B74E1642"
 				item: "create:rotation_speed_controller"
@@ -646,12 +907,19 @@
 		{
 			dependencies: ["3ED12DCD197C601F"]
 			id: "65F139D048F71327"
-			rewards: [{
-				count: 10
-				id: "55C084DA3105BA3B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "53D1B2096D965577"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0AB12367B61272C3"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -665,12 +933,20 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "4B0FF96BC15730D9"
-			rewards: [{
-				count: 10
-				id: "3A124B94E0684C4A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "641EE3AC9BEEC361"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "14063C9172FEB481"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "381E91B524FB2496"
 				item: "create:elevator_pulley"
@@ -682,12 +958,20 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "274F1D7E84EC9FE0"
-			rewards: [{
-				count: 10
-				id: "12704BCD228E74FE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "61407F55CF1614DF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "115F24616457689B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "30272C5C716A8085"
 				item: "create:redstone_link"
@@ -699,12 +983,20 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "6651ED6E824A4B0F"
-			rewards: [{
-				count: 10
-				id: "21ABC103CD50260E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "29669D178544344F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "06390F021FA2B287"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6B78FA4A4D8EF3DE"
 				item: "create:mechanical_crafter"
@@ -719,12 +1011,20 @@
 				"308B84925DB2D302"
 			]
 			id: "4FB5A26BB3BA5BAF"
-			rewards: [{
-				count: 10
-				id: "07F4CBAC657CA063"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "664B3DB2EC705F6D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "48DFBAEE5C295EAE"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3322523A220D7639"
 				item: "create:mechanical_arm"
@@ -739,12 +1039,19 @@
 				"025E2445CE7882B7"
 			]
 			id: "07E439599AE81271"
-			rewards: [{
-				count: 10
-				id: "446265F89445FE0F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3206892C26970E7F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "71120DD187B2B29E"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			subtitle: "бронепоезд троцкого"
 			tasks: [{
@@ -759,15 +1066,15 @@
 			id: "050AA88D1F85A4BB"
 			rewards: [
 				{
-					count: 15
-					id: "5612A60106F700DE"
-					item: "minecraft:copper_ingot"
+					count: 10
+					id: "11236DB4D1E06816"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "345DE9A4442C772A"
-					item: "create:experience_nugget"
+					count: 16
+					id: "77F0F5EB9BD1C346"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -785,14 +1092,15 @@
 			id: "35EF825E0609180C"
 			rewards: [
 				{
-					id: "575EB72A832BBCA8"
-					item: "minecraft:spyglass"
+					count: 10
+					id: "1679E892088E1F5D"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "7291D48B3F065FBF"
-					item: "create:experience_nugget"
+					count: 16
+					id: "17F01E7CA80078AC"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -812,14 +1120,15 @@
 			id: "1EF4FB73D61B1302"
 			rewards: [
 				{
-					id: "11CC270E79126E61"
-					item: "design_decor:tap_sign"
+					count: 10
+					id: "49D25BBA0740A49C"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "3A06579AECD7F5CB"
-					item: "create:experience_nugget"
+					count: 16
+					id: "3EB89A17CD1791D4"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -840,14 +1149,15 @@
 			id: "3BD34BECB3715004"
 			rewards: [
 				{
-					id: "7202C4AB91AE575C"
-					item: "create:powdered_obsidian"
+					count: 10
+					id: "4F821793885E9F19"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "0757F4F457534241"
-					item: "create:experience_nugget"
+					count: 16
+					id: "2F5713375F750C46"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -865,14 +1175,15 @@
 			id: "14079AA60BE84075"
 			rewards: [
 				{
-					id: "7B4395A9B3C3F571"
-					item: "create:portable_fluid_interface"
+					count: 10
+					id: "3E3BF9B137D7A9F0"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "78841FB789262D45"
-					item: "create:experience_nugget"
+					count: 16
+					id: "5FB3FEFC8EA6E25B"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -890,14 +1201,15 @@
 			id: "57362AB09F3C854F"
 			rewards: [
 				{
-					id: "2D5C00D4AF69AAA6"
-					item: "minecraft:lava_bucket"
+					count: 10
+					id: "53F102209676047D"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "44EF5918AE8C2E7F"
-					item: "create:experience_nugget"
+					count: 16
+					id: "15A4993F88D5B565"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -915,14 +1227,15 @@
 			id: "59783D2D0A8901A0"
 			rewards: [
 				{
-					id: "78DDE35733BC29A9"
-					item: "minecraft:milk_bucket"
+					count: 10
+					id: "621D5B09E644672B"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "197DCEB91ACB8500"
-					item: "create:experience_nugget"
+					count: 16
+					id: "561D6F8374EB8392"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -938,12 +1251,19 @@
 		{
 			dependencies: ["3BD34BECB3715004"]
 			id: "025E2445CE7882B7"
-			rewards: [{
-				count: 10
-				id: "210B1A48816B93E2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "08A57874DAF22508"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "105A325B1915C36B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "сила обсидиана"
 			tasks: [{
 				id: "1A0ADBF942E366D7"
@@ -956,12 +1276,19 @@
 		{
 			dependencies: ["025E2445CE7882B7"]
 			id: "5F9BDB075DA4B605"
-			rewards: [{
-				count: 10
-				id: "05A5660970A5B989"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5A38EE2A22CC0F8B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5D75CBB9F693A51B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "удачи найти жилу"
 			tasks: [{
 				id: "22CAA0117ACC23FD"
@@ -974,12 +1301,19 @@
 		{
 			dependencies: ["025E2445CE7882B7"]
 			id: "373D0D5876AA0357"
-			rewards: [{
-				count: 10
-				id: "35597387A7F785CA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "75326AABE05D154D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6954B0CD2F119E6A"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "удачи найти жилу x2"
 			tasks: [{
 				id: "2B475DEDED1E11FA"
@@ -992,19 +1326,27 @@
 		{
 			dependencies: ["07E439599AE81271"]
 			id: "278001D4362B1D54"
-			rewards: [{
-				count: 10
-				id: "22B548D38DC8387F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31F4169AFFED1BDD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0D595A2A164FECC7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "355877AC699F2DE5"
 				item: "create:track_station"
 				type: "item"
 			}]
 			title: "паровозик томас буде"
-			x: 17.5d
+			x: 15.0d
 			y: 10.0d
 		}
 		{
@@ -1013,20 +1355,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "575637A0E3EAB36E"
-					item: "create:track_signal"
-					type: "item"
-				}
-				{
-					count: 10
-					id: "52F61C276AF65EB0"
+					id: "3C4962420F11C48A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "44BD6A04092DED18"
-					item: "railways:semaphore"
+					count: 16
+					id: "0E376DD733D4F2E4"
+					item: "numismatics:spur"
 					type: "item"
 				}
 			]
@@ -1036,18 +1372,26 @@
 				item: "create:track_signal"
 				type: "item"
 			}]
-			x: 15.0d
+			x: 17.5d
 			y: 10.0d
 		}
 		{
 			dependencies: ["07E439599AE81271"]
 			id: "1C099A2AE5B5F8A4"
-			rewards: [{
-				count: 10
-				id: "403357B531DF6438"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "500CE02E5470DC8B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7A4CC67071EB2292"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "автоотцепка"
 			tasks: [{
 				id: "1E9ABE5BC4E695B3"
@@ -1060,12 +1404,20 @@
 		{
 			dependencies: ["07E439599AE81271"]
 			id: "68698F2AFA046435"
-			rewards: [{
-				count: 10
-				id: "1A378F495DE8E222"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "338E743AC1E043CD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "77E2D083AE3E48FE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "он следит за тобой"
 			tasks: [{
 				id: "66828AF74157C13B"
@@ -1080,20 +1432,15 @@
 			id: "2426D55A3C90AE83"
 			rewards: [
 				{
-					id: "2FE7FC91063B93CD"
-					item: {
-						Count: 1
-						id: "create:super_glue"
-						tag: {
-							Damage: 0
-						}
-					}
+					count: 10
+					id: "10707726A5C725A3"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "20B05AE2FCD25E29"
-					item: "create:experience_nugget"
+					count: 2
+					id: "3FA7B3BB28A1CAB8"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -1109,12 +1456,20 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "6BB93D08D5091631"
-			rewards: [{
-				count: 10
-				id: "5E24657F7B7BEE87"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3919BE9E1CEB828E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "23C1EFA37146534D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "45F5B5CDCC0D8757"
 				item: "create:copper_sheet"
@@ -1126,12 +1481,20 @@
 		{
 			dependencies: ["6BB93D08D5091631"]
 			id: "14DBDE2EC071C433"
-			rewards: [{
-				count: 10
-				id: "1620442EB3840649"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7F313B1283AC7B47"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "735049B97DC76750"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "57BD527656DB3FA2"
 				item: "create:fluid_pipe"
@@ -1143,12 +1506,20 @@
 		{
 			dependencies: ["14DBDE2EC071C433"]
 			id: "7291ADC3E0A8B4BE"
-			rewards: [{
-				count: 10
-				id: "2CF8402966C1DB94"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0C50B0FBBDC29AC3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "47AD469E5D40DE14"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "04860F959696115E"
 				item: "create:smart_fluid_pipe"
@@ -1160,12 +1531,20 @@
 		{
 			dependencies: ["14DBDE2EC071C433"]
 			id: "7A2259097979E855"
-			rewards: [{
-				count: 10
-				id: "45E18F132DC45634"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "12138949CF9DE357"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "01EE1B9D748601DC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "668EC2D6FBD7B202"
 				item: "create:mechanical_pump"
@@ -1177,12 +1556,20 @@
 		{
 			dependencies: ["14DBDE2EC071C433"]
 			id: "43389F807D953122"
-			rewards: [{
-				count: 10
-				id: "2D79338BEA37AD62"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "51DE4FBFECD38B61"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2025F4DF49E07BE9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A4B89B4321BA45E"
 				item: "create:fluid_valve"
@@ -1194,11 +1581,20 @@
 		{
 			dependencies: ["11504B969800FB55"]
 			id: "2C375B0A85987CC9"
-			rewards: [{
-				id: "066E3EEE5034F81E"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "532D1FD2CC4CBA40"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "729251F776AB3664"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "энергия из воды"
 			tasks: [{
 				id: "110550773EC118F0"
@@ -1211,12 +1607,20 @@
 		{
 			dependencies: ["2C375B0A85987CC9"]
 			id: "42CCEF4346652DCB"
-			rewards: [{
-				count: 10
-				id: "609F5A8A487CC5B3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "739BA59D31E0080A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "48F5F4FF35D2D3C4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1C1F711E9C8AAFAB"
 				item: "create:large_water_wheel"
@@ -1228,12 +1632,20 @@
 		{
 			dependencies: ["59F29BBBE32C2246"]
 			id: "62B2D7437D5F68F0"
-			rewards: [{
-				count: 10
-				id: "387B29797FA3B084"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3C86FD93BCB6ACFC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1C1A69DCA49E95C6"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "энергия из воздуха"
 			tasks: [{
 				id: "54D63BFDDF8D0F17"
@@ -1246,12 +1658,20 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "38135C8889E267B4"
-			rewards: [{
-				count: 10
-				id: "4FCB6760473B1249"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6FC0C01CF14CB3BA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "300538867095BCD0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "энергия из пара"
 			tasks: [{
 				id: "6908D046B8BDDFEF"
@@ -1264,12 +1684,20 @@
 		{
 			dependencies: ["1EF4FB73D61B1302"]
 			id: "492B0FD4F7D832DC"
-			rewards: [{
-				count: 10
-				id: "5BA07424D313C076"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "30045EA221771254"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4A8F0AA49E72C352"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "оно свистит"
 			tasks: [{
 				id: "77F38EA4FB5E9984"
@@ -1282,12 +1710,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "171E77A190ECEE85"
-			rewards: [{
-				count: 10
-				id: "5E51D974780C27F7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "389A637C9EE38FF9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "00DDF8E7C3489AED"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "69939B2CAF752A51"
 				item: "create:clutch"
@@ -1299,12 +1735,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "436406D4CE3659C4"
-			rewards: [{
-				count: 10
-				id: "03E093D396B5367D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "231C7F8FB48066BD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3BE861C14815EF3A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "70E1DAB32076C7FF"
 				item: "create:gearshift"
@@ -1316,12 +1760,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "649C968A4A0B91F5"
-			rewards: [{
-				count: 10
-				id: "73DB378FB1FD012C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5DC250D317374D41"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "60E9401913ACE66E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1A1D8A08CDA375F5"
 				item: "create:encased_chain_drive"
@@ -1333,12 +1785,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "2047A96375401E97"
-			rewards: [{
-				count: 10
-				id: "3F6E0713A70F513C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4BFE8B747EF7FCAB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "206F790AE4B2F6E9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6CAE060DC78CB9C2"
 				item: "create:adjustable_chain_gearshift"
@@ -1350,12 +1810,20 @@
 		{
 			dependencies: ["381E139E8CA587D1"]
 			id: "62B9F6A3FFF65DE0"
-			rewards: [{
-				count: 10
-				id: "508B57ED714FB3F4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "73EC7C0DC324F7B8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1C54A11C1E45980D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "050848E01A277C3F"
 				item: "create:nozzle"
@@ -1367,12 +1835,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "78BC34066F016406"
-			rewards: [{
-				count: 10
-				id: "49FCF2A9C740237F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3E7BA46D11F887E9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "26F2DAA3AAAE8DA9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "энергия из рук"
 			tasks: [{
 				id: "6642B7777EA22E88"
@@ -1385,12 +1861,20 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "35C82FDF057B5828"
-			rewards: [{
-				count: 10
-				id: "744A50BABEC7EAC0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4CDF719770810D5D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "12306225043A41DF"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7D1A305A7FE2975A"
 				item: "create:clockwork_bearing"
@@ -1402,12 +1886,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "1242C650ABBA0543"
-			rewards: [{
-				count: 10
-				id: "37729D5C1F30A516"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F7E08A2D8007352"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "131156458017F5E3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7986D2705F3DF6F0"
 				item: "create:cuckoo_clock"
@@ -1419,12 +1911,20 @@
 		{
 			dependencies: ["1242C650ABBA0543"]
 			id: "01AD92F43C2B84A9"
-			rewards: [{
-				count: 10
-				id: "7C591D751FA7CC10"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "07ADD79EBFE31337"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "75CC5A99A50C831E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7711956587A83AA1"
 				item: "create:mysterious_cuckoo_clock"
@@ -1436,12 +1936,20 @@
 		{
 			dependencies: ["6BB93D08D5091631"]
 			id: "775EE3F97CA00EA5"
-			rewards: [{
-				count: 10
-				id: "037710D558F0E86E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5B4D6B97A369ABDC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1BF701205568B5F4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "679916651B17BF86"
 				item: "create:copper_valve_handle"
@@ -1453,12 +1961,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "7E02769DCE2E9577"
-			rewards: [{
-				count: 10
-				id: "004C4B6BEDBE945D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F670E31AA1DB46F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "44139B9DF523038B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "455FA5DA6C5715F6"
 				item: "create:speedometer"
@@ -1470,12 +1986,20 @@
 		{
 			dependencies: ["7E02769DCE2E9577"]
 			id: "23B34D95699D398C"
-			rewards: [{
-				count: 10
-				id: "5A30E0B2ED5A9CD4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "755CECEF5C0B7E1D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2AC5ABD558EA12D7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F3F39064FDB268C"
 				item: "create:stressometer"
@@ -1487,12 +2011,20 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "69803A19E01B6FBA"
-			rewards: [{
-				count: 10
-				id: "05C0D386649226D3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7D3A12E392EB55A7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1C773837B8BDE09F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7F56A5625AD404B5"
 				item: "create:crushing_wheel"
@@ -1504,29 +2036,45 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "46F9DA532703EDF2"
-			rewards: [{
-				count: 10
-				id: "0EACA2ABE406AB5C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31586CEC04172B17"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7457D17CDE1721F5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4EE30D3A0BE288FE"
 				item: "create:basin"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 5.0d
 		}
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "1968909477362FA1"
-			rewards: [{
-				count: 10
-				id: "438577779B945E71"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7638D04541F8DD24"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "583BB87F06AD8C22"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "574F2576AB9CA628"
 				item: "create:depot"
@@ -1538,12 +2086,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "4EA3DB27370C7388"
-			rewards: [{
-				count: 10
-				id: "330DE2015D5C4B85"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "54087286175C8A6D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "01CB24DEDFDAB71B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3165890B85B4112E"
 				item: "create:weighted_ejector"
@@ -1555,12 +2111,20 @@
 		{
 			dependencies: ["231146B80A89D694"]
 			id: "68BE0E0367A39911"
-			rewards: [{
-				count: 10
-				id: "006EE9EBD3089614"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "37496B0F842BEF73"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "142779D788006F6D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "369BA819ADE02931"
 				item: "create:chute"
@@ -1576,12 +2140,20 @@
 				"1F22D2165BF7894B"
 			]
 			id: "2FFEFDA4C960024C"
-			rewards: [{
-				count: 10
-				id: "5D5D0E7F4A1C7648"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "323C0AEE48137284"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "285CBF67D5D9BD81"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1115172EE8524E4C"
 				item: "create:smart_chute"
@@ -1593,12 +2165,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "391B1DCFC341DBD6"
-			rewards: [{
-				count: 10
-				id: "13D7389933B2877E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3C1DD524687C3337"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5AD244382E1F5220"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "72F52623B9A1D5AD"
 				item: "create:mechanical_piston"
@@ -1610,12 +2190,20 @@
 		{
 			dependencies: ["391B1DCFC341DBD6"]
 			id: "0253EB5BB55FD1AB"
-			rewards: [{
-				count: 10
-				id: "1D9A434B3D67553A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3845B3826FAAAA7A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "79BEA43D72FC2296"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "63B66CE746648CDB"
 				item: "create:sticky_mechanical_piston"
@@ -1627,12 +2215,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "534D2E47943ADB84"
-			rewards: [{
-				count: 10
-				id: "5D16236D64BEB834"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "791DB591F8842D0F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7A3453C4C9874E1C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6DC220B12378E617"
 				item: "create:linear_chassis"
@@ -1644,12 +2240,20 @@
 		{
 			dependencies: ["534D2E47943ADB84"]
 			id: "65FF40CD59A9F38D"
-			rewards: [{
-				count: 10
-				id: "789CDF147671CC1B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "59DAD182B0383A19"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "068D9B80B0FD7931"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4A81FA189A3ECBD0"
 				item: "create:secondary_linear_chassis"
@@ -1661,12 +2265,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "6C3EEBF4411D3473"
-			rewards: [{
-				count: 10
-				id: "20B50E8B3270546E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1288800CBFD98987"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4FEFC6AC72DF1035"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1D4EDD265EE093C0"
 				item: "create:gantry_carriage"
@@ -1678,12 +2290,20 @@
 		{
 			dependencies: ["6C3EEBF4411D3473"]
 			id: "3FA30989B2708CD8"
-			rewards: [{
-				count: 10
-				id: "47EA485A5EC725E2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6EE67CE9B0837E48"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "73A6F8A8DB57A11A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2944365B88C53ADD"
 				item: "create:gantry_shaft"
@@ -1695,12 +2315,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "019E2EF289280900"
-			rewards: [{
-				count: 10
-				id: "4F23E172186280C2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "137751C08BE47D7B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7A09C665719BBACA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "64989FC61313534A"
 				item: "create:mechanical_bearing"
@@ -1712,12 +2340,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "6B3733FDDE3CF96C"
-			rewards: [{
-				count: 10
-				id: "2DB76EC8F10692D2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6466BA1D0BB3053D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6FFF6DD842D6C5A1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0C4903B5BF99C548"
 				item: "create:rope_pulley"
@@ -1729,12 +2365,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "1D49A68AE7D3C1F3"
-			rewards: [{
-				count: 10
-				id: "12B0F3C82E1972D1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "52B87B6932972306"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0869D3E3AD7BA2C7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "16F85DC9B9AA041E"
 				item: "create:cart_assembler"
@@ -1746,12 +2390,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "28CB76463EADB77A"
-			rewards: [{
-				count: 10
-				id: "3DD6E6E60DE3E9E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "18412424ECF6F92C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "48F530B6A9253C00"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3DEED609A71498E8"
 				item: "create:sticker"
@@ -1766,12 +2418,20 @@
 				"1F22D2165BF7894B"
 			]
 			id: "6237F9BF46573881"
-			rewards: [{
-				count: 10
-				id: "366B9582F4EE182C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0A1DACEDEA14A4CE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "51EE7FEC255950F5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "11954A814FA9A275"
 				item: "create:contraption_controls"
@@ -1783,12 +2443,20 @@
 		{
 			dependencies: ["3A7DA7250A30BA67"]
 			id: "4143DA29899DA760"
-			rewards: [{
-				count: 10
-				id: "1685E60ADC74C47A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "32B6C738CC11B5DE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3205A162543EE43E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "719C51FAA8FB7C4D"
 				item: "create:portable_storage_interface"
@@ -1800,12 +2468,20 @@
 		{
 			dependencies: ["43BA6BB5D7BCB8EE"]
 			id: "39C7F8CFEE8BFB41"
-			rewards: [{
-				count: 10
-				id: "53EBD11EC18FFE21"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "00077D815BA49B3B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "26C458C825543738"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6F17F86E19A56BAF"
 				item: "create:redstone_contact"
@@ -1817,12 +2493,20 @@
 		{
 			dependencies: ["69803A19E01B6FBA"]
 			id: "5B0BF37B24893D1D"
-			rewards: [{
-				count: 10
-				id: "3EB99224ED0EDC78"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "14E963570E6AB6CF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "51BBE14746DFE1D0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "354E2FD28E648609"
 				item: "create:mechanical_roller"
@@ -1834,12 +2518,20 @@
 		{
 			dependencies: ["62B2D7437D5F68F0"]
 			id: "792FB3AF78842D3A"
-			rewards: [{
-				count: 10
-				id: "323C836AC9AFCEC7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0C122471D3F8552F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6995AC0812EF5CA5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5F84743849CFA134"
 				item: "create:white_sail"
@@ -1851,12 +2543,20 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "0124D903AA885CA0"
-			rewards: [{
-				count: 10
-				id: "7AD1DFC093460CB5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "123E49F92D856826"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "28EC310AC5BCBCE1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3E07F07E4EC8BD50"
 				item: "create:sequenced_gearshift"
@@ -1868,12 +2568,20 @@
 		{
 			dependencies: ["3ED12DCD197C601F"]
 			id: "207778BEE357331F"
-			rewards: [{
-				count: 10
-				id: "110C5FCEF49FA177"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "53554874885D5A0B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "03EC8FBFB9975F8E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5AE2BCF80FCE4CF4"
 				item: "create:flywheel"
@@ -1885,12 +2593,20 @@
 		{
 			dependencies: ["4D7E0B05791020F3"]
 			id: "6CA0BCCA8892C004"
-			rewards: [{
-				count: 10
-				id: "193A43D9D05364AA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4C741F26670E5BBB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2BE4005026580D7A"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "67C51B8E8D0C5477"
 				item: "create:track"
@@ -1902,12 +2618,20 @@
 		{
 			dependencies: ["025E2445CE7882B7"]
 			id: "52E2F00535B8AF56"
-			rewards: [{
-				count: 10
-				id: "3649AD60C97A99F5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "05803A29FF074D75"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5A720369A7AB5335"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "факторио момент"
 			tasks: [{
 				id: "691AAB1D28C679F0"
@@ -1923,12 +2647,20 @@
 				"2BEBB76B07C1FD29"
 			]
 			id: "382AA9007C7BB422"
-			rewards: [{
-				count: 10
-				id: "202CA05F3B452F1C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6640B91C335CEED0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "101F7B66EAC65F24"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4FB5FA138F665301"
 				item: "create:andesite_funnel"
@@ -1944,12 +2676,20 @@
 				"382AA9007C7BB422"
 			]
 			id: "3926D2F928935CF3"
-			rewards: [{
-				count: 10
-				id: "579FD28CB5D1B137"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "356AE31F38579A19"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2E873EC84F827195"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "254A81751A863352"
 				item: "create:brass_funnel"
@@ -1964,12 +2704,20 @@
 				"2BEBB76B07C1FD29"
 			]
 			id: "13C0D97F09B33411"
-			rewards: [{
-				count: 10
-				id: "11532FF07448D5B1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "07207D710F4F2CAF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "56BF7B47DAC5B8CC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F47F7BC79F01899"
 				item: "create:andesite_tunnel"
@@ -1985,12 +2733,20 @@
 				"52F1355877D52091"
 			]
 			id: "1CD0C54FEFBEF49F"
-			rewards: [{
-				count: 10
-				id: "268E7FFE83DCBF6A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6D66775DCBFDC04C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3EFF0B7E4D071670"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6C10E8D1E4351651"
 				item: "create:brass_tunnel"
@@ -2001,12 +2757,20 @@
 		}
 		{
 			id: "297ADD1CA151EC1A"
-			rewards: [{
-				count: 10
-				id: "7989F213631C6D19"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7D3F9AD284285A02"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "72848350008BE005"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4C8C238CEB03C1DD"
 				item: "minecraft:kelp"
@@ -2018,12 +2782,20 @@
 		{
 			dependencies: ["297ADD1CA151EC1A"]
 			id: "7CC527D73886A025"
-			rewards: [{
-				count: 10
-				id: "7D5FEBE33F50699B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6A9372ECC818B340"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "525FE6C94F58D8AC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "535B63009DC7DFB6"
 				item: "minecraft:dried_kelp"
@@ -2035,12 +2807,20 @@
 		{
 			dependencies: ["7CC527D73886A025"]
 			id: "735F565F31DE8BCB"
-			rewards: [{
-				count: 10
-				id: "1423D974D7E9A26A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2ADEF39A461EC16D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5997FAEC938BE41F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "27F575B5274209A1"
 				item: "create:belt_connector"
@@ -2052,12 +2832,20 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "6E83DBE83FE4808D"
-			rewards: [{
-				count: 10
-				id: "574A36042C276305"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "58C038B1EEEAF94F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "43FC886F39C1332A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "466619F4724E018D"
 				item: "minecraft:observer"
@@ -2073,12 +2861,20 @@
 				"3CFA8FCBE941BCB8"
 			]
 			id: "21E4DD60F5A1F523"
-			rewards: [{
-				count: 10
-				id: "34D248B75F1558CC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7789A10345F43140"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2A57998B30880C54"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "35130A5CF4203A3C"
 				item: "create:content_observer"
@@ -2093,12 +2889,20 @@
 				"1F22D2165BF7894B"
 			]
 			id: "06C5EDE480E12246"
-			rewards: [{
-				count: 10
-				id: "59C1693F79661983"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F83314239E3BAEF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4EA249F1883128AE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1C3FEC622F2C1F3A"
 				item: "create:stockpile_switch"
@@ -2110,12 +2914,20 @@
 		{
 			dependencies: ["65F139D048F71327"]
 			id: "02858030F783E1AF"
-			rewards: [{
-				count: 10
-				id: "522DEBEEF406529D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1703DE9BC80616CA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "79CFC3EC2B0E09F7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A6BB16CDA1FCE2E"
 				item: "create:display_link"
@@ -2127,12 +2939,20 @@
 		{
 			dependencies: ["7A51632F6A921C75"]
 			id: "6CAC02861037B9DD"
-			rewards: [{
-				count: 10
-				id: "73251DAA92DD8EF2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "359A7605E4F6A2F0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5E4537142EEF4D74"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "640CE5A7B845CF2A"
 				item: "create:display_board"
@@ -2144,12 +2964,20 @@
 		{
 			dependencies: ["7A51632F6A921C75"]
 			id: "20F05B0FFC187C80"
-			rewards: [{
-				count: 10
-				id: "474510D4DC983FC9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "29AEB28066ECDEFA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "047154222487378C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5D47F1B1C90E43E3"
 				item: "create:nixie_tube"
@@ -2161,12 +2989,20 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "2F0EDB693EE48BC4"
-			rewards: [{
-				count: 10
-				id: "165EAA221D83DF30"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1C1476453E008C22"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3DD1FD17C252F00B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "76751FB1B6B412D8"
 				item: "minecraft:lever"
@@ -2181,12 +3017,20 @@
 				"43D342CD32101F84"
 			]
 			id: "6E3687AC10F76E54"
-			rewards: [{
-				count: 10
-				id: "2372B79F39A8850F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "17ED3A6979197AC5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "167181B58EC5A0A5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7F5ADACE4343EE33"
 				item: "create:analog_lever"
@@ -2198,12 +3042,20 @@
 		{
 			dependencies: ["2F0EDB693EE48BC4"]
 			id: "0751D20900EFDF9A"
-			rewards: [{
-				count: 10
-				id: "15E971C3FE22EC55"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3ADDABE1C48DABC4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "55F947B4FCF702F4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7F5E781DF5084B6B"
 				item: "design_decor:breaker_switch"
@@ -2215,12 +3067,20 @@
 		{
 			dependencies: ["6E3687AC10F76E54"]
 			id: "4C1711AA4E2301A3"
-			rewards: [{
-				count: 10
-				id: "1505CDFFA6B92241"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3DD7650139135CF5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2527F3C8E4D38A18"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2B89E1F57D77D21B"
 				item: "design_decor:stepped_lever"
@@ -2234,15 +3094,15 @@
 			id: "1B1EC3F9D8A8F94E"
 			rewards: [
 				{
-					count: 32
-					id: "34CD5A5E2880CFED"
-					item: "create:sweet_roll"
+					count: 10
+					id: "28B2BB19748BA208"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "4578AE3F0A541C55"
-					item: "create:experience_nugget"
+					count: 2
+					id: "07A3A593F21404BA"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2260,15 +3120,15 @@
 			id: "652E30A53EB67FDD"
 			rewards: [
 				{
-					count: 32
-					id: "6AF3E49AF54710E6"
-					item: "create:chocolate_glazed_berries"
+					count: 10
+					id: "764DA2A474BD4A69"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "03FCCE93F4A6B9FA"
-					item: "create:experience_nugget"
+					count: 2
+					id: "1027305BFA4AC963"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2286,15 +3146,15 @@
 			id: "49B0179F26000E5F"
 			rewards: [
 				{
-					count: 32
-					id: "446238AA98483480"
-					item: "create:honeyed_apple"
+					count: 10
+					id: "555844D5C150E077"
+					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 10
-					id: "1489BA1078F26216"
-					item: "create:experience_nugget"
+					count: 2
+					id: "4A18406B93F32DE7"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2309,12 +3169,20 @@
 		}
 		{
 			id: "232CAB1CB2770A01"
-			rewards: [{
-				count: 10
-				id: "288304D1B0B4B4C1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "02E29AEC8D8CF38E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "09733B258A615CA3"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "42E30FD3BFFB11EE"
 				item: "create:goggles"
@@ -2325,12 +3193,20 @@
 		}
 		{
 			id: "68F078F60010FF55"
-			rewards: [{
-				count: 10
-				id: "2835933696AD6B26"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "732E0D19C1CFD2EC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4688A0774FBF0149"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "08BCD857859EE66C"
 				item: "create:wrench"
@@ -2342,12 +3218,20 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "2D177D6DAA08BE69"
-			rewards: [{
-				count: 10
-				id: "68C2CA20264EB6CD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1605F30DFCD9D84C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "623AFC6128D84BF8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "45A4743767217B39"
 				item: {
@@ -2365,12 +3249,20 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "3A19C859AE187823"
-			rewards: [{
-				count: 10
-				id: "4B27869768EC12A8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7AA615B95923717B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7625BBE8E57B20CE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "393E799304DEF58B"
 				item: {
@@ -2388,12 +3280,20 @@
 		{
 			dependencies: ["050AA88D1F85A4BB"]
 			id: "39E97791FA86E093"
-			rewards: [{
-				count: 10
-				id: "64CB6636B2FEC8D6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2D868880041D0FAE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "55C5DC62E431CE99"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "60899338E21E35B6"
 				item: {
@@ -2411,12 +3311,20 @@
 		{
 			dependencies: ["2D177D6DAA08BE69"]
 			id: "763CC2A1D2366D85"
-			rewards: [{
-				count: 10
-				id: "28C70A9E77DFD3FF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "26C2E6E0A68572C8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7C88E0B422D012DE"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "75EBD4A22DFB3339"
 				item: {
@@ -2434,12 +3342,20 @@
 		{
 			dependencies: ["3A19C859AE187823"]
 			id: "76EB04B6ECAA25D9"
-			rewards: [{
-				count: 10
-				id: "7CE38E9B035013A6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "37044AA69FA47273"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "519A464D761881E7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "454ADF443F171A8F"
 				item: {
@@ -2455,37 +3371,22 @@
 			y: -7.5d
 		}
 		{
-			dependencies: ["39E97791FA86E093"]
-			id: "1DF994A12989EA84"
-			rewards: [{
-				count: 10
-				id: "423435AABDCBDAF3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
-			tasks: [{
-				id: "51BD9DCA5EA4BAB0"
-				item: {
-					Count: 1
-					id: "create:netherite_diving_boots"
-					tag: {
-						Damage: 0
-					}
-				}
-				type: "item"
-			}]
-			x: 12.5d
-			y: -7.5d
-		}
-		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "69F13729EA371B6E"
-			rewards: [{
-				count: 10
-				id: "55975F6AAF20C256"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "02152ABE99E4CE0D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "34479A4D8CF5BEDD"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "481586D9538592F1"
 				item: {
@@ -2503,12 +3404,20 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "35675EA5C7E90DF7"
-			rewards: [{
-				count: 10
-				id: "2D9A210942190284"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3176E66A64E5D768"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6F33187524F663A7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "68677BBE9333C401"
 				item: {
@@ -2526,12 +3435,20 @@
 		{
 			dependencies: ["6651ED6E824A4B0F"]
 			id: "130BCA9764D5BA9F"
-			rewards: [{
-				count: 10
-				id: "1D02C30D8319626B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "56F6F3373DC553F7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7515518294FC65D4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "119821BA6621BC62"
 				item: "create:wand_of_symmetry"
@@ -2543,12 +3460,20 @@
 		{
 			dependencies: ["52F1355877D52091"]
 			id: "4918A7FB348B37FE"
-			rewards: [{
-				count: 10
-				id: "3B1FADC741FED86B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7A4FB274563C2AD3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4A2171B1127E83C5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0B1B5AC74C362D4B"
 				item: "create:peculiar_bell"
@@ -2560,12 +3485,20 @@
 		{
 			dependencies: ["4918A7FB348B37FE"]
 			id: "64FA45A4B132A125"
-			rewards: [{
-				count: 10
-				id: "11D0EE937F25A876"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "11E2EEE9B91CFE66"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "46E978E63A563813"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6D9528EF45C3AE9C"
 				item: "create:haunted_bell"
@@ -2576,12 +3509,20 @@
 		}
 		{
 			id: "77153D971E449878"
-			rewards: [{
-				count: 10
-				id: "2756BAFE917E5AFF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "757E4C1D2F3A8E80"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "731ECC8C0A41DB59"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "72CCEB8E3A702171"
 				item: "create:brown_toolbox"
@@ -2593,12 +3534,20 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "04CC0AAB511EE377"
-			rewards: [{
-				count: 10
-				id: "3ECF5D5894574D78"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3213D371A1C785FD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "68232F57EE07285A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "19AB4AA84C108DBE"
 				item: "create:clipboard"
@@ -2610,12 +3559,20 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "588D7B9FCB74DFC1"
-			rewards: [{
-				count: 10
-				id: "68B281A30FA504E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "77D6B48B648210AF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "66FCE1943551D1EB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "468A74EF5AD4922F"
 				item: "create:filter"
@@ -2630,12 +3587,20 @@
 				"52F1355877D52091"
 			]
 			id: "531D80353A93137D"
-			rewards: [{
-				count: 10
-				id: "05D1D9018BB66482"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6D280CCC0ADC37C6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4108EB3562C5250F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "052B641777DFB232"
 				item: "create:attribute_filter"
@@ -2647,12 +3612,20 @@
 		{
 			dependencies: ["70315E55A563E053"]
 			id: "1DBA8049BDEE1E1C"
-			rewards: [{
-				count: 10
-				id: "464D3123CC0BF19F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "76C34D9A11E3A196"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0E1759C442B96AA3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1C475335998656A3"
 				item: "create:radial_chassis"
@@ -2663,12 +3636,20 @@
 		}
 		{
 			id: "4D842674AF727408"
-			rewards: [{
-				count: 10
-				id: "2F61FF2DDD63EFDD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6191C88B1D0B560E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6A0F1D9A5DFB9A82"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Вещь которая позволяет очень удобно крафтить "
 			tasks: [{
 				id: "094113FBAE45ACF2"
@@ -2681,12 +3662,20 @@
 		{
 			dependencies: ["30272C5C716A8085"]
 			id: "04802CC5F1B792B1"
-			rewards: [{
-				count: 10
-				id: "5051DC3713D84F74"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "63B7D8F6408FDE78"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "176DA58D068E5D5B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0C9846B61420701B"
 				item: "create:linked_controller"
@@ -2698,12 +3687,20 @@
 		{
 			dependencies: ["317B0DB7425F95AD"]
 			id: "49A97F3E660EE194"
-			rewards: [{
-				count: 10
-				id: "2F0666C9639E3C33"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3CECCEA13BA207AF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5580BE2E6392D88D"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7A6EE60DAA8CCB48"
 				item: {
@@ -2721,12 +3718,19 @@
 		{
 			dependencies: ["49A97F3E660EE194"]
 			id: "59C72A492138C2E1"
-			rewards: [{
-				count: 10
-				id: "6FACAE5213D2C0A6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "417EB162ADCAB230"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2D9C79BFFE91D107"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0EFDDADB3C7922E6"
 				item: {
@@ -2744,12 +3748,20 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "474419F945B1F3D7"
-			rewards: [{
-				count: 10
-				id: "66C214DB2E526D10"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6A39CB5EA76D8D8F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "52BBAF3987648288"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "341CEA33498AE052"
 				item: "create:empty_schematic"
@@ -2761,12 +3773,20 @@
 		{
 			dependencies: ["474419F945B1F3D7"]
 			id: "43FC805646578EC9"
-			rewards: [{
-				count: 10
-				id: "20A71CF975D4E28B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "02C627B1461C9AEE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1499E26CF9F9B583"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1B35CB2B4B147ADE"
 				item: "create:schematic_table"
@@ -2778,12 +3798,19 @@
 		{
 			dependencies: ["43FC805646578EC9"]
 			id: "350EFFDC3395CD63"
-			rewards: [{
-				count: 10
-				id: "415F5A38033A1AEA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "01A57CF3159D6D8B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "334CDF773CA68B84"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "265E699BCB2601A6"
 				item: "create:schematicannon"
@@ -2795,12 +3822,20 @@
 		{
 			dependencies: ["474419F945B1F3D7"]
 			id: "5649D03E23F162A5"
-			rewards: [{
-				count: 10
-				id: "495ADEC531D5D353"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7417CC62B2B8024E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4537EF9C6F97F131"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2A1296B5FA27E346"
 				item: "create:schematic_and_quill"
@@ -2825,12 +3860,20 @@
 		{
 			dependencies: ["4571B6E47BDCCF20"]
 			id: "5FC168F29500AEDF"
-			rewards: [{
-				count: 10
-				id: "21A31BFC059E9181"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "090995465962D7D1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4F17DA9ECC3869B4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7E4D809A7ED19E2A"
 				item: "createaddition:copper_wire"
@@ -2842,12 +3885,20 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "4571B6E47BDCCF20"
-			rewards: [{
-				count: 10
-				id: "684A978CEE73E7E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7A35C2453421AFE0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "367F8289BB6A2E0B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7E47760E0B7A1D6F"
 				item: "createaddition:spool"
@@ -2859,12 +3910,20 @@
 		{
 			dependencies: ["4571B6E47BDCCF20"]
 			id: "2852355EBFFBDE62"
-			rewards: [{
-				count: 10
-				id: "3E9B188083DAC7EC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "59E0218CE8FA636D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5D27D5F98ADC5BF3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "396229EF5936F8A0"
 				item: "createaddition:gold_wire"
@@ -2876,12 +3935,20 @@
 		{
 			dependencies: ["5FC168F29500AEDF"]
 			id: "0906D64C157E7C6A"
-			rewards: [{
-				count: 10
-				id: "2527AE009C6161D0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2E1C91D3DFE91AE8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2C3CD4ED39469350"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3622E83DC6A8D56C"
 				item: "createaddition:copper_spool"
@@ -2893,12 +3960,20 @@
 		{
 			dependencies: ["2852355EBFFBDE62"]
 			id: "2A2C9B0FCA151195"
-			rewards: [{
-				count: 10
-				id: "4BF2E25E88BC8D82"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2D5F250F91A87B80"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "04A6E45BF3D3CE58"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4D893849270B2A45"
 				item: "createaddition:gold_spool"
@@ -2910,12 +3985,20 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "3EFE25A81B9C1BF1"
-			rewards: [{
-				count: 10
-				id: "3A64220A2D47D5A9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "103D3ACD6CCC7369"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1BD32580F8E27F46"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4AD29794E25335B5"
 				item: "createaddition:copper_rod"
@@ -2927,12 +4010,20 @@
 		{
 			dependencies: ["3EFE25A81B9C1BF1"]
 			id: "233A135D5FE4EB43"
-			rewards: [{
-				count: 10
-				id: "632E35BE92A8F3C7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4707F63C90E6EEBE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "109F5EAE31D29DE9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2BD5C3EA6DAA76FD"
 				item: "createaddition:gold_rod"
@@ -2944,12 +4035,20 @@
 		{
 			dependencies: ["233A135D5FE4EB43"]
 			id: "191EF0A3634D15A1"
-			rewards: [{
-				count: 10
-				id: "6D3EAD4A0AB3D8BF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5622659F87E7D6BE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "48F142E33A0CE508"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1319977770934312"
 				item: "createaddition:large_connector"
@@ -2961,12 +4060,20 @@
 		{
 			dependencies: ["3EFE25A81B9C1BF1"]
 			id: "6EAC4B0D43241735"
-			rewards: [{
-				count: 10
-				id: "7D33F4DF50139CFD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "71A241B098AD6FEA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "718217F86C2010B4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6A21C66676F230BB"
 				item: "createaddition:connector"
@@ -2978,12 +4085,20 @@
 		{
 			dependencies: ["0906D64C157E7C6A"]
 			id: "2E8D065C1D84B552"
-			rewards: [{
-				count: 10
-				id: "3B79A0D0F1F0A009"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "50970522BFA48A32"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "108B43A778B246A8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "475A6A0F8D7F92C8"
 				item: "createaddition:portable_energy_interface"
@@ -2995,12 +4110,20 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "30522D6C52736804"
-			rewards: [{
-				count: 10
-				id: "6867FA435706797E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "439634CBF53310F6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7992388A007EB9AD"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1B7401C4D77E3DE5"
 				item: "createaddition:capacitor"
@@ -3016,12 +4139,20 @@
 				"2852355EBFFBDE62"
 			]
 			id: "7EC01C9EF1044B8D"
-			rewards: [{
-				count: 10
-				id: "4C7AE6529BEBDA17"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "59E9AEFDAD574A23"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "019C92A0A6B574F8"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "00DF2FE19DD18141"
 				item: "createaddition:modular_accumulator"
@@ -3036,12 +4167,20 @@
 				"0906D64C157E7C6A"
 			]
 			id: "59FA89F0AABA2688"
-			rewards: [{
-				count: 10
-				id: "2F3983A501F02C5D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "566484E14308328D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "194206E4B1D083F8"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "611546CA5DDB95D5"
 				item: "createaddition:tesla_coil"
@@ -3053,12 +4192,20 @@
 		{
 			dependencies: ["0906D64C157E7C6A"]
 			id: "14064D64F97DCE8D"
-			rewards: [{
-				count: 10
-				id: "09A12242AE671112"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "49ECC65BD742432F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7131307349C00AA1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3A0B29A4C6A03675"
 				item: "createaddition:festive_spool"
@@ -3070,12 +4217,20 @@
 		{
 			dependencies: ["233A135D5FE4EB43"]
 			id: "2691C5714350B36D"
-			rewards: [{
-				count: 10
-				id: "30EF1BDFCC7E8BE8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5A3BAD8849C3CF09"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7D6AEAE109843DB7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "72819FC692E51113"
 				item: "createaddition:iron_rod"
@@ -3091,12 +4246,19 @@
 				"0906D64C157E7C6A"
 			]
 			id: "5C7CE0DAD3425C5A"
-			rewards: [{
-				count: 10
-				id: "6D97C60B23FCC0F2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4E2E4A007028F85C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3BC9704B02951C7C"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "537C58F15A4E1940"
 				item: "createaddition:alternator"
@@ -3112,12 +4274,19 @@
 				"30522D6C52736804"
 			]
 			id: "639B46DAC00F4177"
-			rewards: [{
-				count: 10
-				id: "636FDA0DCBE86C8F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "70D1DFC3742A231B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0CDC5295DCE2101A"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7E6F1CC38766E75E"
 				item: "createaddition:electric_motor"
@@ -3146,12 +4315,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "0EAAE3243110D5B1"
-			rewards: [{
-				count: 10
-				id: "411BBE4AAF2FD9CD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "103648661A3A3A1A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7EC6CB35BE9A10F5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "68F3A3B5C8F0CD00"
 				item: "createbigcannons:cannon_mount"
@@ -3163,12 +4340,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "1FEA390272188E60"
-			rewards: [{
-				count: 10
-				id: "7EB0CA38D2267453"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "00430796AFA371B6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3EA60E9AEC082E91"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "588373225FC82635"
 				item: "createbigcannons:pair_of_cannon_wheels"
@@ -3180,12 +4365,20 @@
 		{
 			dependencies: ["1FEA390272188E60"]
 			id: "1D23FDF95748E5DD"
-			rewards: [{
-				count: 10
-				id: "32004F6C62B23169"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3B1F40ED5532843E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2FDD5EAE208646B1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2E3821968FEE9A58"
 				item: "createbigcannons:cannon_carriage"
@@ -3197,12 +4390,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "24B38D37CC7198F2"
-			rewards: [{
-				count: 10
-				id: "2A0A918563375957"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5DB7850E813E2090"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6AD8DBCBB4027A16"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "00FBDD8D8A348493"
 				item: "createbigcannons:empty_powder_charge"
@@ -3214,12 +4415,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "70A9CB5D7381773A"
-			rewards: [{
-				count: 10
-				id: "4001220CE0A7D8AB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5A6E5AB7788522DA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "08E705B16519C28B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1178AA17462CDB1B"
 				item: "createbigcannons:packed_gunpowder"
@@ -3234,12 +4443,19 @@
 				"70A9CB5D7381773A"
 			]
 			id: "139D580E798C7A21"
-			rewards: [{
-				count: 10
-				id: "4E24E4D61B11D75E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2F73C24288925DC5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6DF4FD6D13BBB602"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "40600AEC3DBB6BB4"
 				item: "createbigcannons:powder_charge"
@@ -3251,12 +4467,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "2F0B46D4FD09F5D2"
-			rewards: [{
-				count: 10
-				id: "0EEDA116D883B0F1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5482A3EBB56F7E44"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "638B25E377DA79EB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6178DDC36CABDC7A"
 				item: "createbigcannons:solid_shot"
@@ -3268,12 +4492,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "4005E7084B38DB26"
-			rewards: [{
-				count: 10
-				id: "521A377FECFC108E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "43D8F78BFC5DAB56"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3A276FAEAE4751EF"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "49A0F4E390B174DD"
 				item: "createbigcannons:he_shell"
@@ -3285,12 +4517,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "08EA6CCB97392EF4"
-			rewards: [{
-				count: 10
-				id: "7E43874EF9FFD0ED"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "68CD9CC34203A069"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5B517A2EFBFEE1F1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4D4AB90642540D14"
 				item: "createbigcannons:shrapnel_shell"
@@ -3302,12 +4542,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "713A486067ADF7E5"
-			rewards: [{
-				count: 10
-				id: "066D361AA711A352"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "12DFE5D531E084F5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "276B8D206530E3FC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4C2CC82D050DF0D7"
 				item: "createbigcannons:ap_shot"
@@ -3319,12 +4567,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "4342E7E9F6CBF4D7"
-			rewards: [{
-				count: 10
-				id: "79926A7F376F0867"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5685C88FD56D64D7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "50F59FD9550A12FA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "18A0BF909DFA6152"
 				item: "createbigcannons:ap_shell"
@@ -3336,12 +4592,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "038201C03F52E882"
-			rewards: [{
-				count: 10
-				id: "37F55EE384EF03B5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7E36152E3474534E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7D93330A64D8891E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6BCD4CEB712F2B91"
 				item: "createbigcannons:fluid_shell"
@@ -3353,12 +4617,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "773CCF64C35A38C7"
-			rewards: [{
-				count: 10
-				id: "69EC6EEE65E31969"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "45A73C5E69291BB7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "578A5499738C8CD2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7B7F2BAA56B1C03E"
 				item: "createbigcannons:smoke_shell"
@@ -3370,12 +4642,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "3F29EDB5B2BF7841"
-			rewards: [{
-				count: 10
-				id: "322B36B17DDD2F67"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "29C6A7B9E7879A00"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7230ED22FEA073D3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "292204006389B4F6"
 				item: "createbigcannons:drop_mortar_shell"
@@ -3387,12 +4667,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "483E3D2A056C0FA0"
-			rewards: [{
-				count: 10
-				id: "772F9F46D244E88A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "47FB0EA3F89DE019"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "617327647F0F0DEB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A490878CD8C2320"
 				item: "createbigcannons:congealed_nitro"
@@ -3404,12 +4692,20 @@
 		{
 			dependencies: ["483E3D2A056C0FA0"]
 			id: "515D7594672D2D99"
-			rewards: [{
-				count: 10
-				id: "06F13161ABC84928"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "76FD81972B454357"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2CD96A823823518C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "187E97E09011D4C1"
 				item: "createbigcannons:hardened_nitro"
@@ -3421,12 +4717,19 @@
 		{
 			dependencies: ["515D7594672D2D99"]
 			id: "3BF8B96B32C1A9C9"
-			rewards: [{
-				count: 10
-				id: "22ABEDE62D511F90"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "256CC1AC595B6D15"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3733E887F9AE23A5"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "325EF6B4C7D87319"
 				item: "createbigcannons:nitropowder"
@@ -3438,12 +4741,20 @@
 		{
 			dependencies: ["3BF8B96B32C1A9C9"]
 			id: "06E8F1E3DAD606BD"
-			rewards: [{
-				count: 10
-				id: "7733DA993C2A2C63"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4FC9D4D4C7E8E14D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4A866E4A7F71549A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7B9B673DDE34C056"
 				item: {
@@ -3459,12 +4770,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "649414EFFE4A0DB6"
-			rewards: [{
-				count: 10
-				id: "2A1EBBC4303F7DAC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0F0DF5559B3F9247"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "15920CB18F86934A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7BF70636B3F95F36"
 				item: "createbigcannons:bag_of_grapeshot"
@@ -3476,12 +4795,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "2397AE0776E2A2C5"
-			rewards: [{
-				count: 10
-				id: "114E7478C4A1B59A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7CBB9611F908F797"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6412F14C0C2ACCB2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5E558C4248F6F78D"
 				item: "createbigcannons:mortar_stone"
@@ -3493,12 +4820,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "249FDF7FDB04B533"
-			rewards: [{
-				count: 10
-				id: "1808F8C86B68F704"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3EA7836F7FD76231"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3931D00CE38A53B8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "092603E6C6BA4FC6"
 				item: "createbigcannons:impact_fuze"
@@ -3510,12 +4845,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "71AD007E4C9C9EF9"
-			rewards: [{
-				count: 10
-				id: "7877F07F1EF80734"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4FA15BE6DD89F833"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "56EE4EE30E1DE1F5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7028B21239F430CC"
 				item: {
@@ -3531,12 +4874,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "7CC5F7015912A6D6"
-			rewards: [{
-				count: 10
-				id: "5A462C875AE79BDA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6A54B1C1E924B614"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4FDD41A3A2900EB7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7A3E6B11AA90B5E4"
 				item: {
@@ -3552,12 +4903,20 @@
 		{
 			dependencies: ["139D580E798C7A21"]
 			id: "7366925BED007F87"
-			rewards: [{
-				count: 10
-				id: "20A93BE02C71442E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31AC86E73884226F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "59FC6949419C900E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "09C74D8944856134"
 				item: {
@@ -3573,12 +4932,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "00695377885C50CD"
-			rewards: [{
-				count: 10
-				id: "7358C77E2E3D1D8D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "242043057CBD0F17"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1D0270669A27703A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "68D76334BFDE2F8A"
 				item: "createbigcannons:ram_rod"
@@ -3590,12 +4957,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "709689A18DB5B985"
-			rewards: [{
-				count: 10
-				id: "5D15A48A82C13958"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5B72997DC5FE43F7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "175A819603CA6D54"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7CF7C157CDD4AE39"
 				item: "createbigcannons:worm"
@@ -3607,12 +4982,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "5F4EB68A1D7806A4"
-			rewards: [{
-				count: 10
-				id: "1464334E8A265705"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2FBBBD559FB66A65"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4B3E8A045E4EF868"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0925CA03DE38634A"
 				item: {
@@ -3628,12 +5011,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "377F1F7BD5BA938B"
-			rewards: [{
-				count: 10
-				id: "51E1747F4ADD070D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5C346451C80D54D6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7E4CACA32F1BBC90"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6FD619CA4B51A306"
 				item: "createbigcannons:casting_sand"
@@ -3645,12 +5036,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "13843AA4F234817E"
-			rewards: [{
-				count: 10
-				id: "179B5624557A2C08"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "64611AABA26A39DD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3A2418268EFAE4DB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "7B6F970C15A79EFF"
@@ -3674,12 +5073,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "184181E003D9D54E"
-			rewards: [{
-				count: 10
-				id: "59D1BA640B0B2CAA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0F69CDDC80B4AF7F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2C5FE316FF464DAC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "1C721B8F3835C3C6"
@@ -3703,12 +5110,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "1AFCC3FE3D156F2C"
-			rewards: [{
-				count: 10
-				id: "1BCE1CF9042409A9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1B62E245DEFEF54A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5C165C1A13A3FB23"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3D78A030200DE503"
 				item: "createbigcannons:cannon_drill"
@@ -3720,12 +5135,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "38A475C87ED4158F"
-			rewards: [{
-				count: 10
-				id: "37183ED51C833DAA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "48D9A0E638FF3FA9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7FF9A0DE75A0F3BC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "03E91439522121FD"
 				item: "createbigcannons:cannon_loader"
@@ -3737,12 +5160,20 @@
 		{
 			dependencies: ["5DE87CA620821469"]
 			id: "582EDC1C01B05846"
-			rewards: [{
-				count: 10
-				id: "016930471D07240A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4E12BDA934350173"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "275D34051BB85FD0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5918EED3C075894D"
 				item: "createbigcannons:basin_foundry_lid"
@@ -3758,12 +5189,20 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "3869F3FBC5F7FCF2"
-			rewards: [{
-				count: 10
-				id: "182AA813D861C9C7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "56F3C26B7CF1FA5D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0C606AB77FC2EF09"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1BC7D252AE9B76AC"
 				item: "createoreexcavation:drill"
@@ -3775,12 +5214,20 @@
 		{
 			dependencies: ["3869F3FBC5F7FCF2"]
 			id: "15B2A8EE2FA9E03E"
-			rewards: [{
-				count: 10
-				id: "47B764E023A90B37"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "26C4C57C0F0ACCD6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "59630F30C640CDB6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7FFBD8C41937C25E"
 				item: "createoreexcavation:diamond_drill"
@@ -3792,12 +5239,19 @@
 		{
 			dependencies: ["15B2A8EE2FA9E03E"]
 			id: "28124E76B8A5A6DD"
-			rewards: [{
-				count: 10
-				id: "647C31324E67EAB6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5B70B6D1875AD9EB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6C02E5032B94C7A2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "524A661BD0034785"
 				item: "createoreexcavation:netherite_drill"
@@ -3809,12 +5263,20 @@
 		{
 			dependencies: ["2BEBB76B07C1FD29"]
 			id: "49476709E9B7DCDF"
-			rewards: [{
-				count: 10
-				id: "55ACBA4370E98EA7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "19D3DF67961591F8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1557B86E10623ED9"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2D5269AB8B37C517"
 				item: "createoreexcavation:vein_finder"
@@ -3826,12 +5288,20 @@
 		{
 			dependencies: ["118673C387F5DBA4"]
 			id: "6EC0C0BE8A14DD2C"
-			rewards: [{
-				count: 10
-				id: "357BBAB5F716D481"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0323DCC49417B9D5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6291030A2C3DB3B9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0A1F19F63383DF04"
 				item: "create_new_age:generator_coil"
@@ -3843,12 +5313,20 @@
 		{
 			dependencies: ["6EC0C0BE8A14DD2C"]
 			id: "41097841ABD36DF3"
-			rewards: [{
-				count: 10
-				id: "78CCDD9421A34142"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2342F68108AD5BAC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "279B9CE56063AC50"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "56C26C16CB6ADC4A"
 				item: "create_new_age:carbon_brushes"
@@ -3860,13 +5338,22 @@
 		{
 			dependencies: ["41097841ABD36DF3"]
 			id: "725839A16B5C0E76"
-			rewards: [{
-				count: 10
-				id: "4E9DF5B4EE531597"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2086923122D2876F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "74DACF909BBF18CE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
+				count: 12L
 				id: "4B42E938973B62D5"
 				item: "create_new_age:magnetite_block"
 				type: "item"
@@ -3877,13 +5364,22 @@
 		{
 			dependencies: ["725839A16B5C0E76"]
 			id: "1EA2A3055E6FF0E0"
-			rewards: [{
-				count: 10
-				id: "1EBBBF10CE1896E0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2A55D961A470BCD1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "52E1A4D32366075D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
+				count: 12L
 				id: "46913AEAD1748CC0"
 				item: "create_new_age:redstone_magnet"
 				type: "item"
@@ -3894,13 +5390,22 @@
 		{
 			dependencies: ["1EA2A3055E6FF0E0"]
 			id: "52E30A85BA93F395"
-			rewards: [{
-				count: 10
-				id: "7D983FFC271E2359"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "46D7A8B13C625883"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7AAA0C0BBB9AC0E0"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
+				count: 12L
 				id: "2BED29830934E378"
 				item: "create_new_age:layered_magnet"
 				type: "item"
@@ -3911,13 +5416,21 @@
 		{
 			dependencies: ["52E30A85BA93F395"]
 			id: "4E5380C00F62FB9A"
-			rewards: [{
-				count: 10
-				id: "320B4373DD41CD19"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "27EE9116DD9F7279"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "72BE39B55867B9DD"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
+				count: 12L
 				id: "0F5036C683091C8B"
 				item: "create_new_age:fluxuated_magnetite"
 				type: "item"
@@ -3928,13 +5441,21 @@
 		{
 			dependencies: ["4E5380C00F62FB9A"]
 			id: "3319FFF0AA503818"
-			rewards: [{
-				count: 10
-				id: "47C58606C9EE3DB7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "13C3B5F8501FCED3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "791250319F66FFA4"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			tasks: [{
+				count: 12L
 				id: "3752D9CCDEFDF1C1"
 				item: "create_new_age:netherite_magnet"
 				type: "item"
@@ -3945,12 +5466,20 @@
 		{
 			dependencies: ["35EF825E0609180C"]
 			id: "049206ADCF5F4F13"
-			rewards: [{
-				count: 10
-				id: "1E377B3E1B5B78DD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5A691100AD897E4D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2AD050B83CC2A995"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "44698317A8E6CE4A"
 				item: "create_enchantment_industry:disenchanter"
@@ -3962,12 +5491,20 @@
 		{
 			dependencies: ["025E2445CE7882B7"]
 			id: "6CB70064F92A5C40"
-			rewards: [{
-				count: 10
-				id: "720DFD618C93EF22"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "68887874B777F8AC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "391DD684C030B3D2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6F3B9E6CF594C3B2"
 				item: "create_enchantment_industry:enchanting_guide"
@@ -3979,12 +5516,20 @@
 		{
 			dependencies: ["049206ADCF5F4F13"]
 			id: "5C7A0EDA111D8BD0"
-			rewards: [{
-				count: 10
-				id: "2C88EBA1FCE5FE35"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "477F5B4EFE45584C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6DB944DB9DEB6A77"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7A66443668947229"
 				item: "create_enchantment_industry:printer"
@@ -3996,12 +5541,19 @@
 		{
 			dependencies: ["049206ADCF5F4F13"]
 			id: "5935020FB4D78F68"
-			rewards: [{
-				count: 10
-				id: "30D1DA0144F17459"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "667213FE005288DB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6063AE7AA84173B9"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "00FB87381CDDCB80"
 				item: "create_enchantment_industry:hyper_experience_bottle"
@@ -4026,12 +5578,20 @@
 		{
 			dependencies: ["223C97C7636A806F"]
 			id: "6C60B484082A99AE"
-			rewards: [{
-				count: 10
-				id: "4B17B8F3899C68E0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1A3A238D2275484C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1293D7B030E38C6D"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "12200F424E3FE5FC"
 				item: "create_new_age:stirling_engine"
@@ -4043,12 +5603,20 @@
 		{
 			dependencies: ["41097841ABD36DF3"]
 			id: "71DC0389128A2BA4"
-			rewards: [{
-				count: 10
-				id: "184238DB430DDC85"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5673138E0D414E2A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3777BE16149ADA20"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6B4B6133028AD102"
 				item: "create_new_age:energiser_t1"
@@ -4060,12 +5628,20 @@
 		{
 			dependencies: ["71DC0389128A2BA4"]
 			id: "1A84C42E555D1C25"
-			rewards: [{
-				count: 10
-				id: "4CE4C3CE5DEDD9B5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0556BEB29B91E6CC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1AAA8F0E09134845"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "320794C76AA814F5"
 				item: "create_new_age:energiser_t2"
@@ -4077,12 +5653,19 @@
 		{
 			dependencies: ["1A84C42E555D1C25"]
 			id: "1C451DCCAB5B364D"
-			rewards: [{
-				count: 10
-				id: "322E6DECCA88FED3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6F558EF4C0D2CF30"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "25E609FB24605DAA"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "68356B52CF9B8321"
 				item: "create_new_age:energiser_t3"
@@ -4094,12 +5677,20 @@
 		{
 			dependencies: ["71DC0389128A2BA4"]
 			id: "1E550D36CCE879B3"
-			rewards: [{
-				count: 10
-				id: "45A169A9BAD0E88E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7A4A93D059269CA0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6C5985BAECAA1508"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "238F7A6BCCD4A03B"
 				item: "create_new_age:overcharged_iron"
@@ -4111,12 +5702,20 @@
 		{
 			dependencies: ["1E550D36CCE879B3"]
 			id: "4A39FB8D3E65BF7B"
-			rewards: [{
-				count: 10
-				id: "142E9088F2F80B41"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "43EC813FC0879CF8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3FC61DBC6C91F2A5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "725EB8AAB38F7B67"
 				item: "create_new_age:overcharged_gold"
@@ -4128,12 +5727,20 @@
 		{
 			dependencies: ["4A39FB8D3E65BF7B"]
 			id: "1A2DF2C6E9B15079"
-			rewards: [{
-				count: 10
-				id: "1B64C6B6FEF9328F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2C72D2A24A96EB90"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6AD6F673F93822CE"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3FC1CFDED31245BA"
 				item: "create_new_age:overcharged_diamond"
@@ -4145,12 +5752,20 @@
 		{
 			dependencies: ["4852CADF2C20AA46"]
 			id: "16BBE5788A82E3AB"
-			rewards: [{
-				count: 10
-				id: "1A6987DE804BB3DE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "56F30E417619D105"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "08E6F6036B01E8B5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "21B2AA0C2E33CF61"
 				item: "create_new_age:basic_motor_extension"
@@ -4162,12 +5777,20 @@
 		{
 			dependencies: ["16BBE5788A82E3AB"]
 			id: "2D99450F44C1FEE5"
-			rewards: [{
-				count: 10
-				id: "75C372D4E3F15203"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "004B97BFE9068EEA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5DF33F8E517F1364"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "71A1675B427260FA"
 				item: "create_new_age:advanced_motor_extension"
@@ -4179,12 +5802,20 @@
 		{
 			dependencies: ["41097841ABD36DF3"]
 			id: "68129855122783A6"
-			rewards: [{
-				count: 10
-				id: "2322C5177746AF3A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "54C47CAB28D4B6FE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1235B1EDD2B3721E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "28CEE760ABEA78F2"
 				item: "create_new_age:copper_wire"
@@ -4196,12 +5827,20 @@
 		{
 			dependencies: ["68129855122783A6"]
 			id: "48E3B3E83C470DEB"
-			rewards: [{
-				count: 10
-				id: "07346158FF3BE511"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "324CD6CCDC375919"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "378016C140778115"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "08531B28E8CE829E"
 				item: "create_new_age:overcharged_iron_wire"
@@ -4213,12 +5852,20 @@
 		{
 			dependencies: ["48E3B3E83C470DEB"]
 			id: "41492CD832C2BC82"
-			rewards: [{
-				count: 10
-				id: "59C7B53C092D7AB8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2C018F00AE5816ED"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "42EB6C1A4681DA0D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "480AEC073E1D631C"
 				item: "create_new_age:overcharged_golden_wire"
@@ -4231,12 +5878,20 @@
 			dependencies: ["41492CD832C2BC82"]
 			dependency_requirement: "one_completed"
 			id: "446D9E9FB2F90064"
-			rewards: [{
-				count: 10
-				id: "172A73888C6F5DFC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5EDB9D6534925C28"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "67A2E4DD02776A8B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "03E5BCE3E0288819"
 				item: "create_new_age:overcharged_diamond_wire"
@@ -4248,12 +5903,20 @@
 		{
 			dependencies: ["68129855122783A6"]
 			id: "7116909C445218F6"
-			rewards: [{
-				count: 10
-				id: "4D4CAA7F7303B2B4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "79AB9A490A8D14B8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7BF8595B33E76AD7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "736B7DA70DCF633D"
 				item: "create_new_age:electrical_connector"
@@ -4265,12 +5928,20 @@
 		{
 			dependencies: ["41097841ABD36DF3"]
 			id: "4852CADF2C20AA46"
-			rewards: [{
-				count: 10
-				id: "5E1AAA858A33AA24"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "22362456A1A7065D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2D7741E5E68686FD"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1B5E5A119D2DC231"
 				item: "create_new_age:basic_motor"
@@ -4282,12 +5953,20 @@
 		{
 			dependencies: ["4852CADF2C20AA46"]
 			id: "20F8A44466FEF393"
-			rewards: [{
-				count: 10
-				id: "5A7A9B3B704DA289"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "02376463EC9F3FB9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "29DE2B949238D606"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2592D647B46B5771"
 				item: "create_new_age:advanced_motor"
@@ -4299,12 +5978,19 @@
 		{
 			dependencies: ["20F8A44466FEF393"]
 			id: "69729DC289EA6A12"
-			rewards: [{
-				count: 10
-				id: "46B105ECB1E247AF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "020E99A36EB7EAF1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2E4F7E350BC54D32"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3A502C87C2BE818D"
 				item: "create_new_age:reinforced_motor"
@@ -4316,12 +6002,20 @@
 		{
 			dependencies: ["246D2A014A5AF383"]
 			id: "4D9620FB56C84411"
-			rewards: [{
-				count: 10
-				id: "55556CA3BFFB792B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0DE1C138FCCA20DC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "24DAEA6D471D1607"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5090F2FB09599BA8"
 				item: "create_new_age:heat_pipe"
@@ -4333,12 +6027,20 @@
 		{
 			dependencies: ["4D9620FB56C84411"]
 			id: "223C97C7636A806F"
-			rewards: [{
-				count: 10
-				id: "4FE9C2F6F41EB4E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "36D2D83B08447FB0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "68362E6405E4E574"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "638220C43077BCC1"
 				item: "create_new_age:heat_pump"
@@ -4350,12 +6052,20 @@
 		{
 			dependencies: ["0D285E8B67AFF84A"]
 			id: "4F5E0D283DF41322"
-			rewards: [{
-				count: 10
-				id: "00D5C7DDFD955633"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "430FE1779AB7F059"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "042364AB286DE8D2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "453ED10460A9D207"
 				item: "create_new_age:reactor_heat_vent"
@@ -4367,12 +6077,20 @@
 		{
 			dependencies: ["0D285E8B67AFF84A"]
 			id: "1D4C8D87698D704E"
-			rewards: [{
-				count: 10
-				id: "7C5D98F2C9466E34"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3DA67CECF7A577D5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2DFF1C6952EEF4BC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "55EF1904DC2CB835"
 				item: "create_new_age:reactor_fuel_acceptor"
@@ -4384,12 +6102,20 @@
 		{
 			dependencies: ["185B3ADF4E0FFAF9"]
 			id: "0D285E8B67AFF84A"
-			rewards: [{
-				count: 10
-				id: "72F136360CE4A809"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3632ECAD347041D3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0F4F19E3AFA6270F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "52649395CB4B9951"
 				item: "create_new_age:reactor_rod"
@@ -4401,12 +6127,20 @@
 		{
 			dependencies: ["185B3ADF4E0FFAF9"]
 			id: "6F31063CDE6483E9"
-			rewards: [{
-				count: 10
-				id: "0E435D08C48FD66A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7CD854DD7E37B50D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "03B0C534F943541A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0C599BD557E123A2"
 				item: "create_new_age:reactor_glass"
@@ -4421,12 +6155,19 @@
 				"788ACB286216DD48"
 			]
 			id: "185B3ADF4E0FFAF9"
-			rewards: [{
-				count: 10
-				id: "3C0DC5FCB8BDCD2A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7E470F63F08484DE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "030C8BB9773635CF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6C4A8B92C11570A6"
 				item: "create_new_age:reactor_casing"
@@ -4438,12 +6179,20 @@
 		{
 			dependencies: ["223C97C7636A806F"]
 			id: "5795E858EB222180"
-			rewards: [{
-				count: 10
-				id: "419D7D3503727C7E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4321DA4E82CE2103"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "53F33DF82030F969"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7AC6FB0FC3A92F20"
 				item: "create_new_age:heater"
@@ -4455,12 +6204,20 @@
 		{
 			dependencies: ["4D9620FB56C84411"]
 			id: "04415C92449F4601"
-			rewards: [{
-				count: 10
-				id: "0A94E9E0EEE47C4C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "32F9BDE5B5578256"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "07C6F870324246D8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "764CCF8D300026E8"
 				item: "create_new_age:basic_solar_heating_plate"
@@ -4472,12 +6229,20 @@
 		{
 			dependencies: ["04415C92449F4601"]
 			id: "5CD605786E6B4DA1"
-			rewards: [{
-				count: 10
-				id: "493DA2690D0E6031"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "09DC9E29048DF7D1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7A2F84B70A0FB7B7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7CE9D60F062FD32A"
 				item: "create_new_age:advanced_solar_heating_plate"
@@ -4489,12 +6254,20 @@
 		{
 			dependencies: ["246D2A014A5AF383"]
 			id: "71AECB0B42E2DB5B"
-			rewards: [{
-				count: 10
-				id: "13DCC831A054FD9C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0F9763E1CBC427B3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "004ADF97CD2AF418"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "213C309A0D3A9991"
 				item: "create_new_age:thorium"
@@ -4506,12 +6279,20 @@
 		{
 			dependencies: ["71AECB0B42E2DB5B"]
 			id: "7B1F6219A06307AF"
-			rewards: [{
-				count: 10
-				id: "508D549D9373289F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "733D8F7E1BE49E0A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "23E5C372789AB711"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "68EFE29F0DA4CFA1"
 				item: "create_new_age:radioactive_thorium"
@@ -4523,12 +6304,20 @@
 		{
 			dependencies: ["7B1F6219A06307AF"]
 			id: "788ACB286216DD48"
-			rewards: [{
-				count: 10
-				id: "0DD0E00596B21676"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4A6126A0576F1D65"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "467BFD6DD87B390D"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5A2430B26B8A3264"
 				item: "create_new_age:nuclear_fuel"
@@ -4540,12 +6329,20 @@
 		{
 			dependencies: ["2D177D6DAA08BE69"]
 			id: "26CF8CDC287141B2"
-			rewards: [{
-				count: 10
-				id: "621622287546FAB9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1C7B0F3395061CD7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "39BEC79DBA4488AA"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2C009A1BD71079F2"
 				item: {
@@ -4563,17 +6360,24 @@
 		{
 			dependencies: [
 				"763CC2A1D2366D85"
-				"1DF994A12989EA84"
 				"26CF8CDC287141B2"
 				"76EB04B6ECAA25D9"
+				"0256C0CD881E6AFF"
 			]
 			id: "0E434113378F6C13"
-			rewards: [{
-				count: 10
-				id: "5C8BA158EF645723"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "67239F5FCDA005F7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "370B3FC7067982AB"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "1280E6C936184D04"
@@ -4627,12 +6431,20 @@
 		{
 			dependencies: ["308B84925DB2D302"]
 			id: "51FBDDDF796F7600"
-			rewards: [{
-				count: 10
-				id: "6778CAA61A546DBF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0D6DBB879E44BFEE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2EA22F4F1E0205BA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "771F4013A6A2F95C"
 				item: "numismatics:red_card"
@@ -4644,18 +6456,26 @@
 		{
 			dependencies: ["025E2445CE7882B7"]
 			id: "0A0069B3C85F6398"
-			rewards: [{
-				count: 10
-				id: "31BCCDC2F11BB3DF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "047480A28B42DAE9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "137B5974774EBC9E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "01338849939DC91C"
 				item: "numismatics:banking_guide"
 				type: "item"
 			}]
-			x: 17.0d
+			x: 17.5d
 			y: 7.5d
 		}
 		{
@@ -4664,12 +6484,20 @@
 				"65F139D048F71327"
 			]
 			id: "082751BA3CB852AA"
-			rewards: [{
-				count: 10
-				id: "2D555BDC099DB19A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "409ABA2E42537A95"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4E36AE45C3707946"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "524E3C011127C6CB"
 				item: "numismatics:brass_depositor"
@@ -4684,12 +6512,20 @@
 				"43BA6BB5D7BCB8EE"
 			]
 			id: "774AE6A9F01C82C7"
-			rewards: [{
-				count: 10
-				id: "34ED124126C38CD6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7BE585825BF341EC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "780ED299BD7A4AA3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "18CA188DFD37E7AF"
 				item: "numismatics:andesite_depositor"
@@ -4704,12 +6540,20 @@
 				"65F139D048F71327"
 			]
 			id: "7BE24A5F9CCE816E"
-			rewards: [{
-				count: 10
-				id: "25F9CC60D421D0E4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5FC46310B0607A02"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "16B93F06A4551E9E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4A43EFE45946227E"
 				item: "numismatics:vendor"
@@ -4724,12 +6568,20 @@
 				"308B84925DB2D302"
 			]
 			id: "4AE34204E08276AB"
-			rewards: [{
-				count: 10
-				id: "05A567ED006EBFDF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1750F5F2CFB5B64D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "511FD9F4E970DC1B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "631BD812731DD153"
 				item: "numismatics:bank_terminal"
@@ -4737,6 +6589,430 @@
 			}]
 			x: 5.0d
 			y: 15.0d
+		}
+		{
+			icon: "createdieselgenerators:crude_oil_bucket"
+			id: "243443B277B99002"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "74E4C0735C49E02A"
+				title: "Нефтедобыча"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["243443B277B99002"]
+			id: "754C6DEFFCCCE735"
+			rewards: [
+				{
+					count: 10
+					id: "2FF07B23FF9E79D4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7347EE405B992F01"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "74058E7F7EA28EB6"
+				item: "createdieselgenerators:chemical_sprayer"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["243443B277B99002"]
+			id: "1731B6A4EE3BE7DA"
+			rewards: [
+				{
+					count: 10
+					id: "1809425965FF994C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "462CAEDD36AEEE30"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "62CC6B0E5A243867"
+				item: "createdieselgenerators:lighter"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"754C6DEFFCCCE735"
+				"1731B6A4EE3BE7DA"
+			]
+			id: "6CE9DA9750A7AF6F"
+			rewards: [
+				{
+					count: 10
+					id: "7E61C81C4577511B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3E1D719E5427B1A9"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "536879116A139F78"
+				item: "createdieselgenerators:chemical_sprayer_lighter"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["243443B277B99002"]
+			id: "3D78FBE60C27F202"
+			rewards: [
+				{
+					count: 10
+					id: "37F8E62E16F77CFB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4420B47D88B3219C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "45787B7DF2E950A7"
+				item: "createdieselgenerators:pumpjack_crank"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["243443B277B99002"]
+			id: "5295FBF3704AE582"
+			rewards: [
+				{
+					count: 10
+					id: "0AA776482E1B0057"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "735739FAA68C62B8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "20D089D884EAF385"
+				item: "createdieselgenerators:pumpjack_head"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -17.5d
+		}
+		{
+			dependencies: ["243443B277B99002"]
+			id: "6889A995EE40A3B8"
+			rewards: [
+				{
+					count: 10
+					id: "4CA327EED95EB58A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "04A1595D53B05E69"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1AAD97DA52A36A95"
+				item: "createdieselgenerators:pumpjack_bearing"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -17.5d
+		}
+		{
+			dependencies: [
+				"6889A995EE40A3B8"
+				"3D78FBE60C27F202"
+				"5295FBF3704AE582"
+			]
+			id: "2EC2959FB86E7639"
+			rewards: [
+				{
+					count: 10
+					id: "0D0015702D49E2E4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6BE0A7FCE61F79E9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2439E70FDC8832DF"
+				item: "createdieselgenerators:pumpjack_hole"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -20.0d
+		}
+		{
+			dependencies: ["2EC2959FB86E7639"]
+			id: "0A0B1AEDD13D2937"
+			rewards: [
+				{
+					count: 10
+					id: "5C286D3AB5E11E54"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "09DB484D5ED1E4F1"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F7F09D08A3130C8"
+				item: "createdieselgenerators:crude_oil_bucket"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["0A0B1AEDD13D2937"]
+			id: "3C8B019CB64531C0"
+			rewards: [
+				{
+					count: 10
+					id: "693269C67FD02248"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "192D7C4CEDAA45B0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E8E0C319663F143"
+				item: "createdieselgenerators:asphalt_block"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -22.5d
+		}
+		{
+			dependencies: ["0A0B1AEDD13D2937"]
+			id: "31318E7345D0CF0C"
+			rewards: [
+				{
+					count: 10
+					id: "5B46C065D282B68D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1B526C066FEABD0F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "179BB388DF73417C"
+				item: "createdieselgenerators:distillation_controller"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -22.5d
+		}
+		{
+			dependencies: ["243443B277B99002"]
+			id: "54C81B37DEAEC4FF"
+			rewards: [
+				{
+					count: 10
+					id: "7E2824230174D5EE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "20D30A85D5876ED8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4C23D33D37086B8B"
+				item: "createdieselgenerators:canister"
+				type: "item"
+			}]
+			x: 7.5d
+			y: -15.0d
+		}
+		{
+			dependencies: ["54C81B37DEAEC4FF"]
+			id: "7F85A3F37547101D"
+			rewards: [
+				{
+					count: 10
+					id: "6EE478B08487BBBA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "548ADD81F2DA70FB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "268A49A9743BE424"
+				item: "createdieselgenerators:oil_barrel"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -15.0d
+		}
+		{
+			dependencies: ["31318E7345D0CF0C"]
+			id: "790F59E7435D8C35"
+			rewards: [
+				{
+					count: 10
+					id: "29107F9EAD3FE163"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1BA147BA0B6C95D4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "39655A7DA0953D91"
+				item: "createdieselgenerators:diesel_engine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -22.5d
+		}
+		{
+			dependencies: ["31318E7345D0CF0C"]
+			id: "65FC1A0EFBB25E41"
+			rewards: [
+				{
+					count: 10
+					id: "11A52BE066790BBF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1C8EF139138CDAE3"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58B7F6EEFD1C2EEC"
+				item: "createdieselgenerators:large_diesel_engine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -20.0d
+		}
+		{
+			dependencies: ["31318E7345D0CF0C"]
+			id: "20FBC2C98217169E"
+			rewards: [
+				{
+					count: 10
+					id: "22264BD76D1969BD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2ECF90275E0F230E"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "275847882A9FA606"
+				item: "createdieselgenerators:huge_diesel_engine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -25.0d
+		}
+		{
+			dependencies: ["39E97791FA86E093"]
+			id: "0256C0CD881E6AFF"
+			rewards: [
+				{
+					count: 10
+					id: "0939F1F5DA931AB6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7FE505B320C4E780"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2DD3C4D17E2826A8"
+				item: {
+					Count: 1
+					id: "create:netherite_diving_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.5d
+			y: -7.5d
 		}
 	]
 	title: "Create"

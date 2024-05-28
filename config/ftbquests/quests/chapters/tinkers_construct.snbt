@@ -13,6 +13,385 @@
 	id: "3E68F40D1D5830F8"
 	order_index: 7
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "639F27DD8B17CD9E"
+			tasks: [{
+				id: "4A63B0BBD852B7FA"
+				item: "tconstruct:pattern"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["639F27DD8B17CD9E"]
+			id: "60BC6AE538AB0492"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "78F3941C51697AFB"
+				item: "tconstruct:materials_and_you"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			id: "51C2E8CEBE2C0232"
+			tasks: [{
+				id: "635DCAC6DCCC920B"
+				item: {
+					Count: 1
+					id: "tconstruct:part_builder"
+					tag: {
+						texture: "minecraft:oak_planks"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			id: "76F41B15F92C9B9B"
+			tasks: [
+				{
+					id: "65BA869BD90B1AED"
+					item: "tconstruct:part_chest"
+					type: "item"
+				}
+				{
+					id: "1375E522C5C7F98A"
+					item: "tconstruct:tinkers_chest"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			id: "2708C54E5395086B"
+			tasks: [{
+				id: "3D50451CB871C70E"
+				item: "tconstruct:grout"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "46857493BCB78AC7"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "65E9782CD15EBFB3"
+				item: "tconstruct:puny_smelting"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "6AEBAF24C3A37D8F"
+			tasks: [{
+				id: "03D1DC0119BA87BB"
+				item: {
+					Count: 1
+					id: "tconstruct:tinker_station"
+					tag: {
+						texture: "minecraft:oak_planks"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			id: "05B82A46ACE8F41C"
+			tasks: [{
+				id: "4ED8B3A2DF0F1ACA"
+				item: "tconstruct:seared_brick"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "2290F9E934B8CE54"
+			tasks: [{
+				id: "7A48319F4C77A51E"
+				item: "tconstruct:seared_melter"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			id: "1A5851A84FA16EF5"
+			tasks: [{
+				id: "6D0EF1D76F3E2BC5"
+				item: "tconstruct:seared_table"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			id: "29CC569071118971"
+			tasks: [{
+				id: "37B17D255DFDB023"
+				item: "tconstruct:seared_heater"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			id: "2D60DBE8AFBE0CBC"
+			tasks: [{
+				id: "19D9FDA1927F6C68"
+				item: "tconstruct:seared_faucet"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			id: "083FB8927F25DE8A"
+			tasks: [{
+				id: "05E6390388CF58F7"
+				item: "tconstruct:seared_channel"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			id: "023E8E9071C22CB4"
+			tasks: [{
+				id: "4F3757621777401C"
+				item: "tconstruct:seared_fuel_gauge"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "7FA8FE8C0A79B710"
+			tasks: [{
+				id: "6E3A729CF3E2056B"
+				item: "tconstruct:seared_ingot_gauge"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "39424AAFD8313101"
+			tasks: [{
+				id: "2C7D40E368580164"
+				item: "tconstruct:blank_sand_cast"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "18E80AE18CC2818A"
+			tasks: [
+				{
+					id: "603875F21F39526A"
+					item: "tconstruct:ingot_cast"
+					type: "item"
+				}
+				{
+					id: "1A972B4A891BDE28"
+					item: "tconstruct:nugget_cast"
+					type: "item"
+				}
+				{
+					id: "7662A82DB5ACDE6B"
+					item: "tconstruct:gem_cast"
+					type: "item"
+				}
+				{
+					id: "69BE8538B25B66F6"
+					item: "tconstruct:rod_cast"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "1CFDF41DDD86937B"
+			tasks: [
+				{
+					id: "10DEB2A9C5CC6643"
+					item: "tconstruct:pick_head_cast"
+					type: "item"
+				}
+				{
+					id: "42CD096C1925DD64"
+					item: "tconstruct:small_axe_head_cast"
+					type: "item"
+				}
+				{
+					id: "545D0F98938FF8B6"
+					item: "tconstruct:small_blade_cast"
+					type: "item"
+				}
+				{
+					id: "5DABD7654F13208F"
+					item: "tconstruct:hammer_head_cast"
+					type: "item"
+				}
+				{
+					id: "3525C7DAE9C600F8"
+					item: "tconstruct:broad_blade_cast"
+					type: "item"
+				}
+				{
+					id: "61259785E6B34E7A"
+					item: "tconstruct:broad_axe_head_cast"
+					type: "item"
+				}
+				{
+					id: "3BF335232B8888E9"
+					item: "tconstruct:tool_binding_cast"
+					type: "item"
+				}
+				{
+					id: "1ADCB817A0146005"
+					item: "tconstruct:large_plate_cast"
+					type: "item"
+				}
+				{
+					id: "77B5748A7B35F816"
+					item: "tconstruct:tough_handle_cast"
+					type: "item"
+				}
+				{
+					id: "5A801BED4D124127"
+					item: "tconstruct:bow_limb_cast"
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			id: "20502B456685BF55"
+			tasks: [{
+				id: "2266BA7FE7C9C632"
+				item: "tconstruct:sky_slime_ball"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			id: "730F1A5BE4A3950B"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "7935A1B26B7DE643"
+				item: "tconstruct:mighty_smelting"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			id: "2C35DE813D5ADF3A"
+			tasks: [{
+				count: 19L
+				id: "54B319445A9FD66F"
+				item: "tconstruct:seared_bricks"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			id: "25FD2FB3EFCD6E55"
+			tasks: [{
+				id: "4D057FE28C802117"
+				item: {
+					Count: 1
+					id: "tconstruct:smeltery_controller"
+					tag: {
+						texture: "tconstruct:seared_bricks"
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "6E97281FD3A78A3E"
+			tasks: [{
+				id: "1B030312D35C2851"
+				item: {
+					Count: 1
+					id: "tconstruct:seared_drain"
+					tag: {
+						texture: "tconstruct:seared_stone"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "tconstruct:smeltery_controller"
+				tag: {
+					texture: "tconstruct:seared_bricks"
+				}
+			}
+			id: "111CA2082C171D05"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "30CB773EDD6580E3"
+				title: "Построить плавильню"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			id: "5A120DB921228E8B"
+			tasks: [{
+				id: "11CCD7DFF417BC2E"
+				item: "tconstruct:slimesteel_ingot"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.5d
+		}
+		{
+			id: "1D175730562213B1"
+			tasks: [{
+				id: "137E3572AB33015F"
+				item: {
+					Count: 1
+					id: "tconstruct:tinkers_anvil"
+					tag: {
+						texture: "tconstruct:slimesteel_block"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 11.5d
+		}
+	]
 	title: "Tinkers Construct"
 }

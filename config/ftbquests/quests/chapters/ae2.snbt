@@ -371,6 +371,20 @@
 			x: 0.0d
 			y: 2.0d
 		}
+		{
+			description: ["Максалес работай"]
+			id: "35DB05453F89DB47"
+			size: 8.0d
+			subtitle: "Максалес работай"
+			tasks: [{
+				id: "0F3293F8F18FEAD1"
+				item: "minecraft:oak_pressure_plate"
+				type: "item"
+			}]
+			title: "Максалес работай"
+			x: -11.0d
+			y: -2.0d
+		}
 	]
 	title: "AE2"
 }
