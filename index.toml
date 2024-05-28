@@ -416,6 +416,11 @@ hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
 metafile = true
 
 [[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
+metafile = true
+
+[[files]]
 file = "mods/mc-249136-fix.pw.toml"
 hash = "4caef00d584b5a6394b9b09a373f755bf62e3b3e7fc44da94883c51fc087d77d"
 metafile = true
