@@ -18,8 +18,8 @@
 			id: "639F27DD8B17CD9E"
 			rewards: [{
 				count: 16
-				id: "7C0F4348584601F2"
-				item: "createdeco:copper_coin"
+				id: "6A65DD39C0B63613"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -35,8 +35,8 @@
 			id: "60BC6AE538AB0492"
 			rewards: [{
 				count: 16
-				id: "0DB8B5A5A4E2DC90"
-				item: "createdeco:copper_coin"
+				id: "246E34D0A0C18B10"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			shape: "octagon"
@@ -54,8 +54,8 @@
 			id: "51C2E8CEBE2C0232"
 			rewards: [{
 				count: 16
-				id: "335C2C72C3352488"
-				item: "createdeco:copper_coin"
+				id: "3A66870D21E94C06"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -77,8 +77,8 @@
 			id: "76F41B15F92C9B9B"
 			rewards: [{
 				count: 16
-				id: "3B63BA5C463C83CD"
-				item: "createdeco:copper_coin"
+				id: "58DB8E623EE23F40"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [
@@ -104,8 +104,8 @@
 			id: "2708C54E5395086B"
 			rewards: [{
 				count: 16
-				id: "14AEEE44528DB945"
-				item: "createdeco:copper_coin"
+				id: "09D8A00BA6CE9CF8"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -119,12 +119,6 @@
 		{
 			dependencies: ["2708C54E5395086B"]
 			id: "46857493BCB78AC7"
-			rewards: [{
-				count: 16
-				id: "6DD8E902CD78AC72"
-				item: "createdeco:copper_coin"
-				type: "item"
-			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -140,8 +134,8 @@
 			id: "6AEBAF24C3A37D8F"
 			rewards: [{
 				count: 16
-				id: "105129A3CCF3FC34"
-				item: "createdeco:copper_coin"
+				id: "2E69F53FDC2C4CA2"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -163,8 +157,8 @@
 			id: "05B82A46ACE8F41C"
 			rewards: [{
 				count: 16
-				id: "38CE018AEBC156C8"
-				item: "createdeco:copper_coin"
+				id: "7F573309C89E5C74"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -183,8 +177,8 @@
 			id: "2290F9E934B8CE54"
 			rewards: [{
 				count: 16
-				id: "61A552F689656B91"
-				item: "createdeco:copper_coin"
+				id: "654B7CE92F404CBC"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -200,8 +194,8 @@
 			id: "1A5851A84FA16EF5"
 			rewards: [{
 				count: 16
-				id: "40865CBA1791630A"
-				item: "createdeco:copper_coin"
+				id: "66A7FB53A3F75F0A"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -217,8 +211,8 @@
 			id: "29CC569071118971"
 			rewards: [{
 				count: 16
-				id: "6F9636376EF3483B"
-				item: "createdeco:copper_coin"
+				id: "20E9BDF943E937C8"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -234,8 +228,8 @@
 			id: "2D60DBE8AFBE0CBC"
 			rewards: [{
 				count: 16
-				id: "1FA35F892AABBB2E"
-				item: "createdeco:copper_coin"
+				id: "79D9C38363E6AE5A"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -251,8 +245,8 @@
 			id: "083FB8927F25DE8A"
 			rewards: [{
 				count: 16
-				id: "064D6C21CD61D7B5"
-				item: "createdeco:copper_coin"
+				id: "4706227C50284CEF"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -268,8 +262,8 @@
 			id: "023E8E9071C22CB4"
 			rewards: [{
 				count: 16
-				id: "353F1DD1E184F138"
-				item: "createdeco:copper_coin"
+				id: "58F63DB37AFF1A22"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -285,8 +279,8 @@
 			id: "7FA8FE8C0A79B710"
 			rewards: [{
 				count: 16
-				id: "45D0308E8EB934D2"
-				item: "createdeco:copper_coin"
+				id: "3E40F2451E1EB3E2"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -308,8 +302,8 @@
 			id: "39424AAFD8313101"
 			rewards: [{
 				count: 16
-				id: "7635E2AB311369FC"
-				item: "createdeco:copper_coin"
+				id: "28CF9C52328CA010"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -331,8 +325,8 @@
 			id: "18E80AE18CC2818A"
 			rewards: [{
 				count: 16
-				id: "2FBBD05438A708AC"
-				item: "createdeco:copper_coin"
+				id: "029EDF9FD250A9A5"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [
@@ -371,8 +365,8 @@
 			id: "1CFDF41DDD86937B"
 			rewards: [{
 				count: 16
-				id: "003DE2021D4AD0D4"
-				item: "createdeco:copper_coin"
+				id: "32805D3A686E361E"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [
@@ -434,8 +428,8 @@
 			id: "20502B456685BF55"
 			rewards: [{
 				count: 16
-				id: "167B938136A59F8A"
-				item: "createdeco:copper_coin"
+				id: "5A8ABC0E089C6EF2"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -455,8 +449,8 @@
 			id: "730F1A5BE4A3950B"
 			rewards: [{
 				count: 16
-				id: "6DD83D32477788DE"
-				item: "createdeco:copper_coin"
+				id: "31B3AACF1B36B529"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			shape: "octagon"
@@ -474,8 +468,8 @@
 			id: "2C35DE813D5ADF3A"
 			rewards: [{
 				count: 16
-				id: "6D3680860D692992"
-				item: "createdeco:copper_coin"
+				id: "4023B7F26B84BFDE"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -492,8 +486,8 @@
 			id: "25FD2FB3EFCD6E55"
 			rewards: [{
 				count: 16
-				id: "18DE862F2CA90A6C"
-				item: "createdeco:copper_coin"
+				id: "5758AC3D4A1E1137"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -515,8 +509,8 @@
 			id: "6E97281FD3A78A3E"
 			rewards: [{
 				count: 16
-				id: "6DA58FF3A51BA054"
-				item: "createdeco:copper_coin"
+				id: "12EE615254B52AC6"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -549,8 +543,8 @@
 			id: "111CA2082C171D05"
 			rewards: [{
 				count: 16
-				id: "2911A634E0A6131D"
-				item: "createdeco:copper_coin"
+				id: "3A54C35CB485A5A0"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			shape: "octagon"
@@ -571,8 +565,8 @@
 			id: "5A120DB921228E8B"
 			rewards: [{
 				count: 16
-				id: "1366B727916BC6CB"
-				item: "createdeco:copper_coin"
+				id: "49238EC81F8BD703"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			tasks: [{
@@ -591,8 +585,8 @@
 			id: "1D175730562213B1"
 			rewards: [{
 				count: 16
-				id: "1DDFECC1752E6584"
-				item: "createdeco:copper_coin"
+				id: "364CC8624B8E05D2"
+				item: "numismatics:spur"
 				type: "item"
 			}]
 			shape: "octagon"
@@ -608,11 +602,17 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
+			x: -3.0d
 			y: 19.0d
 		}
 		{
 			id: "2B0B5D3AD998696A"
+			rewards: [{
+				count: 16
+				id: "283DFD7389DA978A"
+				item: "numismatics:spur"
+				type: "item"
+			}]
 			tasks: [{
 				id: "76063BBC9019A7B1"
 				item: "tconstruct:nether_grout"
@@ -622,7 +622,17 @@
 			y: 17.0d
 		}
 		{
+			dependencies: [
+				"2B0B5D3AD998696A"
+				"111CA2082C171D05"
+			]
 			id: "68A26DDFA33D417E"
+			rewards: [{
+				count: 16
+				id: "52CFB96AF7C6285F"
+				item: "numismatics:spur"
+				type: "item"
+			}]
 			tasks: [{
 				id: "63E8BCCF38E33F74"
 				item: {
@@ -638,7 +648,17 @@
 			y: 19.0d
 		}
 		{
+			dependencies: [
+				"2B0B5D3AD998696A"
+				"111CA2082C171D05"
+			]
 			id: "7E6D567EFADB8A58"
+			rewards: [{
+				count: 16
+				id: "0966F2A1B6288330"
+				item: "numismatics:spur"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3787E07255E1397C"
 				item: "tconstruct:scorched_ingot_tank"
@@ -648,7 +668,17 @@
 			y: 19.0d
 		}
 		{
+			dependencies: [
+				"2B0B5D3AD998696A"
+				"111CA2082C171D05"
+			]
 			id: "5A7C01C9F7D9358A"
+			rewards: [{
+				count: 16
+				id: "4AF5DC55E50484D0"
+				item: "numismatics:spur"
+				type: "item"
+			}]
 			tasks: [{
 				id: "33F14642878A858F"
 				item: {
@@ -661,6 +691,72 @@
 				type: "item"
 			}]
 			x: -7.0d
+			y: 19.0d
+		}
+		{
+			dependencies: [
+				"7E6D567EFADB8A58"
+				"5A7C01C9F7D9358A"
+				"68A26DDFA33D417E"
+				"1B5DEDB31F35DFD6"
+			]
+			icon: {
+				Count: 1
+				id: "tconstruct:foundry_controller"
+				tag: {
+					texture: "tconstruct:scorched_road"
+				}
+			}
+			id: "0D9888689E1E8D03"
+			rewards: [{
+				count: 16
+				id: "6CD5578A6F68AE6C"
+				item: "numismatics:spur"
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "24BEDC8303F68C2F"
+				title: "Построить литейную печь"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["2B0B5D3AD998696A"]
+			id: "1B5DEDB31F35DFD6"
+			rewards: [{
+				count: 16
+				id: "52A0D8D30F30F4E5"
+				item: "numismatics:spur"
+				type: "item"
+			}]
+			tasks: [{
+				count: 38L
+				id: "4E75768AEE344EEB"
+				item: "tconstruct:scorched_bricks"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["2B0B5D3AD998696A"]
+			id: "3CF8E9C164823709"
+			rewards: [{
+				count: 16
+				id: "4B0A5B181AC36C4B"
+				item: "numismatics:spur"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4B4CAA14716FEFC4"
+				item: "tconstruct:scorched_alloyer"
+				type: "item"
+			}]
+			x: -11.5d
 			y: 19.0d
 		}
 	]
