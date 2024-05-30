@@ -631,6 +631,11 @@ hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "62c6f6daa96b1a9a12e2a05550e9afa527b6467cfa63906b4bcff9c27dbcee89"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
