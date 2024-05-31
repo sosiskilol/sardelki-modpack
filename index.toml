@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "62c6f6daa96b1a9a12e2a05550e9afa527b6467cfa63906b4bcff9c27dbcee89"
+hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
 metafile = true
 
 [[files]]
