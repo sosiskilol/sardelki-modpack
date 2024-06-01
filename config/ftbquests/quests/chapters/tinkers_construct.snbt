@@ -16,12 +16,20 @@
 	quests: [
 		{
 			id: "639F27DD8B17CD9E"
-			rewards: [{
-				count: 16
-				id: "6A65DD39C0B63613"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "4CFDBC25FE32A6D6"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4EC7B547A6511602"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4A63B0BBD852B7FA"
 				item: "tconstruct:pattern"
@@ -33,12 +41,20 @@
 		{
 			dependencies: ["639F27DD8B17CD9E"]
 			id: "60BC6AE538AB0492"
-			rewards: [{
-				count: 16
-				id: "246E34D0A0C18B10"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "222D8B844FA33534"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2D61B61625221BBF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -52,12 +68,20 @@
 		{
 			dependencies: ["60BC6AE538AB0492"]
 			id: "51C2E8CEBE2C0232"
-			rewards: [{
-				count: 16
-				id: "3A66870D21E94C06"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "0D2833E87ACCB7BC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "497B3DDEEE3733C3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "635DCAC6DCCC920B"
 				item: {
@@ -75,12 +99,20 @@
 		{
 			dependencies: ["60BC6AE538AB0492"]
 			id: "76F41B15F92C9B9B"
-			rewards: [{
-				count: 16
-				id: "58DB8E623EE23F40"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "4DAFE123017FED59"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4CC8F67CE0E0EF83"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "65BA869BD90B1AED"
@@ -102,12 +134,20 @@
 				"51C2E8CEBE2C0232"
 			]
 			id: "2708C54E5395086B"
-			rewards: [{
-				count: 16
-				id: "09D8A00BA6CE9CF8"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "1187A52232300754"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2FE1D9DAA98283CF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3D50451CB871C70E"
 				item: "tconstruct:grout"
@@ -119,6 +159,20 @@
 		{
 			dependencies: ["2708C54E5395086B"]
 			id: "46857493BCB78AC7"
+			rewards: [
+				{
+					count: 10
+					id: "68ACA3DC5589100F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "63DB19F668359A89"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -132,12 +186,20 @@
 		{
 			dependencies: ["60BC6AE538AB0492"]
 			id: "6AEBAF24C3A37D8F"
-			rewards: [{
-				count: 16
-				id: "2E69F53FDC2C4CA2"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "0848043C7D353866"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4CA369851DC941CF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "03D1DC0119BA87BB"
 				item: {
@@ -155,12 +217,20 @@
 		{
 			dependencies: ["46857493BCB78AC7"]
 			id: "05B82A46ACE8F41C"
-			rewards: [{
-				count: 16
-				id: "7F573309C89E5C74"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "4EC0ABA57F82E2CE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "5A390B31CFB0DC52"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4ED8B3A2DF0F1ACA"
 				item: "tconstruct:seared_brick"
@@ -175,12 +245,20 @@
 				"7FA8FE8C0A79B710"
 			]
 			id: "2290F9E934B8CE54"
-			rewards: [{
-				count: 16
-				id: "654B7CE92F404CBC"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "7993CD03C667D194"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "238E819510486BD7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7A48319F4C77A51E"
 				item: "tconstruct:seared_melter"
@@ -192,12 +270,20 @@
 		{
 			dependencies: ["7FA8FE8C0A79B710"]
 			id: "1A5851A84FA16EF5"
-			rewards: [{
-				count: 16
-				id: "66A7FB53A3F75F0A"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "7A74FA7FAF9ACC1B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "65D18B27BC887BA5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6D0EF1D76F3E2BC5"
 				item: "tconstruct:seared_table"
@@ -209,12 +295,20 @@
 		{
 			dependencies: ["7FA8FE8C0A79B710"]
 			id: "29CC569071118971"
-			rewards: [{
-				count: 16
-				id: "20E9BDF943E937C8"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "1D23AC46A878871A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "655C959C3AE3ACA2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "37B17D255DFDB023"
 				item: "tconstruct:seared_heater"
@@ -226,12 +320,20 @@
 		{
 			dependencies: ["023E8E9071C22CB4"]
 			id: "2D60DBE8AFBE0CBC"
-			rewards: [{
-				count: 16
-				id: "79D9C38363E6AE5A"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "4F41911CB6957054"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "60DA017CC5FC8E9D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "19D9FDA1927F6C68"
 				item: "tconstruct:seared_faucet"
@@ -243,12 +345,20 @@
 		{
 			dependencies: ["023E8E9071C22CB4"]
 			id: "083FB8927F25DE8A"
-			rewards: [{
-				count: 16
-				id: "4706227C50284CEF"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "370EED4042FEC5CD"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0DDBB862AE747377"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "05E6390388CF58F7"
 				item: "tconstruct:seared_channel"
@@ -260,12 +370,20 @@
 		{
 			dependencies: ["05B82A46ACE8F41C"]
 			id: "023E8E9071C22CB4"
-			rewards: [{
-				count: 16
-				id: "58F63DB37AFF1A22"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "67F5EA6DB1C3C2E2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3083760EF343AB78"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4F3757621777401C"
 				item: "tconstruct:seared_fuel_gauge"
@@ -277,12 +395,20 @@
 		{
 			dependencies: ["05B82A46ACE8F41C"]
 			id: "7FA8FE8C0A79B710"
-			rewards: [{
-				count: 16
-				id: "3E40F2451E1EB3E2"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "5BC5B19F9729D6A8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7FE9DEC1D0F3C5AF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6E3A729CF3E2056B"
 				item: "tconstruct:seared_ingot_gauge"
@@ -300,12 +426,20 @@
 				"29CC569071118971"
 			]
 			id: "39424AAFD8313101"
-			rewards: [{
-				count: 16
-				id: "28CF9C52328CA010"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "3526E2E4955EE852"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "31BC6AB685A05BDE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2C7D40E368580164"
 				item: "tconstruct:blank_sand_cast"
@@ -323,12 +457,20 @@
 				"29CC569071118971"
 			]
 			id: "18E80AE18CC2818A"
-			rewards: [{
-				count: 16
-				id: "029EDF9FD250A9A5"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "3E4273C030A6D81B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3B5C9BA1EF5B59BF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "603875F21F39526A"
@@ -363,12 +505,20 @@
 				"29CC569071118971"
 			]
 			id: "1CFDF41DDD86937B"
-			rewards: [{
-				count: 16
-				id: "32805D3A686E361E"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "469A583EA26969BF"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6537DF2C3AD8D64D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "10DEB2A9C5CC6643"
@@ -426,19 +576,27 @@
 		}
 		{
 			id: "20502B456685BF55"
-			rewards: [{
-				count: 16
-				id: "5A8ABC0E089C6EF2"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "2D189F36F4CFABBC"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6992CDB4DC87A9AF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2266BA7FE7C9C632"
 				item: "tconstruct:sky_slime_ball"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 9.5d
+			x: 2.0d
+			y: 18.0d
 		}
 		{
 			dependencies: [
@@ -447,12 +605,19 @@
 				"18E80AE18CC2818A"
 			]
 			id: "730F1A5BE4A3950B"
-			rewards: [{
-				count: 16
-				id: "31B3AACF1B36B529"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "58E26E9552FC2D92"
+					item: "numismatics:cog"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "41C408EC64280EC0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -466,12 +631,20 @@
 		{
 			dependencies: ["730F1A5BE4A3950B"]
 			id: "2C35DE813D5ADF3A"
-			rewards: [{
-				count: 16
-				id: "4023B7F26B84BFDE"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "5D50F6AE88E3A8FB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "26CBE66CD84C4A9B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 19L
 				id: "54B319445A9FD66F"
@@ -484,12 +657,20 @@
 		{
 			dependencies: ["730F1A5BE4A3950B"]
 			id: "25FD2FB3EFCD6E55"
-			rewards: [{
-				count: 16
-				id: "5758AC3D4A1E1137"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "7478D4250B8B792A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6FA1B5BA90FB3F68"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4D057FE28C802117"
 				item: {
@@ -507,12 +688,20 @@
 		{
 			dependencies: ["730F1A5BE4A3950B"]
 			id: "6E97281FD3A78A3E"
-			rewards: [{
-				count: 16
-				id: "12EE615254B52AC6"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "5C5196FBAAAD18BA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2B45CE68CAD7ED6D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1B030312D35C2851"
 				item: {
@@ -541,12 +730,6 @@
 				}
 			}
 			id: "111CA2082C171D05"
-			rewards: [{
-				count: 16
-				id: "3A54C35CB485A5A0"
-				item: "numismatics:spur"
-				type: "item"
-			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -563,12 +746,20 @@
 				"111CA2082C171D05"
 			]
 			id: "5A120DB921228E8B"
-			rewards: [{
-				count: 16
-				id: "49238EC81F8BD703"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "4345BB63752E4A6E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7D05A3B3AB9741A4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "11CCD7DFF417BC2E"
 				item: "tconstruct:slimesteel_ingot"
@@ -583,12 +774,19 @@
 				"5A120DB921228E8B"
 			]
 			id: "1D175730562213B1"
-			rewards: [{
-				count: 16
-				id: "364CC8624B8E05D2"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7821BB91ACB48807"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "41DD0B1B51B725EF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -607,19 +805,27 @@
 		}
 		{
 			id: "2B0B5D3AD998696A"
-			rewards: [{
-				count: 16
-				id: "283DFD7389DA978A"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 16
+					id: "1290BA9886288035"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "29EDF4ABCED5EB23"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "76063BBC9019A7B1"
 				item: "tconstruct:nether_grout"
 				type: "item"
 			}]
 			x: -8.5d
-			y: 17.0d
+			y: 17.5d
 		}
 		{
 			dependencies: [
@@ -627,12 +833,20 @@
 				"111CA2082C171D05"
 			]
 			id: "68A26DDFA33D417E"
-			rewards: [{
-				count: 16
-				id: "52CFB96AF7C6285F"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "69EDECE6BCF1129D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3BE7C99D50C1B9E6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "63E8BCCF38E33F74"
 				item: {
@@ -653,12 +867,20 @@
 				"111CA2082C171D05"
 			]
 			id: "7E6D567EFADB8A58"
-			rewards: [{
-				count: 16
-				id: "0966F2A1B6288330"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "36A565A999A22E38"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6D90A410020C03FC"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3787E07255E1397C"
 				item: "tconstruct:scorched_ingot_tank"
@@ -673,12 +895,20 @@
 				"111CA2082C171D05"
 			]
 			id: "5A7C01C9F7D9358A"
-			rewards: [{
-				count: 16
-				id: "4AF5DC55E50484D0"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1902DF4EADDBE542"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6E0F66E11CCB8206"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "33F14642878A858F"
 				item: {
@@ -708,12 +938,6 @@
 				}
 			}
 			id: "0D9888689E1E8D03"
-			rewards: [{
-				count: 16
-				id: "6CD5578A6F68AE6C"
-				item: "numismatics:spur"
-				type: "item"
-			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -727,12 +951,20 @@
 		{
 			dependencies: ["2B0B5D3AD998696A"]
 			id: "1B5DEDB31F35DFD6"
-			rewards: [{
-				count: 16
-				id: "52A0D8D30F30F4E5"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5E0004D20FD96225"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "64B3DC23E27A04B1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 38L
 				id: "4E75768AEE344EEB"
@@ -745,12 +977,22 @@
 		{
 			dependencies: ["2B0B5D3AD998696A"]
 			id: "3CF8E9C164823709"
-			rewards: [{
-				count: 16
-				id: "4B0A5B181AC36C4B"
-				item: "numismatics:spur"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6E29B4657B6D09D3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3F468D5F2271C0B8"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.5d
 			tasks: [{
 				id: "4B4CAA14716FEFC4"
 				item: "tconstruct:scorched_alloyer"
@@ -758,6 +1000,1735 @@
 			}]
 			x: -11.5d
 			y: 19.0d
+		}
+		{
+			dependencies: ["6EF45AC8E96FBBC7"]
+			id: "4211311953BDBDE3"
+			rewards: [
+				{
+					count: 16
+					id: "57EF6E72FD9F435F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6EFDD40C33A5FEEC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6B9E27B673B05366"
+				item: "tconstruct:pig_iron_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "0F315E71ED0E1994"
+			rewards: [
+				{
+					count: 16
+					id: "5A05B46EFCBE24DA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "11D259137AEC2BE4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3A6626594687F9E0"
+				item: "tconstruct:rose_gold_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["51C2E8CEBE2C0232"]
+			id: "07073C7DA9E06C3E"
+			rewards: [
+				{
+					count: 16
+					id: "668BF6258F3BD56C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3ED137ED3B44C6C1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			subtitle: "Части инструмента нужны для создания инструмента, делаются в формирователе частей"
+			tasks: [
+				{
+					id: "37424B13DD132931"
+					item: {
+						Count: 1
+						id: "tconstruct:small_axe_head"
+						tag: {
+							Material: "tconstruct:rock"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "67DEE5761E1CD32E"
+					item: {
+						Count: 1
+						id: "tconstruct:tool_handle"
+						tag: {
+							Material: "tconstruct:rock"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "79E3A77509FC2D29"
+					item: {
+						Count: 1
+						id: "tconstruct:tool_binding"
+						tag: {
+							Material: "tconstruct:rock"
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"07073C7DA9E06C3E"
+				"6AEBAF24C3A37D8F"
+			]
+			id: "0D253BA75655428C"
+			rewards: [
+				{
+					count: 16
+					id: "6E9BF91F8C5D3DCA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "633ACAA0B77E07D2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			subtitle: "Инструменты из простых материалов делаются в литейной станции"
+			tasks: [{
+				id: "0329C7B4A0490D68"
+				item: {
+					Count: 1
+					id: "tconstruct:hand_axe"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: [
+							"tconstruct:rock"
+							"tconstruct:rock"
+							"tconstruct:rock"
+						]
+						tic_modifiers: [
+							{
+								level: 3s
+								name: "tconstruct:stonebound"
+							}
+							{
+								level: 1s
+								name: "tconstruct:stripping"
+							}
+							{
+								level: 1s
+								name: "tconstruct:axe_scrape"
+							}
+							{
+								level: 1s
+								name: "tconstruct:axe_wax_off"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 3
+						}
+						tic_stats: {
+							"tconstruct:attack_damage": 7.0f
+							"tconstruct:attack_speed": 0.9f
+							"tconstruct:durability": 116.0f
+							"tconstruct:harvest_tier": "minecraft:stone"
+							"tconstruct:mining_speed": 4.2f
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "169BF1789B58FB86"
+			rewards: [
+				{
+					count: 16
+					id: "607EC968D68E859F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "168BA03572E20993"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "54D856F3C14B2C8F"
+				item: "tconstruct:cobalt_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"169BF1789B58FB86"
+				"639AC56005B9A1D3"
+			]
+			id: "11406117CAF97082"
+			rewards: [
+				{
+					count: 16
+					id: "6E29A8D3B89178B2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6E02CAFF839F63DC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0CAA236ABB55424F"
+				item: "tconstruct:hepatizon_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"169BF1789B58FB86"
+				"639AC56005B9A1D3"
+			]
+			id: "15D568BEA020601A"
+			rewards: [
+				{
+					count: 16
+					id: "1A9A83299717DF55"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "04354175451B7199"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "637A5DE720B97B98"
+				item: "tconstruct:manyullyn_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["354494C774D79D0C"]
+			id: "3409CE8DA0F0EEAE"
+			rewards: [
+				{
+					count: 10
+					id: "5E5F031F1CEB0EC2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2DDED60AAF8755BD"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "214B76331D3F272E"
+				item: "tconstruct:blaze_head"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["3409CE8DA0F0EEAE"]
+			icon: "minecraft:blaze_powder"
+			id: "639AC56005B9A1D3"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "1AA2E6D1349A77E9"
+				title: "Расплавить ифрита/голову ифрита в плавильне и получить огненную кровь"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"169BF1789B58FB86"
+				"639AC56005B9A1D3"
+			]
+			id: "07F55EE5B6F0B9B0"
+			rewards: [
+				{
+					count: 16
+					id: "3B838898BB84DA9C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "35AEFBDD738CE989"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5FE60172C7918705"
+				item: "tconstruct:queens_slime_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["20502B456685BF55"]
+			id: "7F38E2E2F4CAECAA"
+			rewards: [
+				{
+					count: 16
+					id: "6ECAE9E3D104843F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "253FC80C9519A056"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "00A576366FC50DD4"
+				item: "tconstruct:tinkers_gadgetry"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["20502B456685BF55"]
+			id: "37CB3E236B989174"
+			rewards: [
+				{
+					count: 16
+					id: "446F3785F0F6E32E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "68644387A1FC2B7A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E42EE6C905017AA"
+				item: {
+					Count: 1
+					id: "tconstruct:sky_slime_sling"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 18.0d
+		}
+		{
+			id: "413135842C34C2EA"
+			rewards: [
+				{
+					count: 16
+					id: "4D799364B91F0D11"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "1BA212F1483B77D1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "080CD7CD092B9C2D"
+				item: "tconstruct:ichor_slime_ball"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["413135842C34C2EA"]
+			id: "62D9FD0B18115A75"
+			rewards: [
+				{
+					count: 16
+					id: "5E2D831690ED0C8A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "5488C257185EB4C0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2194639406CBB1A6"
+				item: {
+					Count: 1
+					id: "tconstruct:ichor_slime_sling"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 19.5d
+		}
+		{
+			id: "3126F01D416829FF"
+			rewards: [
+				{
+					count: 16
+					id: "7870F9879C82CC55"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7E8CC6305D821F59"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55CCDEA7C251F494"
+				item: "minecraft:slime_ball"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["3126F01D416829FF"]
+			id: "4D40EAB12207D977"
+			rewards: [
+				{
+					count: 16
+					id: "75FE4DC73DEBF33E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "522837FF6E76341E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5AAC0F475933AE00"
+				item: {
+					Count: 1
+					id: "tconstruct:earth_slime_sling"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 19.5d
+		}
+		{
+			id: "162163B236F5CC81"
+			rewards: [
+				{
+					count: 16
+					id: "6717E9E44336D348"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7F65FB83863F114C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "700BC1E064FAB90F"
+				item: "tconstruct:ender_slime_ball"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["162163B236F5CC81"]
+			id: "2C5F830F88489E13"
+			rewards: [
+				{
+					count: 10
+					id: "30598A9ECAF7B159"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "735EEFD6E885EBB7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26FA9C88594D70A5"
+				item: {
+					Count: 1
+					id: "tconstruct:ender_slime_sling"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 16.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "3FE0B1E2B57841C3"
+			rewards: [
+				{
+					count: 10
+					id: "66AE20E3C0D9D6C2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6ED137F17D3C76E4"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "504B376EBF0E6AB7"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:bone"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:strong_bones"
+							}
+							{
+								level: 1s
+								name: "tconstruct:skeleton_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 0.0f
+							"tconstruct:durability": 462.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "182D4163302E787F"
+			rewards: [
+				{
+					count: 10
+					id: "7D947514690F8627"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5D7FB5C29F10A762"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "22EBCFF77F911E57"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:copper"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:breathtaking"
+							}
+							{
+								level: 1s
+								name: "tconstruct:drowned_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 2.0f
+							"tconstruct:durability": 507.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "6A641348A93747C7"
+			rewards: [
+				{
+					count: 10
+					id: "7922F760957DE05A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4E09C1854E3344A8"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C1E956E62551E62"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:rotten_flesh"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:wildfire"
+							}
+							{
+								level: 1s
+								name: "tconstruct:zombie_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 2.0f
+							"tconstruct:durability": 407.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "206871045F2EE3A8"
+			rewards: [
+				{
+					count: 10
+					id: "318F86CAE0141FF9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0BDF87C5CB7D2595"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4FE535E90950B49F"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:iron"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:plague"
+							}
+							{
+								level: 1s
+								name: "tconstruct:husk_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 2.0f
+							"tconstruct:durability": 527.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "02991F1269BA2AE7"
+			rewards: [
+				{
+					count: 10
+					id: "054271E4485FB009"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "66F4E4C8551887CA"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "28CC64BB1DC49A37"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:bloodbone"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:frosttouch"
+							}
+							{
+								level: 1s
+								name: "tconstruct:stray_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 1.0f
+							"tconstruct:durability": 537.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "719C9C1B53A73397"
+			rewards: [
+				{
+					count: 10
+					id: "0A7F4B0E61DAD872"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1E74080C821B37E0"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6FCB3887CA9B2980"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:necrotic_bone"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:withered"
+							}
+							{
+								level: 1s
+								name: "tconstruct:wither_skeleton_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 0.0f
+							"tconstruct:durability": 487.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "2E5C758B31167CD8"
+			rewards: [
+				{
+					count: 10
+					id: "6F6835BAF95E6E02"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7B6D120F8F33452B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0D853C4C43DBE4FB"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:ender_pearl"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:enderdodging"
+							}
+							{
+								level: 1s
+								name: "tconstruct:enderman_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 0.0f
+							"tconstruct:durability": 542.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "55C28E011D68092B"
+			rewards: [
+				{
+					count: 10
+					id: "20935310D338FF8F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "22CB6A21E10B3C13"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "479E07FBDCF5BE3D"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:gold"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:chrysophilite"
+							}
+							{
+								level: 1s
+								name: "tconstruct:piglin_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 0.0f
+							"tconstruct:durability": 487.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "16B18303E6812309"
+			rewards: [
+				{
+					count: 10
+					id: "5641255D5722F3EE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "601D8A31544FDACA"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A85278FA4A491FB"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:pig_iron"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:revenge"
+							}
+							{
+								level: 1s
+								name: "tconstruct:zombified_piglin_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 2.0f
+							"tconstruct:durability": 512.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 16.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "3CA9C6C5F7BBAE66"
+			rewards: [
+				{
+					count: 10
+					id: "71E643DBA4A24D41"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "66D91A86F3E1BFF2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "03194F196DDD8AAF"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:blazing_bone"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:firebreath"
+							}
+							{
+								level: 1s
+								name: "tconstruct:blaze_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 1.0f
+							"tconstruct:durability": 567.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: 19.5d
+		}
+		{
+			dependencies: [
+				"162163B236F5CC81"
+				"354494C774D79D0C"
+			]
+			id: "42EAEDED24EF5652"
+			rewards: [
+				{
+					count: 10
+					id: "72CD661578AAED21"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "17BB976A4718D30B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7A57916AFA93B399"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_helmet"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_materials: ["tconstruct:rose_gold"]
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:gold_guard"
+							}
+							{
+								level: 1s
+								name: "tconstruct:piglin_brute_disguise"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 1.0f
+							"tconstruct:durability": 537.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 17.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["162163B236F5CC81"]
+			dependency_requirement: "one_completed"
+			id: "30F8FB6A28DAF8CB"
+			rewards: [
+				{
+					count: 10
+					id: "2A9DD92C8E5E7509"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "29288B6E2179199C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1B9278F6D065C842"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_boots"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:bouncy"
+							}
+							{
+								level: 1s
+								name: "tconstruct:leaping"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 0.0f
+							"tconstruct:durability": 546.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["162163B236F5CC81"]
+			id: "518D343875133579"
+			rewards: [
+				{
+					count: 10
+					id: "36960F58627FCF87"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "57C49D639B6E552B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "268F86EE3674ECA5"
+				item: {
+					Count: 1
+					id: "tconstruct:slime_leggings"
+					tag: {
+						Damage: 0
+						tic_broken: 0b
+						tic_modifiers: [
+							{
+								level: 1s
+								name: "tconstruct:overslime_friend"
+							}
+							{
+								level: 1s
+								name: "tconstruct:shulking"
+							}
+							{
+								level: 1s
+								name: "tconstruct:pockets"
+							}
+						]
+						tic_persistent_data: {
+							abilities: 1
+							upgrades: 5
+						}
+						tic_stats: {
+							"tconstruct:armor": 0.0f
+							"tconstruct:durability": 630.0f
+						}
+						tic_volatile_data: {
+							"tconstruct:overslime_friend": 1b
+							"tconstruct:total_item_slots": 18
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 16.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "tconstruct:cleaver"
+				tag: {
+					Damage: 0
+					tic_broken: 0b
+					tic_materials: [
+						"tconstruct:manyullyn"
+						"tconstruct:manyullyn"
+						"tconstruct:manyullyn"
+						"tconstruct:manyullyn"
+					]
+					tic_modifiers: [
+						{
+							level: 2s
+							name: "tconstruct:severing"
+						}
+						{
+							level: 4s
+							name: "tconstruct:insatiable"
+						}
+						{
+							level: 1s
+							name: "tconstruct:silky_aoe_shears"
+						}
+					]
+					tic_multipliers: {
+						"tconstruct:attack_damage": 1.5f
+						"tconstruct:durability": 3.5f
+						"tconstruct:mining_speed": 0.25f
+					}
+					tic_persistent_data: {
+						abilities: 1
+						upgrades: 2
+					}
+					tic_stats: {
+						"tconstruct:attack_damage": 12.1875f
+						"tconstruct:attack_speed": 0.95f
+						"tconstruct:durability": 4812.5f
+						"tconstruct:harvest_tier": "minecraft:netherite"
+						"tconstruct:mining_speed": 1.4625f
+					}
+				}
+			}
+			id: "354494C774D79D0C"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "44D2DBE82D81CAE1"
+				title: "Создать оружие со свойством \"отсечение\""
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["354494C774D79D0C"]
+			id: "1A4D624D7E510F1C"
+			rewards: [
+				{
+					count: 10
+					id: "7B1F3059A0A33D23"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "631D07639459E5EE"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B41EF0BE46534C8"
+				item: "tconstruct:necrotic_bone"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"1A4D624D7E510F1C"
+				"639AC56005B9A1D3"
+			]
+			id: "30F6E46D65330216"
+			rewards: [
+				{
+					count: 16
+					id: "027A01394DF5F075"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "59A80304AFE1DFE5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10FBC21096530A35"
+				item: "tconstruct:blazing_bone"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["1A4D624D7E510F1C"]
+			id: "10F14891E5C57E77"
+			rewards: [
+				{
+					count: 16
+					id: "3370F61BFE997ACE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3682A8C4AE753349"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6F5287E0B7D0FF0C"
+				item: "tconstruct:necronium_bone"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6EF45AC8E96FBBC7"]
+			id: "410CC4DCA7C2CD39"
+			rewards: [
+				{
+					count: 16
+					id: "571A5164C31BBD7D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "1EE6724AC6F08F8C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4F5BFF414E3573EA"
+				item: "tconstruct:bloodbone"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			icon: "tconstruct:blood_slime_ball"
+			id: "6EF45AC8E96FBBC7"
+			rewards: [
+				{
+					count: 16
+					id: "3F2728DDCD4F9F4A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7813329A3A982532"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "70302732AF3D9402"
+				title: "Расплавить существо и получить кровь"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6EF45AC8E96FBBC7"]
+			id: "5638947A7154A3D5"
+			rewards: [
+				{
+					count: 16
+					id: "047F5249D5EADBFA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3724DA6101864D32"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "170A80757ECF600C"
+				item: "tconstruct:blood_slime_ball"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 19.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "50B0C0DD0CDC5EB2"
+			rewards: [
+				{
+					count: 16
+					id: "437E66CC32C6A8CE"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "1609DC388CB04D1C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "422AD0D0F9004A91"
+				item: "tconstruct:amethyst_bronze_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0F315E71ED0E1994"]
+			id: "14714E0CD39E99E0"
+			rewards: [
+				{
+					count: 16
+					id: "663DDF0526E339A3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "63B595B447D19C20"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "142C1179718CB1E8"
+				item: "tconstruct:bronze_reinforcement"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["5A120DB921228E8B"]
+			id: "3E1D1A0875DD9F1B"
+			rewards: [
+				{
+					count: 16
+					id: "651134C8BBD7EDD9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6EDCB6D2C0B571C9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5305395B96A0A89B"
+				item: "tconstruct:slimesteel_reinforcement"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["169BF1789B58FB86"]
+			id: "70E3CEBE61A10F9D"
+			rewards: [
+				{
+					count: 16
+					id: "0C9B0E04A4880645"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "68C6A18E2D9DB836"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "00EFDE32539A9C96"
+				item: "tconstruct:cobalt_reinforcement"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "0CA59B96B1F1D99A"
+			rewards: [
+				{
+					count: 16
+					id: "44161614B1D3E763"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "61993730FA38B643"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1CB99D0387B99743"
+				item: "tconstruct:gold_reinforcement"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "4492FB29244523FD"
+			rewards: [
+				{
+					count: 16
+					id: "7F279504F0C08B8B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "316EAE69526CD8DD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1E83B8D6D2E61B16"
+				item: "tconstruct:seared_reinforcement"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "0C24B9DF7A030BF5"
+			rewards: [
+				{
+					count: 16
+					id: "00C882A3640D314F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "749C8FC2BCD1EC91"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34F61C4A7867D5E8"
+				item: "tconstruct:emerald_reinforcement"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["111CA2082C171D05"]
+			id: "6DF7514B0A81B4A2"
+			rewards: [
+				{
+					count: 16
+					id: "493D4CF47B8D1736"
+					item: "numismatics:spur"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7586A303048C5996"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "72D1E209A2F1EE4D"
+				item: "tconstruct:iron_reinforcement"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 15.5d
 		}
 	]
 	title: "Tinkers Construct"

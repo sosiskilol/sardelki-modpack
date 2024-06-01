@@ -6498,6 +6498,7 @@
 					type: "item"
 				}
 			]
+			subtitle: "блок капитализма"
 			tasks: [{
 				id: "524E3C011127C6CB"
 				item: "numismatics:brass_depositor"
