@@ -1,0 +1,13 @@
+name = "Achievements Optimizer"
+filename = "AchievementOptimizer-fabric-1.20.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SvXrP8rT/versions/za09U0fF/AchievementOptimizer-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "b56b53676f90b700117641b9f75ec072f3324dbc"
+
+[update]
+[update.modrinth]
+mod-id = "SvXrP8rT"
+version = "za09U0fF"
