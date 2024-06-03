@@ -967,16 +967,11 @@
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
-				id: "10B1351D3D3C6C81"
-				item: {
-					Count: 1
-					id: "botania:lexicon"
-					tag: {
-						"botania:elven_unlock": 1b
-					}
-				}
-				type: "item"
+				id: "65BB877A38C23679"
+				title: "Получите от эльфов предмет, с помощью которого вы можете получить новые знания"
+				type: "checkmark"
 			}]
+			title: "Получите от эльфов предмет, с помощью которого вы узнаете много нового о ботании"
 			x: -15.0d
 			y: 31.0d
 		}

@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["512796D0344358E3"]
 			id: "11761C8EA101A496"
 			rewards: [
 				{
@@ -35,7 +36,7 @@
 				item: "modern_industrialization:forge_hammer"
 				type: "item"
 			}]
-			x: -1.5d
+			x: -3.0d
 			y: -1.5d
 		}
 		{
@@ -216,8 +217,8 @@
 				item: "modern_industrialization:steel_upgrade"
 				type: "item"
 			}]
-			x: 4.0d
-			y: -6.5d
+			x: 2.0d
+			y: -8.5d
 		}
 		{
 			dependencies: ["2363D211D89E2D3B"]
@@ -476,7 +477,8 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["11761C8EA101A496"]
+			can_repeat: false
+			dependencies: ["4691B0DEC458F6C2"]
 			id: "7A778DB057BA0124"
 			rewards: [
 				{
@@ -855,7 +857,7 @@
 				item: "modern_industrialization:guidebook"
 				type: "item"
 			}]
-			x: -3.0d
+			x: -4.5d
 			y: -1.5d
 		}
 		{
@@ -1175,7 +1177,10 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["558D84795FE16216"]
+			dependencies: [
+				"558D84795FE16216"
+				"24231C9336313110"
+			]
 			id: "7DC5648B7589D677"
 			tasks: [{
 				id: "6390824F0ED603ED"
@@ -1340,7 +1345,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -1406,7 +1411,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: 4.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["7CE568D638504E44"]
@@ -1546,6 +1551,146 @@
 			}]
 			x: 6.5d
 			y: 8.0d
+		}
+		{
+			dependencies: ["3E80CDCCCEA646EB"]
+			id: "471F400DFCA7AA3F"
+			tasks: [{
+				id: "51DFC7871426C8FA"
+				item: {
+					Count: 1
+					id: "modern_industrialization:rubber_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["1EB52D9861FC1A55"]
+			id: "36C03AA5C625F408"
+			tasks: [{
+				id: "5E75890ED976CC9B"
+				item: "modern_industrialization:redstone_control_module"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["1EB52D9861FC1A55"]
+			id: "41AA69ADFA90A2A6"
+			tasks: [{
+				id: "206F0DD700EFE0B2"
+				item: "modern_industrialization:config_card"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2363D211D89E2D3B"]
+			id: "638B4F43E8BA85CA"
+			tasks: [{
+				id: "6AD68CB01CA6E5DA"
+				item: "modern_industrialization:trash_can"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["1B6E896F4962A0B7"]
+			id: "24231C9336313110"
+			tasks: [{
+				id: "76F5A561CE80AB07"
+				item: "modern_industrialization:industrial_tnt"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7A778DB057BA0124"]
+			id: "56D2D624FE594A10"
+			tasks: [{
+				id: "125251CF22BAF1DA"
+				item: "modern_industrialization:bronze_barrel"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["11761C8EA101A496"]
+			id: "4691B0DEC458F6C2"
+			tasks: [{
+				id: "47D8BAA8C9EF1BC9"
+				item: {
+					Count: 1
+					id: "modern_industrialization:iron_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"20BFAEB07F9787FF"
+				"75D16653D5B95D6B"
+			]
+			id: "537FA207747709AF"
+			tasks: [{
+				id: "3107A18238C730EC"
+				item: "modern_industrialization:large_tank"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["537FA207747709AF"]
+			id: "2F1DE0A9E3C5D136"
+			tasks: [{
+				id: "6635F133CEFDC96D"
+				item: "modern_industrialization:large_tank_hatch"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["0D7D65B96477B73D"]
+			id: "3E2E4141ED1B9647"
+			tasks: [{
+				id: "5C73230C10C768AD"
+				item: "modern_industrialization:configurable_tank"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"75D16653D5B95D6B"
+				"20BFAEB07F9787FF"
+				"29BC3A6F34E730D5"
+			]
+			id: "34193EA1EF4E11BC"
+			tasks: [{
+				id: "1F439AC8221F96FD"
+				item: "modern_industrialization:configurable_chest"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -8.5d
 		}
 	]
 	subtitle: ["Modern Industrialization (MI) - лучший технический мод для новых версий Minecraft. Является аналогом GregTech и IndustrialCraft. Возможно наиболее сложный мод в этой сборке, но в конечном итоге позволит вам дюпать предметы и стать бессмертным."]
