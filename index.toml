@@ -360,6 +360,11 @@ hash = "118b93392c48dad929401e8663d04706db05404d84511f9a20956b240d88bfc8"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "d9a21276de16a0e50c83cc730e24e2794a6393b238cf22ca96753d118525bd74"
 metafile = true
