@@ -14,7 +14,7 @@ hash = "95119bd7af0278d74547c054bf786ad92a90c03a43a7cfba8fc4ea8fc307fb77"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
-hash = "8287398442509158be72fb92c6bf14c861f667842f17c82288a6e94bf27a22a6"
+hash = "afe7e711a4aa12d0cccdb177b08b88da359c8f6021c23ddbff6518955688da7f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -38,7 +38,7 @@ hash = "5f77c06f7045b2fce1a2a13f548f79f700d989c65e79c1dd3f8deef584a7dc58"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
-hash = "3aee6fd0becbd44d8f1448052e176a9aeac8d99beb22ec415fd1871bb0f394f3"
+hash = "cc3da83647b99434a5ef3f639809125d52bb9b4c5e22f2f6d09c8cd6ad0ca5d1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkers_construct.snbt"
