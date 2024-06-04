@@ -53,6 +53,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "1478e6ed007ffb13d7d271f7b112bda050ef0e3a06d6f9fb0e68b2e233a6b370"
 
 [[files]]
+file = "config/semblance.properties"
+hash = "ba84add784204ce3f1f73379024d492917771dee981a5d2d47b3f88e3ca4d235"
+
+[[files]]
 file = "config/styledplayerlist/config.json"
 hash = "c8db949a3f89485da95b201f596732a1ba8f56a00452e68932c89e50db278688"
 
