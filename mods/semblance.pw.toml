@@ -1,0 +1,13 @@
+name = "Semblance"
+filename = "semblance-1.1.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FFiEdqAn/versions/LSZEdanL/semblance-1.1.5.jar"
+hash-format = "sha1"
+hash = "bb7b5d127c135b3b70763cdf7086252e5a599084"
+
+[update]
+[update.modrinth]
+mod-id = "FFiEdqAn"
+version = "LSZEdanL"
