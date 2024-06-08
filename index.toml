@@ -57,6 +57,10 @@ file = "config/semblance.properties"
 hash = "ba84add784204ce3f1f73379024d492917771dee981a5d2d47b3f88e3ca4d235"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "be191f74ff9f87c6ad82960ddb3ce6c72a02905c7f1b9681fa8c6cbb31d6a58c"
+
+[[files]]
 file = "config/styledplayerlist/config.json"
 hash = "c8db949a3f89485da95b201f596732a1ba8f56a00452e68932c89e50db278688"
 
