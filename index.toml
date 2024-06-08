@@ -624,6 +624,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/streamotes.pw.toml"
+hash = "95e8dbd9c00221067b66ddd762205d9726499621576c83caaf1f4988f0e48b55"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
@@ -681,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]
