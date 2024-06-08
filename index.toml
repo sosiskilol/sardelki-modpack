@@ -6,19 +6,19 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ad_astra.snbt"
-hash = "b1af6ca62948a679ae9a82c8472f1b87a2c049ce8539667797b0cb1e95693621"
+hash = "8e21e8258be0ace6cfebb5bc6dd9c1e5ce3504e86f783afab6ff0e06d15f0bd8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "95119bd7af0278d74547c054bf786ad92a90c03a43a7cfba8fc4ea8fc307fb77"
+hash = "107c2f680584b7d455b49a1861da080811958736a27501f3ade486b4937eb328"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
-hash = "afe7e711a4aa12d0cccdb177b08b88da359c8f6021c23ddbff6518955688da7f"
+hash = "37a34e8092f31d7870f09a3ae6e8f749a24b1f7d87a3ffa60ec6cdca144aaf1d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
-hash = "2d00dcad7a3f3259c51069f6752740c288f3a268d0f9878d7214bc0806015593"
+hash = "a6b6bee7efa5a84bac526f72f74ad40642be83edf80d2cbcd86ba68c3ac36cf3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chemistry.snbt"
@@ -34,15 +34,15 @@ hash = "a88ea81b0ab14b72e37a6a7ed277cd87b9edaf70aac7425ee14b26022bdd7089"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
-hash = "5f77c06f7045b2fce1a2a13f548f79f700d989c65e79c1dd3f8deef584a7dc58"
+hash = "b3d1eb68c93e75725e815a83ef398144d4a49391bff3c0241839c8e0a2ed2015"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
-hash = "cc3da83647b99434a5ef3f639809125d52bb9b4c5e22f2f6d09c8cd6ad0ca5d1"
+hash = "b61bce0cf9f74a7a70124dacb92f5f225da7440b2af169056389f3385f1b5199"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkers_construct.snbt"
-hash = "eff922d63f201637c8d8c56f3f8b17ca6e8545a3302de25d0db6e177ca7e4219"
+hash = "d051d738f5c1f769ba44bc866fa3b8965871fd3fcb49a5826406abccef41a77f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/vanilla.snbt"

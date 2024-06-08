@@ -5,7 +5,7 @@
 	group: ""
 	icon: "modern_industrialization:singularity"
 	id: "5D00354EFB1496D0"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -724,7 +724,7 @@
 				item: "modern_industrialization:rubber_sheet"
 				type: "item"
 			}]
-			x: 6.5d
+			x: 5.5d
 			y: 3.0d
 		}
 		{
@@ -944,7 +944,7 @@
 				item: "modern_industrialization:tin_cable"
 				type: "item"
 			}]
-			x: 7.5d
+			x: 6.5d
 			y: 4.0d
 		}
 		{
@@ -1194,7 +1194,7 @@
 				item: "modern_industrialization:titanium_drill"
 				type: "item"
 			}]
-			x: 62.0d
+			x: 58.0d
 			y: 2.0d
 		}
 		{
@@ -1205,7 +1205,7 @@
 				item: "modern_industrialization:raw_iridium"
 				type: "item"
 			}]
-			x: 66.0d
+			x: 59.0d
 			y: 2.0d
 		}
 		{
@@ -1242,8 +1242,8 @@
 				item: "modern_industrialization:large_diesel_generator"
 				type: "item"
 			}]
-			x: 70.0d
-			y: 12.5d
+			x: 58.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["6564AD2712A65C16"]
@@ -1329,8 +1329,8 @@
 				item: "modern_industrialization:singularity"
 				type: "item"
 			}]
-			x: 63.5d
-			y: 0.0d
+			x: 63.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7504EA41DB041832"]
@@ -1370,8 +1370,8 @@
 				item: "modern_industrialization:quantum_machine_hull"
 				type: "item"
 			}]
-			x: 73.0d
-			y: 12.5d
+			x: 58.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["61665BFCDBC55F6A"]
@@ -1395,8 +1395,8 @@
 				item: "modern_industrialization:plutonium_battery"
 				type: "item"
 			}]
-			x: 65.0d
-			y: 14.0d
+			x: 65.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["0BD8B251D8B052B5"]
@@ -1429,8 +1429,8 @@
 				item: "modern_industrialization:plasma_turbine"
 				type: "item"
 			}]
-			x: 66.5d
-			y: 13.5d
+			x: 60.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["37781AFDEB20E1AE"]
@@ -1440,8 +1440,8 @@
 				item: "modern_industrialization:fusion_reactor"
 				type: "item"
 			}]
-			x: 70.0d
-			y: 2.0d
+			x: 59.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["37781AFDEB20E1AE"]
@@ -1451,8 +1451,8 @@
 				item: "modern_industrialization:superconductor_storage_unit"
 				type: "item"
 			}]
-			x: 63.5d
-			y: 9.5d
+			x: 58.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["25D821D8FB5BAE95"]
@@ -1523,8 +1523,8 @@
 					type: "item"
 				}
 			]
-			x: 60.0d
-			y: 0.5d
+			x: 60.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2DABC989CBEE2F54"]
@@ -1562,7 +1562,7 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
+			x: 5.5d
 			y: 4.5d
 		}
 		{
