@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "cf4ac8ebc136cd17aac4e1958a8b4195cc2fcb52ab09bba80caeedf3d7ecee22"
+hash = "8c3d2ab031956ebc554135689326aca1dc41bc3ae5e700b5a7e316a20c2e8f21"
 metafile = true
 
 [[files]]
