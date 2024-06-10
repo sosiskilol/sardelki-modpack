@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "5b43f8f49e2ca148cc67a2cbd6ae263eec6f6ac1a2db042371847bff627dc08d"
+hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
 metafile = true
 
 [[files]]
