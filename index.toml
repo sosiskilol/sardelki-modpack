@@ -715,5 +715,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
+hash = "0ae87b95361bc2f8449c9e7ab4d5b9b8588ac42945e43cf852da6856ae3c555d"
 metafile = true
