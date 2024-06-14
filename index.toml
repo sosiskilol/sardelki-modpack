@@ -649,6 +649,11 @@ hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "deb510941e25d8aad3c2317f1cb5cdc838dc8cb111bf6011e19360278f87de30"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
 metafile = true
