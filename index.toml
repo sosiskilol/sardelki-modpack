@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
+hash = "867b820fea3d6374103c7ea5a13162617b840e5ef5607ac47636014971ed95f7"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fddce1cfc06ce7b3c5fc0cfa062fc57eadfd4ef4213ad561dc93d98b92d329d2"
+hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
+hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "deb510941e25d8aad3c2317f1cb5cdc838dc8cb111bf6011e19360278f87de30"
+hash = "430009d0e6a0a77a296c694cc783b96b086f40c6877702548505debe4aefc3db"
 metafile = true
 
 [[files]]
@@ -720,5 +720,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "0ae87b95361bc2f8449c9e7ab4d5b9b8588ac42945e43cf852da6856ae3c555d"
+hash = "5a858b73cd053d094cc4e7894fa32219872dcf572604e6aa1f1e7ac2680d9bd2"
 metafile = true
