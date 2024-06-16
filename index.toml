@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "0a0ad4de0d4b1f6d8a87966807bb32894fc1099adebe10781485e4afb113ffb2"
+hash = "65e3987f1295727be99425ba6e9d2026d3863b1cb65f37ae196e0889fb369eef"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a86cc764c848a433eea96de9edbd115fc2f5bc334eab15b256e1d8e38199623a"
+hash = "6a8332dd87eacd8b45ec066c2ec241605c41ed8b96281c739599a1a5a38a49b4"
 metafile = true
 
 [[files]]
