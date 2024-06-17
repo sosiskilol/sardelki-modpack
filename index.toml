@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "867b820fea3d6374103c7ea5a13162617b840e5ef5607ac47636014971ed95f7"
+hash = "11ae6e5ead026804f403de722f75b376d69b8502036321781b05d4dd5e94a783"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
+hash = "425c9f0b28ff03a61402618cedc52cf22456ac9afe9b2c7faa3800e53474764e"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
