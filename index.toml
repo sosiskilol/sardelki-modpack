@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "11ae6e5ead026804f403de722f75b376d69b8502036321781b05d4dd5e94a783"
+hash = "e41c77ed14f53dc74d75aa14cfd50f09bb0bd9ddf89c5c6ae5d6fd4a5cab7a47"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "05e85644cd5922f05f678fbd352b25d34d6ae26b16fe87dcd23527a373f59f54"
+hash = "bd13db1716554c5dad77cafcace77b1a8f0c5eb780c8d4e2cadf5068c40a5ec4"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6a8332dd87eacd8b45ec066c2ec241605c41ed8b96281c739599a1a5a38a49b4"
+hash = "552142c7790e1dca58fd18e3c4e4c2f86c728fb627493ba1d4f14165334b95f1"
 metafile = true
 
 [[files]]
