@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e41c77ed14f53dc74d75aa14cfd50f09bb0bd9ddf89c5c6ae5d6fd4a5cab7a47"
+hash = "80510227311a8bc980c2814700f450c30b825ebadb41f9f1e79400f8a7925ee8"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushi-bar.pw.toml"
-hash = "430009d0e6a0a77a296c694cc783b96b086f40c6877702548505debe4aefc3db"
+hash = "b5a88924ff4388710d2049c661b608d979819d0edace830b3b27c61023155847"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "552142c7790e1dca58fd18e3c4e4c2f86c728fb627493ba1d4f14165334b95f1"
+hash = "c54775092833eed15f5676341d363603a31b19e14ba897604a085f89b1167212"
 metafile = true
 
 [[files]]
