@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
+hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "9310959937cdead5163cac14f7cb9e09fe5ae23d9ec4a59086ed82231cd477f8"
+hash = "f8cb08d1a51a4f6ba84883fed1bbb8aa5a78f235413d711c9b109f82a7267871"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/jline4mcdsrv.pw.toml"
-hash = "df1f66f500c693e7c17eb46c282abaad211401dae80c2a8e881ec6d2a328f12d"
+hash = "b6fe190c182dee15e05345c007027ada29d59dc753edb5a82f7913c88716baea"
 metafile = true
 
 [[files]]

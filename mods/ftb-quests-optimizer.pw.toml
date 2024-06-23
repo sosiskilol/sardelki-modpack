@@ -1,13 +1,13 @@
 name = "FTB Quests Optimizer"
-filename = "FTBQuestsOptimizer-fabric-2.0.2-1.20.1.jar"
+filename = "FTBQuestsOptimizer-fabric-2.0.3-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/oPwMsrcf/versions/ZcTGXJYJ/FTBQuestsOptimizer-fabric-2.0.2-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/oPwMsrcf/versions/md3Rwwv5/FTBQuestsOptimizer-fabric-2.0.3-1.20.1.jar"
 hash-format = "sha1"
-hash = "4fc3a0c13e9d874052ec7f39ccbd71a8a9c1ecf9"
+hash = "ebb3055d7d24a62f61cf87417003d92303397e2c"
 
 [update]
 [update.modrinth]
 mod-id = "oPwMsrcf"
-version = "ZcTGXJYJ"
+version = "md3Rwwv5"
