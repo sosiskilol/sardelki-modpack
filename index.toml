@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a49e9f505dbbefaf8382c797b883173fd16b33f331ebda64fff0c6e465c3127b"
+hash = "dc7a1dd927927788de75b4ec7bf29b40d0d4704a13788bdfcba5d5b243d0eaa1"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9f17a20c117d6e3c86c6863d66dbbc7ac3a40d7be8a6340897b93fb8d47fd986"
+hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "1e2353288a08741913c94503498dcc6adac591a35e7045ce51fb32723aa95618"
+hash = "a53ec69b860f0d71746a657200adb02c75e5f0e9b95277058fc556853634ca40"
 metafile = true
 
 [[files]]
