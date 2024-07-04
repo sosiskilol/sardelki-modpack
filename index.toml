@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8a9c5e182dc4d4792103277e2003062de2718a4167edb9082d69efcbfc19cb87"
+hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bd13db1716554c5dad77cafcace77b1a8f0c5eb780c8d4e2cadf5068c40a5ec4"
+hash = "d75694a2907897e324887dd87e6090a5ef7ab7dbb2a1b18cf5f232b647e708ac"
 metafile = true
 
 [[files]]
