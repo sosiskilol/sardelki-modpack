@@ -79,11 +79,6 @@ hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
-metafile = true
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
@@ -119,11 +114,6 @@ hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
-metafile = true
-
-[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
@@ -131,16 +121,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
-metafile = true
-
-[[files]]
-file = "mods/bobby.pw.toml"
-hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]
@@ -359,11 +339,6 @@ hash = "7a0ddae74ef4a6015f9919459f49624bbddd7f3891dbaae71ea042456b6f44b8"
 metafile = true
 
 [[files]]
-file = "mods/galosphere.pw.toml"
-hash = "118b93392c48dad929401e8663d04706db05404d84511f9a20956b240d88bfc8"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
@@ -376,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
-metafile = true
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
 metafile = true
 
 [[files]]
@@ -441,11 +411,6 @@ metafile = true
 [[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
-metafile = true
-
-[[files]]
-file = "mods/man-of-many-planes.pw.toml"
-hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
 metafile = true
 
 [[files]]
@@ -511,11 +476,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
-metafile = true
-
-[[files]]
-file = "mods/numismatics.pw.toml"
-hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
@@ -589,11 +549,6 @@ hash = "d75694a2907897e324887dd87e6090a5ef7ab7dbb2a1b18cf5f232b647e708ac"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
@@ -606,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-astronomy.pw.toml"
-hash = "18b51e8d1b6e076f0333da382b37d92cdb1e2c35bd40522910e60a341d27ab80"
 metafile = true
 
 [[files]]
@@ -651,16 +601,6 @@ metafile = true
 [[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "b5a88924ff4388710d2049c661b608d979819d0edace830b3b27c61023155847"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "27e7e48b7af508ecf27f389f37c6ab60e72a947f476d5e427927a6de70442de2"
 metafile = true
 
 [[files]]
