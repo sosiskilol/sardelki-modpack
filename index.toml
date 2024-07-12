@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "f5c55df1a98402e2341b8db7b00d64a80f1019194d149876997cf67b372a694a"
+hash = "0c9015aa5398140bff02d2c2f8f837e5b903ac53ca7c2496afb98e30cf08285b"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "271373d2967b7647a918adcc9e04ca81924d1a639e7fae4d7b5d0eabd775bdf4"
+hash = "e25a9439cd57c1af53a62c6f8703934911a561f38330e5acfb482a82ab09a404"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
