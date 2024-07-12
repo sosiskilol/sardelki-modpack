@@ -79,6 +79,11 @@ hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "f5c55df1a98402e2341b8db7b00d64a80f1019194d149876997cf67b372a694a"
 metafile = true
@@ -236,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
 
 [[files]]
