@@ -159,6 +159,11 @@ hash = "bdc2dd7cf8cb0e92153a240114d4e46c8020e47ed3f4243e8ed97d27ded00ab2"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "4509d50ad87085fdcb9c950ce9ba12a0a95686fefa649d426ca8bd552d0203ee"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
 metafile = true
@@ -261,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
 
 [[files]]
@@ -502,6 +512,10 @@ metafile = true
 file = "resourcepacks/create-computercraft.pw.toml"
 hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
 metafile = true
+
+[[files]]
+file = "scripts/custom_crafts.zs"
+hash = "a0d2ff25c8a8bfe373cb7508e1bd4196f2bb9fc38f23fba1a73a2e56989da300"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
