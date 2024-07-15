@@ -514,7 +514,7 @@ hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
 metafile = true
 
 [[files]]
-file = "scripts/custom_crafts.zs"
+file = "scripts/custom_create_recipes.zs"
 hash = "a0d2ff25c8a8bfe373cb7508e1bd4196f2bb9fc38f23fba1a73a2e56989da300"
 
 [[files]]
