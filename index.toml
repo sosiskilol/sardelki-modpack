@@ -69,6 +69,10 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "96611cf3bb56261c7ebd1b1293234a567348d62eb35cf19d97d8c39405562a75"
 
 [[files]]
+file = "mods/EasyAuth/config.json"
+hash = "16212222927ec9f7338489632005fd16092dbea27c3231b61ec283f740582022"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
