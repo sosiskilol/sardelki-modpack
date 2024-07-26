@@ -5,26 +5,18 @@
 	group: ""
 	icon: "computercraft:computer_advanced"
 	id: "2CA5265DD9EA884F"
-	order_index: 7
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "1A91CEB1C6C07EB2"
-			rewards: [
-				{
-					count: 10
-					id: "7A81FB9974510C2C"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "7424CFFD9897764E"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "22BD01DBE2ED22DE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Основа компьютеризации"
 			tasks: [{
 				id: "65ECEFBA25CAED84"
@@ -37,20 +29,12 @@
 		{
 			dependencies: ["1A91CEB1C6C07EB2"]
 			id: "61DD4E34176D56A7"
-			rewards: [
-				{
-					count: 10
-					id: "3DAEA5276A336A7D"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "0741AFE8C16D33DB"
-					item: "numismatics:sprocket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "4A72C8B9AE638728"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "улучшенная версия компьютера"
 			tasks: [{
 				id: "2EAB7F6739C6A457"
@@ -63,20 +47,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "48EA6F1DE1F5A27E"
-			rewards: [
-				{
-					count: 10
-					id: "4471E87170A05790"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "0C58BDD7767016C9"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "238A463335C92EC5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "выводит информацию"
 			tasks: [{
 				id: "485BE3D57AE3C98E"
@@ -89,20 +65,12 @@
 		{
 			dependencies: ["48EA6F1DE1F5A27E"]
 			id: "5E554DF27D7B45A0"
-			rewards: [
-				{
-					count: 10
-					id: "0CD85D7E2BC4B16E"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "0CB48A3350BD99C5"
-					item: "numismatics:sprocket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "4247354B47A497EE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Лучше выводит информацию, даже в цвете, и на нем можно писать"
 			tasks: [{
 				id: "44CCC64087C62E63"
@@ -115,6 +83,12 @@
 		{
 			icon: "computercraft:computer_command"
 			id: "20D70F236761A8A9"
+			rewards: [{
+				count: 10
+				id: "53FD593F2D1CA64C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -132,20 +106,12 @@
 				"78E519027DBAF39A"
 			]
 			id: "462F4A5736154B9A"
-			rewards: [
-				{
-					count: 10
-					id: "701EB9D0A265A0EA"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "72CC707908D4B8C7"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "35B889EB1B1E2EF1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "передача информации без проводов"
 			tasks: [{
 				id: "0FA1C5CA6D52C637"
@@ -158,20 +124,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "33CDCB09FF7210BB"
-			rewards: [
-				{
-					count: 10
-					id: "4C94D36A4282B164"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "0D086A711A81F619"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "3DCE0C903E46771D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Выводит звук"
 			tasks: [{
 				id: "05841B5DE14F3FBD"
@@ -184,20 +142,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "7CEAB04B7AFF1592"
-			rewards: [
-				{
-					count: 10
-					id: "33D8F2DADA6C1650"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "337B494E637D985B"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "5650C33C5C1916E2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет распечатать текст"
 			tasks: [{
 				id: "4DBC81AE09E9304A"
@@ -210,20 +160,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "1AFA36E7E1A9FEFD"
-			rewards: [
-				{
-					count: 10
-					id: "6BF67D0D064E28E2"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "2CA319ED04BB928C"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "461EFAA0F8F5386A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Для записи файлов на дискеты и выгрызки файлов с них"
 			tasks: [{
 				id: "7B04937F59BBF1BB"
@@ -236,20 +178,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "279A49DD77203F79"
-			rewards: [
-				{
-					count: 10
-					id: "0B6321E5E0B39F7B"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "75D6EC64059C3D7D"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "6681F75552301E4D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "передача информации по проводам"
 			tasks: [{
 				id: "5E6D5DC20DE095EB"
@@ -262,20 +196,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "78E519027DBAF39A"
-			rewards: [
-				{
-					count: 10
-					id: "406C2AD967549E54"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "2FDEBDD579BC1B2D"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "642CC95EDFE36112"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "передача информации по проводам"
 			tasks: [{
 				id: "7BAD834A14978C68"
@@ -288,20 +214,12 @@
 		{
 			dependencies: ["462F4A5736154B9A"]
 			id: "58CE2446AD8EB155"
-			rewards: [
-				{
-					count: 10
-					id: "428A4B94539E1827"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "32023ED3480DD1C6"
-					item: "numismatics:sprocket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "3CA8F33B61551B6E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "улучшенная передача информации без проводов"
 			tasks: [{
 				id: "42E39145C4A3E9E9"
@@ -314,20 +232,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "0A839467307E584C"
-			rewards: [
-				{
-					count: 10
-					id: "11BE6B482855F771"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "658A603AC437FE4A"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "0D0219417258A30C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Может ломать, ставить блоки, взаимодействовать с сущностями и так далее"
 			tasks: [{
 				id: "2F48470CB8D60449"
@@ -340,20 +250,12 @@
 		{
 			dependencies: ["0A839467307E584C"]
 			id: "4245E9159443661C"
-			rewards: [
-				{
-					count: 10
-					id: "60CC72C341C6D032"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "2204B029E730EB92"
-					item: "numismatics:sprocket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "53DF5F7B913F9D4B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Улучшенная версия черепашки"
 			tasks: [{
 				id: "6EE439A1A33B4EF6"
@@ -366,20 +268,12 @@
 		{
 			dependencies: ["1AFA36E7E1A9FEFD"]
 			id: "61A858BA9129A16A"
-			rewards: [
-				{
-					count: 10
-					id: "1A9107F30A36D2F3"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "455D9903CCE6588B"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "0A14084C81B25F61"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "для сохранения и перемещения файлов"
 			tasks: [{
 				id: "7FD9C4419B1B8667"
@@ -398,20 +292,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "33ADEFE9DB0EE9B2"
-			rewards: [
-				{
-					count: 10
-					id: "666E8F3208EE129A"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "488F4A0A41F7209B"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "59CEAA256EF0A6F5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "С помощью него компьютер можно носить с собой"
 			tasks: [{
 				id: "6DF4E3644502975E"
@@ -424,20 +310,12 @@
 		{
 			dependencies: ["33ADEFE9DB0EE9B2"]
 			id: "46B7ACA87B8CB7CF"
-			rewards: [
-				{
-					count: 10
-					id: "0CCD98552640FCCA"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "6C5C1BBD38F1759B"
-					item: "numismatics:sprocket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "7B3277C02CDE4FDF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "С помощью него продвинутый компьютер можно носить с собой"
 			tasks: [{
 				id: "440FA3B53F9FD8A0"
@@ -450,20 +328,12 @@
 		{
 			dependencies: ["20D70F236761A8A9"]
 			id: "2C406EA19E8264B6"
-			rewards: [
-				{
-					count: 10
-					id: "6BCE5B3C5D8BC3EB"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 16
-					id: "79E49D6245112E6D"
-					item: "numismatics:spur"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "0316F386C432F1DB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "передача информации по проводам"
 			tasks: [{
 				id: "795DD045B700E84E"

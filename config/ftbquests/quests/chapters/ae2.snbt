@@ -15,6 +15,12 @@
 		{
 			dependencies: ["6798C8E76EF6BD57"]
 			id: "52EE7B40309DD75D"
+			rewards: [{
+				count: 10
+				id: "78D5AEB631BD9A4B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "Создать Вырезатель для производства процессоров в домашних условиях"
@@ -37,6 +43,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "37DFC000AF714E1C"
+			rewards: [{
+				count: 10
+				id: "59FDF17270FF8F23"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Одного пока хватит"
 			tasks: [{
 				id: "791BE1CA8036339F"
@@ -49,6 +61,12 @@
 		{
 			dependencies: ["5D18DAC177CCCE03"]
 			id: "765BF08F00D1F054"
+			rewards: [{
+				count: 10
+				id: "6D7C0667228065C7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "410D42683DB762C9"
 				item: "ae2:drive"
@@ -61,8 +79,9 @@
 			dependencies: ["3A03FEF90DD21594"]
 			id: "6798C8E76EF6BD57"
 			rewards: [{
-				id: "0E632022A98446C6"
-				item: "ae2:silicon"
+				count: 10
+				id: "51E1920C1DCE4431"
+				item: "create:experience_nugget"
 				type: "item"
 			}]
 			subtitle: "Найти все печати для Вырезателя в метеорите"
@@ -95,6 +114,12 @@
 		{
 			dependencies: ["51A85AF0CE26E81D"]
 			id: "3A03FEF90DD21594"
+			rewards: [{
+				count: 10
+				id: "202970795127C50F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C42123C2A767B05"
 				item: "ae2:meteorite_compass"
@@ -110,6 +135,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "4C3FE4A0FE6FB77E"
+			rewards: [{
+				count: 10
+				id: "12D01DC5D9B4FD63"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F07CD7439FFAAE6"
 				item: {
@@ -129,6 +160,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "3A15B9C9FF9A58F0"
+			rewards: [{
+				count: 10
+				id: "4A159E7EE91A98EB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "56695F15A740F551"
 				item: {
@@ -148,6 +185,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "05D5C499A16BAF1F"
+			rewards: [{
+				count: 10
+				id: "09625B2CE7D2CEC8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "247FEF70882918BE"
 				item: {
@@ -167,6 +210,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "74097D09B74949DD"
+			rewards: [{
+				count: 10
+				id: "3CFFD30271800076"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "54B5F232E9A2866D"
 				item: {
@@ -186,6 +235,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "6616754D349C9540"
+			rewards: [{
+				count: 10
+				id: "53E74FCDB03146B3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Типов все ещё 64 :)"
 			tasks: [{
 				id: "09472EBD3D15F443"
@@ -202,6 +257,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "5D18DAC177CCCE03"
+			rewards: [{
+				count: 10
+				id: "1ADB3F62A5125A71"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B695188055CCE6E"
 				item: "ae2:terminal"
@@ -213,6 +274,12 @@
 		{
 			dependencies: ["37DFC000AF714E1C"]
 			id: "4C6DCA2DF4D4DE2F"
+			rewards: [{
+				count: 10
+				id: "611E1707153510DB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "На 35% удобнее"
 			tasks: [{
 				id: "6A3AA08C31E27EC5"
@@ -226,6 +293,12 @@
 			dependencies: ["49398F139340DB86"]
 			description: [""]
 			id: "0676712F2FC45596"
+			rewards: [{
+				count: 10
+				id: "17058685F5194DFE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Нужно для обработки автокрафтов. Создайте хранилище для изготовления, по желанию блоков совместной обработки и постройте из них процессор автокрафта. Желательно два"
 			tasks: [{
 				id: "3A5653D69D182D50"
@@ -238,6 +311,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "307F5E999C7647C8"
+			rewards: [{
+				count: 10
+				id: "0EF056198689DF34"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Ускоряет обработку автокрафтов"
 			tasks: [{
 				id: "68DD4874D1683B06"
@@ -250,6 +329,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "7E434AF15BA1FD64"
+			rewards: [{
+				count: 10
+				id: "4E623FA0E01843FD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B7CAC279EFC8CA7"
 				item: "ae2:1k_crafting_storage"
@@ -261,6 +346,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "155CB298DDAF5321"
+			rewards: [{
+				count: 10
+				id: "7854B1BC0E7C2067"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Красиво отображает обрабатываемый крафт процессором"
 			tasks: [{
 				id: "777FD32A78A6AF34"
@@ -273,6 +364,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "0F3C852E9E7D4C6D"
+			rewards: [{
+				count: 10
+				id: "0CB05F79D2B3CC68"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "04F632989953649A"
 				item: "ae2:4k_crafting_storage"
@@ -284,6 +381,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "7A4B6FB246E9547B"
+			rewards: [{
+				count: 10
+				id: "0F5579A6A39F50C3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6963F2F05CB0DC2B"
 				item: "ae2:16k_crafting_storage"
@@ -295,6 +398,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "15235DC305138771"
+			rewards: [{
+				count: 10
+				id: "7A5E3631AC3F8378"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1E1AE38F7C2B8739"
 				item: "ae2:64k_crafting_storage"
@@ -306,6 +415,12 @@
 		{
 			dependencies: ["0676712F2FC45596"]
 			id: "2A65731324182C97"
+			rewards: [{
+				count: 10
+				id: "1075056D02E6974F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "525E5C2DC92D9E11"
 				item: "ae2:256k_crafting_storage"
@@ -324,6 +439,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "385C91CBCA9D943D"
+			rewards: [{
+				count: 10
+				id: "7C9F259685AAAAD5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Чтобы автокрафтить в поставщик нужно покласть шаблон. При заказе автокрафта нужно отправит нужные предметы в подключенное хранилище или механизм и будет ожидать поступления результата КАКИМ УГОДНО образом обратно в сеть. Это дают большую свободу"
 			tasks: [{
 				id: "5F023BECE32BBC1D"
@@ -336,6 +457,12 @@
 		{
 			dependencies: ["37DFC000AF714E1C"]
 			id: "49398F139340DB86"
+			rewards: [{
+				count: 10
+				id: "79C38FEDB3A4C4AC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F8103C920C8D01B"
 				item: "ae2:pattern_encoding_terminal"
@@ -347,6 +474,12 @@
 		{
 			dependencies: ["385C91CBCA9D943D"]
 			id: "6DDB2C07D0F8B071"
+			rewards: [{
+				count: 10
+				id: "345E63E90071FBBD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет смотреть шаблоны из всех поставщиков в системе"
 			tasks: [{
 				id: "3A4A2A0C101DA77A"
@@ -359,6 +492,12 @@
 		{
 			dependencies: ["385C91CBCA9D943D"]
 			id: "222421D1B2889241"
+			rewards: [{
+				count: 10
+				id: "3B6622EE6EF1D5A4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "А этим можно поставлять полученный каким угодно образом результат обратно в сеть"
 			tasks: [{
 				id: "06FC183653887750"
@@ -371,6 +510,12 @@
 		{
 			dependencies: ["222421D1B2889241"]
 			id: "76688194D445F3C4"
+			rewards: [{
+				count: 10
+				id: "1A7AC15F42007DB5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Как верстак, только для автокрафта. К нему подключить импортную шину не нужно, она в него встроена"
 			tasks: [{
 				id: "3D233DDB58E33D3F"
@@ -383,6 +528,12 @@
 		{
 			dependencies: ["3A03FEF90DD21594"]
 			id: "534EF95F7F97A0D8"
+			rewards: [{
+				count: 10
+				id: "2E3119AA998E5B0C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Ускоряет рост кристаллов"
 			tasks: [{
 				id: "7A00F15D9927B043"
@@ -394,6 +545,12 @@
 		}
 		{
 			id: "51A85AF0CE26E81D"
+			rewards: [{
+				count: 10
+				id: "1CBBF9DD92D7DC4C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "08C88C09BFD1167F"
 				item: "ae2:charger"
@@ -405,6 +562,12 @@
 		{
 			dependencies: ["51A85AF0CE26E81D"]
 			id: "7E735029EBED7F30"
+			rewards: [{
+				count: 10
+				id: "7ED5EAD289509458"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Имеет неплохой урон"
 			tasks: [{
 				id: "1B09E107AC57C5CC"
@@ -421,6 +584,12 @@
 				"6FDFFC2544BA0CB6"
 			]
 			id: "3D05F85425AE23A7"
+			rewards: [{
+				count: 10
+				id: "3447502D0FAFDAD5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет красить компоненты МЭ сети такие как провода и терминалы цветными шариками из шариков материи"
 			tasks: [{
 				id: "0462BEC224C32E54"
@@ -438,6 +607,12 @@
 		{
 			dependencies: ["5D18DAC177CCCE03"]
 			id: "7C89875232F5AB42"
+			rewards: [{
+				count: 10
+				id: "28768147F6F8D580"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "02DCD61A5E0E124A"
 				item: "ae2:chest"
@@ -450,6 +625,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "2A35A758CD1E3A78"
+			rewards: [{
+				count: 10
+				id: "17B2462CC3272F51"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет нагревать (например превратить песок в стекло) или охлаждать (превратить воду в лёд) блоки"
 			tasks: [{
 				id: "1D8FB383E815704A"
@@ -462,6 +643,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "455F2F8C7C74DB4E"
+			rewards: [{
+				count: 10
+				id: "524C5E3CCD86FE90"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позвляет убивать"
 			tasks: [{
 				id: "7A60B37C5C97D6DC"
@@ -478,6 +665,12 @@
 		{
 			dependencies: ["3A03FEF90DD21594"]
 			id: "1D287177282D14DB"
+			rewards: [{
+				count: 10
+				id: "693C6D246400E5E0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Блок, имеющий две ключевые функции: ликвидация лишних материалов и производство сингулярности и шариков материи"
 			tasks: [{
 				id: "72F468EB75A7B66B"
@@ -490,6 +683,12 @@
 		{
 			dependencies: ["1D287177282D14DB"]
 			id: "6FDFFC2544BA0CB6"
+			rewards: [{
+				count: 10
+				id: "426A56DC458B9AF5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "35D8E3D09BC23DBD"
 				item: "ae2:matter_ball"
@@ -501,6 +700,12 @@
 		{
 			dependencies: ["1D287177282D14DB"]
 			id: "0AB1CC99964E6C81"
+			rewards: [{
+				count: 10
+				id: "30E0CF8B7365AC3E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "gear"
 			subtitle: "В домашних условиях"
 			tasks: [{
@@ -514,6 +719,12 @@
 		{
 			dependencies: ["0AB1CC99964E6C81"]
 			id: "288F64309DEB83F8"
+			rewards: [{
+				count: 10
+				id: "3ABCA67A6926E881"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Этот предмет создаётся с помощью взрыва. Необходимо бросить Эндер-пыль и сингулярность в одно место и создать рядом взрыв достаточной силы. Для этого прекрасно подойдет ТНТ"
 			tasks: [{
 				count: 2L
@@ -527,6 +738,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "296F494A65F5E73E"
+			rewards: [{
+				count: 10
+				id: "2CD054A07402C610"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет модифицировать ячейки памяти или просмотра"
 			tasks: [{
 				id: "2D05A6B58E1A98E2"
@@ -542,6 +759,12 @@
 				"5D18DAC177CCCE03"
 			]
 			id: "53D6FC38FE25C54B"
+			rewards: [{
+				count: 10
+				id: "1E8434F86CBE5C13"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет ограничивать предметы которые показывает МЭ терминал"
 			tasks: [{
 				id: "2F62DCD77C1D62D3"
@@ -554,6 +777,12 @@
 		{
 			dependencies: ["5D18DAC177CCCE03"]
 			id: "5279F1550372922B"
+			rewards: [{
+				count: 10
+				id: "762FEE2331EE3344"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Показывает количество определенного предмета в МЭ сети"
 			tasks: [{
 				id: "72781D2795C28601"
@@ -566,6 +795,12 @@
 		{
 			dependencies: ["5279F1550372922B"]
 			id: "59C2400312AAB0C1"
+			rewards: [{
+				count: 10
+				id: "4337D55D7F1F1E83"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Тоже самое что и монитор хранения, но позволяет взять предмет из МЭ сети"
 			tasks: [{
 				id: "085724B6A35996C1"
@@ -578,6 +813,12 @@
 		{
 			dependencies: ["3174BFB5D0EF8385"]
 			id: "2512B50E788231EF"
+			rewards: [{
+				count: 10
+				id: "69E5AACE248DE8BD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5EBD45895343F34A"
 				item: "ae2:advanced_card"
@@ -589,6 +830,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "3174BFB5D0EF8385"
+			rewards: [{
+				count: 10
+				id: "0A6D2DF3BAD09E6E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "219C712B845F9692"
 				item: "ae2:basic_card"
@@ -600,6 +847,12 @@
 		{
 			dependencies: ["3174BFB5D0EF8385"]
 			id: "45E830FA2FE92792"
+			rewards: [{
+				count: 10
+				id: "4BCFA3D2F73B603D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7F81D0806A3AC684"
 				item: "ae2:redstone_card"
@@ -611,6 +864,12 @@
 		{
 			dependencies: ["3174BFB5D0EF8385"]
 			id: "6FC45709AEDB9864"
+			rewards: [{
+				count: 10
+				id: "1B0D9953F286DF93"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2C2ED882CDC1E703"
 				item: "ae2:capacity_card"
@@ -622,6 +881,12 @@
 		{
 			dependencies: ["3174BFB5D0EF8385"]
 			id: "64E3973FD4B42DB4"
+			rewards: [{
+				count: 10
+				id: "6CA807AB3DFCADA9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "16E78AC7BAF31C3F"
 				item: "ae2:void_card"
@@ -633,6 +898,12 @@
 		{
 			dependencies: ["3174BFB5D0EF8385"]
 			id: "25320601A4249D7A"
+			rewards: [{
+				count: 10
+				id: "47F9BDDAF721CD80"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3F1905624234FB56"
 				item: "ae2:crafting_card"
@@ -644,6 +915,12 @@
 		{
 			dependencies: ["2512B50E788231EF"]
 			id: "1CD60FE79FE39505"
+			rewards: [{
+				count: 10
+				id: "3EB5D33806985921"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "21C76C8F9E6EB9C5"
 				item: "ae2:fuzzy_card"
@@ -655,6 +932,12 @@
 		{
 			dependencies: ["2512B50E788231EF"]
 			id: "758D35377D625D7D"
+			rewards: [{
+				count: 10
+				id: "1D553AF1CEB91643"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "629ACB024A08D7F1"
 				item: "ae2:speed_card"
@@ -666,6 +949,12 @@
 		{
 			dependencies: ["2512B50E788231EF"]
 			id: "6864B5C96EA8D426"
+			rewards: [{
+				count: 10
+				id: "2E8431833C9C0526"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3914F3ABE4EA9C7D"
 				item: "ae2:inverter_card"
@@ -680,6 +969,12 @@
 				"2512B50E788231EF"
 			]
 			id: "79CF2F744D229692"
+			rewards: [{
+				count: 10
+				id: "5FF9C87EF04BE370"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "551DAC06D59EE6ED"
 				item: "ae2:equal_distribution_card"
@@ -691,6 +986,12 @@
 		{
 			dependencies: ["2512B50E788231EF"]
 			id: "0D8E9DE9A0A7E146"
+			rewards: [{
+				count: 10
+				id: "74B78F654F6F343B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "760D40B174950410"
 				item: "ae2:energy_card"
@@ -702,6 +1003,12 @@
 		{
 			dependencies: ["3A03FEF90DD21594"]
 			id: "168A86E9E2C71817"
+			rewards: [{
+				count: 10
+				id: "4D1931EB2743E2A3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Бесплатная и бесконечная энергия для вашей МЭ сети в размере 20 AE/t. Но есть нюанс"
 			tasks: [{
 				id: "642FCB0C9C0746F1"
@@ -714,6 +1021,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "1D457584A01334E6"
+			rewards: [{
+				count: 10
+				id: "0FFB97BACF0411C8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет автоматизировать переименование предметов"
 			tasks: [{
 				id: "01E9A5CC04CC32E0"
@@ -730,6 +1043,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "06341F6A765DCD27"
+			rewards: [{
+				count: 10
+				id: "274BE4F18F022E77"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "14BB8BC759633423"
 				item: "ae2:network_tool"
@@ -741,6 +1060,12 @@
 		{
 			dependencies: ["37DFC000AF714E1C"]
 			id: "72221E76AF0ABAE6"
+			rewards: [{
+				count: 10
+				id: "61DE42FF9DD36AAE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет перемещать предметы из МЭ сети на внешние ячейки или наоборот"
 			tasks: [{
 				id: "51CF0226351BD2F8"
@@ -753,6 +1078,12 @@
 		{
 			dependencies: ["72221E76AF0ABAE6"]
 			id: "5D8BB6E7EAB44D96"
+			rewards: [{
+				count: 10
+				id: "0A3E340C467C03FB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Контроллирует операцию записи любых блоков на пространственную ячейку, например портала в край"
 			tasks: [{
 				id: "788380D2C4EE79CE"
@@ -770,6 +1101,12 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "4A35C0372F9348D2"
+			rewards: [{
+				count: 10
+				id: "213388C728A00F8A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Является основной частью пространственной настройки ввода-вывода и определяют объем, на который будет воздействовать"
 			tasks: [{
 				id: "64ED82808FF991CC"
@@ -782,6 +1119,12 @@
 		{
 			dependencies: ["5D8BB6E7EAB44D96"]
 			id: "47F23D45ED5715A4"
+			rewards: [{
+				count: 10
+				id: "19D63D4662FCB6F7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1A646947E56105CC"
 				item: "ae2:spatial_storage_cell_2"
@@ -793,6 +1136,12 @@
 		{
 			dependencies: ["5D8BB6E7EAB44D96"]
 			id: "68AFA77B053C0D07"
+			rewards: [{
+				count: 10
+				id: "7BC7EE9CC899F275"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "640BCEC45480DE9E"
 				item: "ae2:spatial_storage_cell_16"
@@ -804,6 +1153,12 @@
 		{
 			dependencies: ["5D8BB6E7EAB44D96"]
 			id: "33CB432AC479B0FA"
+			rewards: [{
+				count: 10
+				id: "47033AA485A0D0E3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "439B6F62D7C565F9"
 				item: "ae2:spatial_storage_cell_128"
@@ -815,6 +1170,12 @@
 		{
 			dependencies: ["4A35C0372F9348D2"]
 			id: "6DDB578AC10B6AC9"
+			rewards: [{
+				count: 10
+				id: "09F4AB67558F1783"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Прогружает все чанки своей МЭ сети"
 			tasks: [{
 				id: "796F457A49985D14"
@@ -827,6 +1188,12 @@
 		{
 			dependencies: ["288F64309DEB83F8"]
 			id: "4867EADA7FDC608B"
+			rewards: [{
+				count: 10
+				id: "1741701B9E187F15"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "gear"
 			subtitle: "Действует как кабель, но на любое расстояние или между измерениями. Для связи нужно покласть две квантовые запутанности, рекомендуется их переименовать. Также хорошо использовать пространственный якорь"
 			tasks: [
@@ -850,6 +1217,12 @@
 		{
 			dependencies: ["7F77BC93E089C716"]
 			id: "5817A2ABCF21E67D"
+			rewards: [{
+				count: 10
+				id: "4FE2BF4E6F40AD87"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "462F49402E16BAB7"
 				item: "ae2:me_p2p_tunnel"
@@ -861,6 +1234,12 @@
 		{
 			dependencies: ["52EE7B40309DD75D"]
 			id: "7F77BC93E089C716"
+			rewards: [{
+				count: 10
+				id: "6D804A2A6C9EABEF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Используется для копирования и вставки настроек между механизмами AE2 и соединения туннелей P2P. Она также может вставлять карты улучшения в механизмы"
 			tasks: [{
 				id: "3BA474B5B3185EFD"
@@ -877,6 +1256,12 @@
 		{
 			dependencies: ["5911C777CC81F71E"]
 			id: "4C8EBAA2E1267FE6"
+			rewards: [{
+				count: 10
+				id: "5329E19810164748"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "704AE0F8DB76024C"
 				item: "ae2:formation_plane"
@@ -888,6 +1273,12 @@
 		{
 			dependencies: ["5D18DAC177CCCE03"]
 			id: "5911C777CC81F71E"
+			rewards: [{
+				count: 10
+				id: "76D03155CC9A4A9D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "100885D80B81FBE8"
 				item: "ae2:annihilation_plane"

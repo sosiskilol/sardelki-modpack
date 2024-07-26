@@ -11,25 +11,12 @@
 		{
 			dependencies: ["512796D0344358E3"]
 			id: "11761C8EA101A496"
-			rewards: [
-				{
-					count: 2
-					id: "12F1E24F99973834"
-					item: {
-						Count: 1
-						id: "modern_industrialization:iron_hammer"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "456D2BF2E0139C3E"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "31B6D14A1586AE64"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Ковочный молот используется для дробления разных материалов, а также создания базовых металлических деталей(пластины, болты и т.д.). Для работы с ним необходим молот."
 			tasks: [{
 				id: "075744B8ECB0F30A"
@@ -42,23 +29,12 @@
 		{
 			dependencies: ["7A778DB057BA0124"]
 			id: "134BAC07C06904A0"
-			rewards: [
-				{
-					id: "1834BC5E941D7427"
-					item: "modern_industrialization:bronze_tank"
-					type: "item"
-				}
-				{
-					id: "47A5BD5B66BDAB5C"
-					type: "xp"
-					xp: 5
-				}
-				{
-					id: "4708CC7E833E5EA5"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "27B51265C3336CF7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				count: 3L
 				id: "6E43ED867557312F"
@@ -71,19 +47,12 @@
 		{
 			dependencies: ["134BAC07C06904A0"]
 			id: "2EB5266F423D8EBB"
-			rewards: [
-				{
-					count: 16
-					id: "5CEF3D37DA8D4258"
-					item: "modern_industrialization:fluid_pipe"
-					type: "item"
-				}
-				{
-					id: "4A5E7A2F960D0DCC"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "291B979F62EF5D0C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			subtitle: "Бронзовый испаритель позволит вам получать паровую энергию путем нагрева воды твердым топливом."
 			tasks: [{
@@ -98,9 +67,10 @@
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "28C78ADE7C1DA887"
 			rewards: [{
-				id: "590C1094890675BD"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "3565A1442CC90D28"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "5ABCE6A5681323CC"
@@ -113,18 +83,12 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "363D9FB857549E0F"
-			rewards: [
-				{
-					id: "5039FB84B9B486B8"
-					type: "xp"
-					xp: 5
-				}
-				{
-					id: "4FF50DDE529ECC9A"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "67B462F32FD000C3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6F774F1923795829"
 				item: "modern_industrialization:bronze_compressor"
@@ -137,9 +101,10 @@
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "37BC25E0E5681036"
 			rewards: [{
-				id: "74228B9885BA4A24"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "453C7C440702DEB3"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "12D0D4F863F1AC8D"
@@ -152,18 +117,12 @@
 		{
 			dependencies: ["05FCA97052D4F6F8"]
 			id: "5BEE187BE6756BFD"
-			rewards: [
-				{
-					id: "6EF6D6A49CB15D20"
-					type: "xp"
-					xp: 5
-				}
-				{
-					id: "776E249DEBD2D54B"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "23D6E281248C537E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3F493C935B453F3C"
 				item: "modern_industrialization:coke_oven"
@@ -176,9 +135,10 @@
 			dependencies: ["5BEE187BE6756BFD"]
 			id: "18931FE404AED08C"
 			rewards: [{
-				id: "721CB0D204FB004F"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "2B2D066F4DC249FC"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "244278C797C69F32"
@@ -192,9 +152,10 @@
 			dependencies: ["18931FE404AED08C"]
 			id: "2363D211D89E2D3B"
 			rewards: [{
-				id: "460C2AABD08FB0A4"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "7874DA69D79D49C2"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			size: 1.5d
 			tasks: [{
@@ -209,9 +170,10 @@
 			dependencies: ["75D16653D5B95D6B"]
 			id: "4E88C1E4C64818C0"
 			rewards: [{
-				id: "7E23F6CE6CC860D8"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "00F46B033410FF49"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "Стальные улучшения могут быть использованы для переделки ваших механизмов в стальные. Просто совместите ваш механизм с улучшением в сетке крафтов."
 			tasks: [{
@@ -226,9 +188,10 @@
 			dependencies: ["75D16653D5B95D6B"]
 			id: "0542CA3B331CDD45"
 			rewards: [{
-				id: "5A46F819CACCD3E9"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "66E9B73D7EC617A5"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "5E034EA892351A95"
@@ -242,9 +205,10 @@
 			dependencies: ["37BC25E0E5681036"]
 			id: "4E0EACC87DD1F1BE"
 			rewards: [{
-				id: "2F7CE21AD9EB1186"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "7D799EB6E89EFFFD"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "2E640DC0803112D9"
@@ -258,9 +222,10 @@
 			dependencies: ["2363D211D89E2D3B"]
 			id: "75D16653D5B95D6B"
 			rewards: [{
-				id: "6E525EDF6414E074"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "2D40AD47FE28FC3E"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			size: 1.5d
 			tasks: [{
@@ -275,9 +240,10 @@
 			dependencies: ["75D16653D5B95D6B"]
 			id: "71E315141240F5B1"
 			rewards: [{
-				id: "1CD965DBAB4CCED4"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "1963AE2D9D3B6B98"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "423777813C5F4442"
@@ -294,9 +260,10 @@
 			]
 			id: "30C1D5857C486F13"
 			rewards: [{
-				id: "4FD65E4C489D0655"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "4140C0B8C41F078A"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "56E3E7692823E414"
@@ -310,25 +277,27 @@
 			dependencies: ["3E80CDCCCEA646EB"]
 			id: "762A97C3D9C7746C"
 			rewards: [{
-				id: "52BD59BBA6901024"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "574032988393D3D8"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "32CC352FCA85CA8A"
 				item: "modern_industrialization:capacitor"
 				type: "item"
 			}]
-			x: 16.5d
+			x: 18.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["71E315141240F5B1"]
 			id: "6254B8D3AA11254D"
 			rewards: [{
-				id: "24B171B9AF2E4F80"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "10E1759DF5D7571D"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "1703F01BDDBA8C8A"
@@ -346,9 +315,10 @@
 			]
 			id: "1EB52D9861FC1A55"
 			rewards: [{
-				id: "1D8E6B8D42DA5B01"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "4DBF11D4574E713C"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "29BC3A6F34E730D5"
@@ -362,9 +332,10 @@
 			dependencies: ["3547CAB79DE7A499"]
 			id: "7F4C76BB16674054"
 			rewards: [{
-				id: "2BA9AFB456BD887B"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "08DBD54FFF876D82"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			size: 1.5d
 			subtitle: "Паровая турбина позволит вам добывать электричество из пара."
@@ -380,9 +351,10 @@
 			dependencies: ["179EF2B56BBA53CE"]
 			id: "70DC0E3806F6E6A3"
 			rewards: [{
-				id: "43A0665F81A5A237"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "1168FA90A2960B8B"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			size: 1.5d
 			subtitle: "Электрическая доменная печь является улучшенной версией паровой. Как и остальные электрические механизмы имеет разгон, также позволяет производить аллюминий."
@@ -398,9 +370,10 @@
 			dependencies: ["7F4C76BB16674054"]
 			id: "179EF2B56BBA53CE"
 			rewards: [{
-				id: "355757150EF8661F"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "15716FF7A42C2FA4"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "Поляризатор позволит вам производить магнитные провода и болты."
 			tasks: [{
@@ -417,19 +390,12 @@
 				"14699A5DE0849D3E"
 			]
 			id: "33934F5639C9A22F"
-			rewards: [
-				{
-					count: 6
-					id: "53DE6EDFBC97BF1D"
-					item: "modern_industrialization:basic_upgrade"
-					type: "item"
-				}
-				{
-					id: "6640D466EB83CA9D"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "1F804F05E421EAB3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Теперь когда у вас есть добыча электричества вы можете сделать механизмы нового поколения. Они быстрее и имеют функцию разгона."
 			tasks: [
 				{
@@ -471,9 +437,10 @@
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "011B8ED68A956211"
 			rewards: [{
-				id: "2CEA86A1315E8B10"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "4AD7E0271A1966CA"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "Водяной насос позволит вам автоматически добывать воду для вашего парового испарителя или других механизмов."
 			tasks: [{
@@ -488,25 +455,12 @@
 			can_repeat: false
 			dependencies: ["4691B0DEC458F6C2"]
 			id: "7A778DB057BA0124"
-			rewards: [
-				{
-					count: 32
-					id: "7781AAA3B8682783"
-					item: "modern_industrialization:tin_dust"
-					type: "item"
-				}
-				{
-					count: 96
-					id: "23F37AF41ECD71EA"
-					item: "modern_industrialization:copper_dust"
-					type: "item"
-				}
-				{
-					id: "11593046D134AA11"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "543322004DFB4015"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "04565423F8922937"
@@ -519,19 +473,12 @@
 		{
 			dependencies: ["70DC0E3806F6E6A3"]
 			id: "0D7D65B96477B73D"
-			rewards: [
-				{
-					count: 64
-					id: "6FE1BAA0A730F4DC"
-					item: "modern_industrialization:bauxite_dust"
-					type: "item"
-				}
-				{
-					id: "37498A95CD0B9787"
-					type: "xp"
-					xp: 5
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "133B58FDA0F40A94"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "6E204D05513ED7E8"
@@ -548,9 +495,10 @@
 			]
 			id: "229964086382D32A"
 			rewards: [{
-				id: "1B3A3913EE96D9A1"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "10A1BBD12831E61B"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "4AE9023CF7664BAD"
@@ -564,9 +512,10 @@
 			dependencies: ["7A778DB057BA0124"]
 			id: "2F33AECE9970A0DB"
 			rewards: [{
-				id: "7073CF5C58B83BB3"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "0F008D217A12DDFB"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "Гаечный ключ позволяет вам поворачивать механизмы, подключать трубы и провода, также помогает в постройке многоблочных механимзов, просто посмотрите на ваш многоблочный механизм держа в руке гаечный ключ."
 			tasks: [{
@@ -581,9 +530,10 @@
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "2A9D53AA5111A625"
 			rewards: [{
-				id: "6D7C8CA144C3AC6C"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "737CA1395316291B"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			tasks: [{
 				id: "2F0D5ED632E1B62F"
@@ -597,9 +547,10 @@
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "05FCA97052D4F6F8"
 			rewards: [{
-				id: "63FFE46CEAD0B640"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "034A0DA65E9EF0AD"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "Шлюзы используются для импорта или экспорта ресурсов(предметов и жидкостей) в многоблочных механизмах."
 			tasks: [
@@ -629,12 +580,12 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["21D6B25EC3C64833"]
 			id: "46179F679E29E1F3"
 			rewards: [{
-				id: "16848C663FF744F6"
-				type: "xp"
-				xp: 5
+				count: 10
+				id: "0DA40AB9C0336F0F"
+				item: "create:experience_nugget"
+				type: "item"
 			}]
 			subtitle: "Центрифуга позволит вам обрабатывать некоторые материалы более выгодно, а также получать новые(например карбон)."
 			tasks: [{
@@ -646,29 +597,12 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["2522A921BF1CA318"]
-			id: "21D6B25EC3C64833"
-			rewards: [{
-				id: "7288685D6EF47A96"
-				type: "xp"
-				xp: 5
-			}]
-			subtitle: "Электролизер позволит вам добывать алюминий боле выгодно, а также получать новые материалы, такие как титан."
-			tasks: [{
-				id: "55C82129924C2FCA"
-				item: "modern_industrialization:electrolyzer"
-				type: "item"
-			}]
-			x: 34.5d
-			y: 0.0d
-		}
-		{
 			dependencies: ["0542CA3B331CDD45"]
 			id: "22A077D71198F878"
 			rewards: [{
-				count: 8
-				id: "04EF852079FCB946"
-				item: "modern_industrialization:bronze_drill"
+				count: 10
+				id: "155A4F9F80C80C20"
+				item: "create:experience_nugget"
 				type: "item"
 			}]
 			tasks: [{
@@ -683,9 +617,9 @@
 			dependencies: ["229964086382D32A"]
 			id: "6301CD42E0CB264A"
 			rewards: [{
-				count: 8
-				id: "785CA38C4F9C3E5D"
-				item: "modern_industrialization:gold_drill"
+				count: 10
+				id: "5E5A64AE3E9C3E38"
+				item: "create:experience_nugget"
 				type: "item"
 			}]
 			tasks: [{
@@ -700,9 +634,9 @@
 			dependencies: ["229964086382D32A"]
 			id: "396A360FE3C47776"
 			rewards: [{
-				count: 8
-				id: "15B1FA2FF745743E"
-				item: "modern_industrialization:steel_drill"
+				count: 10
+				id: "787AB09EF0824BCF"
+				item: "create:experience_nugget"
 				type: "item"
 			}]
 			tasks: [{
@@ -719,6 +653,12 @@
 				"37BC25E0E5681036"
 			]
 			id: "3E80CDCCCEA646EB"
+			rewards: [{
+				count: 10
+				id: "0484EFC5C47D5409"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "7B89C796B4A52CEE"
 				item: "modern_industrialization:rubber_sheet"
@@ -730,6 +670,12 @@
 		{
 			dependencies: ["7F4C76BB16674054"]
 			id: "2FBEFFE754CFB2E4"
+			rewards: [{
+				count: 10
+				id: "25499F1FD800324B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет автоматически крафтить предметы и блоки, позволяет крафтить некоторые предметы выгоднее чем на верстаке(например резисторы)."
 			tasks: [{
 				id: "71B3D6797CCB1637"
@@ -742,6 +688,12 @@
 		{
 			dependencies: ["46179F679E29E1F3"]
 			id: "073A3FE6C5C3B4EA"
+			rewards: [{
+				count: 10
+				id: "50FC43416CF0CCEC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			subtitle: "Позволяет производить разные химические жидкости."
 			tasks: [{
 				id: "4D2E76B90DAFBBEB"
@@ -754,6 +706,12 @@
 		{
 			dependencies: ["073A3FE6C5C3B4EA"]
 			id: "4BF7E4A955B77A1A"
+			rewards: [{
+				count: 10
+				id: "29089BF39C71FCAC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "06D8F2FA23FE52D1"
 				item: "modern_industrialization:basic_upgrade"
@@ -765,6 +723,12 @@
 		{
 			dependencies: ["1C959729CE8765AC"]
 			id: "52F8A0AFCB899513"
+			rewards: [{
+				count: 10
+				id: "6F709A165ABFAAB7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1DBC2F92F9B7A897"
 				item: "modern_industrialization:distillery"
@@ -776,6 +740,12 @@
 		{
 			dependencies: ["52F8A0AFCB899513"]
 			id: "631389F46AD5C738"
+			rewards: [{
+				count: 10
+				id: "440AAEAC19047273"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "210628E09DD1CB74"
 				item: "modern_industrialization:diesel_jetpack"
@@ -790,6 +760,12 @@
 				"4F0C665E70417994"
 			]
 			id: "3205D8A58CB9BDCF"
+			rewards: [{
+				count: 10
+				id: "001A9417A31CC69D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "656E65514ABF30A1"
 				item: "modern_industrialization:vacuum_freezer"
@@ -801,6 +777,12 @@
 		{
 			dependencies: ["073A3FE6C5C3B4EA"]
 			id: "0329319075B7C7FE"
+			rewards: [{
+				count: 10
+				id: "2749FD790F45F1DB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "15425C38A171E5A3"
 				item: "modern_industrialization:stainless_steel_hot_ingot"
@@ -815,6 +797,12 @@
 				"49050686A9D25330"
 			]
 			id: "1C959729CE8765AC"
+			rewards: [{
+				count: 10
+				id: "6D8F9FFB0DCDAF3D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2F2B14A91B01A831"
 				item: "modern_industrialization:oil_drilling_rig"
@@ -829,6 +817,12 @@
 				"0CA9CAF8924710F1"
 			]
 			id: "2692BDE96D92BD48"
+			rewards: [{
+				count: 10
+				id: "6F7272C665C329B5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D8A48A70E9DB009"
 				item: "modern_industrialization:distillation_tower"
@@ -840,6 +834,12 @@
 		{
 			dependencies: ["52F8A0AFCB899513"]
 			id: "3031D30F6BAD21D9"
+			rewards: [{
+				count: 10
+				id: "078C6ABEF967BC0B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2284B6AB77E5CA7E"
 				item: "modern_industrialization:diesel_mining_drill"
@@ -851,6 +851,12 @@
 		{
 			dependencies: ["52F8A0AFCB899513"]
 			id: "5F9CE66BA04F0EAA"
+			rewards: [{
+				count: 10
+				id: "4B6744E561C780C2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1961B5C7BC0FD968"
 				item: "modern_industrialization:diesel_chainsaw"
@@ -861,6 +867,12 @@
 		}
 		{
 			id: "512796D0344358E3"
+			rewards: [{
+				count: 10
+				id: "34D2510FDE11C50C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2488A3CDD5958CCB"
 				item: "modern_industrialization:guidebook"
@@ -875,6 +887,12 @@
 				"3894E47FB6CBB06E"
 			]
 			id: "50B18454A462CAB5"
+			rewards: [{
+				count: 10
+				id: "5C3F35F2CA57A167"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1497DDC5D13860D7"
 				item: "modern_industrialization:digital_circuit"
@@ -886,6 +904,12 @@
 		{
 			dependencies: ["3205D8A58CB9BDCF"]
 			id: "2854332A431CD65E"
+			rewards: [{
+				count: 10
+				id: "0901B316470AC63A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "055777FDE384529F"
 				item: "modern_industrialization:stainless_steel_ingot"
@@ -897,6 +921,12 @@
 		{
 			dependencies: ["0D7D65B96477B73D"]
 			id: "2522A921BF1CA318"
+			rewards: [{
+				count: 10
+				id: "1686521F075594EF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "13B14028CDAAF392"
@@ -912,6 +942,12 @@
 				"1151BA5AEBDB3A4F"
 			]
 			id: "49050686A9D25330"
+			rewards: [{
+				count: 10
+				id: "7ABD04145AAEB9C4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "4F0C665E70417994"
@@ -927,6 +963,12 @@
 				"78EABAEEF8DB3A52"
 			]
 			id: "3547CAB79DE7A499"
+			rewards: [{
+				count: 10
+				id: "533A406D1210E176"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "1151BA5AEBDB3A4F"
@@ -939,6 +981,12 @@
 		{
 			dependencies: ["3E80CDCCCEA646EB"]
 			id: "796070FDF2F7C1A9"
+			rewards: [{
+				count: 10
+				id: "0C6192705DA8F9D4"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "20BFAEB07F9787FF"
 				item: "modern_industrialization:tin_cable"
@@ -950,6 +998,12 @@
 		{
 			dependencies: ["796070FDF2F7C1A9"]
 			id: "78EABAEEF8DB3A52"
+			rewards: [{
+				count: 10
+				id: "1E67773AF6A8303A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3BC10AC11F145451"
 				item: "modern_industrialization:redstone_battery"
@@ -961,6 +1015,12 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "34624C988087DFAE"
+			rewards: [{
+				count: 10
+				id: "6492BF5D96A45484"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4A0FDBC4F9749EE1"
 				item: "modern_industrialization:bronze_furnace"
@@ -972,6 +1032,12 @@
 		{
 			dependencies: ["28C78ADE7C1DA887"]
 			id: "37F4F9D1F0CEF9C7"
+			rewards: [{
+				count: 10
+				id: "69C81E63FA331825"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1DA0FD9700D91182"
 				item: "modern_industrialization:wood_pulp"
@@ -986,6 +1052,12 @@
 				"37F4F9D1F0CEF9C7"
 			]
 			id: "1E1C5884DC97A1BE"
+			rewards: [{
+				count: 10
+				id: "6556A0E0482D11D5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "77E0AF13BBDE8520"
 				item: "minecraft:paper"
@@ -997,6 +1069,12 @@
 		{
 			dependencies: ["0D7D65B96477B73D"]
 			id: "166A58E45A047E54"
+			rewards: [{
+				count: 10
+				id: "06FC92E0A45A5848"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3894E47FB6CBB06E"
 				item: "modern_industrialization:aluminum_cable"
@@ -1006,17 +1084,37 @@
 			y: -3.0d
 		}
 		{
+			dependencies: [
+				"2D54667333E1B614"
+				"055777FDE384529F"
+			]
 			id: "4B999916AD2FE786"
+			rewards: [{
+				count: 10
+				id: "73D020A3B12410CA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "011E8CCDC19371A9"
 				item: "modern_industrialization:turbo_upgrade"
 				type: "item"
 			}]
-			x: 38.0d
-			y: 7.5d
+			x: 37.5d
+			y: 4.5d
 		}
 		{
+			dependencies: [
+				"4BF7E4A955B77A1A"
+				"13B14028CDAAF392"
+			]
 			id: "2D54667333E1B614"
+			rewards: [{
+				count: 10
+				id: "480B81FE5427C7C7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2367983E64A4043C"
 				item: "modern_industrialization:advanced_upgrade"
@@ -1028,6 +1126,12 @@
 		{
 			dependencies: ["1C959729CE8765AC"]
 			id: "15CDFCE2E5D078AD"
+			rewards: [{
+				count: 10
+				id: "0675AB73266B9418"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "43ACD55C1BBED6CF"
 				item: "modern_industrialization:aluminum_drill"
@@ -1042,6 +1146,12 @@
 				"4F0C665E70417994"
 			]
 			id: "0CA9CAF8924710F1"
+			rewards: [{
+				count: 10
+				id: "6465ADDA4AE7D3C9"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			size: 1.5d
 			tasks: [{
 				id: "49E3D266157E665A"
@@ -1054,6 +1164,12 @@
 		{
 			dependencies: ["50B18454A462CAB5"]
 			id: "583EDAFE1DBD7C1F"
+			rewards: [{
+				count: 10
+				id: "61671DA897C05C9B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0D149FC1A78ECF1A"
 				item: "modern_industrialization:stainless_steel_drill"
@@ -1065,6 +1181,12 @@
 		{
 			dependencies: ["0CA9CAF8924710F1"]
 			id: "6564AD2712A65C16"
+			rewards: [{
+				count: 10
+				id: "45A88A52690F564F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4DD7503E2B433C19"
 				item: "modern_industrialization:heat_exchanger"
@@ -1076,6 +1198,12 @@
 		{
 			dependencies: ["49050686A9D25330"]
 			id: "65BDB424909C123E"
+			rewards: [{
+				count: 10
+				id: "46B3E7ADCF3E5C83"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "57EC3F13EC8E7F3F"
 				item: "modern_industrialization:mv_storage_unit"
@@ -1087,6 +1215,12 @@
 		{
 			dependencies: ["49050686A9D25330"]
 			id: "12129103C7FFA260"
+			rewards: [{
+				count: 10
+				id: "1CB177F7CE9D2BD1"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4B931070A460D923"
 				item: "modern_industrialization:mv_steam_turbine"
@@ -1098,6 +1232,12 @@
 		{
 			dependencies: ["0CA9CAF8924710F1"]
 			id: "0C269EAF6D9CAA9D"
+			rewards: [{
+				count: 10
+				id: "056132FE4A339D88"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "58125B9EC9B91AD6"
 				item: "modern_industrialization:hv_steam_turbine"
@@ -1109,6 +1249,12 @@
 		{
 			dependencies: ["0CA9CAF8924710F1"]
 			id: "2B55FC07E55AD9BD"
+			rewards: [{
+				count: 10
+				id: "64E140A7F8D80701"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "40DCD225DEB055BD"
 				item: "modern_industrialization:hv_diesel_generator"
@@ -1120,6 +1266,12 @@
 		{
 			dependencies: ["0CA9CAF8924710F1"]
 			id: "2D55C2E4E6477817"
+			rewards: [{
+				count: 10
+				id: "63DA0803B4FA834E"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "37566DA49F586886"
 				item: "modern_industrialization:hv_storage_unit"
@@ -1131,6 +1283,12 @@
 		{
 			dependencies: ["49050686A9D25330"]
 			id: "04969BB5CAAD869D"
+			rewards: [{
+				count: 10
+				id: "675DED7BFB959916"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "43E75A538B3F0802"
 				item: "modern_industrialization:mv_diesel_generator"
@@ -1142,6 +1300,12 @@
 		{
 			dependencies: ["7CE568D638504E44"]
 			id: "6221A89B54A0A5CD"
+			rewards: [{
+				count: 10
+				id: "3B8D6F7AC4EC8244"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3CC542DED4409156"
 				item: "modern_industrialization:titanium_ingot"
@@ -1153,6 +1317,12 @@
 		{
 			dependencies: ["6221A89B54A0A5CD"]
 			id: "1B6E896F4962A0B7"
+			rewards: [{
+				count: 10
+				id: "062D2215DCA722FC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C03376EEF93DFAC"
 				item: "modern_industrialization:implosion_compressor"
@@ -1164,6 +1334,12 @@
 		{
 			dependencies: ["34C3EB624686BFC1"]
 			id: "61665BFCDBC55F6A"
+			rewards: [{
+				count: 10
+				id: "7A73F1A476A0CEF6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2EF1B1A1A9704923"
 				item: "modern_industrialization:nuclear_reactor"
@@ -1178,6 +1354,12 @@
 				"24231C9336313110"
 			]
 			id: "7DC5648B7589D677"
+			rewards: [{
+				count: 10
+				id: "521E96FD8ECE6CA5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6390824F0ED603ED"
 				item: "modern_industrialization:nuke"
@@ -1189,6 +1371,12 @@
 		{
 			dependencies: ["2DABC989CBEE2F54"]
 			id: "019DA57C9AAFAB9C"
+			rewards: [{
+				count: 10
+				id: "4DD169E2F2995916"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C21A1AEA7901199"
 				item: "modern_industrialization:titanium_drill"
@@ -1200,6 +1388,12 @@
 		{
 			dependencies: ["019DA57C9AAFAB9C"]
 			id: "0C553799D14E9581"
+			rewards: [{
+				count: 10
+				id: "3082B7BFDB6B14E2"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5AA90273CA1789EF"
 				item: "modern_industrialization:raw_iridium"
@@ -1211,6 +1405,12 @@
 		{
 			dependencies: ["6221A89B54A0A5CD"]
 			id: "2D22FF3511CDB306"
+			rewards: [{
+				count: 10
+				id: "2AD1970753DB1183"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "29511B82A4AD8C49"
 				item: "modern_industrialization:pressurizer"
@@ -1223,6 +1423,12 @@
 			dependencies: ["0C269EAF6D9CAA9D"]
 			dependency_requirement: "all_started"
 			id: "37F8D55E7234D2BA"
+			rewards: [{
+				count: 10
+				id: "1D7F0D46BAAA367D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C8A04E865DCCC39"
 				item: "modern_industrialization:large_steam_turbine"
@@ -1237,6 +1443,12 @@
 				"40DCD225DEB055BD"
 			]
 			id: "309E9D205D820F88"
+			rewards: [{
+				count: 10
+				id: "0404505D8DEA8C4C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2BDE9A9082F3BC59"
 				item: "modern_industrialization:large_diesel_generator"
@@ -1248,6 +1460,12 @@
 		{
 			dependencies: ["6564AD2712A65C16"]
 			id: "7CE568D638504E44"
+			rewards: [{
+				count: 10
+				id: "379618C1A3BF9CA0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "35AB6CB3D22DE9D8"
 				item: "modern_industrialization:kanthal_coil"
@@ -1262,6 +1480,12 @@
 				"7CE568D638504E44"
 			]
 			id: "47359532B3983FF9"
+			rewards: [{
+				count: 10
+				id: "2722C7CCEC8B8EDD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "13544511968CF536"
 				item: "modern_industrialization:platinum_ingot"
@@ -1274,6 +1498,12 @@
 			dependencies: ["47359532B3983FF9"]
 			dependency_requirement: "all_started"
 			id: "2DABC989CBEE2F54"
+			rewards: [{
+				count: 10
+				id: "72A480B0D9A96A94"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1740506E992AC092"
 				item: "modern_industrialization:processing_unit"
@@ -1288,6 +1518,12 @@
 				"63623BDFE8EFC2EE"
 			]
 			id: "34C3EB624686BFC1"
+			rewards: [{
+				count: 10
+				id: "5B9F412962B41DDD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "119AC62082E5657E"
 				item: "modern_industrialization:highly_advanced_machine_hull"
@@ -1299,6 +1535,12 @@
 		{
 			dependencies: ["6221A89B54A0A5CD"]
 			id: "63623BDFE8EFC2EE"
+			rewards: [{
+				count: 10
+				id: "566CC557FAD5C58F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "664571BB24E4AFD0"
 				item: "modern_industrialization:highly_advanced_machine_casing"
@@ -1310,12 +1552,18 @@
 		{
 			dependencies: ["47359532B3983FF9"]
 			id: "7504EA41DB041832"
+			rewards: [{
+				count: 10
+				id: "6379A5F89FC7F107"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "214DA60CDE7C0955"
 				item: "modern_industrialization:iridium_ingot"
 				type: "item"
 			}]
-			x: 51.0d
+			x: 50.0d
 			y: 3.0d
 		}
 		{
@@ -1324,6 +1572,12 @@
 				"0669F35D4BE25352"
 			]
 			id: "25D821D8FB5BAE95"
+			rewards: [{
+				count: 10
+				id: "21E4E343F241BA52"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3928E630770AC42E"
 				item: "modern_industrialization:singularity"
@@ -1335,6 +1589,12 @@
 		{
 			dependencies: ["7504EA41DB041832"]
 			id: "0BD8B251D8B052B5"
+			rewards: [{
+				count: 10
+				id: "5694A5D3C8EAA092"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6916623A57421019"
 				item: "modern_industrialization:mixed_ingot_iridium"
@@ -1350,6 +1610,12 @@
 				"3C9B0A7FC4E07922"
 			]
 			id: "469E7B8DD1F2236D"
+			rewards: [{
+				count: 10
+				id: "5C2944CA567991FF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "025D4C69E2561EA0"
 				item: "modern_industrialization:quantum_circuit"
@@ -1365,6 +1631,12 @@
 			]
 			dependency_requirement: "all_started"
 			id: "37781AFDEB20E1AE"
+			rewards: [{
+				count: 10
+				id: "1CDE882AD13CFA13"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C7241EF8463A1C2"
 				item: "modern_industrialization:quantum_machine_hull"
@@ -1376,13 +1648,19 @@
 		{
 			dependencies: ["61665BFCDBC55F6A"]
 			id: "558D84795FE16216"
+			rewards: [{
+				count: 10
+				id: "79E6245D91DC103C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "63EE628B6BA0152D"
 				item: "modern_industrialization:plutonium_ingot"
 				type: "item"
 			}]
-			x: 61.5d
-			y: -4.5d
+			x: 65.5d
+			y: -2.5d
 		}
 		{
 			dependencies: [
@@ -1390,6 +1668,12 @@
 				"3C9B0A7FC4E07922"
 			]
 			id: "41A5FF82011F3571"
+			rewards: [{
+				count: 10
+				id: "142B9CB7A0E1CAD3"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3CF6C72B4201E790"
 				item: "modern_industrialization:plutonium_battery"
@@ -1401,6 +1685,12 @@
 		{
 			dependencies: ["0BD8B251D8B052B5"]
 			id: "0669F35D4BE25352"
+			rewards: [{
+				count: 10
+				id: "10937F1B28CABF61"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "49F773BAB24AB68F"
 				item: "modern_industrialization:ultradense_metal_ball"
@@ -1412,6 +1702,12 @@
 		{
 			dependencies: ["7CE568D638504E44"]
 			id: "0DC05625D9D415A5"
+			rewards: [{
+				count: 10
+				id: "5FE4A3134C753BD8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C9B0A7FC4E07922"
 				item: "modern_industrialization:superconductor_cable"
@@ -1424,6 +1720,12 @@
 			dependencies: ["0344E1BBAC0E9CD2"]
 			dependency_requirement: "all_started"
 			id: "47A226569BE738EA"
+			rewards: [{
+				count: 10
+				id: "5E799C6FD5A36FAC"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3B823A628B3E5CFC"
 				item: "modern_industrialization:plasma_turbine"
@@ -1435,6 +1737,12 @@
 		{
 			dependencies: ["37781AFDEB20E1AE"]
 			id: "0344E1BBAC0E9CD2"
+			rewards: [{
+				count: 10
+				id: "3C44BE642E4C0002"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2CBBCC1B0DA19C80"
 				item: "modern_industrialization:fusion_reactor"
@@ -1446,6 +1754,12 @@
 		{
 			dependencies: ["37781AFDEB20E1AE"]
 			id: "66CC7103EC6F2626"
+			rewards: [{
+				count: 10
+				id: "65B061760F3D109A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2BA4BD0792BE25A3"
 				item: "modern_industrialization:superconductor_storage_unit"
@@ -1457,6 +1771,12 @@
 		{
 			dependencies: ["25D821D8FB5BAE95"]
 			id: "28FB96969DF7558A"
+			rewards: [{
+				count: 10
+				id: "4B0224DBE49CF37A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2518A7A1DF7687BD"
 				item: "modern_industrialization:uu_matter_bucket"
@@ -1471,6 +1791,12 @@
 				"469E7B8DD1F2236D"
 			]
 			id: "3BAB2EF23218B9E3"
+			rewards: [{
+				count: 10
+				id: "25F8C5D9A9EE4429"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "43CC5AF98663028D"
 				item: "modern_industrialization:quantum_upgrade"
@@ -1485,6 +1811,12 @@
 				"28FB96969DF7558A"
 			]
 			id: "719AB09702566934"
+			rewards: [{
+				count: 10
+				id: "532BCA9051CC04FF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "2E26A9744F4A259E"
 				item: "modern_industrialization:replicator"
@@ -1496,6 +1828,12 @@
 		{
 			dependencies: ["3BAB2EF23218B9E3"]
 			id: "5F946A4E8DCAE6AC"
+			rewards: [{
+				count: 10
+				id: "244132DC2F73021F"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "69075D1CC71DDC09"
@@ -1527,8 +1865,17 @@
 			y: 4.5d
 		}
 		{
-			dependencies: ["2DABC989CBEE2F54"]
+			dependencies: [
+				"2DABC989CBEE2F54"
+				"4B999916AD2FE786"
+			]
 			id: "0A067665653E9E91"
+			rewards: [{
+				count: 10
+				id: "5D7FE19A2435448B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "680C4FC55C1C1A89"
 				item: "modern_industrialization:highly_advanced_upgrade"
@@ -1540,6 +1887,12 @@
 		{
 			dependencies: ["0A067665653E9E91"]
 			id: "6748438ABA6F86DB"
+			rewards: [{
+				count: 10
+				id: "6CB1421451F127FE"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6345E6A7B3CED9E4"
 				item: "modern_industrialization:gravichestplate"
@@ -1551,6 +1904,12 @@
 		{
 			dependencies: ["3E80CDCCCEA646EB"]
 			id: "471F400DFCA7AA3F"
+			rewards: [{
+				count: 10
+				id: "5C01A848FF3817F8"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "51DFC7871426C8FA"
 				item: {
@@ -1568,6 +1927,12 @@
 		{
 			dependencies: ["1EB52D9861FC1A55"]
 			id: "36C03AA5C625F408"
+			rewards: [{
+				count: 10
+				id: "4B059ECEEA0541DA"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5E75890ED976CC9B"
 				item: "modern_industrialization:redstone_control_module"
@@ -1579,6 +1944,12 @@
 		{
 			dependencies: ["1EB52D9861FC1A55"]
 			id: "41AA69ADFA90A2A6"
+			rewards: [{
+				count: 10
+				id: "1BC86495E408744A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "206F0DD700EFE0B2"
 				item: "modern_industrialization:config_card"
@@ -1590,6 +1961,12 @@
 		{
 			dependencies: ["2363D211D89E2D3B"]
 			id: "638B4F43E8BA85CA"
+			rewards: [{
+				count: 10
+				id: "5F3D8D15EBE05322"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6AD68CB01CA6E5DA"
 				item: "modern_industrialization:trash_can"
@@ -1601,6 +1978,12 @@
 		{
 			dependencies: ["1B6E896F4962A0B7"]
 			id: "24231C9336313110"
+			rewards: [{
+				count: 10
+				id: "396A90F0B80E6F43"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "76F5A561CE80AB07"
 				item: "modern_industrialization:industrial_tnt"
@@ -1612,6 +1995,12 @@
 		{
 			dependencies: ["7A778DB057BA0124"]
 			id: "56D2D624FE594A10"
+			rewards: [{
+				count: 10
+				id: "1AC9A0852DE3C23B"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "125251CF22BAF1DA"
 				item: "modern_industrialization:bronze_barrel"
@@ -1622,7 +2011,15 @@
 		}
 		{
 			dependencies: ["11761C8EA101A496"]
+			description: [""]
 			id: "4691B0DEC458F6C2"
+			rewards: [{
+				count: 10
+				id: "5171F79A77E76BCB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			subtitle: "Необходим для работы с ковочным молотом"
 			tasks: [{
 				id: "47D8BAA8C9EF1BC9"
 				item: {
@@ -1643,6 +2040,12 @@
 				"75D16653D5B95D6B"
 			]
 			id: "537FA207747709AF"
+			rewards: [{
+				count: 10
+				id: "417ED7639A11232A"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3107A18238C730EC"
 				item: "modern_industrialization:large_tank"
@@ -1654,6 +2057,12 @@
 		{
 			dependencies: ["537FA207747709AF"]
 			id: "2F1DE0A9E3C5D136"
+			rewards: [{
+				count: 10
+				id: "20EDFB5B2747F5EF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6635F133CEFDC96D"
 				item: "modern_industrialization:large_tank_hatch"
@@ -1665,6 +2074,12 @@
 		{
 			dependencies: ["0D7D65B96477B73D"]
 			id: "3E2E4141ED1B9647"
+			rewards: [{
+				count: 10
+				id: "7F61F237910E26D5"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5C73230C10C768AD"
 				item: "modern_industrialization:configurable_tank"
@@ -1680,6 +2095,12 @@
 				"29BC3A6F34E730D5"
 			]
 			id: "34193EA1EF4E11BC"
+			rewards: [{
+				count: 10
+				id: "4A6DA38F7F700D3C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "1F439AC8221F96FD"
 				item: "modern_industrialization:configurable_chest"
@@ -1691,6 +2112,12 @@
 		{
 			dependencies: ["75D16653D5B95D6B"]
 			id: "38F579C23205EF0D"
+			rewards: [{
+				count: 10
+				id: "5582E14E54B67C3D"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3872FD406C57BBD6"
 				item: "modern_industrialization:steel_packer"
@@ -1702,6 +2129,12 @@
 		{
 			dependencies: ["38F579C23205EF0D"]
 			id: "00E13491BD526161"
+			rewards: [{
+				count: 10
+				id: "42DCB3C54E3F5245"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "38264E3123BE6ED8"
 				item: "modern_industrialization:steel_unpacker"
@@ -1713,6 +2146,12 @@
 		{
 			dependencies: ["38F579C23205EF0D"]
 			id: "4021EE8E040AB0F6"
+			rewards: [{
+				count: 10
+				id: "5DB420E3581E22E7"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0FB2797E68599FFC"
 				item: "modern_industrialization:packer_block_template"
@@ -1724,6 +2163,12 @@
 		{
 			dependencies: ["38F579C23205EF0D"]
 			id: "27E3DBA0FD755A8B"
+			rewards: [{
+				count: 10
+				id: "216825881F5A3211"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "557B1EEC59AFEE06"
 				item: "modern_industrialization:packer_double_ingot_template"
@@ -1735,6 +2180,12 @@
 		{
 			dependencies: ["4E88C1E4C64818C0"]
 			id: "56387D66ED90D55F"
+			rewards: [{
+				count: 10
+				id: "0AD5E20DAA170AD6"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "1F381527196D649F"
@@ -1773,6 +2224,12 @@
 		{
 			dependencies: ["4E88C1E4C64818C0"]
 			id: "54A8773F4E5E4694"
+			rewards: [{
+				count: 10
+				id: "50E854633A89B34C"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			tasks: [{
 				id: "0186A16168319039"
 				item: "modern_industrialization:steel_boiler"
@@ -1780,6 +2237,99 @@
 			}]
 			x: 14.5d
 			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2522A921BF1CA318"
+				"46179F679E29E1F3"
+			]
+			id: "11298F179721E091"
+			rewards: [{
+				count: 10
+				id: "495C13BBAC9A4889"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			subtitle: "Электролизер позволит вам добывать алюминий более выгодно, а также полуать новые материалы, такие как титан."
+			tasks: [{
+				id: "683FC71DB1D32833"
+				item: "modern_industrialization:electrolyzer"
+				type: "item"
+			}]
+			x: 34.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4691B0DEC458F6C2"
+				"0BDBD9E5F85147CC"
+			]
+			id: "044FCB4B6F4B4549"
+			rewards: [{
+				count: 10
+				id: "2280289D5833FAFB"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7A131279BE9FD32E"
+				item: {
+					Count: 1
+					id: "modern_industrialization:steel_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["044FCB4B6F4B4549"]
+			id: "272674D6C1B25515"
+			rewards: [{
+				count: 10
+				id: "60A1F9CFABFBDEDD"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "746DA483F0F6DBCA"
+				item: {
+					Count: 1
+					id: "modern_industrialization:diamond_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["272674D6C1B25515"]
+			id: "231C363800A81DA3"
+			rewards: [{
+				count: 10
+				id: "1B952461F41C8BEF"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14133EEFC2DCC951"
+				item: {
+					Count: 1
+					id: "modern_industrialization:netherite_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.0d
 		}
 	]
 	subtitle: ["Modern Industrialization (MI) - лучший технический мод для новых версий Minecraft. Является аналогом GregTech и IndustrialCraft. Возможно наиболее сложный мод в этой сборке, но в конечном итоге позволит вам дюпать предметы и стать бессмертным."]
