@@ -473,6 +473,11 @@ hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
+file = "mods/streamotes.pw.toml"
+hash = "95e8dbd9c00221067b66ddd762205d9726499621576c83caaf1f4988f0e48b55"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
