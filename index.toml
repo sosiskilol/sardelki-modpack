@@ -21,20 +21,8 @@ file = "config/ftbquests/quests/chapters/cc.snbt"
 hash = "0caa6f2470f9778c0f1abc00187b092b629b4c3e7d0ddf86948c3658f306e1af"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/chemistry.snbt"
-hash = "af97b70c39c16c93fd9ece8cbe5a0ff1aacb84403c894d5d215a681d1f4adfcc"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
 hash = "c0a6a01917aa5da3609732c2544572d1ae5d5764f9eba2e78744fa15f2b30b94"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
-hash = "a88ea81b0ab14b72e37a6a7ed277cd87b9edaf70aac7425ee14b26022bdd7089"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/immersive_aircraft.snbt"
-hash = "b3d1eb68c93e75725e815a83ef398144d4a49391bff3c0241839c8e0a2ed2015"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
