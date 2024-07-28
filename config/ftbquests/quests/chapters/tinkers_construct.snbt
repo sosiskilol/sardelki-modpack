@@ -16,12 +16,20 @@
 	quests: [
 		{
 			id: "639F27DD8B17CD9E"
-			rewards: [{
-				count: 10
-				id: "7FF53D456A8A94C1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "57F64D2C1C39733B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "46A3AB535E150E79"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4A63B0BBD852B7FA"
 				item: "tconstruct:pattern"
@@ -33,12 +41,20 @@
 		{
 			dependencies: ["639F27DD8B17CD9E"]
 			id: "60BC6AE538AB0492"
-			rewards: [{
-				count: 10
-				id: "60A212C78D9C32F2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "53C7327D2683AEE3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3874EA7295D41278"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -52,12 +68,20 @@
 		{
 			dependencies: ["60BC6AE538AB0492"]
 			id: "51C2E8CEBE2C0232"
-			rewards: [{
-				count: 10
-				id: "0FBE7A904582386C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0949E26B1FCEA254"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "23F6730F6EC4A750"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "635DCAC6DCCC920B"
 				item: {
@@ -75,12 +99,20 @@
 		{
 			dependencies: ["60BC6AE538AB0492"]
 			id: "76F41B15F92C9B9B"
-			rewards: [{
-				count: 10
-				id: "017E4074557DE134"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "40DAF100CC954332"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "305CD092466BD545"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "65BA869BD90B1AED"
@@ -102,12 +134,20 @@
 				"51C2E8CEBE2C0232"
 			]
 			id: "2708C54E5395086B"
-			rewards: [{
-				count: 10
-				id: "7EE61BBFA9FFBDE3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7518F1B520B22B10"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "56E01970D57CE696"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3D50451CB871C70E"
 				item: "tconstruct:grout"
@@ -119,12 +159,20 @@
 		{
 			dependencies: ["2708C54E5395086B"]
 			id: "46857493BCB78AC7"
-			rewards: [{
-				count: 10
-				id: "133F4216B65F963C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7054A1E428F4D1E3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "55C8CC76FB083C20"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -138,12 +186,20 @@
 		{
 			dependencies: ["60BC6AE538AB0492"]
 			id: "6AEBAF24C3A37D8F"
-			rewards: [{
-				count: 10
-				id: "58D10627D1D77D4A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "545DF9AD7C27EA0F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "13104D64B8C7FB29"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "03D1DC0119BA87BB"
 				item: {
@@ -804,12 +860,20 @@
 		{
 			dependencies: ["51C2E8CEBE2C0232"]
 			id: "07073C7DA9E06C3E"
-			rewards: [{
-				count: 10
-				id: "408D3BBF89531648"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1E44F9F45446390A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1CAB5DF325FF3D57"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Части инструмента нужны для создания инструмента, делаются в формирователе частей"
 			tasks: [
 				{
@@ -855,12 +919,20 @@
 				"6AEBAF24C3A37D8F"
 			]
 			id: "0D253BA75655428C"
-			rewards: [{
-				count: 10
-				id: "78B6830B963D4C4F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2E0684D253D21984"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5DE6B786AF7801E5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Инструменты из простых материалов делаются в литейной станции"
 			tasks: [{
 				id: "0329C7B4A0490D68"

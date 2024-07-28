@@ -5,7 +5,7 @@
 	group: ""
 	icon: "computercraft:computer_advanced"
 	id: "2CA5265DD9EA884F"
-	order_index: 7
+	order_index: 6
 	quest_links: [ ]
 	quests: [
 		{

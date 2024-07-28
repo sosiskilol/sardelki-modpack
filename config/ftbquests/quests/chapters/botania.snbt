@@ -11,12 +11,20 @@
 		{
 			description: [""]
 			id: "21DBDCE79805ABB8"
-			rewards: [{
-				count: 10
-				id: "1873E3F4F453D7FC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7F65EF36DD7722B6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0CB29C1C2F37E81B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 1.5d
 			subtitle: "Ботания - технический мод в магической обертке. Данные квесты являются обучением по этому моду. Следуйте по квестам и изучайте ботанию! Также советую вам пользоваться лексиконом ботании для более углуюленного изучения."
@@ -32,12 +40,20 @@
 			dependencies: ["21DBDCE79805ABB8"]
 			description: [""]
 			id: "3F3CAC1850F809B0"
-			rewards: [{
-				count: 10
-				id: "19C482E7C7F17052"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "30BC5868E0165944"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "349676FDC3911335"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "Перед изучением мода, стоит запастись большим количеством цветков из него. Из них вы сможете в дальнейшем создавать уже функциональные цветки. Самым важным цветком для вас на данный момент является &n&oмистический белый цветок&r&r."
@@ -145,12 +161,20 @@
 		{
 			dependencies: ["4AB1002AABF1935A"]
 			id: "3491C8A034E25300"
-			rewards: [{
-				count: 10
-				id: "5551997BA8581970"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "53E58B6134E80255"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1741B64DCEBB48A8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "Чистая маргаритка позволит вам создавать жизнедерево и жизнекамень, посставьте дерево и камень рядом с цветком и подождите минуту. В дальнейшем вам понадовятся эти материалы для крафтов."
@@ -165,12 +189,20 @@
 		{
 			dependencies: ["3491C8A034E25300"]
 			id: "1A4653C66C272DD1"
-			rewards: [{
-				count: 10
-				id: "3DCC8398E3A3916B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "25BBA473E4E34FBF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7F124E024F6EC9B8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			tasks: [
@@ -199,12 +231,20 @@
 		{
 			dependencies: ["1A4653C66C272DD1"]
 			id: "515620C221B48A85"
-			rewards: [{
-				count: 10
-				id: "432B0AD3F4BD7F95"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "58729B6DB0C27AA1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2CFD8ECA74A77C7C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "Посох леса позволяет вам более удобно взаимодействовать с ботанией. Зажав шифт и нажав пкм вы поменяете режим посоха. Всего их два: функциональный режим и режим привязки. В режиме привязке вы привязываете определенный блок к посоху (для этого нажмите пкм по блоку), в функциональном режиме вы можете взамодействовать с выбранным блок (например: повернуть его)."
@@ -227,12 +267,20 @@
 			dependencies: ["3F3CAC1850F809B0"]
 			description: [""]
 			id: "4AB1002AABF1935A"
-			rewards: [{
-				count: 10
-				id: "19DF6469055188AD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4A88F0DD3E5A1009"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3B8931E48AA1B8A2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "Лепестковый аптекарь позволит вам создавать различные цветы для взаимодействия с маной. Чтобы сделать цветок налейте в него ведро воды, киньте ингридиенты, нужные для создания цветка, киньте в него семя пшеницы."
@@ -250,12 +298,20 @@
 				"3F3CAC1850F809B0"
 			]
 			id: "71C5DCBD0CF8E53B"
-			rewards: [{
-				count: 10
-				id: "50480D93070C2D65"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3338449B3D23BC9E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "40B37C7DE7DA1581"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Эти два цветка генерируют ману. Эндопламя создает ману, если ему кидать то, что можно сжечь (например уголь, доски, ведро лавы и т.п). Водорозгентия потребляет стоячую воду (источники воды) на площади 3 на 3 блока, этот цветок саморазрушается через час реального времени."
 			tasks: [
@@ -308,12 +364,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "756C8549B5CDE382"
-			rewards: [{
-				count: 10
-				id: "4712BF318EF98AF1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4712BF318EF98AF1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4119918B465BD619"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "40B4B070AFA055A0"
@@ -326,12 +390,20 @@
 		{
 			dependencies: ["787A3EE469D2778D"]
 			id: "25576363166A3E93"
-			rewards: [{
-				count: 10
-				id: "25477ED87A02BF17"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "25477ED87A02BF17"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7C68DFA3F346245D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Планшет маны позволяет вам хранить ману в инвенторе и использовать для своих нужд (например: для аксессуаров и оружия, которые для работы требуют ману). Киньте его в бассейн маны и он начнет наполнятся."
 			tasks: [{
@@ -344,12 +416,20 @@
 		}
 		{
 			id: "5062BE9E5B39A55E"
-			rewards: [{
-				count: 10
-				id: "2FB3133FF2193EB1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2FB3133FF2193EB1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4EA17CCC5EC198A4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "С помощью линз можно улучшать распространители. Нажмите пкм по распространителю, держа в руке линзу. Сгустки маны будут иметь определенные улучшения в зависимости от линзы (например: будут быстрее или больше перевозить маны за раз)."
 			tasks: [{
@@ -363,46 +443,61 @@
 		{
 			dependencies: ["74EFB78906FF04F0"]
 			id: "185321E96C1E29A5"
-			rewards: [{
-				count: 10
-				id: "1D1DE7F2FD1F21F3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1D1DE7F2FD1F21F3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "357C0B62E8EA7E02"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "Многие вещи в ботании делаются путем кидания предмета в бассейн маны. Одним из таких является манасталь"
 			tasks: [
 				{
+					count: 8L
 					id: "258C5C8CE025C956"
 					item: "botania:manasteel_ingot"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "7785987908A4C1ED"
 					item: "botania:mana_powder"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "54901D9222B3C30A"
 					item: "botania:mana_pearl"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "26BC43BF4659E31C"
 					item: "botania:mana_string"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "019186460A4B8D02"
 					item: "botania:mana_cookie"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "28B3F9BD56918A0A"
 					item: "botania:mana_diamond"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "181E1D9F6218C7E8"
 					item: "botania:manaweave_cloth"
 					type: "item"
@@ -414,12 +509,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "47F887D6763CF615"
-			rewards: [{
-				count: 10
-				id: "6B452D7C61A4F867"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6B452D7C61A4F867"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6282BBC02CAC8944"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "С помощью рунического алтаря вы сможете делать руны. Ему для создания рун нужна мана. "
@@ -428,7 +531,7 @@
 				item: "botania:runic_altar"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -3.0d
 			y: -1.0d
 		}
 		{
@@ -437,12 +540,20 @@
 				"185321E96C1E29A5"
 			]
 			id: "079E144869E2FEAE"
-			rewards: [{
-				count: 10
-				id: "3EF3AE76C668075E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3EF3AE76C668075E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "61C111DEDC6F1DA7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Увеличивает скорость (логично), но уменьшает количество маны и расстояние."
 			tasks: [{
@@ -459,12 +570,20 @@
 				"185321E96C1E29A5"
 			]
 			id: "5A2D1E4588313833"
-			rewards: [{
-				count: 10
-				id: "5F2E6656BE7D3187"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5F2E6656BE7D3187"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "64EF5717C1EB83E0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Увеличивает количество маны в сгустках, но уменьшает их скорость и расстояние."
 			tasks: [{
@@ -481,12 +600,20 @@
 				"185321E96C1E29A5"
 			]
 			id: "18ABC341549EEB17"
-			rewards: [{
-				count: 10
-				id: "3213446E358E1A99"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3213446E358E1A99"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0945C18075ABFAA2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Увеличивает расстояние, но уменьшает скорость."
 			tasks: [{
@@ -503,12 +630,20 @@
 				"185321E96C1E29A5"
 			]
 			id: "3228CCC0D2FCC54F"
-			rewards: [{
-				count: 10
-				id: "6CDB28DEB0AAB0C9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6CDB28DEB0AAB0C9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3CF8DE62A7EA2558"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Уменьшает расстояние, но уменьшает скорость потери маны."
 			tasks: [{
@@ -522,12 +657,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "3E883FFC76A08097"
-			rewards: [{
-				count: 10
-				id: "3BE349EA2284777E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3BE349EA2284777E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3B00A8E52DB27889"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "Из этих материалов вы сможете сделать структуру, необходимую для создания террастали. Схематику структуры вы можете посмотреть в лексиконе ботании в главе \"основные механики\". Для создания террастали нужно много маны."
@@ -556,12 +698,20 @@
 		{
 			dependencies: ["3E883FFC76A08097"]
 			id: "6D80B034181D1C41"
-			rewards: [{
-				count: 10
-				id: "19088984FBDB6BE6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "19088984FBDB6BE6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "190D6BE6871CDDF2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -575,12 +725,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "1367D79CC75C9ACB"
-			rewards: [{
-				count: 10
-				id: "5A1E6BF047BC9754"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5A1E6BF047BC9754"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1D30DDBB79D50585"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет получать ману на расстоянии от бассейна. Привяжите зеркало к бассейну нажав шифт пкм."
 			tasks: [{
@@ -594,51 +751,66 @@
 		{
 			dependencies: ["4A17049D177979F5"]
 			id: "5B9D5DA22A972C5C"
-			rewards: [{
-				count: 10
-				id: "7D7E004F11EDB6CA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7D7E004F11EDB6CA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "48316D109184D2D8"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "Руны нужны во многих крафтах."
 			tasks: [
 				{
+					count: 4L
 					id: "1A874FED295DCA95"
 					item: "botania:rune_water"
 					type: "item"
 				}
 				{
+					count: 4L
 					id: "708F95D3F3DD4719"
 					item: "botania:rune_fire"
 					type: "item"
 				}
 				{
+					count: 4L
 					id: "7675102F3501B7D3"
 					item: "botania:rune_earth"
 					type: "item"
 				}
 				{
+					count: 4L
 					id: "094346BD43A635B3"
 					item: "botania:rune_air"
 					type: "item"
 				}
 				{
+					count: 2L
 					id: "1BED8D42605597FD"
 					item: "botania:rune_spring"
 					type: "item"
 				}
 				{
+					count: 2L
 					id: "7B3CEEB93B9B6DD1"
 					item: "botania:rune_summer"
 					type: "item"
 				}
 				{
+					count: 2L
 					id: "503E319E95F26F24"
 					item: "botania:rune_autumn"
 					type: "item"
 				}
 				{
+					count: 2L
 					id: "74DE193CA5DEA6C3"
 					item: "botania:rune_winter"
 					type: "item"
@@ -690,12 +862,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "7F9F91FA1CCFC73C"
-			rewards: [{
-				count: 10
-				id: "51F346ACB9FF55FF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "51F346ACB9FF55FF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5907E00429EBC57C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Ест ближайшую листву с деревьев, генерируя ману, после работы восстанавливается минуту."
 			tasks: [{
@@ -709,12 +888,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "75AF9DAE60D2B1D7"
-			rewards: [{
-				count: 10
-				id: "464D1577720647EA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "464D1577720647EA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3C4CF145CC377C3B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Поедает лаву, генерируя ману. После поглощения, цветок будет создавать 30 секунд, потом еще 5 минут будет отдыхать."
 			tasks: [{
@@ -728,12 +914,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "6A99EC071E0A59BC"
-			rewards: [{
-				count: 10
-				id: "7CF90C5456279649"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7CF90C5456279649"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "799991E1C590C269"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Цветок поглощает взрывы тнт, генерируя ману. Если в цветке есть мана, то взрыв он не поглодит."
 			tasks: [{
@@ -747,12 +940,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "018CA4B195389C06"
-			rewards: [{
-				count: 10
-				id: "2EE343F3B37FC778"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2EE343F3B37FC778"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7D129C7C5C8AA46B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "79866C28549351E4"
@@ -765,12 +965,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "5A3DA3A94A53E6C3"
-			rewards: [{
-				count: 10
-				id: "3DFECBC8CEB4ECF5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3DFECBC8CEB4ECF5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "711393B106966EB3"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Поглощает опыт игрок, находящихся рядом, генерируя ману. "
 			tasks: [{
@@ -784,12 +991,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "081CCE7FCFD0939B"
-			rewards: [{
-				count: 10
-				id: "3C6A280FEDE6AC1D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3C6A280FEDE6AC1D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4A3FF332DA279F2F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Уменьшает звуки животных за ману. "
 			tasks: [{
@@ -803,12 +1017,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "691D671F2769EBFF"
-			rewards: [{
-				count: 10
-				id: "57E83FEE5C8F204E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "57E83FEE5C8F204E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "225D3F66E84FCD06"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Ускоряет рост растений."
 			tasks: [{
@@ -822,12 +1043,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "6372C557B54BEDD5"
-			rewards: [{
-				count: 10
-				id: "5456B35926A32748"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5456B35926A32748"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4A74BDE43D662FAA"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Если эндермен, находящийся рядом, попытаетсятелепортироваться, то он окажеться на месте винолотоса."
 			tasks: [{
@@ -841,12 +1069,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "0B90EF7F9C6CF312"
-			rewards: [{
-				count: 10
-				id: "31038963C72D20F6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31038963C72D20F6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "12968DE4225990BB"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Подбирает предметы в определенном радиусе и складирует их в сундуи, воронки и т.д. С помощью рамок можно сделать задавать приоритеты для складирования. Ману для работы не требует, но она увеличивает радиус действия цветка. "
 			tasks: [{
@@ -860,12 +1095,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "67F9C2F28CA614E8"
-			rewards: [{
-				count: 10
-				id: "38F5B2CF32C75087"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "38F5B2CF32C75087"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1A129B1CCC1CBD7F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Отравляет ближайших мобов."
 			tasks: [{
@@ -879,12 +1121,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "5C27CFDDEE8641C7"
-			rewards: [{
-				count: 10
-				id: "5F66BD990830BD17"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5F66BD990830BD17"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "30E2065428DA60DA"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Превращает песок в глину."
 			tasks: [{
@@ -898,12 +1147,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "29485D6C884EDE25"
-			rewards: [{
-				count: 10
-				id: "02B20C8FB97321BE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "02B20C8FB97321BE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3B8EBDD013DF08FD"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Выталкивает мобов с определенной площади."
 			tasks: [{
@@ -917,12 +1173,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "2744625AAFB7F58F"
-			rewards: [{
-				count: 10
-				id: "5C7D91293EF0F4F3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5C7D91293EF0F4F3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "044567394252E2F6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Наносит урон мобам."
 			tasks: [{
@@ -936,12 +1199,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "5A421B1C8E77128A"
-			rewards: [{
-				count: 10
-				id: "45E8233297496FF3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "45E8233297496FF3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "426BB0C2EE3F93E1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Выращивает мистические цветы на определенной площади."
 			tasks: [{
@@ -955,12 +1225,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "3736E5EE8521FAC4"
-			rewards: [{
-				count: 10
-				id: "08AF91C07EFFA14B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "08AF91C07EFFA14B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7E2640616E60329F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Превращает камни в другие декоративные блоки из ботании в зависимости от биома."
 			tasks: [{
@@ -974,12 +1251,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "0A528DABFF625FFB"
-			rewards: [{
-				count: 10
-				id: "4F62B9F1987EF05C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4F62B9F1987EF05C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4937E2270C9333E2"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Останавливает мобов в радиусе 6 блоков."
 			tasks: [{
@@ -993,12 +1277,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "5FEE22429F8A9573"
-			rewards: [{
-				count: 10
-				id: "30691AC0D2623075"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "30691AC0D2623075"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "14F8F2D081B83A30"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Дает регенерацию в определенном радиусе."
 			tasks: [{
@@ -1012,12 +1303,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "523228C669499489"
-			rewards: [{
-				count: 10
-				id: "5AD50ABD44ED1280"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5AD50ABD44ED1280"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2866603D1F023B95"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Размножает мобов, если кинуть ему еду. (БЕЗ КУЛДАУНА)"
 			tasks: [{
@@ -1031,12 +1329,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "2739A634671F6B25"
-			rewards: [{
-				count: 10
-				id: "4D209DC06BD6928A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4D209DC06BD6928A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "15477DCD184F41CD"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Не дает выйти мобам дальге определенного радиуса."
 			tasks: [{
@@ -1050,12 +1355,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "6EC5CA380AB1D10B"
-			rewards: [{
-				count: 10
-				id: "1E88D5FB0A5F815E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1E88D5FB0A5F815E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "28F156F97F326AC8"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Ставит брошенные ему блоки, на блоки, на который он установлен."
 			tasks: [{
@@ -1069,12 +1381,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "77E6D17126576EB4"
-			rewards: [{
-				count: 10
-				id: "0D23EE15E001D98B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0D23EE15E001D98B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7005F3C1999C8B92"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "533D44ED8E276D01"
@@ -1087,12 +1406,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "58770AF71EEC8601"
-			rewards: [{
-				count: 10
-				id: "0C3AD6391F6C7FA4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0C3AD6391F6C7FA4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "72BA94A911336AAC"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Наносит урон взрослым мобам. "
 			tasks: [{
@@ -1106,12 +1432,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "64C48504E7D8F139"
-			rewards: [{
-				count: 10
-				id: "4FE1A2C74A833C89"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4FE1A2C74A833C89"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7AC0E0B1DB994161"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Работает как кот для криперов."
 			tasks: [{
@@ -1125,12 +1458,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "1558E9FF66E1B76F"
-			rewards: [{
-				count: 10
-				id: "243D626396DDD08E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "243D626396DDD08E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2546AEC59C4C2824"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сдувает предметы, находящиеся перед ним."
 			tasks: [{
@@ -1144,12 +1484,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "268790E338888FAA"
-			rewards: [{
-				count: 10
-				id: "46477A570052209D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "46477A570052209D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "43021B0C340AAB52"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Ускоряет ближайшие печи и позволяет им работать без топлива."
 			tasks: [{
@@ -1163,14 +1510,22 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "6BA2C34E7668B92B"
-			rewards: [{
-				count: 10
-				id: "268A1B1D2859A531"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "268A1B1D2859A531"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3A2E2F5586F63984"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
-			subtitle: "Из этих материалов вы сможете сделать портал в мир эльфов. Схематику создания портала в можете посмотреть в лексиконе ботании в главе \"эльфомания\". Рядом с портал должны находиться два лесных пилона на заполненном бассейне с маной. Для активации нажмите пкм посохом леса. Кидая в портал определенные предметы, вы можете получить различные драгоценности от эльфов. "
+			subtitle: "Из этих материалов вы сможете сделать портал в Эльхейм. Схематику создания портала в можете посмотреть в лексиконе ботании в главе \"эльфомания\". Рядом с портал должны находиться два лесных пилона на заполненном бассейне с маной. Для активации нажмите пкм посохом леса. Кидая в портал определенные предметы, вы можете получить различные драгоценности от эльфов. "
 			tasks: [
 				{
 					count: 8L
@@ -1223,12 +1578,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "65069647E5A4EF15"
-			rewards: [{
-				count: 10
-				id: "1BDF98F21A5ABBD0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1BDF98F21A5ABBD0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2BA090746F8E9D10"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			subtitle: "Позволяет варить пиво с помощью маны. Пиво это как зельки, но многоразовые. "
@@ -1243,12 +1606,20 @@
 		{
 			dependencies: ["65069647E5A4EF15"]
 			id: "10357B515248F2C3"
-			rewards: [{
-				count: 10
-				id: "65E8F9F64D554C19"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "65E8F9F64D554C19"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2A97E377A04C8211"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Благовония позволяют распространять эффект для зелий в определенном радиусе."
 			tasks: [
@@ -1290,12 +1661,19 @@
 				"570BE2D7BE32A21A"
 			]
 			id: "3E41370EC1CCB466"
-			rewards: [{
-				count: 10
-				id: "09312F52D121E56B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "09312F52D121E56B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3455FBFD32CB0F53"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "2FE11D6BD6A2BB7C"
@@ -1308,12 +1686,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "1EF6C1D5EE833BCC"
-			rewards: [{
-				count: 10
-				id: "23B7C9E815233862"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "23B7C9E815233862"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7C57C53DA79F800B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "60D5E8C7C86DBF2C"
@@ -1333,31 +1718,42 @@
 		{
 			dependencies: ["5A97473C3B0D69B0"]
 			id: "3034637E6A62EBAE"
-			rewards: [{
-				count: 10
-				id: "19B315B066E773E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "19B315B066E773E3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0EE62388E7FE7662"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [
 				{
+					count: 8L
 					id: "13003F87F1B0B31A"
 					item: "botania:pixie_dust"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "7A5B3F0147C9A7CE"
 					item: "botania:elementium_ingot"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "10AA045E9DDB5D21"
 					item: "botania:dreamwood"
 					type: "item"
 				}
 				{
+					count: 8L
 					id: "4C76FD46F7E164FB"
 					item: "botania:dragonstone"
 					type: "item"
@@ -1369,12 +1765,19 @@
 		{
 			dependencies: ["5A97473C3B0D69B0"]
 			id: "3AB3F259994A9E34"
-			rewards: [{
-				count: 10
-				id: "5D0E2079B41DCD4A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5D0E2079B41DCD4A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1A5F21062273477F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "3372FDCE013E2101"
@@ -1387,12 +1790,19 @@
 		{
 			dependencies: ["5A97473C3B0D69B0"]
 			id: "2D0886E00E7E290B"
-			rewards: [{
-				count: 10
-				id: "2C7EC4277A367964"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2C7EC4277A367964"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "698EE18207205DE7"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Дух Гайи призывается с помощью террастали."
 			tasks: [
@@ -1426,12 +1836,19 @@
 			dependencies: ["2D0886E00E7E290B"]
 			icon: "botania:gaia_head"
 			id: "06E4995236E76B49"
-			rewards: [{
-				count: 10
-				id: "380CAF3AEA6C8A73"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "380CAF3AEA6C8A73"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "291B7D9E92DF72FA"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			tasks: [{
@@ -1446,12 +1863,19 @@
 		{
 			dependencies: ["06E4995236E76B49"]
 			id: "51262D7459373D60"
-			rewards: [{
-				count: 10
-				id: "7AA287FBC61CCA0C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6D8C067AEC18A405"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "18B068FAA8C1A1CF"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -1465,12 +1889,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "70467D2DDE9031BF"
-			rewards: [{
-				count: 10
-				id: "6DD3B8B0AA5790A3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "45B5AB438C11848D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5BC87D6C789E3662"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Блять, читайте описание это хуйни в лексиконе, в \"генерирующей флоре\"."
 			tasks: [{
@@ -1484,12 +1916,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "565A9400F11AA95E"
-			rewards: [{
-				count: 10
-				id: "0328632F661D1E7B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0328632F661D1E7B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1ADA9E3B97DA9AFB"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Поедаед находящиеся рядом торты, генерируя ману."
 			tasks: [{
@@ -1503,12 +1942,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "666795028F293E22"
-			rewards: [{
-				count: 10
-				id: "426B2DBEE033EB26"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "426B2DBEE033EB26"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7150C568B0A32EDC"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Поедает находящиеся рядом цветы из ботании, генерируя ману."
 			tasks: [{
@@ -1522,12 +1968,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "10007C37DA827642"
-			rewards: [{
-				count: 10
-				id: "3ACB547B62C0713E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3ACB547B62C0713E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1C02113AF2E7FB4A"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Убирает воду в радиусе 12 блоков."
 			tasks: [{
@@ -1541,12 +1994,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "61811CFE0FF1AD9D"
-			rewards: [{
-				count: 10
-				id: "5C515F61BD650A7B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5C515F61BD650A7B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "05D6BBE9F3A1BC15"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Создает на определенной площади разных враждебных мобов."
 			tasks: [{
@@ -1560,12 +2020,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "2841874CEF378AD3"
-			rewards: [{
-				count: 10
-				id: "64C62F6800BB7C72"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "64C62F6800BB7C72"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "33B28724928ED7C7"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Заставляет враждебных мобов, находящихся в радиусе действия, атаковать друг друга."
 			tasks: [{
@@ -1579,12 +2046,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "764C4D628190E9E3"
-			rewards: [{
-				count: 10
-				id: "6835B1444F8F99B2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6835B1444F8F99B2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7C6B21B9F99A5E5B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Если поставить рядом с ни камень, то он с определенным шансом превратит его в одну из руд верхнего мира."
 			tasks: [{
@@ -1598,12 +2072,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "7B400D4A97BB9984"
-			rewards: [{
-				count: 10
-				id: "5902C6830838E532"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5902C6830838E532"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "281C4373D0EB61F0"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Если поставить рядом с ним незерак в аду, то он с определенным шансом превратит его в одну из адских руд."
 			tasks: [{
@@ -1617,12 +2098,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "3E7649055DBA35A8"
-			rewards: [{
-				count: 10
-				id: "4A8F5E8E28E23572"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4A8F5E8E28E23572"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7025410030B774EE"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Телопортирует брошенные предменты, на тот блок, к которому он привязан. Привязать его межно к блокам, которые находяться в радиусе 12 блоков."
 			tasks: [{
@@ -1636,12 +2124,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "7880D3AE3D4C2547"
-			rewards: [{
-				count: 10
-				id: "0006F733AD1C1ABC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0006F733AD1C1ABC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "600A94C958488CC6"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Смешное метательное оружие."
 			tasks: [{
@@ -1655,12 +2150,19 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "36CCA43231FAB6DB"
-			rewards: [{
-				count: 10
-				id: "44C625268AF2F508"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "44C625268AF2F508"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2A1C26A33E8B1CD1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Предметы из манастали восстанавливаются с помощью маны."
 			tasks: [
@@ -1770,12 +2272,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "2C3C5EE53A5BDD67"
-			rewards: [{
-				count: 10
-				id: "2E982EC9CD29F257"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2E982EC9CD29F257"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7797C808CE247B2B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет привязывать цветы к бассейнам маны и распространителям."
 			tasks: [{
@@ -1789,12 +2299,20 @@
 		{
 			dependencies: ["21DBDCE79805ABB8"]
 			id: "5D61FD45B0DF091D"
-			rewards: [{
-				count: 10
-				id: "45B36C4E14D358E0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5539A9B1D9BD1ACA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1267E12209C13DE5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "С помощью семени разрастания можно зачаровать блок травы, благодаря чему растения на траве будут расти быстрее."
 			tasks: [{
@@ -1808,12 +2326,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "007FDFCBD7DF38D0"
-			rewards: [{
-				count: 10
-				id: "219BAD4F79EAB335"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "219BAD4F79EAB335"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "53CF4E8F7DE5670F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [
 				{
@@ -1867,12 +2392,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "60E16C205DF8D81A"
-			rewards: [{
-				count: 10
-				id: "7D959E7BE40EA0F5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7D959E7BE40EA0F5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6E75B30F418177B5"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "79BA7248B6324E3B"
@@ -1885,12 +2417,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "5930D765F03B0949"
-			rewards: [{
-				count: 10
-				id: "3221516CBBF3F4E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3221516CBBF3F4E3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4084CAFC3AF9F9F4"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "07F11FB6113B7F28"
@@ -1903,12 +2442,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "7CF60D4E6B9407DA"
-			rewards: [{
-				count: 10
-				id: "599A1E04C2B0BA0E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "599A1E04C2B0BA0E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5991B97E51C5DFE1"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "07B8A707E560C211"
@@ -1921,12 +2467,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "71F0CBDB205F30E1"
-			rewards: [{
-				count: 10
-				id: "29D1D016E7F7579E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "29D1D016E7F7579E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "55077FCB21051866"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "59D22CFDA1521D9F"
@@ -1942,12 +2495,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "691DD25CA127678A"
-			rewards: [{
-				count: 10
-				id: "5436D38D1CB9BA03"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5436D38D1CB9BA03"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1174567F7F87408F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Увеличивает расстояние."
 			tasks: [{
@@ -1964,12 +2525,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "0C98386269843F8B"
-			rewards: [{
-				count: 10
-				id: "5BA75BDD7129E695"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5BA75BDD7129E695"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "26158244D79EE786"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет отскакивать от стен, а не рассеиваться."
 			tasks: [{
@@ -1986,12 +2555,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "21E752BF0665816F"
-			rewards: [{
-				count: 10
-				id: "33E71AABD9E79928"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "33E71AABD9E79928"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "50700ED1598D7CC6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгустки стану подвергнуты гравитации и буду двигаться по дуге. Увеличивает расстояние."
 			tasks: [{
@@ -2008,12 +2585,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "16A92B2523015F45"
-			rewards: [{
-				count: 10
-				id: "07E5347A539F14E0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "07E5347A539F14E0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "556F9C2B7195A738"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет уничтожать блоки при столкновении, теряя ману."
 			tasks: [{
@@ -2030,12 +2615,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "6A6CDBF4B61C94AC"
-			rewards: [{
-				count: 10
-				id: "257A75166FCA072B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "257A75166FCA072B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "57E9F11BF5E82ACB"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет наносить урон мобам при столкновении, теряя ману."
 			tasks: [{
@@ -2052,12 +2645,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "3B3680769121B0F5"
-			rewards: [{
-				count: 10
-				id: "164BD74E76288996"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "164BD74E76288996"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6CF38AFB90D9DDFF"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "4BFFD63EF9CA1E2C"
@@ -2073,12 +2674,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "4641302E55C02D44"
-			rewards: [{
-				count: 10
-				id: "1543E6B64C86CFFE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1543E6B64C86CFFE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5A6220EFD8F665F8"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет притягиваться к блоку, который может потреблять ману. Уменьшает скорость."
 			tasks: [{
@@ -2092,12 +2701,20 @@
 		{
 			dependencies: ["5062BE9E5B39A55E"]
 			id: "04D29CF02B8B9B34"
-			rewards: [{
-				count: 10
-				id: "2039DDAA29F79F8C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2039DDAA29F79F8C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5C6F07C8478444A5"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет взрываться при контакте с блоками."
 			tasks: [{
@@ -2114,12 +2731,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "540CE8DD76DF88DD"
-			rewards: [{
-				count: 10
-				id: "5154D17547DD5805"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5154D17547DD5805"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "200E337FB569A9B9"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток маны будет двигать близкие предметы."
 			tasks: [{
@@ -2136,12 +2761,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "5D11AA318E9DE881"
-			rewards: [{
-				count: 10
-				id: "7CB35FD1B1A4182D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7CB35FD1B1A4182D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "56FEBDFCA84A4A9B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "При поподании сгустка в блок, под которым ничего нет, тот упадет как песок или гравий."
 			tasks: [{
@@ -2158,12 +2791,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "57061F44924F59EA"
-			rewards: [{
-				count: 10
-				id: "1470FA2E70C071A6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1470FA2E70C071A6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "73FF170B3B14BC2B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет поджигать блоки при контакте, может зажечь портал. "
 			tasks: [{
@@ -2180,12 +2821,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "6F9C97120CBB6463"
-			rewards: [{
-				count: 10
-				id: "7A789C8D10398B1F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7A789C8D10398B1F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "042EFBA3A67D8FAA"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток будет двигать блоки, которые может сдвинуть поршень, при контакте."
 			tasks: [{
@@ -2202,12 +2851,20 @@
 				"5B9D5DA22A972C5C"
 			]
 			id: "2CFC5CE76BF456F5"
-			rewards: [{
-				count: 10
-				id: "340DCBE275DF89BF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "340DCBE275DF89BF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "71B22422FFA3BD46"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "При контакте с блоком произойдет вспышка того же цвета, что и у сгустка."
 			tasks: [{
@@ -2224,12 +2881,19 @@
 				"5062BE9E5B39A55E"
 			]
 			id: "742D32D2D0A7705E"
-			rewards: [{
-				count: 10
-				id: "29CB2C153571981F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "29CB2C153571981F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1BC3296F858AC083"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "При попадании в силовое реле, сгусток будет телепортирован на блок, к которому будем привязано силовое реле, сохраняя направление."
 			tasks: [{
@@ -2246,12 +2910,19 @@
 				"5062BE9E5B39A55E"
 			]
 			id: "173886CB94960AD1"
-			rewards: [{
-				count: 10
-				id: "030A886D35B9BE8D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "030A886D35B9BE8D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "413B90D66CEAEAA0"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "При попадании в распространитель маны, сгусток повернет его в сторону прилета. "
 			tasks: [{
@@ -2268,12 +2939,19 @@
 				"5062BE9E5B39A55E"
 			]
 			id: "2FA94EA3182C4771"
-			rewards: [{
-				count: 10
-				id: "6E4A445973A964AA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6E4A445973A964AA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1BDE71CD1B071BF0"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Сгусток маны будет создавать фейерверк при попадании в блок."
 			tasks: [{
@@ -2290,12 +2968,19 @@
 				"5062BE9E5B39A55E"
 			]
 			id: "143636A87075758B"
-			rewards: [{
-				count: 10
-				id: "6EF3C84E01396872"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6EF3C84E01396872"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3F01B165DC8286A4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Вместо сгустков распространитель будет выпускать частицы определенного цвета."
 			tasks: [{
@@ -2312,12 +2997,19 @@
 				"5062BE9E5B39A55E"
 			]
 			id: "360F70E3B709CE6B"
-			rewards: [{
-				count: 10
-				id: "3506576E2DCD2DF1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3506576E2DCD2DF1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0B1DBF29243CDC26"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Взрывается при попадании."
 			tasks: [{
@@ -2334,12 +3026,19 @@
 				"5062BE9E5B39A55E"
 			]
 			id: "0AF2DBA4B4080816"
-			rewards: [{
-				count: 10
-				id: "2E7921D0FA355F5C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2E7921D0FA355F5C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6671C8F8EB5DD3D1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Если покрасить линзу, то сгусток покрасит блок, который можно покрасить (с овцами тоже работает)."
 			tasks: [{
@@ -2353,12 +3052,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "05FD123A48AE58BD"
-			rewards: [{
-				count: 10
-				id: "2392157860A2E5B7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2392157860A2E5B7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "36B2073794170E9C"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "60349F67B1242371"
@@ -2371,12 +3077,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "126E6D5E07E96E81"
-			rewards: [{
-				count: 10
-				id: "79A216688F231535"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "773807B1B21EEFD5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0A7F262D86C8BE9C"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Как эльфийский распространитель маны, но лучше."
 			tasks: [{
@@ -2390,12 +3104,19 @@
 		{
 			dependencies: ["06E4995236E76B49"]
 			id: "2306C4A955AAEEB6"
-			rewards: [{
-				count: 10
-				id: "5DA14EC20F4B11B3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5DA14EC20F4B11B3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1EDDC16A83552516"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Этот слиток можно использовать для призыва более сильного духа гайи, из которого можно получить ценные вещи."
 			tasks: [{
@@ -2409,12 +3130,19 @@
 		{
 			dependencies: ["2306C4A955AAEEB6"]
 			id: "562AA88AA22FFD15"
-			rewards: [{
-				count: 10
-				id: "2D9C8A31F290F459"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2D9C8A31F290F459"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7EB3BE93DA76E77A"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.0d
 			subtitle: "Убейте более сложную версию духа гайи"
@@ -2431,12 +3159,19 @@
 		{
 			dependencies: ["562AA88AA22FFD15"]
 			id: "7F4B68E4FB7C04B5"
-			rewards: [{
-				count: 10
-				id: "593583B8F6EE7ADD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "593583B8F6EE7ADD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "068B221C2A8FCE5F"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			subtitle: "Нажмите пкм"
@@ -2451,12 +3186,19 @@
 		{
 			dependencies: ["7F4B68E4FB7C04B5"]
 			id: "1EBCC50E06AD7F91"
-			rewards: [{
-				count: 10
-				id: "18A7CADF44A67966"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "18A7CADF44A67966"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "58DD8E9FFA16AD84"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "За ману создает большое количество снарядов."
 			tasks: [{
@@ -2470,12 +3212,19 @@
 		{
 			dependencies: ["7F4B68E4FB7C04B5"]
 			id: "793EE6D528D7A19E"
-			rewards: [{
-				count: 10
-				id: "3B2C0AC0E339F1AB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3B2C0AC0E339F1AB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4E2128E508120B94"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет ставить сразу много блоков. Зажмите шифт пкм по нужным вам блокам и поставте блоки зажав шифт."
 			tasks: [{
@@ -2489,12 +3238,19 @@
 		{
 			dependencies: ["7F4B68E4FB7C04B5"]
 			id: "6E0BFECB212E33D7"
-			rewards: [{
-				count: 10
-				id: "5710ABE607928170"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5710ABE607928170"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "34AA270C9915E7C7"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Вы получите дополнительные 20 сердец жизни, убирает урон от лавы, огня, воды, падения, голода."
 			tasks: [{
@@ -2508,12 +3264,19 @@
 		{
 			dependencies: ["7F4B68E4FB7C04B5"]
 			id: "5B08AA0EA7B84EC0"
-			rewards: [{
-				count: 10
-				id: "127E04ACB2B78869"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "127E04ACB2B78869"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "52BFAFEFA9580680"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Увеличивает зону действия землекрушителя."
 			tasks: [{
@@ -2527,12 +3290,19 @@
 		{
 			dependencies: ["7F4B68E4FB7C04B5"]
 			id: "30C81B398941249B"
-			rewards: [{
-				count: 10
-				id: "790BDEF0554D5B54"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "790BDEF0554D5B54"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "79BFFA759C5276DD"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Его можно сьесть, но он не потратится, а будет восстанавливать сытость за ману."
 			tasks: [{
@@ -2546,12 +3316,19 @@
 		{
 			dependencies: ["7F4B68E4FB7C04B5"]
 			id: "17252281E5FE7BD3"
-			rewards: [{
-				count: 10
-				id: "159649D5895749BF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "159649D5895749BF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "74FF1E0F43B5A735"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет телепортироваться в то место, которое привяжете к нему. Чтобы привязать нажмите шифт пкм по блоку."
 			tasks: [{
@@ -2565,12 +3342,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "0630AFAAD1ED4047"
-			rewards: [{
-				count: 10
-				id: "3813A670D4C648DD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3813A670D4C648DD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "15C35D29E3E78832"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Пилон маны можно использовать вместо книжных шкафов, двух хватит, чтобы дойти до 30 уровня."
 			tasks: [{
@@ -2584,12 +3369,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "368ECACAA6182572"
-			rewards: [{
-				count: 10
-				id: "1EA20B51792E1C0F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "32B7FC529EAA9B47"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "66A9ED8FB846ECDA"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, мобы, которые ударят вас, начнут убивать других агрессивных мобов. "
 			tasks: [{
@@ -2603,12 +3396,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "13D65947FDDEEB57"
-			rewards: [{
-				count: 10
-				id: "3B5DB078BAAC51A6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "433842C8547F9D65"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "31A08C431CCC4C4E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0A26679BFEE816CF"
@@ -2621,12 +3422,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "4F652C198A37623D"
-			rewards: [{
-				count: 10
-				id: "79ACBF1F7E5526DC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "79ACBF1F7E5526DC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "76F962BECB98F0E9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "6FBAD1F7D2EA84D6"
@@ -2639,12 +3448,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "220A5086809ADE79"
-			rewards: [{
-				count: 10
-				id: "018382AE354F7DDE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "018382AE354F7DDE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7D7755EE733BDF82"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "При взмахе есть шанс создания луча, че урон равен урону меча. Питается маной для починки."
 			tasks: [{
@@ -2664,12 +3480,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "4E5DBB6681261AB7"
-			rewards: [{
-				count: 10
-				id: "6DDACEE6C3C6931A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6DDACEE6C3C6931A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "54FA5310063FC838"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Терраформирует поверхность, расходует ману."
 			tasks: [{
@@ -2683,12 +3506,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "4FDFF33BEC607E7D"
-			rewards: [{
-				count: 10
-				id: "45D63FE22F7240E0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "45D63FE22F7240E0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6F5A816024A27ADF"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Делает землю."
 			tasks: [{
@@ -2702,12 +3533,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "6FAFC9730DD39B18"
-			rewards: [{
-				count: 10
-				id: "400CE32C9304DEBE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "400CE32C9304DEBE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "53172C8275A74674"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Начнет прыгать, если вы окажитесь в слаймчанке."
 			tasks: [{
@@ -2721,12 +3559,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "13D2C0262EFD317E"
-			rewards: [{
-				count: 10
-				id: "3155BEE3AE5DA5CB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5D957B5B649DD6E0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2B21258B6417760B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Питаются маноя для починки. Кирка уничтожает камень, незерак и другие подобные блоки (они не будут выпадать). Лопата все сыпучие блоки с низу до верха. Топор с определенным шансом может выбить голову зомби, скелета или крипера. Меч во время удара  может призвать пикси."
 			tasks: [
@@ -2814,12 +3659,20 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "5D4F98A15AE97B1B"
-			rewards: [{
-				count: 10
-				id: "79B7184C71F2E67E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "79B7184C71F2E67E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4F80F5CC4FB5DCB2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Могут призвать пикси при получении урона."
 			tasks: [
@@ -2874,12 +3727,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "23028D1E98802458"
-			rewards: [{
-				count: 10
-				id: "1240CD530C9CFD44"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "089BE4926A1A2388"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7ECD840C6172B73E"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет переносить большое количество блоков вверх на больше расстояние, кликните пкм по тому месту, которое хотите перенести. Радиус действия можно увеличить, соединяя осколок с духом гайи (максимальная сила осколка - 20)."
 			tasks: [{
@@ -2893,12 +3754,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "7580B120A8E6E813"
-			rewards: [{
-				count: 10
-				id: "2C6E8DDD91FF04A4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2C6E8DDD91FF04A4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2DBD46EC5D4ADBD6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Уменьшает количство маны, которое буду потредлять предметы."
 			tasks: [
@@ -2953,12 +3822,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "2C70F2264E8764DA"
-			rewards: [{
-				count: 10
-				id: "520B0F532CDD9DB6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "520B0F532CDD9DB6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "09F55950D57150F3"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Использует ману для починки."
 			tasks: [{
@@ -2978,12 +3855,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "014BBBC7AC05B5F9"
-			rewards: [{
-				count: 10
-				id: "5EF4F9AC2BC93BA1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5EF4F9AC2BC93BA1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "31CB8E972F59B437"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "41C228D27D8923B9"
@@ -2996,12 +3881,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "4BDBD84815C5A6E8"
-			rewards: [{
-				count: 10
-				id: "38C733111DE69408"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5820BB394D02CA1D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5AB500E98026F1CD"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Как лук из жизнедерева, но создает стрелы из маны."
 			tasks: [{
@@ -3021,12 +3913,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "47F474F57DAFBA81"
-			rewards: [{
-				count: 10
-				id: "13E03BD41FA69568"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "17C23E7372B22B61"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2A6379F974D80D4F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Превращает прирученнуюю лошадь в зомби-лошадь или в лошадь-скелет, улучшая ее характеристики."
 			tasks: [
@@ -3047,12 +3946,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "3ABE90E01423A919"
-			rewards: [{
-				count: 10
-				id: "6B24FF9403E91B17"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6B24FF9403E91B17"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "64E4EC80124480C0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет блокировать способности терратопора и землекрушителя."
 			tasks: [{
@@ -3066,12 +3973,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "38E3B02B86FC6CF5"
-			rewards: [{
-				count: 10
-				id: "653676CA2F6F84D7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "653676CA2F6F84D7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3A21ED7614537132"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Ставит воду за ману. "
 			tasks: [{
@@ -3085,12 +4000,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "03A6C30529B17EF1"
-			rewards: [{
-				count: 10
-				id: "4E2BF91513B8836F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4E2BF91513B8836F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1D1E1EDB277092C4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Создает огненный круг на несколько секунд за ману."
 			tasks: [{
@@ -3104,12 +4027,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "7303F589D9C019B0"
-			rewards: [{
-				count: 10
-				id: "0886D1028F267A40"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0128E69FBE9CB523"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4A537E1A2E118FAE"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Это ведро уничтожает жидкости."
 			tasks: [{
@@ -3123,12 +4053,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "20883868FE786F1B"
-			rewards: [{
-				count: 10
-				id: "670E621A625A022F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "670E621A625A022F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "29FDDF002CF60287"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Стреляет маной."
 			tasks: [{
@@ -3146,12 +4084,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "446C91A7EE7ED431"
-			rewards: [{
-				count: 10
-				id: "44C37794C6F35248"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "44C37794C6F35248"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5281DDD04BD95089"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Если кинуть землекрушитель кинуть в ману, то он начнет заряжаться, чем больше заряд, тем выше ранг (максимум ранг SS). У землекрушителя есть активная способность, для ее активации нажать шифт пкм, смотря на небо. Когда землекрушитель активен, он копает блоки по радиусу, размер радиуса зависит от ранга. "
 			tasks: [{
@@ -3171,12 +4116,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "09BFFAEE8D81FF1F"
-			rewards: [{
-				count: 10
-				id: "4A3695D20ACD9C6B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31D2337D8FA493DE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "202894589049D5E2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Позволяет устанавливать до 6 линз в излучатель маны. "
 			tasks: [{
@@ -3190,12 +4142,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "4C207C6202B66EB2"
-			rewards: [{
-				count: 10
-				id: "2466CD6C03620AFD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "41A66DDCA7058252"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1951F2E3A1D6D27B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Быстро убивает враждебных мобов с помощью ракет, расходует ману, можно выдать тотему."
 			tasks: [{
@@ -3209,12 +4169,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "5F06BE53F0130AC9"
-			rewards: [{
-				count: 10
-				id: "7CBBE5967E88089E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7CBBE5967E88089E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "14F6F81E9F09B879"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Делает камни."
 			tasks: [{
@@ -3228,12 +4196,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "3197FEF421A35327"
-			rewards: [{
-				count: 10
-				id: "11621E457731FA2C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1FCD42D141B08B59"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "61B94E94DA81F6E2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Может двигать мобов (наведитесь на моба, которого хотите передвинуть и зажмите пкм), на лкм может кидать их. (о май гад ит ис э халф лайф референс?!?!)"
 			tasks: [{
@@ -3247,12 +4222,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "1601AF78F5E9C3E1"
-			rewards: [{
-				count: 10
-				id: "2DC1050DD8F44F03"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2DC1050DD8F44F03"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "214D464A09F962EA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Меняет блоки в определенной области на выбранный вами блок. Чтобы выбрать блок нажмите шифт пкм по нужному блоку. Для замены нажмите пкм в то место, которое нужно заменить."
 			tasks: [{
@@ -3266,12 +4249,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "0C73611C92B03530"
-			rewards: [{
-				count: 10
-				id: "4152B74DB56966D9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4152B74DB56966D9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "65EAF5F7AB81F3C8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Подбрасывает вверх за ману."
 			tasks: [{
@@ -3289,12 +4280,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "47E8D2E87C9EB86B"
-			rewards: [{
-				count: 10
-				id: "2B24BF7242B93E87"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "76AF18E5E7789AEA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4CC0C15BA97B5AEF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Ставит блоки земли в воздухе за ману."
 			tasks: [{
@@ -3308,12 +4306,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "6719B7A47EE54A42"
-			rewards: [{
-				count: 10
-				id: "10E94422D377C3E3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "10E94422D377C3E3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "613386ECAA98BE23"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Может быстро переплавить один блок в другой (например: булыжник в камень, месок в стекло и т.д)"
 			tasks: [{
@@ -3327,12 +4333,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "284E31A39D1A61D6"
-			rewards: [{
-				count: 10
-				id: "12634ADDA25CC734"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "12634ADDA25CC734"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "18F04A0AF343FFDB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Подсвечивает руды в определенном радиусе на несколько секунд, расходуя ману. Цвета руд меняются после каждого использования."
 			tasks: [{
@@ -3346,12 +4360,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "533B17C1A353C721"
-			rewards: [{
-				count: 10
-				id: "223EFBDE142F1D1B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "223EFBDE142F1D1B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3860A995982D0E8B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0D9203710BCB0866"
@@ -3364,12 +4385,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "103A62380BCC0E19"
-			rewards: [{
-				count: 10
-				id: "5D46E65F79815473"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "24EF5E198998D29D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "44404ADF8CD1B0E9"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [
 				{
@@ -3396,12 +4424,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "78B8930CD9C42FF2"
-			rewards: [{
-				count: 10
-				id: "260F783D8A043F15"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "309FD50C0A4519A3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5869D5E4E828004F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "3F17F025B97784FA"
@@ -3414,12 +4450,26 @@
 		{
 			dependencies: ["014BBBC7AC05B5F9"]
 			id: "7D3800B004D9BA20"
-			rewards: [{
-				count: 10
-				id: "185C46577041A13D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "185C46577041A13D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7E01B895D8666F2C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "65F0DAC70BD6B1E2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "322621879335617A"
@@ -3432,12 +4482,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "60768316F50955AA"
-			rewards: [{
-				count: 10
-				id: "223D40E5D7AB5746"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "223D40E5D7AB5746"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "072686944A042170"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "5AB800A6C2C6C257"
@@ -3450,12 +4508,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "2A46055A41D85E8A"
-			rewards: [{
-				count: 10
-				id: "78EDFE0C6E35AD85"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "78EDFE0C6E35AD85"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0A06502425DFC7CA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, уменьшает отбрасывание. "
 			tasks: [{
@@ -3480,12 +4546,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "7D9FFBBF54AC86F0"
-			rewards: [{
-				count: 10
-				id: "01BC28090E0A753F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "01BC28090E0A753F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "75C106DDAF38AF96"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, увеличивает скорость, прыжок, позволяет быстрее забираться на блоки."
 			tasks: [{
@@ -3499,12 +4573,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "22274D82301F3C05"
-			rewards: [{
-				count: 10
-				id: "58D408056D779134"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "58D408056D779134"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "00E0D8336DD780B2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Нужно что-то объяснять?"
 			tasks: [{
@@ -3518,12 +4600,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "6DA7A7185D56FCB3"
-			rewards: [{
-				count: 10
-				id: "54EE8EA9C31E032A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "54EE8EA9C31E032A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "25397C53AB0C1AF9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, если вы начнете гореть, вы тут же гореть перестанете."
 			tasks: [{
@@ -3537,12 +4627,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "735B61B6A572A50C"
-			rewards: [{
-				count: 10
-				id: "5BB1179025DD8C2D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5BB1179025DD8C2D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2CE3124D5B2B6A0F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, поглощает взрывы вокруг вас."
 			tasks: [{
@@ -3556,12 +4654,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "0F76069C836F7365"
-			rewards: [{
-				count: 10
-				id: "4C5C7560C4CB913A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4C5C7560C4CB913A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "26AD6378A0E0D0BF"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "37C87417E73691E2"
@@ -3574,12 +4680,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "5AF3CA8DF318048E"
-			rewards: [{
-				count: 10
-				id: "3E2F882E9A53A938"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3E2F882E9A53A938"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7BE76BA300BF4683"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Работает как пояс странника, но ускоряет сильнее, но постепенно."
 			tasks: [{
@@ -3593,12 +4707,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "772B5794BFE2F895"
-			rewards: [{
-				count: 10
-				id: "444A9FD3F85FEF30"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "444A9FD3F85FEF30"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6EACF72B2F038D24"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Как пояс странника, но круче."
 			tasks: [{
@@ -3612,12 +4733,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "09ED60517B6489D5"
-			rewards: [{
-				count: 10
-				id: "4F53E17810AE3EA0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4F53E17810AE3EA0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7F8A04161F871718"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, работает как ледоходы."
 			tasks: [{
@@ -3631,12 +4760,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "011ECF88715FFD27"
-			rewards: [{
-				count: 10
-				id: "5BE8F07E52144A5A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "709B688926623742"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2232C2BB49D012EA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Работает как планшет маны, но экипируется в слот для колец."
 			tasks: [{
@@ -3656,12 +4793,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "296B5B7501218DB1"
-			rewards: [{
-				count: 10
-				id: "2D719252C8DF7BB4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2D719252C8DF7BB4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "68DA889B294D445C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, создает немного маны, перенося ее в предметы, в которых она может храниться."
 			tasks: [{
@@ -3675,12 +4820,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "4C44F1455B9E9AD3"
-			rewards: [{
-				count: 10
-				id: "5C71EC9EDFC66991"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3328748BA8EF0DCB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1DA3AE5D5321684E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, притягивает брошенные рядом предметы, не подбииряет предметы, юрошенные менее 5 секунд назад. "
 			tasks: [{
@@ -3694,12 +4847,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "1F1E55137E1C3495"
-			rewards: [{
-				count: 10
-				id: "2047DFF94471522C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2047DFF94471522C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6D4198303F2FC1A0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			shape: "circle"
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, дает под водой ускорение, ночное зрение, подводное дыхание."
@@ -3714,12 +4875,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "283D31C94AD45EAB"
-			rewards: [{
-				count: 10
-				id: "2675029906A5E325"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2675029906A5E325"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4A27F36B6A6E4F96"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, если два раза нажать одну из кнопок перемещения, делает рывок, расходует немного голода."
 			tasks: [{
@@ -3733,12 +4902,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "5AC4291BFFCC4130"
-			rewards: [{
-				count: 10
-				id: "4C5F375F0BFAD260"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F704A4BFBFB70CB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "39B76970784A1B5F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, будет менять инструменты на те, которые нужны для ломания блока, который вы добываете. Работает только с инструментами, которые требуют ману."
 			tasks: [{
@@ -3752,12 +4929,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "2BD45F58FBD37267"
-			rewards: [{
-				count: 10
-				id: "46A13C0B7E5116E1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3CD8B21FC35E15C2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "52F5D6EE285D28EF"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, дает эффект спешки 2."
 			tasks: [{
@@ -3771,12 +4956,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "756BFD3BC4141B6F"
-			rewards: [{
-				count: 10
-				id: "0EBBBC9742C7AB73"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0EBBBC9742C7AB73"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "755ED225C5B20865"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, при атаке, появляется шанс появления пикси."
 			tasks: [{
@@ -3801,12 +4993,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "651D9C42112741B3"
-			rewards: [{
-				count: 10
-				id: "062EA2C37D8ED204"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "062EA2C37D8ED204"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "45D131A5AA6F9B5B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, увеличивает расстояние, на котором вы можжете ломать/ставить блоки, бить мобов и т.д. (если надеть 2 кольца, то эффект увеличиться). "
 			tasks: [{
@@ -3831,12 +5030,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "711CE1D632A2B95B"
-			rewards: [{
-				count: 10
-				id: "604E5DB209922FF9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "604E5DB209922FF9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "463592BE3A9A572B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "297BCC6EAD4BBD98"
@@ -3849,12 +5055,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "63058F0A8D96504A"
-			rewards: [{
-				count: 10
-				id: "1DDD46AD5FB4C74E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1DDD46AD5FB4C74E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1885587BEA47C187"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "4ECD4A96218D0C93"
@@ -3867,12 +5080,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "55FCBB4B63AFC16A"
-			rewards: [{
-				count: 10
-				id: "4F45720F6069AA67"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4F45720F6069AA67"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1C04CAC8B92AF173"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Как кольцо маны, но круче."
 			tasks: [{
@@ -3892,12 +5112,20 @@
 		{
 			dependencies: ["21DBDCE79805ABB8"]
 			id: "4DAEF804892214D8"
-			rewards: [{
-				count: 10
-				id: "0267210FFB5CB51E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7CADF4C3BA16232E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "381D3A740E81C252"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "130EA2D1A15A5208"
@@ -3910,12 +5138,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "1FF77E4F12E345D8"
-			rewards: [{
-				count: 10
-				id: "33A2D2B22BC813AF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6A6A92C95D420683"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "6B93019CDBB23A7F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, дает огнестойкость."
 			tasks: [{
@@ -3929,12 +5165,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "417E36DA7DA635B5"
-			rewards: [{
-				count: 10
-				id: "04CDA5227F35BB50"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "04CDA5227F35BB50"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6B389D386E85D4E8"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, дает второй прыжок, второй прыжок убирает урон от падения."
 			tasks: [{
@@ -3948,12 +5192,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "3C369997D05A06DB"
-			rewards: [{
-				count: 10
-				id: "0F440EEFF3924F04"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "279DA95B3F9BBB38"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "522FD2D7FCE9926B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, дает тройной прыжок."
 			tasks: [{
@@ -3967,12 +5219,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "51D3E40A87D9B740"
-			rewards: [{
-				count: 10
-				id: "5404CEE7E5988654"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "42075B83A3A15EE7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5001CF82BD1F840C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Кровавый кулон можно зарядить на ботанической варочной стойке определенным эффектом."
 			tasks: [{
@@ -3986,12 +5246,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "7256838CA16C8D6D"
-			rewards: [{
-				count: 10
-				id: "12D5F4B183EFFCE4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "35BD5AB01A9A7757"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0A2C9F8642C35FB1"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, будет блокировать урон (у него есть время перзарядки)."
 			tasks: [{
@@ -4005,12 +5273,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "239D597D2BA71BE0"
-			rewards: [{
-				count: 10
-				id: "39D7501956CE98FE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "74E42DCF2D9A8EBB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5C0C541C4D76FDF9"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, будет наносить урон ближайшим враждебным мобам, во время получения урона (есть время перезарядки)."
 			tasks: [{
@@ -4024,12 +5300,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "2F4E6D20084082A9"
-			rewards: [{
-				count: 10
-				id: "663612E995A7467A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1ABD74E47039CD5A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "08A650B78D2D20D3"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Работает как плащ греха и плащ добродетеля."
 			tasks: [{
@@ -4043,12 +5327,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "560F5DB56A7EC5D3"
-			rewards: [{
-				count: 10
-				id: "25F8243C71931206"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "25F8243C71931206"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "29B60E1CEC05D814"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Когда надето, при наличии маны, позволяет видеть всплески маны, радиус действия цветка, заряд редстоуна."
 			tasks: [{
@@ -4062,12 +5354,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "1047AF7125C797B2"
-			rewards: [{
-				count: 10
-				id: "5E491B729D0A16E4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "18C067A6B5F6A243"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "54809916772A3FDA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "49C17A5E2638E041"
@@ -4080,12 +5380,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "18E4FB3ED7CD323F"
-			rewards: [{
-				count: 10
-				id: "38118BC6354B3D5B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5C2F28A260126B21"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "561302B81C567F18"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "57989C9665038663"
@@ -4098,12 +5406,20 @@
 		{
 			dependencies: ["21DBDCE79805ABB8"]
 			id: "2A103E577C52A3C9"
-			rewards: [{
-				count: 10
-				id: "13416A2C867F5877"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0E50783F27C9F237"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7687936E41D5E466"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "5EB74B476518CFD5"
@@ -4119,12 +5435,19 @@
 				"51262D7459373D60"
 			]
 			id: "3D260FB4F8EE69A1"
-			rewards: [{
-				count: 10
-				id: "497BD57746DD1929"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "497BD57746DD1929"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "02C4BE24DE410721"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "Позволяет летать, для полета нужно снабдить крыльями."
 			tasks: [{
@@ -4139,19 +5462,28 @@
 				type: "item"
 			}]
 			x: 28.5d
-			y: -8.0d
+			y: -8.25d
 		}
 		{
 			id: "4D9E056D50A93CE3"
-			rewards: [{
-				count: 10
-				id: "1EB8C717830E2ACE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1EB8C717830E2ACE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "264C1BF4C0A38BF8"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "Кликните пустой бутлкой в энде."
 			tasks: [{
+				count: 64L
 				id: "40C5AAED723DDFE4"
 				item: "botania:ender_air_bottle"
 				type: "item"
@@ -4162,12 +5494,20 @@
 		{
 			dependencies: ["4D9E056D50A93CE3"]
 			id: "7D93362CB7347F90"
-			rewards: [{
-				count: 10
-				id: "1300FFC616A920E1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1300FFC616A920E1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6614C3EBEE9980B0"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "76E9EE2ABE0AF4CB"
@@ -4180,12 +5520,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "2F0A2AF1BCF433D5"
-			rewards: [{
-				count: 10
-				id: "035EA06BEE430DA7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "61B25A8C5ED9F915"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "356249004FD7C09F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			subtitle: "При наличии маны наносит большой урон эндерменам."
 			tasks: [{
@@ -4205,12 +5553,20 @@
 		{
 			dependencies: ["4D9E056D50A93CE3"]
 			id: "17EB8AEB81208907"
-			rewards: [{
-				count: 10
-				id: "0384C26E2EF3CBA3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0384C26E2EF3CBA3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "41DA8BF4A8CDEB15"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "4E93A7DA0632514C"
@@ -4223,12 +5579,20 @@
 		{
 			dependencies: ["4D9E056D50A93CE3"]
 			id: "2BFE334AC4B7B81F"
-			rewards: [{
-				count: 10
-				id: "080F004270825ABD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "080F004270825ABD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6B1287D8567E8521"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "72FEA992B9D9EE89"
@@ -4247,12 +5611,20 @@
 		{
 			dependencies: ["4D9E056D50A93CE3"]
 			id: "5F09EF27A29E1A05"
-			rewards: [{
-				count: 10
-				id: "19116161BDA3DE40"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "19116161BDA3DE40"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5276AE9E2177E6DE"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "686F9A9234BC0F06"
@@ -4271,12 +5643,20 @@
 		{
 			dependencies: ["4D9E056D50A93CE3"]
 			id: "37768B74991B3C52"
-			rewards: [{
-				count: 10
-				id: "795FE4FA51D50AC4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "795FE4FA51D50AC4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "72B6CF4328ADCF70"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "5A266EA623E157D2"
@@ -4289,12 +5669,20 @@
 		{
 			dependencies: ["4D9E056D50A93CE3"]
 			id: "6E39D4030B7412CD"
-			rewards: [{
-				count: 10
-				id: "28EF1192A624BBAB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "28EF1192A624BBAB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "47D2DF52DEE035D5"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0642F68489326926"
@@ -4307,12 +5695,20 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "2A131DDB5C21A1F7"
-			rewards: [{
-				count: 10
-				id: "71E8FF19D19814D5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "71E8FF19D19814D5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4F91BCA8FD7AEFA1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "32521E11B2B8CEF3"
@@ -4325,12 +5721,20 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "520951338A3F8FF9"
-			rewards: [{
-				count: 10
-				id: "412D30840219B3AE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "412D30840219B3AE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "53F9AE85D42CB17A"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "423F95090354E19E"
@@ -4343,12 +5747,20 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "360913D414719D16"
-			rewards: [{
-				count: 10
-				id: "38C0994997267AB8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "38C0994997267AB8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "797EEDADD1B1402C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "3118FB8EA82C4747"
@@ -4361,12 +5773,19 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "5316CCD92FABCFE3"
-			rewards: [{
-				count: 10
-				id: "72CB4B37EE9F609D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "72CB4B37EE9F609D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4CA289F8160D5FE7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "3067ACA9EE001C70"
@@ -4379,12 +5798,20 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "77FB4721717707B1"
-			rewards: [{
-				count: 10
-				id: "78D4B6B37893FFBA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "78D4B6B37893FFBA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "27E0960781EEF572"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "327D4155CC24893B"
@@ -4397,12 +5824,20 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "2D69498B008047BF"
-			rewards: [{
-				count: 10
-				id: "65A20B301E5E8DF8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "65A20B301E5E8DF8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "118F2CC26AACEFBD"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "1CCC36BBD122A211"
@@ -4415,12 +5850,20 @@
 		{
 			dependencies: ["6E39D4030B7412CD"]
 			id: "07209C8DA7F4DAB9"
-			rewards: [{
-				count: 10
-				id: "0D3E093FC59DA637"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0D3E093FC59DA637"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "350D3C36117507D6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0BDD4ADDC0320EFB"
@@ -4433,12 +5876,20 @@
 		{
 			dependencies: ["07209C8DA7F4DAB9"]
 			id: "4427AA3B002359A1"
-			rewards: [{
-				count: 10
-				id: "447952EEF0C521DB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "447952EEF0C521DB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "51BE95E91ED06081"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "248F22014D14D299"
@@ -4451,12 +5902,20 @@
 		{
 			dependencies: ["07209C8DA7F4DAB9"]
 			id: "6C2A4820386E29AC"
-			rewards: [{
-				count: 10
-				id: "5166F80165933FED"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5166F80165933FED"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2559B38F23B87F80"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "1D4DDD62C8D89F81"
@@ -4469,12 +5928,20 @@
 		{
 			dependencies: ["07209C8DA7F4DAB9"]
 			id: "2D72328B8AC4B54A"
-			rewards: [{
-				count: 10
-				id: "5ED2610577135A71"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5ED2610577135A71"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "37B685E9D4A0B91A"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "284B702392E8EA7B"
@@ -4487,12 +5954,20 @@
 		{
 			dependencies: ["07209C8DA7F4DAB9"]
 			id: "6999B8727739BBCE"
-			rewards: [{
-				count: 10
-				id: "2BBBE5D25AE1F752"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2BBBE5D25AE1F752"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5580C23BE89273DA"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.0d
 			tasks: [{
 				id: "0F501C467F391555"
@@ -4505,12 +5980,20 @@
 		{
 			dependencies: ["787A3EE469D2778D"]
 			id: "2D847D8F4203EE8D"
-			rewards: [{
-				count: 10
-				id: "52BE9E3825A9CC24"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "52BE9E3825A9CC24"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0E6C3EC3365A9483"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Семеня позволяют распространять разные виды земли. Кликните ими по земле/грязи."
 			tasks: [
 				{
@@ -4565,12 +6048,20 @@
 		{
 			dependencies: ["21DBDCE79805ABB8"]
 			id: "79E0804671C9B700"
-			rewards: [{
-				count: 10
-				id: "264DB6A364FC92AF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "34E14EE3BC1290BD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "32B233BB0C1B769D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Можно кинуть, в месте попапдания создает лестницу и лиан."
 			tasks: [{
 				id: "4CD375EE740D9051"
@@ -4583,12 +6074,20 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "578BA703BD769B9E"
-			rewards: [{
-				count: 10
-				id: "3F2A921E20A73457"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3F2A921E20A73457"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "31EA24F6063EAB40"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет дальше кидать шар лозы."
 			tasks: [{
 				id: "299FD06F31998BE8"
@@ -4601,12 +6100,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "0EEDDD344C1E6EDE"
-			rewards: [{
-				count: 10
-				id: "33A273D20884C8EA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "17E662ED1786C9D9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2D805B19E59395B0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Благодаря нему можно создавать схематики круги разных размеров. Зажмите пкм и выберите и отойдите на нужный радиус. Чтобы убрать схематику, нажмите шифт пкм."
 			tasks: [{
 				id: "1B14A6AE0EDBBCC4"
@@ -4619,12 +6126,19 @@
 		{
 			dependencies: ["6D80B034181D1C41"]
 			id: "212DD72CCE164617"
-			rewards: [{
-				count: 10
-				id: "4F50AA544D6B011C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4F50AA544D6B011C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0A8508A01446781A"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Ломает сразу все дерево. Если у вас в инвенторе есть камень воздержания, вы можете зажать шифт и такого не будет. Питается маной для восстановления прочности."
 			tasks: [{
 				id: "3A94268DA22850CA"
@@ -4643,12 +6157,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "6A3DB406B3EACEE9"
-			rewards: [{
-				count: 10
-				id: "000196AD833AF184"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "17698FB7C4053935"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7A060ED888CEBAD6"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет ломать стекло, как с шелковым касанием."
 			tasks: [{
 				id: "54BFE00EF4B27B32"
@@ -4667,12 +6189,20 @@
 		{
 			dependencies: ["1A4653C66C272DD1"]
 			id: "1666947C3B916F4F"
-			rewards: [{
-				count: 10
-				id: "34E2EEDB9665CD80"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7DB66A7375C0DDD6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "379F537BED234D50"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Уничтожает траву."
 			tasks: [{
 				id: "03C1B7C379F59DDD"
@@ -4685,12 +6215,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "15F2C9F900DFB3DE"
-			rewards: [{
-				count: 10
-				id: "048E85CCE491F18B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "30E96D301AE53F34"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1B281F8718648F12"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Телепортирует на спавн."
 			tasks: [{
 				id: "560A55FD8437726F"
@@ -4703,12 +6240,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "355C676DEC2CDEC2"
-			rewards: [{
-				count: 10
-				id: "1D1A5D37C6E159E1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "643A8BD23321D92C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4BAF0AFAB66660BF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "По нажатию пкм создает радужный мост на несколько секунд за ману. "
 			tasks: [{
 				id: "6C9719365A83FA48"
@@ -4721,12 +6265,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "56468DAD7C319C4F"
-			rewards: [{
-				count: 10
-				id: "0002ED865A221846"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "74CD099C1B1C5062"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2751137193259197"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Работает как шипастая чакра, но поджигает противника."
 			tasks: [{
 				id: "3CA9575AB8555372"
@@ -4739,12 +6290,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "2008F3D66C9A368C"
-			rewards: [{
-				count: 10
-				id: "5E5CEE9F1136332B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5E5CEE9F1136332B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0C358D94A905FB10"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Эта штука позволит быстро ставить блоки на большой площади, шифт пкм позволяет менять площадь (максимум 11 на 11), чтобы выыбрать блок, нажмите шифт пкм по нужному блоку."
 			tasks: [{
 				id: "5ACC88BFCA2D7884"
@@ -4757,12 +6315,19 @@
 		{
 			dependencies: ["5B9D5DA22A972C5C"]
 			id: "4206FBBD23A5899C"
-			rewards: [{
-				count: 10
-				id: "6145B88DC32E3896"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6145B88DC32E3896"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6D17060D052A2ADB"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Поедает ближайшую еду, на переваривание пищи тратится определенное время, во время которого вся остальная еда будет съедена, но перерабатываться не будет. Более сытная еда эффективнее. Если кормить цветок одним и тем же видом пищи, то он будет менее эффективным. "
 			tasks: [{
 				id: "27FB1E72B0483415"
@@ -4775,12 +6340,20 @@
 		{
 			dependencies: ["51262D7459373D60"]
 			id: "4B77EFA9390E24D3"
-			rewards: [{
-				count: 10
-				id: "13033DEFE46E44BC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7609EB5F4E8E9CDE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1C60B0F604EA191F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Генерирует ману, когда рядом с ним шалкер что-то делает."
 			tasks: [{
 				id: "2D9D921F18F6E3C5"
@@ -4847,12 +6420,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "632074EA8C1A4ED6"
-			rewards: [{
-				count: 10
-				id: "6911818E8BD25BD1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6911818E8BD25BD1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "69EA8523355CA216"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Если в это цветок кинуть бирку с определенным названием, то ближайший моб или предмет в рабиусе 5 на 5 получи это название, бирка потратиться."
 			tasks: [{
 				id: "60F1A3FC5188BB24"
@@ -4883,12 +6463,20 @@
 		{
 			dependencies: ["4AB1002AABF1935A"]
 			id: "3EBFAFFC2309B8C6"
-			rewards: [{
-				count: 10
-				id: "29AF6841FD2A4504"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "000A93E881EB1622"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6847628541963919"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Если поставить этот цветок поставить рядом с бассейном маны, то если в бассейне будет увеличиваться количество маны, то он будет издавть синие частицы, если уменьшаться, то красные."
 			tasks: [{
 				id: "173B5DBDB787B139"
@@ -4901,12 +6489,20 @@
 		{
 			dependencies: ["787A3EE469D2778D"]
 			id: "12250B5D09D8D2B5"
-			rewards: [{
-				count: 10
-				id: "6E963BBA424557B2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6E963BBA424557B2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6107AB8694D4DA66"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Как обычный распространитель, но выпускает ману, только при подаче редстоун-сигнала."
 			tasks: [{
 				id: "6DDFDCD63ED81D6B"
@@ -4919,12 +6515,20 @@
 		{
 			dependencies: ["787A3EE469D2778D"]
 			id: "5F9AC5A3F116B4DF"
-			rewards: [{
-				count: 10
-				id: "2CF66979D9D03CE2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2CF66979D9D03CE2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "552352433AF8E1FB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Если через него пройдет сгусток маны, то он издаст редстоун-сигнал. "
 			tasks: [{
 				id: "330E114A9DC8BC8F"
@@ -4937,12 +6541,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "7F91E8A0ACE84721"
-			rewards: [{
-				count: 10
-				id: "5D5515A63111C394"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5D5515A63111C394"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "150CD8BD4410D42D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет перемещать ману на рельсах"
 			tasks: [
 				{
@@ -4962,12 +6574,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "4F1B74BC619C594C"
-			rewards: [{
-				count: 10
-				id: "38BF34A0AEB1E274"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "38BF34A0AEB1E274"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2EF0CEC5588E1F65"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Как распространитель маны, но лучше."
 			tasks: [{
 				id: "1FA58865E00F1476"
@@ -4998,12 +6617,19 @@
 		{
 			dependencies: ["3034637E6A62EBAE"]
 			id: "2615E2BCA6C77016"
-			rewards: [{
-				count: 10
-				id: "7F0F34E5B62B146C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7F0F34E5B62B146C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "0BC2854EE2B0A3C8"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет накладывать эффекти линз."
 			tasks: [{
 				id: "35E3AFDFBDA70908"
@@ -5015,12 +6641,20 @@
 		}
 		{
 			id: "08A653F9B53B8830"
-			rewards: [{
-				count: 10
-				id: "4C9C4CFABA5B5FE3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4C9C4CFABA5B5FE3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6F928315D5BD57AA"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Если поставить манамеха у бассейна маны, он будет быстрее передавать ману планшету и другим предметам."
 			tasks: [{
 				id: "32946BDFCA1CD3DF"
@@ -5033,12 +6667,20 @@
 		{
 			dependencies: ["787A3EE469D2778D"]
 			id: "04C8C1E3FBCFF70F"
-			rewards: [{
-				count: 10
-				id: "76CF19300543F421"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "76CF19300543F421"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3C9768E20859239E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Мусорка для маны"
 			tasks: [{
 				id: "2630C3A84425CEE0"
@@ -5051,12 +6693,20 @@
 		{
 			dependencies: ["65069647E5A4EF15"]
 			id: "37AFBBC599ABB3A4"
-			rewards: [{
-				count: 10
-				id: "09E689F9F7F02B73"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "09E689F9F7F02B73"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2F9903BC9C16B9B7"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Рецепты пива. Пузырьки можно использовать 4 раза."
 			tasks: [
 				{
@@ -5220,12 +6870,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "6679E65E81DFDF74"
-			rewards: [{
-				count: 10
-				id: "633E599158173347"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "633E599158173347"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3690C15EB181CE54"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0D5D2B25EA59968F"
 				item: "botania:alchemy_catalyst"
@@ -5240,12 +6898,19 @@
 				"3E41370EC1CCB466"
 			]
 			id: "0817F275467ACC83"
-			rewards: [{
-				count: 10
-				id: "72DF5FF0B699FED5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "72DF5FF0B699FED5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "42000620E5E707AF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Колбы с пивом это как пузырьки с пивом, но с 6-ю использованиями, а не 4-мя"
 			tasks: [
 				{
@@ -5409,12 +7074,20 @@
 		{
 			dependencies: ["37AFBBC599ABB3A4"]
 			id: "0FCFC497B78C1B57"
-			rewards: [{
-				count: 10
-				id: "28A31D756295CDE5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "28A31D756295CDE5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7CDC83EBB92D9F9E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Убивая мобов с этим эффектом, вы восстановите немного хп."
 			tasks: [{
 				id: "273EE8E251EEC1F6"
@@ -5433,12 +7106,20 @@
 		{
 			dependencies: ["37AFBBC599ABB3A4"]
 			id: "6CAAA04A7195D7B7"
-			rewards: [{
-				count: 10
-				id: "1E6B1265F0EC1747"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1E6B1265F0EC1747"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3AAB2B35357C957C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Защищает от падений."
 			tasks: [{
 				id: "5ADD47A61949F548"
@@ -5457,12 +7138,20 @@
 		{
 			dependencies: ["37AFBBC599ABB3A4"]
 			id: "1C79B7338E938637"
-			rewards: [{
-				count: 10
-				id: "4BCD378DC9B9B262"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4BCD378DC9B9B262"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6957C8FDFD85D84A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Мобы не будут спавнится вогруг вас в радиусе 128 блоков."
 			tasks: [{
 				id: "31DDB393967D74AE"
@@ -5481,12 +7170,20 @@
 		{
 			dependencies: ["37AFBBC599ABB3A4"]
 			id: "347EFDE215A17C6F"
-			rewards: [{
-				count: 10
-				id: "67DF44FB2D97FF05"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "67DF44FB2D97FF05"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1111EA4DB944660A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "В радиусе 64 блоков мобы будут спавинится вокруг вас в не зависимости от каких либо факоторов. "
 			tasks: [{
 				id: "1384E331E5BDC872"
@@ -5505,12 +7202,20 @@
 		{
 			dependencies: ["37AFBBC599ABB3A4"]
 			id: "242072C7892C648F"
-			rewards: [{
-				count: 10
-				id: "6F130561DC1676C1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6F130561DC1676C1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "522EE0268A185873"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет более эффективно рыбачить."
 			tasks: [{
 				id: "59FB1D430D4604AC"
@@ -5529,12 +7234,20 @@
 		{
 			dependencies: ["37AFBBC599ABB3A4"]
 			id: "23E8E3F251F76AC1"
-			rewards: [{
-				count: 10
-				id: "1D10854CA1420C50"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1D10854CA1420C50"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "73E05D9291B712ED"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Убирает эффекты."
 			tasks: [{
 				id: "0580163F17CC4D00"
@@ -5553,12 +7266,20 @@
 		{
 			dependencies: ["0FCFC497B78C1B57"]
 			id: "4BCC961DCB698B37"
-			rewards: [{
-				count: 10
-				id: "4CFE885BD70F04CD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4CFE885BD70F04CD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "56B3105257270A2D"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3E9840FFEFED32B9"
 				item: {
@@ -5576,12 +7297,20 @@
 		{
 			dependencies: ["6CAAA04A7195D7B7"]
 			id: "00877EEE2B41E09D"
-			rewards: [{
-				count: 10
-				id: "12519490EE99C17A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "12519490EE99C17A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1FF52BEF0CB565A6"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6754B487800F7C85"
 				item: {
@@ -5599,12 +7328,20 @@
 		{
 			dependencies: ["1C79B7338E938637"]
 			id: "07C035F27AC221DF"
-			rewards: [{
-				count: 10
-				id: "3D2EDF675BAF8BC9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3D2EDF675BAF8BC9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "09E9EBC55A3081D4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3B6A74B421F7F90F"
 				item: {
@@ -5622,12 +7359,20 @@
 		{
 			dependencies: ["347EFDE215A17C6F"]
 			id: "72F8C9710A1081DA"
-			rewards: [{
-				count: 10
-				id: "5F6500FAF63C17FB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5F6500FAF63C17FB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "588812440001DC37"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4E9321734892E937"
 				item: {
@@ -5645,12 +7390,20 @@
 		{
 			dependencies: ["242072C7892C648F"]
 			id: "65F08904D5136821"
-			rewards: [{
-				count: 10
-				id: "13863AB26B9828CE"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "13863AB26B9828CE"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "5F28766EE69D4D27"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "485205DD3415B3EB"
 				item: {
@@ -5668,12 +7421,20 @@
 		{
 			dependencies: ["23E8E3F251F76AC1"]
 			id: "61C84ACD878140A5"
-			rewards: [{
-				count: 10
-				id: "311B76361A11B7E7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "311B76361A11B7E7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0A1B683CF1720C5B"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2D66D80511266ABA"
 				item: {
