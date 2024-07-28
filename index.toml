@@ -203,6 +203,11 @@ hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
 metafile = true
 
 [[files]]
+file = "mods/create-nuke.pw.toml"
+hash = "44af542b740355690528a08a1f381da576098760d6b063a34335b6225d1c9df6"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "e25a9439cd57c1af53a62c6f8703934911a561f38330e5acfb482a82ab09a404"
 metafile = true
