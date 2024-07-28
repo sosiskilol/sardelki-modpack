@@ -2001,7 +2001,7 @@
 				item: "create:content_observer"
 				type: "item"
 			}]
-			x: -17.5d
+			x: -22.5d
 			y: 15.0d
 		}
 		{
@@ -2089,7 +2089,7 @@
 				item: "minecraft:lever"
 				type: "item"
 			}]
-			x: -20.0d
+			x: -17.5d
 			y: 12.5d
 		}
 		{
@@ -2109,7 +2109,7 @@
 				item: "create:analog_lever"
 				type: "item"
 			}]
-			x: -20.0d
+			x: -17.5d
 			y: 15.0d
 		}
 		{
@@ -2126,7 +2126,7 @@
 				item: "design_decor:breaker_switch"
 				type: "item"
 			}]
-			x: -22.5d
+			x: -20.0d
 			y: 12.5d
 		}
 		{
@@ -2143,7 +2143,7 @@
 				item: "design_decor:stepped_lever"
 				type: "item"
 			}]
-			x: -22.5d
+			x: -20.0d
 			y: 15.0d
 		}
 		{

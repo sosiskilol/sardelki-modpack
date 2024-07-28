@@ -18,7 +18,7 @@ hash = "448daa214779be8e57e09f3f9dee0a4ae75cc0b525db9892c0d045c8a8a4460e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
-hash = "0caa6f2470f9778c0f1abc00187b092b629b4c3e7d0ddf86948c3658f306e1af"
+hash = "3dd32944e2eb20354b9ca26db351d9ae80ee0d3a932e692d205e09ad00259ec0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/chemistry.snbt"
@@ -26,7 +26,7 @@ hash = "af97b70c39c16c93fd9ece8cbe5a0ff1aacb84403c894d5d215a681d1f4adfcc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "f88ff6f0be0045104ad02e396b7889c309175e70fd6bbbfd51f4fb62295fc5a0"
+hash = "93f9be97ce13f1bd1b5661883bc44815b8347d15a472f7853eea6c1b96491534"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
@@ -450,11 +450,6 @@ metafile = true
 [[files]]
 file = "mods/semblance.pw.toml"
 hash = "53a51bd94cb0b6a59567a22854f110e7d454aaaf158612c87737b39498a7930c"
-metafile = true
-
-[[files]]
-file = "mods/server-replay.pw.toml"
-hash = "c748837d8ce624c2174f9e697f647169d27e7d70ecefe1802212ea6d87968047"
 metafile = true
 
 [[files]]
