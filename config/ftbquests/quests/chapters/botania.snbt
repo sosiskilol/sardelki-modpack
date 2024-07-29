@@ -332,12 +332,20 @@
 		{
 			dependencies: ["1A4653C66C272DD1"]
 			id: "787A3EE469D2778D"
-			rewards: [{
-				count: 10
-				id: "42221161EC72AA7A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "42221161EC72AA7A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "544A4CFFC72977D6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			shape: "octagon"
 			size: 1.5d
 			subtitle: "Для взамодействия с маной вам понадовятся данные предметы. Поставьте распространитель маны рядом с генерирующим цветком, а напротив поставьте блок, который будет принимать ману (например: бассейн маны, распространитель маны). Сгустки маны начнут течь. С помощь посоха вы можете увидеть, через какое расстояние мана будет уменьшаться (отмечено зеленой искрой), а также сколько маны в определенном блоке. "
@@ -865,12 +873,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "51F346ACB9FF55FF"
+					id: "2D1AC46826D09544"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "5907E00429EBC57C"
+					count: 2
+					id: "7CB54831704E3B82"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -891,12 +900,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "464D1577720647EA"
+					id: "618B74FC0A95DA17"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "3C4CF145CC377C3B"
+					count: 2
+					id: "6908984EE5FD5151"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -917,12 +927,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "7CF90C5456279649"
+					id: "3C378A9E2B4F93BF"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "799991E1C590C269"
+					count: 2
+					id: "7FA3A0974DA0578A"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -943,12 +954,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "2EE343F3B37FC778"
+					id: "4B643649D1C2143A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7D129C7C5C8AA46B"
+					count: 2
+					id: "50C40CF3FBC63E43"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -968,12 +980,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "3DFECBC8CEB4ECF5"
+					id: "603F693A3BBCCC28"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "711393B106966EB3"
+					count: 2
+					id: "40A52A3FE2F475E9"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -994,12 +1007,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "3C6A280FEDE6AC1D"
+					id: "05CD1A603F8DC809"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "4A3FF332DA279F2F"
+					count: 2
+					id: "60E13870F1F91FDA"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1020,12 +1034,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "57E83FEE5C8F204E"
+					id: "14024C5508267658"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "225D3F66E84FCD06"
+					count: 2
+					id: "3D14E4C7F6EDECE8"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1046,12 +1061,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "5456B35926A32748"
+					id: "6246C419E48BFF47"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "4A74BDE43D662FAA"
+					count: 2
+					id: "627D533AAF5B3293"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1072,12 +1088,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "31038963C72D20F6"
+					id: "6697372FA6C6A7A4"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "12968DE4225990BB"
+					count: 2
+					id: "0AD592B3F4AFA72F"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1098,12 +1115,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "38F5B2CF32C75087"
+					id: "1ABD12D59A9F4B3A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "1A129B1CCC1CBD7F"
+					count: 2
+					id: "344A292DAB025403"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1124,12 +1142,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "5F66BD990830BD17"
+					id: "356F3BC6D393E5C8"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "30E2065428DA60DA"
+					count: 2
+					id: "3BB2B255ED57406D"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1150,12 +1169,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "02B20C8FB97321BE"
+					id: "1D6DF288D397EA51"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "3B8EBDD013DF08FD"
+					count: 2
+					id: "681F1F7E2CFFB43F"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1176,12 +1196,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "5C7D91293EF0F4F3"
+					id: "455EA0746F9F0B19"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "044567394252E2F6"
+					count: 2
+					id: "3B47FE09436A12CE"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1202,12 +1223,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "45E8233297496FF3"
+					id: "23BA3D5CF2AE25AE"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "426BB0C2EE3F93E1"
+					count: 2
+					id: "494B5EFCF85982D8"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1228,12 +1250,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "08AF91C07EFFA14B"
+					id: "6A9A7203CC8CBD1C"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7E2640616E60329F"
+					count: 2
+					id: "2B321C9D7C820941"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1254,12 +1277,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "4F62B9F1987EF05C"
+					id: "0615F7E3135FA50D"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "4937E2270C9333E2"
+					count: 2
+					id: "24EA367FFC21BE4A"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1280,12 +1304,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "30691AC0D2623075"
+					id: "5AB77994CF298B7D"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "14F8F2D081B83A30"
+					count: 2
+					id: "6246192647D35DFB"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1306,12 +1331,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "5AD50ABD44ED1280"
+					id: "65A59426A05310C1"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "2866603D1F023B95"
+					count: 2
+					id: "4DB8DF6814A57242"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1332,12 +1358,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "4D209DC06BD6928A"
+					id: "30D91F4596C201DB"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "15477DCD184F41CD"
+					count: 2
+					id: "3613EAD92461A9A3"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1358,12 +1385,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "1E88D5FB0A5F815E"
+					id: "6E27D5C826F02BAD"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "28F156F97F326AC8"
+					count: 2
+					id: "7E948D034CC3727A"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1384,12 +1412,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "0D23EE15E001D98B"
+					id: "14EB18C7659ACF43"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7005F3C1999C8B92"
+					count: 2
+					id: "0A8FD4243DAC0EE6"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1409,12 +1438,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "0C3AD6391F6C7FA4"
+					id: "11BA811852CEF31E"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "72BA94A911336AAC"
+					count: 2
+					id: "3048DE98C485448F"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1435,12 +1465,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "4FE1A2C74A833C89"
+					id: "6B7E7131ED0112CC"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7AC0E0B1DB994161"
+					count: 2
+					id: "5DC3A72354F032BF"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1461,12 +1492,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "243D626396DDD08E"
+					id: "491584A034C58ADC"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "2546AEC59C4C2824"
+					count: 2
+					id: "7BFD6D4B9FCEA27D"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1487,12 +1519,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "46477A570052209D"
+					id: "2388F20CE3C41F3B"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "43021B0C340AAB52"
+					count: 2
+					id: "485B09557281BF57"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -1689,13 +1722,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "23B7C9E815233862"
+					id: "27C7C317EE4204EF"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7C57C53DA79F800B"
-					item: "numismatics:cog"
+					count: 2
+					id: "2638ACB00E038B49"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -1871,8 +1905,9 @@
 					type: "item"
 				}
 				{
-					id: "18B068FAA8C1A1CF"
-					item: "numismatics:crown"
+					count: 2
+					id: "340F0586CAB5EF1A"
+					item: "numismatics:cog"
 					type: "item"
 				}
 			]
@@ -1892,13 +1927,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "45B5AB438C11848D"
+					id: "397CBE0EB85C9C1C"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "5BC87D6C789E3662"
+					count: 2
+					id: "6BA6C55828F12FDF"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -1919,13 +1954,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "0328632F661D1E7B"
+					id: "2E4CD2D90C2D628E"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "1ADA9E3B97DA9AFB"
-					item: "numismatics:cog"
+					count: 2
+					id: "41F1A5FE61475597"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -1945,13 +1981,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "426B2DBEE033EB26"
+					id: "57BFBFC5F0B7EB81"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7150C568B0A32EDC"
-					item: "numismatics:cog"
+					count: 2
+					id: "08D4D786C635DFA4"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -1971,13 +2008,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "3ACB547B62C0713E"
+					id: "19936317C94ADA28"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "1C02113AF2E7FB4A"
-					item: "numismatics:cog"
+					count: 2
+					id: "2B235F3BCFA92E25"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -1997,13 +2035,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "5C515F61BD650A7B"
+					id: "323CD2BFCD561D94"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "05D6BBE9F3A1BC15"
-					item: "numismatics:cog"
+					count: 2
+					id: "1E3BF92E9B8B6240"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2023,13 +2062,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "64C62F6800BB7C72"
+					id: "09DB4BDE37BBACF9"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "33B28724928ED7C7"
-					item: "numismatics:cog"
+					count: 2
+					id: "6F511D6F6E852453"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2049,13 +2089,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "6835B1444F8F99B2"
+					id: "0AFB40004E9D2776"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7C6B21B9F99A5E5B"
-					item: "numismatics:cog"
+					count: 2
+					id: "233E280FD279CA08"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2075,13 +2116,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "5902C6830838E532"
+					id: "419B900F7C0D0DCB"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "281C4373D0EB61F0"
-					item: "numismatics:cog"
+					count: 2
+					id: "0E39D8F59C4E7873"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2101,13 +2143,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "4A8F5E8E28E23572"
+					id: "6ACE7B960E93E365"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "7025410030B774EE"
-					item: "numismatics:cog"
+					count: 2
+					id: "7B3A5A719D4697AC"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2395,13 +2438,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "7D959E7BE40EA0F5"
+					id: "786A0843CBF7285A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "6E75B30F418177B5"
-					item: "numismatics:cog"
+					count: 2
+					id: "2C830A0119ADDDE8"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2420,13 +2464,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "3221516CBBF3F4E3"
+					id: "0D226AD033ABFEB6"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "4084CAFC3AF9F9F4"
-					item: "numismatics:cog"
+					count: 2
+					id: "65E95A1705F64E26"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2445,13 +2490,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "599A1E04C2B0BA0E"
+					id: "39596F30FFEAD8BC"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "5991B97E51C5DFE1"
-					item: "numismatics:cog"
+					count: 2
+					id: "69C209B9CD6B1B74"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2470,13 +2516,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "29D1D016E7F7579E"
+					id: "057D4509B65E90C3"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "55077FCB21051866"
-					item: "numismatics:cog"
+					count: 2
+					id: "781BE5169716A585"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -2884,12 +2931,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "29CB2C153571981F"
+					id: "35889135734C41CB"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "1BC3296F858AC083"
+					count: 4
+					id: "5796539C4C48806C"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -2913,12 +2961,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "030A886D35B9BE8D"
+					id: "569FDC450BA94DFE"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "413B90D66CEAEAA0"
+					count: 4
+					id: "490D4A446A8513AD"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -2942,12 +2991,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "6E4A445973A964AA"
+					id: "79BC259FC853A816"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "1BDE71CD1B071BF0"
+					count: 4
+					id: "24AE6565A82E9A11"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -2971,12 +3021,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "6EF3C84E01396872"
+					id: "643C4A3D1560C3E8"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "3F01B165DC8286A4"
+					count: 4
+					id: "221B124E6FE70485"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -3000,12 +3051,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "3506576E2DCD2DF1"
+					id: "316DB23E2969C4D5"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "0B1DBF29243CDC26"
+					count: 4
+					id: "483CBCC36784AF4F"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -3029,12 +3081,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "2E7921D0FA355F5C"
+					id: "5538AD193F708BC0"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "6671C8F8EB5DD3D1"
+					count: 4
+					id: "11C07547C3FF2951"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -3055,13 +3108,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "2392157860A2E5B7"
+					id: "3582C39C10B59E1E"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "36B2073794170E9C"
-					item: "numismatics:cog"
+					count: 2
+					id: "1CA585BE37A1CAE3"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -3080,13 +3134,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "773807B1B21EEFD5"
+					id: "76DB870A498277B2"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "0A7F262D86C8BE9C"
+					count: 2
+					id: "127601F916A7B2C4"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -3112,8 +3166,9 @@
 					type: "item"
 				}
 				{
-					id: "1EDDC16A83552516"
-					item: "numismatics:crown"
+					count: 2
+					id: "42F7C2BE8A65398E"
+					item: "numismatics:cog"
 					type: "item"
 				}
 			]
@@ -3372,13 +3427,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "32B7FC529EAA9B47"
+					id: "7067C6638797FE98"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "66A9ED8FB846ECDA"
+					count: 2
+					id: "75070324EE6A4BA5"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -3536,13 +3591,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "400CE32C9304DEBE"
+					id: "26723800B7A249DB"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "53172C8275A74674"
-					item: "numismatics:cog"
+					count: 2
+					id: "4406D8A7DB82669A"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -3562,13 +3618,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "5D957B5B649DD6E0"
+					id: "7A06B431E5E5882A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "2B21258B6417760B"
-					item: "numismatics:cog"
+					count: 2
+					id: "24250120943C91DD"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -3662,13 +3719,12 @@
 			rewards: [
 				{
 					count: 10
-					id: "79B7184C71F2E67E"
+					id: "7E166801549E38D9"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "4F80F5CC4FB5DCB2"
+					id: "711AB236D4627201"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -3730,13 +3786,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "089BE4926A1A2388"
+					id: "0F570AED53EC19E3"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "7ECD840C6172B73E"
+					count: 2
+					id: "4646ABF4D649B42C"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -3884,13 +3940,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "5820BB394D02CA1D"
+					id: "14F6B79B14352E7B"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "5AB500E98026F1CD"
-					item: "numismatics:cog"
+					count: 2
+					id: "42E1A2CBC245B315"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -3916,13 +3973,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "17C23E7372B22B61"
+					id: "231774B25C0F7445"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "2A6379F974D80D4F"
-					item: "numismatics:cog"
+					count: 2
+					id: "20B62324BF200503"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4030,13 +4088,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "0128E69FBE9CB523"
+					id: "7043488BD876A722"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "4A537E1A2E118FAE"
-					item: "numismatics:cog"
+					count: 2
+					id: "36065929E225C02B"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4119,13 +4178,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "31D2337D8FA493DE"
+					id: "70D634E157F6E0F6"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "202894589049D5E2"
-					item: "numismatics:cog"
+					count: 2
+					id: "0B67A506DD6D1E5B"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4145,13 +4205,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "41A66DDCA7058252"
+					id: "6326F5B28EFDA267"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "1951F2E3A1D6D27B"
+					count: 2
+					id: "52D2E0D645244F0E"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -4199,13 +4259,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "1FCD42D141B08B59"
+					id: "51E53649921F1C2A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "61B94E94DA81F6E2"
-					item: "numismatics:cog"
+					count: 2
+					id: "2529145B3FFC633E"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4283,13 +4344,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "76AF18E5E7789AEA"
+					id: "5F85E210C503F623"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "4CC0C15BA97B5AEF"
-					item: "numismatics:cog"
+					count: 2
+					id: "437FA221A5C91F71"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4363,13 +4425,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "223EFBDE142F1D1B"
+					id: "451A4A443031CF0E"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "3860A995982D0E8B"
-					item: "numismatics:cog"
+					count: 2
+					id: "3DFD44B862A00A0D"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4388,13 +4451,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "24EF5E198998D29D"
+					id: "7565743F85ED87D5"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "44404ADF8CD1B0E9"
-					item: "numismatics:cog"
+					count: 2
+					id: "3B2C884EFF8F176C"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4427,13 +4491,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "309FD50C0A4519A3"
+					id: "48C6B227589673B0"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "5869D5E4E828004F"
+					count: 2
+					id: "3148A57F0B177C8E"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -4710,13 +4774,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "444A9FD3F85FEF30"
+					id: "354D0305679A5425"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "6EACF72B2F038D24"
-					item: "numismatics:cog"
+					count: 2
+					id: "2A35EF0F30D4DFE1"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4959,13 +5024,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "0EBBBC9742C7AB73"
+					id: "2B1094D337079F67"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "755ED225C5B20865"
-					item: "numismatics:cog"
+					count: 2
+					id: "73A47E427461115E"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -4996,13 +5062,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "062EA2C37D8ED204"
+					id: "64948708FE85EBB9"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "45D131A5AA6F9B5B"
-					item: "numismatics:cog"
+					count: 2
+					id: "4E0F6B9D77011CC9"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -5141,13 +5208,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "6A6A92C95D420683"
+					id: "211A1A8C6792113A"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "6B93019CDBB23A7F"
+					count: 2
+					id: "69B095AE83948721"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -5195,13 +5262,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "279DA95B3F9BBB38"
+					id: "68E28F45CC62DCD9"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "522FD2D7FCE9926B"
+					count: 2
+					id: "26AF1E58DD8FA9AE"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -5249,13 +5316,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "35BD5AB01A9A7757"
+					id: "13D70EBF1335BF91"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "0A2C9F8642C35FB1"
+					count: 2
+					id: "49E7785B89E734F0"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -5276,13 +5343,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "74E42DCF2D9A8EBB"
+					id: "5F11238E4E0B8E03"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "5C0C541C4D76FDF9"
+					count: 2
+					id: "58EDA86456E503F8"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -5303,13 +5370,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "1ABD74E47039CD5A"
+					id: "6A92757B072BF684"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "08A650B78D2D20D3"
+					count: 2
+					id: "522EF0D7F5B799FD"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -6218,13 +6285,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "30E96D301AE53F34"
+					id: "70E0CEE592520FDC"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "1B281F8718648F12"
-					item: "numismatics:cog"
+					count: 2
+					id: "2B74C9178B97ECC7"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -6239,42 +6307,18 @@
 		}
 		{
 			dependencies: ["3034637E6A62EBAE"]
-			id: "355C676DEC2CDEC2"
-			rewards: [
-				{
-					count: 10
-					id: "643A8BD23321D92C"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					id: "4BAF0AFAB66660BF"
-					item: "numismatics:cog"
-					type: "item"
-				}
-			]
-			subtitle: "По нажатию пкм создает радужный мост на несколько секунд за ману. "
-			tasks: [{
-				id: "6C9719365A83FA48"
-				item: "botania:rainbow_rod"
-				type: "item"
-			}]
-			x: 31.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["3034637E6A62EBAE"]
 			id: "56468DAD7C319C4F"
 			rewards: [
 				{
 					count: 10
-					id: "74CD099C1B1C5062"
+					id: "563E4E2DFC383197"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "2751137193259197"
-					item: "numismatics:cog"
+					count: 2
+					id: "00996752DC4A7841"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -6284,7 +6328,7 @@
 				item: "botania:flare_chakram"
 				type: "item"
 			}]
-			x: 33.5d
+			x: 31.5d
 			y: 1.5d
 		}
 		{
@@ -6318,12 +6362,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "6145B88DC32E3896"
+					id: "7312DE341C78C411"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "6D17060D052A2ADB"
+					count: 2
+					id: "20A461186F325DEF"
 					item: "numismatics:sprocket"
 					type: "item"
 				}
@@ -6343,13 +6388,13 @@
 			rewards: [
 				{
 					count: 10
-					id: "7609EB5F4E8E9CDE"
+					id: "49A6B78C2414A0A3"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					count: 4
-					id: "1C60B0F604EA191F"
+					count: 2
+					id: "625B161F69C0AC4A"
 					item: "numismatics:cog"
 					type: "item"
 				}
@@ -6599,12 +6644,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "7B94B28D78DEE803"
-			rewards: [{
-				count: 10
-				id: "4786EDAC4B5CCE5D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4786EDAC4B5CCE5D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "681FCC9D04D650D1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Распределяет ману по бассейнам, поставленным вплотную. "
 			tasks: [{
 				id: "2ADF17D7B920129E"
@@ -6620,13 +6673,14 @@
 			rewards: [
 				{
 					count: 10
-					id: "7F0F34E5B62B146C"
+					id: "7D9A08C03D325CC7"
 					item: "create:experience_nugget"
 					type: "item"
 				}
 				{
-					id: "0BC2854EE2B0A3C8"
-					item: "numismatics:cog"
+					count: 2
+					id: "7A831E221B5B576B"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -7452,12 +7506,20 @@
 		{
 			dependencies: ["185321E96C1E29A5"]
 			id: "493FDDA25DA0BA56"
-			rewards: [{
-				count: 10
-				id: "2A4790CF4E7FBAF9"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2A4790CF4E7FBAF9"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "626BBD5211A244F4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет переводить ману в энергию из других модов."
 			tasks: [{
 				id: "56660D9D7755D3A8"
@@ -7466,6 +7528,31 @@
 			}]
 			x: -5.5d
 			y: -2.0d
+		}
+		{
+			dependencies: ["51262D7459373D60"]
+			id: "16818FB592070E23"
+			rewards: [
+				{
+					count: 10
+					id: "52601F7BDF2A1A71"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "50C1C884C8842622"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "13C5F9C565CE2F8F"
+				item: "botania:mana_bomb"
+				type: "item"
+			}]
+			x: 28.5d
+			y: -7.0d
 		}
 	]
 	title: "Botania"

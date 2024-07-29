@@ -11,12 +11,20 @@
 		{
 			dependencies: ["512796D0344358E3"]
 			id: "11761C8EA101A496"
-			rewards: [{
-				count: 10
-				id: "31B6D14A1586AE64"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "31B6D14A1586AE64"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "425C83C4F10C23B7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Ковочный молот используется для дробления разных материалов, а также создания базовых металлических деталей(пластины, болты и т.д.). Для работы с ним необходим молот."
 			tasks: [{
 				id: "075744B8ECB0F30A"
@@ -29,12 +37,19 @@
 		{
 			dependencies: ["7A778DB057BA0124"]
 			id: "134BAC07C06904A0"
-			rewards: [{
-				count: 10
-				id: "27B51265C3336CF7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "27B51265C3336CF7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "242F7FB5733C4C4B"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 3L
 				id: "6E43ED867557312F"
@@ -47,12 +62,19 @@
 		{
 			dependencies: ["134BAC07C06904A0"]
 			id: "2EB5266F423D8EBB"
-			rewards: [{
-				count: 10
-				id: "291B979F62EF5D0C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "291B979F62EF5D0C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5894D07781B35602"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "Бронзовый испаритель позволит вам получать паровую энергию путем нагрева воды твердым топливом."
 			tasks: [{
@@ -66,12 +88,20 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "28C78ADE7C1DA887"
-			rewards: [{
-				count: 10
-				id: "3565A1442CC90D28"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3565A1442CC90D28"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "61127627EF3AC86D"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5ABCE6A5681323CC"
 				item: "modern_industrialization:bronze_macerator"
@@ -83,12 +113,20 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "363D9FB857549E0F"
-			rewards: [{
-				count: 10
-				id: "67B462F32FD000C3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "67B462F32FD000C3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6463C43BC8FF9012"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6F774F1923795829"
 				item: "modern_industrialization:bronze_compressor"
@@ -100,12 +138,20 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "37BC25E0E5681036"
-			rewards: [{
-				count: 10
-				id: "453C7C440702DEB3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "453C7C440702DEB3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "28F8023AA563B0E5"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "12D0D4F863F1AC8D"
 				item: "modern_industrialization:bronze_mixer"
@@ -117,12 +163,20 @@
 		{
 			dependencies: ["05FCA97052D4F6F8"]
 			id: "5BEE187BE6756BFD"
-			rewards: [{
-				count: 10
-				id: "23D6E281248C537E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "23D6E281248C537E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "62CC06A4F91FE7AA"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3F493C935B453F3C"
 				item: "modern_industrialization:coke_oven"
@@ -134,12 +188,20 @@
 		{
 			dependencies: ["5BEE187BE6756BFD"]
 			id: "18931FE404AED08C"
-			rewards: [{
-				count: 10
-				id: "2B2D066F4DC249FC"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2B2D066F4DC249FC"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "19E8794C5AEE1CB6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "244278C797C69F32"
 				item: "modern_industrialization:steam_blast_furnace"
@@ -151,13 +213,21 @@
 		{
 			dependencies: ["18931FE404AED08C"]
 			id: "2363D211D89E2D3B"
-			rewards: [{
-				count: 10
-				id: "7874DA69D79D49C2"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7874DA69D79D49C2"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2432A6249FB76843"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
+			subtitle: "Из стали делаются паровые механизмы нового поколения. Также могут разгоняться порохом"
 			tasks: [{
 				id: "0BDBD9E5F85147CC"
 				item: "modern_industrialization:steel_ingot"
@@ -169,12 +239,20 @@
 		{
 			dependencies: ["75D16653D5B95D6B"]
 			id: "4E88C1E4C64818C0"
-			rewards: [{
-				count: 10
-				id: "00F46B033410FF49"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "00F46B033410FF49"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6AED8FCD3A0A2097"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Стальные улучшения могут быть использованы для переделки ваших механизмов в стальные. Просто совместите ваш механизм с улучшением в сетке крафтов."
 			tasks: [{
 				id: "48893143CE1C0710"
@@ -187,12 +265,20 @@
 		{
 			dependencies: ["75D16653D5B95D6B"]
 			id: "0542CA3B331CDD45"
-			rewards: [{
-				count: 10
-				id: "66E9B73D7EC617A5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "66E9B73D7EC617A5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5DDC9EA86B1E01E3"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5E034EA892351A95"
 				item: "modern_industrialization:steam_quarry"
@@ -204,29 +290,44 @@
 		{
 			dependencies: ["37BC25E0E5681036"]
 			id: "4E0EACC87DD1F1BE"
-			rewards: [{
-				count: 10
-				id: "7D799EB6E89EFFFD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7D799EB6E89EFFFD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "5AD232BA3D070652"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2E640DC0803112D9"
 				item: "modern_industrialization:bronze_cutting_machine"
 				type: "item"
 			}]
-			x: 5.5d
+			x: 5.0d
 			y: -0.5d
 		}
 		{
 			dependencies: ["2363D211D89E2D3B"]
 			id: "75D16653D5B95D6B"
-			rewards: [{
-				count: 10
-				id: "2D40AD47FE28FC3E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2D40AD47FE28FC3E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3BBF79DFB580FFB0"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				id: "0C6618B7E5CC1481"
@@ -239,12 +340,20 @@
 		{
 			dependencies: ["75D16653D5B95D6B"]
 			id: "71E315141240F5B1"
-			rewards: [{
-				count: 10
-				id: "1963AE2D9D3B6B98"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1963AE2D9D3B6B98"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7B3F1E661DB77E47"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "423777813C5F4442"
 				item: "modern_industrialization:steel_wiremill"
@@ -259,12 +368,20 @@
 				"77E0AF13BBDE8520"
 			]
 			id: "30C1D5857C486F13"
-			rewards: [{
-				count: 10
-				id: "4140C0B8C41F078A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4140C0B8C41F078A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "580B266EBF19B510"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "56E3E7692823E414"
 				item: "modern_industrialization:resistor"
@@ -276,12 +393,20 @@
 		{
 			dependencies: ["3E80CDCCCEA646EB"]
 			id: "762A97C3D9C7746C"
-			rewards: [{
-				count: 10
-				id: "574032988393D3D8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "574032988393D3D8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "763C39A97AE39CA7"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "32CC352FCA85CA8A"
 				item: "modern_industrialization:capacitor"
@@ -293,12 +418,20 @@
 		{
 			dependencies: ["71E315141240F5B1"]
 			id: "6254B8D3AA11254D"
-			rewards: [{
-				count: 10
-				id: "10E1759DF5D7571D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "10E1759DF5D7571D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "20B7A7AB6F3B091F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1703F01BDDBA8C8A"
 				item: "modern_industrialization:inductor"
@@ -314,12 +447,19 @@
 				"6254B8D3AA11254D"
 			]
 			id: "1EB52D9861FC1A55"
-			rewards: [{
-				count: 10
-				id: "4DBF11D4574E713C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4DBF11D4574E713C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "021D80CC616AA0C2"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "29BC3A6F34E730D5"
 				item: "modern_industrialization:analog_circuit"
@@ -331,12 +471,19 @@
 		{
 			dependencies: ["3547CAB79DE7A499"]
 			id: "7F4C76BB16674054"
-			rewards: [{
-				count: 10
-				id: "08DBD54FFF876D82"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "08DBD54FFF876D82"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "25F759A78A7AED36"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "Паровая турбина позволит вам добывать электричество из пара."
 			tasks: [{
@@ -350,12 +497,19 @@
 		{
 			dependencies: ["179EF2B56BBA53CE"]
 			id: "70DC0E3806F6E6A3"
-			rewards: [{
-				count: 10
-				id: "1168FA90A2960B8B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1168FA90A2960B8B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "24A823E35FAE71B0"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			subtitle: "Электрическая доменная печь является улучшенной версией паровой. Как и остальные электрические механизмы имеет разгон, также позволяет производить аллюминий."
 			tasks: [{
@@ -369,12 +523,20 @@
 		{
 			dependencies: ["7F4C76BB16674054"]
 			id: "179EF2B56BBA53CE"
-			rewards: [{
-				count: 10
-				id: "15716FF7A42C2FA4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "15716FF7A42C2FA4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5657E238A2A1797D"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Поляризатор позволит вам производить магнитные провода и болты."
 			tasks: [{
 				id: "79B8B561082F97EE"
@@ -390,12 +552,19 @@
 				"14699A5DE0849D3E"
 			]
 			id: "33934F5639C9A22F"
-			rewards: [{
-				count: 10
-				id: "1F804F05E421EAB3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F804F05E421EAB3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "3E177BF01ADEF76A"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Теперь когда у вас есть добыча электричества вы можете сделать механизмы нового поколения. Они быстрее и имеют функцию разгона."
 			tasks: [
 				{
@@ -436,12 +605,20 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "011B8ED68A956211"
-			rewards: [{
-				count: 10
-				id: "4AD7E0271A1966CA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4AD7E0271A1966CA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "16709460C9447F47"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Водяной насос позволит вам автоматически добывать воду для вашего парового испарителя или других механизмов."
 			tasks: [{
 				id: "14699A5DE0849D3E"
@@ -455,13 +632,21 @@
 			can_repeat: false
 			dependencies: ["4691B0DEC458F6C2"]
 			id: "7A778DB057BA0124"
-			rewards: [{
-				count: 10
-				id: "543322004DFB4015"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "543322004DFB4015"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7374564B7A620C31"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
+			subtitle: "Из бронзы делаются базовые паровые механизмы. Разгоняются с помощью пороха"
 			tasks: [{
 				id: "04565423F8922937"
 				item: "modern_industrialization:bronze_ingot"
@@ -494,12 +679,20 @@
 				"4F0C665E70417994"
 			]
 			id: "229964086382D32A"
-			rewards: [{
-				count: 10
-				id: "10A1BBD12831E61B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "10A1BBD12831E61B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "638C8C1AB5EA4DC5"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4AE9023CF7664BAD"
 				item: "modern_industrialization:electric_quarry"
@@ -511,12 +704,20 @@
 		{
 			dependencies: ["7A778DB057BA0124"]
 			id: "2F33AECE9970A0DB"
-			rewards: [{
-				count: 10
-				id: "0F008D217A12DDFB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0F008D217A12DDFB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "63082CBA67C59302"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Гаечный ключ позволяет вам поворачивать механизмы, подключать трубы и провода, также помогает в постройке многоблочных механимзов, просто посмотрите на ваш многоблочный механизм держа в руке гаечный ключ."
 			tasks: [{
 				id: "2AB9172D39A20E43"
@@ -529,12 +730,21 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "2A9D53AA5111A625"
-			rewards: [{
-				count: 10
-				id: "737CA1395316291B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "737CA1395316291B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "48C17DA0EE4ED4AE"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			subtitle: "Бур копающий 3 на 3 блока. В отличии от кирки не тратит свою прочность, а использует воду и твердое топливо."
 			tasks: [{
 				id: "2F0D5ED632E1B62F"
 				item: "modern_industrialization:steam_mining_drill"
@@ -546,12 +756,20 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "05FCA97052D4F6F8"
-			rewards: [{
-				count: 10
-				id: "034A0DA65E9EF0AD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "034A0DA65E9EF0AD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "71E4345B0B2D5573"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Шлюзы используются для импорта или экспорта ресурсов(предметов и жидкостей) в многоблочных механизмах."
 			tasks: [
 				{
@@ -599,12 +817,20 @@
 		{
 			dependencies: ["0542CA3B331CDD45"]
 			id: "22A077D71198F878"
-			rewards: [{
-				count: 10
-				id: "155A4F9F80C80C20"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "155A4F9F80C80C20"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "748C7839692E5594"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0727CD4755D7FA4A"
 				item: "modern_industrialization:bronze_drill"
@@ -616,12 +842,20 @@
 		{
 			dependencies: ["229964086382D32A"]
 			id: "6301CD42E0CB264A"
-			rewards: [{
-				count: 10
-				id: "5E5A64AE3E9C3E38"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5E5A64AE3E9C3E38"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4D8928A16576A876"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0CA164D955B8D8C9"
 				item: "modern_industrialization:gold_drill"
@@ -633,12 +867,20 @@
 		{
 			dependencies: ["229964086382D32A"]
 			id: "396A360FE3C47776"
-			rewards: [{
-				count: 10
-				id: "787AB09EF0824BCF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "787AB09EF0824BCF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "55B3763AEB7FECC0"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "58CA144DF01EE8A8"
 				item: "modern_industrialization:steel_drill"
@@ -651,14 +893,23 @@
 			dependencies: [
 				"1E1C5884DC97A1BE"
 				"37BC25E0E5681036"
+				"62CCC795BD63834A"
 			]
 			id: "3E80CDCCCEA646EB"
-			rewards: [{
-				count: 10
-				id: "0484EFC5C47D5409"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0484EFC5C47D5409"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0206EE9B9C4ECAFC"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7B89C796B4A52CEE"
 				item: "modern_industrialization:rubber_sheet"
@@ -670,12 +921,20 @@
 		{
 			dependencies: ["7F4C76BB16674054"]
 			id: "2FBEFFE754CFB2E4"
-			rewards: [{
-				count: 10
-				id: "25499F1FD800324B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "25499F1FD800324B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1D285CE130185458"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Позволяет автоматически крафтить предметы и блоки, позволяет крафтить некоторые предметы выгоднее чем на верстаке(например резисторы)."
 			tasks: [{
 				id: "71B3D6797CCB1637"
@@ -867,12 +1126,21 @@
 		}
 		{
 			id: "512796D0344358E3"
-			rewards: [{
-				count: 10
-				id: "34D2510FDE11C50C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "34D2510FDE11C50C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "278DE02AFC3A60B6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			subtitle: "В этой книге вы найдете информацию о почти всех блоках, предметах и механиках этого мода."
 			tasks: [{
 				id: "2488A3CDD5958CCB"
 				item: "modern_industrialization:guidebook"
@@ -963,12 +1231,19 @@
 				"78EABAEEF8DB3A52"
 			]
 			id: "3547CAB79DE7A499"
-			rewards: [{
-				count: 10
-				id: "533A406D1210E176"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "533A406D1210E176"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "462F4551C617C243"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				id: "1151BA5AEBDB3A4F"
@@ -981,12 +1256,20 @@
 		{
 			dependencies: ["3E80CDCCCEA646EB"]
 			id: "796070FDF2F7C1A9"
-			rewards: [{
-				count: 10
-				id: "0C6192705DA8F9D4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0C6192705DA8F9D4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "301388295C9FB4A4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "20BFAEB07F9787FF"
 				item: "modern_industrialization:tin_cable"
@@ -998,12 +1281,20 @@
 		{
 			dependencies: ["796070FDF2F7C1A9"]
 			id: "78EABAEEF8DB3A52"
-			rewards: [{
-				count: 10
-				id: "1E67773AF6A8303A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1E67773AF6A8303A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6C9EB3C8C577A4DF"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3BC10AC11F145451"
 				item: "modern_industrialization:redstone_battery"
@@ -1015,12 +1306,20 @@
 		{
 			dependencies: ["2EB5266F423D8EBB"]
 			id: "34624C988087DFAE"
-			rewards: [{
-				count: 10
-				id: "6492BF5D96A45484"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6492BF5D96A45484"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "70F0CE06480D3A45"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4A0FDBC4F9749EE1"
 				item: "modern_industrialization:bronze_furnace"
@@ -1032,12 +1331,20 @@
 		{
 			dependencies: ["28C78ADE7C1DA887"]
 			id: "37F4F9D1F0CEF9C7"
-			rewards: [{
-				count: 10
-				id: "69C81E63FA331825"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "69C81E63FA331825"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "38AD86CFDF888B0F"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1DA0FD9700D91182"
 				item: "modern_industrialization:wood_pulp"
@@ -1052,12 +1359,20 @@
 				"37F4F9D1F0CEF9C7"
 			]
 			id: "1E1C5884DC97A1BE"
-			rewards: [{
-				count: 10
-				id: "6556A0E0482D11D5"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6556A0E0482D11D5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7D2EC1CB59136656"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "77E0AF13BBDE8520"
 				item: "minecraft:paper"
@@ -1904,12 +2219,20 @@
 		{
 			dependencies: ["3E80CDCCCEA646EB"]
 			id: "471F400DFCA7AA3F"
-			rewards: [{
-				count: 10
-				id: "5C01A848FF3817F8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5C01A848FF3817F8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7C6A6596B7C7292D"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
+			subtitle: "Полностью поглащают урон от падения, но имеют достаточно низкую прочность."
 			tasks: [{
 				id: "51DFC7871426C8FA"
 				item: {
@@ -1927,12 +2250,19 @@
 		{
 			dependencies: ["1EB52D9861FC1A55"]
 			id: "36C03AA5C625F408"
-			rewards: [{
-				count: 10
-				id: "4B059ECEEA0541DA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4B059ECEEA0541DA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "62A8E0D25D3B729A"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5E75890ED976CC9B"
 				item: "modern_industrialization:redstone_control_module"
@@ -1944,12 +2274,19 @@
 		{
 			dependencies: ["1EB52D9861FC1A55"]
 			id: "41AA69ADFA90A2A6"
-			rewards: [{
-				count: 10
-				id: "1BC86495E408744A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1BC86495E408744A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "135ED58521290741"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "206F0DD700EFE0B2"
 				item: "modern_industrialization:config_card"
@@ -1961,12 +2298,19 @@
 		{
 			dependencies: ["2363D211D89E2D3B"]
 			id: "638B4F43E8BA85CA"
-			rewards: [{
-				count: 10
-				id: "5F3D8D15EBE05322"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5F3D8D15EBE05322"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "26236DE3D3D77084"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6AD68CB01CA6E5DA"
 				item: "modern_industrialization:trash_can"
@@ -1995,12 +2339,19 @@
 		{
 			dependencies: ["7A778DB057BA0124"]
 			id: "56D2D624FE594A10"
-			rewards: [{
-				count: 10
-				id: "1AC9A0852DE3C23B"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1AC9A0852DE3C23B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "25AC635C680553D8"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "125251CF22BAF1DA"
 				item: "modern_industrialization:bronze_barrel"
@@ -2013,12 +2364,20 @@
 			dependencies: ["11761C8EA101A496"]
 			description: [""]
 			id: "4691B0DEC458F6C2"
-			rewards: [{
-				count: 10
-				id: "5171F79A77E76BCB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5171F79A77E76BCB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5913081C6392C32B"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Необходим для работы с ковочным молотом"
 			tasks: [{
 				id: "47D8BAA8C9EF1BC9"
@@ -2040,12 +2399,20 @@
 				"75D16653D5B95D6B"
 			]
 			id: "537FA207747709AF"
-			rewards: [{
-				count: 10
-				id: "417ED7639A11232A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "417ED7639A11232A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4F9BFE0C9EB1FFED"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3107A18238C730EC"
 				item: "modern_industrialization:large_tank"
@@ -2057,12 +2424,19 @@
 		{
 			dependencies: ["537FA207747709AF"]
 			id: "2F1DE0A9E3C5D136"
-			rewards: [{
-				count: 10
-				id: "20EDFB5B2747F5EF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "20EDFB5B2747F5EF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2EC7DE6271BEFCC1"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6635F133CEFDC96D"
 				item: "modern_industrialization:large_tank_hatch"
@@ -2095,12 +2469,20 @@
 				"29BC3A6F34E730D5"
 			]
 			id: "34193EA1EF4E11BC"
-			rewards: [{
-				count: 10
-				id: "4A6DA38F7F700D3C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4A6DA38F7F700D3C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "6C10CD12520EA3BD"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F439AC8221F96FD"
 				item: "modern_industrialization:configurable_chest"
@@ -2112,12 +2494,20 @@
 		{
 			dependencies: ["75D16653D5B95D6B"]
 			id: "38F579C23205EF0D"
-			rewards: [{
-				count: 10
-				id: "5582E14E54B67C3D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5582E14E54B67C3D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "43A7785A0E9012A3"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3872FD406C57BBD6"
 				item: "modern_industrialization:steel_packer"
@@ -2129,12 +2519,20 @@
 		{
 			dependencies: ["38F579C23205EF0D"]
 			id: "00E13491BD526161"
-			rewards: [{
-				count: 10
-				id: "42DCB3C54E3F5245"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "42DCB3C54E3F5245"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "10A6E394003A3F4C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "38264E3123BE6ED8"
 				item: "modern_industrialization:steel_unpacker"
@@ -2146,12 +2544,19 @@
 		{
 			dependencies: ["38F579C23205EF0D"]
 			id: "4021EE8E040AB0F6"
-			rewards: [{
-				count: 10
-				id: "5DB420E3581E22E7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5DB420E3581E22E7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "34091BE7046C53E1"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0FB2797E68599FFC"
 				item: "modern_industrialization:packer_block_template"
@@ -2163,12 +2568,19 @@
 		{
 			dependencies: ["38F579C23205EF0D"]
 			id: "27E3DBA0FD755A8B"
-			rewards: [{
-				count: 10
-				id: "216825881F5A3211"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "216825881F5A3211"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "75B7D5885EB42F25"
+					item: "numismatics:bevel"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "557B1EEC59AFEE06"
 				item: "modern_industrialization:packer_double_ingot_template"
@@ -2180,12 +2592,19 @@
 		{
 			dependencies: ["4E88C1E4C64818C0"]
 			id: "56387D66ED90D55F"
-			rewards: [{
-				count: 10
-				id: "0AD5E20DAA170AD6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0AD5E20DAA170AD6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "59E136E5924E33DF"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "1F381527196D649F"
@@ -2218,18 +2637,28 @@
 					type: "item"
 				}
 			]
+			title: "Апгрейд механизмов"
 			x: 14.0d
 			y: -3.5d
 		}
 		{
 			dependencies: ["4E88C1E4C64818C0"]
 			id: "54A8773F4E5E4694"
-			rewards: [{
-				count: 10
-				id: "50E854633A89B34C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "50E854633A89B34C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "686A9BDE08580444"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			subtitle: "Больше пара"
 			tasks: [{
 				id: "0186A16168319039"
 				item: "modern_industrialization:steel_boiler"
@@ -2265,12 +2694,20 @@
 				"0BDBD9E5F85147CC"
 			]
 			id: "044FCB4B6F4B4549"
-			rewards: [{
-				count: 10
-				id: "2280289D5833FAFB"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2280289D5833FAFB"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "25890C64D7B4FD58"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7A131279BE9FD32E"
 				item: {
@@ -2288,12 +2725,19 @@
 		{
 			dependencies: ["044FCB4B6F4B4549"]
 			id: "272674D6C1B25515"
-			rewards: [{
-				count: 10
-				id: "60A1F9CFABFBDEDD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "60A1F9CFABFBDEDD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "464E3EC9EB29B9A5"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "746DA483F0F6DBCA"
 				item: {
@@ -2311,12 +2755,19 @@
 		{
 			dependencies: ["272674D6C1B25515"]
 			id: "231C363800A81DA3"
-			rewards: [{
-				count: 10
-				id: "1B952461F41C8BEF"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1B952461F41C8BEF"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "084129B5477C149B"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "14133EEFC2DCC951"
 				item: {
@@ -2330,6 +2781,17 @@
 			}]
 			x: -2.5d
 			y: 3.0d
+		}
+		{
+			dependencies: ["5BEE187BE6756BFD"]
+			id: "62CCC795BD63834A"
+			tasks: [{
+				id: "68E0B90238DED20B"
+				item: "modern_industrialization:coke_dust"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
 		}
 	]
 	subtitle: ["Modern Industrialization (MI) - лучший технический мод для новых версий Minecraft. Является аналогом GregTech и IndustrialCraft. Возможно наиболее сложный мод в этой сборке, но в конечном итоге позволит вам дюпать предметы и стать бессмертным."]
