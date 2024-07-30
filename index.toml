@@ -542,7 +542,15 @@ metafile = true
 
 [[files]]
 file = "scripts/custom_create_recipes.zs"
-hash = "a0d2ff25c8a8bfe373cb7508e1bd4196f2bb9fc38f23fba1a73a2e56989da300"
+hash = "04016ae6ca307d02732a2d9887e2a464a1edc86ac758c751de602c5c89e194a7"
+
+[[files]]
+file = "scripts/mi_remove.zs"
+hash = "ce414134587b5a23a37fc172fa7cac00005a7fa0e728499eb480f30718de9b40"
+
+[[files]]
+file = "scripts/numismatics_remove.zs"
+hash = "6c32c521fe8bf639043810c7c95739ab536632501c8a4cad6c00b4c90818f8cd"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
