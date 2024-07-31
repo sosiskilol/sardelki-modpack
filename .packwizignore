@@ -6,3 +6,4 @@
 /shell.nix
 /flake.nix
 /flake.lock
+/.envrc
