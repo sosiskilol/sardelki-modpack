@@ -28,12 +28,20 @@
 		{
 			dependencies: ["0DABF09CC70E65ED"]
 			id: "4515E2A1A88DF2C6"
-			rewards: [{
-				count: 10
-				id: "20E7E75B38BE55B6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "20E7E75B38BE55B6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3788C8EC6D89E0F2"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Основа электролизации"
 			tasks: [{
 				id: "0A193C7FF4D094EE"
@@ -46,12 +54,20 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "04EFAC720B90B8A7"
-			rewards: [{
-				count: 10
-				id: "1D48D5F04FD93DB0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1D48D5F04FD93DB0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4ECF41F296625460"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Чистая энергия(зачем?)"
 			tasks: [{
 				id: "4E8AA9A88F0C759E"
@@ -64,12 +80,20 @@
 		{
 			dependencies: ["50A610CD5BBB368D"]
 			id: "43769E1200AA7D01"
-			rewards: [{
-				count: 10
-				id: "34E740E139403B92"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "34E740E139403B92"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4F61F4808C977175"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6FC3E907A6D6FF45"
 				item: "ad_astra:oxygen_loader"
@@ -81,12 +105,20 @@
 		{
 			dependencies: ["4515E2A1A88DF2C6"]
 			id: "469FDE34E41F9F2E"
-			rewards: [{
-				count: 10
-				id: "051F116D02029179"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "051F116D02029179"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4AB6902EB5E1AAA1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Сжимаем металлы под высоким давлением"
 			tasks: [{
 				id: "57D61DD6F0F85CB8"
@@ -99,12 +131,20 @@
 		{
 			dependencies: ["469FDE34E41F9F2E"]
 			id: "2A2E339D5A0F0376"
-			rewards: [{
-				count: 10
-				id: "457358891CEFE393"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "457358891CEFE393"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "53ECF9DE6B83DC2A"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "Печь для выплавки стали"
@@ -119,12 +159,20 @@
 		{
 			dependencies: ["2A2E339D5A0F0376"]
 			id: "28399865CB5A4236"
-			rewards: [{
-				count: 10
-				id: "3BE94F946DE5E37D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3BE94F946DE5E37D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "70096D46DE6FCC5F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "NASA Сборщик"
 			tasks: [{
 				id: "58A28E685ACDEAFB"
@@ -140,12 +188,20 @@
 				"49B2840E84ADEBF3"
 			]
 			id: "037A621B7239B95C"
-			rewards: [{
-				count: 10
-				id: "0A476A5B6AD8273A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0A476A5B6AD8273A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0F91926B74FEE612"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Перерабатывает нефть в ракетное топливо"
 			tasks: [{
 				id: "4CEA2ED35ABBB40B"
@@ -171,6 +227,12 @@
 					item: "ad_astra:desh_fluid_pipe"
 					type: "item"
 				}
+				{
+					count: 16
+					id: "29247C5D48CBB0BD"
+					item: "numismatics:spur"
+					type: "item"
+				}
 			]
 			subtitle: "оно сосет"
 			tasks: [{
@@ -184,12 +246,20 @@
 		{
 			dependencies: ["28399865CB5A4236"]
 			id: "249CB6FBF92A0D82"
-			rewards: [{
-				count: 10
-				id: "3536C7E3EE20B57C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "3536C7E3EE20B57C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "67C3EC1343FD3EF5"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Молись чтоб она не развалилась по пути"
 			tasks: [{
 				id: "34667AB58E13EFF4"
@@ -209,12 +279,20 @@
 				"613ADFE9DCB3C90C"
 			]
 			id: "1EE2D7568F952AC5"
-			rewards: [{
-				count: 10
-				id: "1F5701CEF3F7E180"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F5701CEF3F7E180"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "56DD2CCD64042074"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "61817EAB428FD13C"
 				item: {
@@ -235,12 +313,20 @@
 				"613ADFE9DCB3C90C"
 			]
 			id: "45B33F03A2657690"
-			rewards: [{
-				count: 10
-				id: "12A5F1718912C8A3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "12A5F1718912C8A3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2DF84EE3040937D0"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "714721F3939172A6"
 				item: {
@@ -261,12 +347,20 @@
 				"613ADFE9DCB3C90C"
 			]
 			id: "5C3BE77AF2BD0860"
-			rewards: [{
-				count: 10
-				id: "6EA297A8108E0D32"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6EA297A8108E0D32"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "01117C8FCA836E50"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "59E7D29678967B57"
 				item: {
@@ -287,12 +381,20 @@
 				"613ADFE9DCB3C90C"
 			]
 			id: "79AED588E7A4CF04"
-			rewards: [{
-				count: 10
-				id: "4A5FAFD71EBB8BA3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4A5FAFD71EBB8BA3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "53EF960278142244"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7C608582874C0D0A"
 				item: {
@@ -310,12 +412,20 @@
 		{
 			dependencies: ["0DABF09CC70E65ED"]
 			id: "49B2840E84ADEBF3"
-			rewards: [{
-				count: 10
-				id: "4DAF9D37F2A4C308"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4DAF9D37F2A4C308"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "30EB5DD360E06B9C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "ДЕМОКРАТИЯ"
 			tasks: [{
 				id: "1AFF6FE3A759DA3F"
@@ -328,12 +438,20 @@
 		{
 			dependencies: ["037A621B7239B95C"]
 			id: "73B5A7E78FAC0D9B"
-			rewards: [{
-				count: 10
-				id: "1F7F80ECF28AAA6F"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1F7F80ECF28AAA6F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "05B1FE162A3A5228"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Выглядит как кровь, используется для заправки ракет и машин"
 			tasks: [{
 				id: "5E05A1E6E42A959F"
@@ -354,12 +472,19 @@
 				"4E4725DF8EEB7CAA"
 			]
 			id: "466AAFF1354195A9"
-			rewards: [{
-				count: 10
-				id: "4AF583003DA3EA57"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4AF583003DA3EA57"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1CF2382609D8B78F"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Нил армстронг"
 			tasks: [{
 				dimension: "ad_astra:moon"
@@ -375,12 +500,20 @@
 		{
 			dependencies: ["4515E2A1A88DF2C6"]
 			id: "651060E5CCA550BA"
-			rewards: [{
-				count: 10
-				id: "0ABD3D489B2505D8"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0ABD3D489B2505D8"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "469744DA8C730B0C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Поможет передавать электричество"
 			tasks: [{
 				id: "2481D0FFE3E51C92"
@@ -393,12 +526,20 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "5F7C125FC11E7508"
-			rewards: [{
-				count: 10
-				id: "7081665ED49BA16D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7081665ED49BA16D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "750A0803625D0622"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Переносит больше электричества"
 			tasks: [{
 				id: "0B6F026276148546"
@@ -411,12 +552,20 @@
 		{
 			dependencies: ["2A2E339D5A0F0376"]
 			id: "4E4725DF8EEB7CAA"
-			rewards: [{
-				count: 10
-				id: "1E85EB7D90EA7C87"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1E85EB7D90EA7C87"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "494D10168910E686"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Отсюда запускать ракеты"
 			tasks: [{
 				id: "74B4F498FBF745D7"
@@ -429,12 +578,19 @@
 		{
 			dependencies: ["466AAFF1354195A9"]
 			id: "314F69990E0D012D"
-			rewards: [{
-				count: 10
-				id: "24F23110DB09BC76"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "24F23110DB09BC76"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "2CFD49B77FA91035"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 2.0d
 			subtitle: "Лунная руда"
@@ -449,12 +605,20 @@
 		{
 			dependencies: ["2A2E339D5A0F0376"]
 			id: "087F067E9EF179F8"
-			rewards: [{
-				count: 10
-				id: "24E4C9CA864921D0"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "24E4C9CA864921D0"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "09F96D3D8200C234"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Мафон который определяет насколько среда предназначена для жизни"
 			tasks: [{
 				id: "2E076CBC059843AA"
@@ -467,12 +631,20 @@
 		{
 			dependencies: ["2A2E339D5A0F0376"]
 			id: "708268A67CE231A5"
-			rewards: [{
-				count: 10
-				id: "0FE7F040BA7613E4"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0FE7F040BA7613E4"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "280DF9680A6423C6"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Radio"
 			tasks: [{
 				id: "1046AF71F6ECF64B"
@@ -485,12 +657,20 @@
 		{
 			dependencies: ["2A2E339D5A0F0376"]
 			id: "7A36C7FE2394AC6F"
-			rewards: [{
-				count: 10
-				id: "30FAA85541BD9043"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "30FAA85541BD9043"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "1FA5D90746198DF9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Зиг-Ган "
 			tasks: [{
 				id: "5A0938ED04D490E1"
@@ -507,12 +687,20 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "5797248F0B16D045"
-			rewards: [{
-				count: 10
-				id: "4BF0503A0FA59422"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "4BF0503A0FA59422"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1D01F7DD604F50B6"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Создает благоприятную атмосферу в замкнутых пространствах"
 			tasks: [{
 				id: "6C03281BF2C47554"
@@ -525,12 +713,20 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "5A27903DADD685A5"
-			rewards: [{
-				count: 10
-				id: "38274A753A10B95D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "38274A753A10B95D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "372FE8611C19461C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Бесполезный зато ыглядит прикольно"
 			tasks: [{
 				id: "044795F75EE23881"
@@ -543,12 +739,20 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "7982183409FDC315"
-			rewards: [{
-				count: 10
-				id: "25696C3607048957"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "25696C3607048957"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "58596EE44C7AEFC1"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Лунный Кабриалет"
 			tasks: [{
 				id: "7A9A42DA389E21EF"
@@ -565,12 +769,19 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "231060F8C2A83235"
-			rewards: [{
-				count: 10
-				id: "23EEDF9A25968213"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "23EEDF9A25968213"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "70450831E552AD06"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			subtitle: "создайте космическую станцию на орбите земли"
 			tasks: [{
 				dimension: "ad_astra:earth_orbit"
@@ -585,12 +796,19 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "02CB4224A1B7FC67"
-			rewards: [{
-				count: 10
-				id: "0B3D6DD589DD60BD"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0B3D6DD589DD60BD"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "1C9E0581D0A68806"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Лучше первой"
 			tasks: [{
 				id: "69F7A445786CA121"
@@ -607,12 +825,19 @@
 		{
 			dependencies: ["314F69990E0D012D"]
 			id: "3A1EE696C43DF9C1"
-			rewards: [{
-				count: 10
-				id: "5A2F9428D617EF6D"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5A2F9428D617EF6D"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7E4116631696F8D5"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Переносим жидкости"
 			tasks: [{
 				id: "342128FD3A5971E4"
@@ -625,12 +850,20 @@
 		{
 			dependencies: ["2A2E339D5A0F0376"]
 			id: "437A6596A58CE84D"
-			rewards: [{
-				count: 10
-				id: "722A2B3EE833DB2C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "722A2B3EE833DB2C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "63CB08929A4923EB"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Колонизация (Французский империализм?)"
 			tasks: [{
 				id: "47B6F859AAA106E3"
@@ -663,12 +896,20 @@
 		{
 			dependencies: ["02CB4224A1B7FC67"]
 			id: "00CE571FF3DFEF62"
-			rewards: [{
-				count: 10
-				id: "6188D8D016125CDA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6188D8D016125CDA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3AB8C14B06C22B97"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Илон Маск"
 			tasks: [{
 				dimension: "ad_astra:mars"
@@ -683,12 +924,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "00CC70AB597B9725"
-			rewards: [{
-				count: 10
-				id: "2D9D113B51AE19FA"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "2D9D113B51AE19FA"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "62EE8D9ED595DD0E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Переносит больше жидкости"
 			tasks: [{
 				id: "2653B24B515A4281"
@@ -701,12 +950,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "529459846B664EF3"
-			rewards: [{
-				count: 10
-				id: "74A58809FBB14DB1"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "74A58809FBB14DB1"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "51BDA7F3AD340D21"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Инновационное топливо"
 			tasks: [{
 				id: "4E9AB7CFFCA32715"
@@ -719,12 +976,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "391E511375A704C2"
-			rewards: [{
-				count: 10
-				id: "0D16F96A66610976"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "0D16F96A66610976"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6DBBA5E23948FDF1"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Определяет наличие кислорода рядом с ним"
 			tasks: [{
 				id: "6739F7FAE86E5D90"
@@ -737,12 +1002,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "77B664037E42DE41"
-			rewards: [{
-				count: 10
-				id: "21C05AB572AC0303"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "21C05AB572AC0303"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0D3AE4BD0B85F2A9"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Запитывает вещи внутри неё"
 			tasks: [{
 				id: "3B4BE17E98428EC7"
@@ -759,12 +1032,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "1D3CB5718C24CD30"
-			rewards: [{
-				count: 10
-				id: "5DFB6FE615AE0D1A"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5DFB6FE615AE0D1A"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6A8DD166F8741473"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "18627E30370449FF"
 				item: {
@@ -782,12 +1063,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "1442A32BE161CBC4"
-			rewards: [{
-				count: 10
-				id: "794CE3B915A91548"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "794CE3B915A91548"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "188BB8E35F4FF11E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "618A37806BF785C0"
 				item: {
@@ -805,12 +1094,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "02290241EF2F06B1"
-			rewards: [{
-				count: 10
-				id: "59E2B863C81D88A7"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "59E2B863C81D88A7"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "51E8A0CB8D1EF85C"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "03C032A9645E04E8"
 				item: {
@@ -828,12 +1125,20 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "4375D42969E35D96"
-			rewards: [{
-				count: 10
-				id: "384DE4605A0E3D98"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "384DE4605A0E3D98"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "0361C964A5CBB742"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3F4CC0EFC8D94D0C"
 				item: {
@@ -851,12 +1156,20 @@
 		{
 			dependencies: ["529459846B664EF3"]
 			id: "46AC927D83C99828"
-			rewards: [{
-				count: 10
-				id: "116F43219F5BB626"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "116F43219F5BB626"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "269E1A4F76CD66F4"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			subtitle: "Халодная вадичка"
 			tasks: [{
 				id: "511DB87FAD73CB4F"
@@ -869,12 +1182,19 @@
 		{
 			dependencies: ["0EC07C14BBD6B894"]
 			id: "790915A0385603BD"
-			rewards: [{
-				count: 10
-				id: "1EB856D552B72E82"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1EB856D552B72E82"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "6CCB93E84115D66B"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Настоящее ракетостроение"
 			tasks: [{
 				id: "6E24F45D3E64D0A6"
@@ -891,12 +1211,19 @@
 		{
 			dependencies: ["790915A0385603BD"]
 			id: "162FA20E4655FAFC"
-			rewards: [{
-				count: 10
-				id: "1D47342BD327A667"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1D47342BD327A667"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "7B383679EB72B984"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Не придумал"
 			tasks: [{
 				dimension: "ad_astra:venus"
@@ -912,12 +1239,19 @@
 		{
 			dependencies: ["790915A0385603BD"]
 			id: "00375D4436AF05C3"
-			rewards: [{
-				count: 10
-				id: "7015B5FDCA8E8F06"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7015B5FDCA8E8F06"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "28C4C852DBDA71BB"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Второй Ад"
 			tasks: [{
 				dimension: "ad_astra:mercury"
@@ -937,12 +1271,19 @@
 			]
 			dependency_requirement: "one_completed"
 			id: "4397A9114FAB0189"
-			rewards: [{
-				count: 10
-				id: "6547B27C1EE581C3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6547B27C1EE581C3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "340F86183C7641DE"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Вершина космической металлургии"
 			tasks: [{
 				id: "4F48F79397894185"
@@ -955,12 +1296,20 @@
 		{
 			dependencies: ["4397A9114FAB0189"]
 			id: "39AEA135FE18C5C8"
-			rewards: [{
-				count: 10
-				id: "37F333046ADFF04E"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "37F333046ADFF04E"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5230ACB4F1578728"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7804B9CA14C908DB"
 				item: {
@@ -978,12 +1327,20 @@
 		{
 			dependencies: ["4397A9114FAB0189"]
 			id: "5E4ADBA45F60B420"
-			rewards: [{
-				count: 10
-				id: "5F6787991CD63FA3"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "5F6787991CD63FA3"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "79BE9EAB080EC00C"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "709CA2C4DB0D3C0E"
 				item: {
@@ -1001,12 +1358,20 @@
 		{
 			dependencies: ["4397A9114FAB0189"]
 			id: "64FF0FD2532CFCF7"
-			rewards: [{
-				count: 10
-				id: "1BDE864716FB6229"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1BDE864716FB6229"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "101167CCC9568173"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "14141CF2FAF23870"
 				item: {
@@ -1024,12 +1389,20 @@
 		{
 			dependencies: ["4397A9114FAB0189"]
 			id: "6DF18693D68701CB"
-			rewards: [{
-				count: 10
-				id: "6EF10BA2C15CA17C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "6EF10BA2C15CA17C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "32BE9438ADD90A06"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0F98D5BCE1F43F3C"
 				item: {
@@ -1047,12 +1420,19 @@
 		{
 			dependencies: ["4397A9114FAB0189"]
 			id: "635F31528460B1F3"
-			rewards: [{
-				count: 10
-				id: "7A004196E8B0873C"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "7A004196E8B0873C"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "4B3A55601B3ED3B0"
+					item: "numismatics:crown"
+					type: "item"
+				}
+			]
 			subtitle: "Вершина космической инженерии"
 			tasks: [{
 				id: "7B1276C23AD055E7"
@@ -1069,12 +1449,19 @@
 		{
 			dependencies: ["635F31528460B1F3"]
 			id: "09D4B77ED9EB9B49"
-			rewards: [{
-				count: 10
-				id: "202179E090301B39"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "202179E090301B39"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "314BDEDC23BB51EA"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
 			subtitle: "Финальная точка путешествия"
 			tasks: [{
 				dimension: "ad_astra:glacio"
@@ -1089,12 +1476,20 @@
 		{
 			dependencies: ["0DABF09CC70E65ED"]
 			id: "0A11CE919C0BF58E"
-			rewards: [{
-				count: 10
-				id: "1DFDADB08BFBA3A6"
-				item: "create:experience_nugget"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 10
+					id: "1DFDADB08BFBA3A6"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "15E62018564EEF9A"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
 			subtitle: "Поможет лучше разобраться с квестами"
 			tasks: [{
 				id: "21724026C09FD05C"

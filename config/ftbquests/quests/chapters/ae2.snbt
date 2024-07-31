@@ -1049,7 +1049,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: -4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5D18DAC177CCCE03"]
@@ -1075,7 +1075,7 @@
 				type: "item"
 			}]
 			x: -8.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["5279F1550372922B"]
@@ -1100,8 +1100,8 @@
 				item: "ae2:conversion_monitor"
 				type: "item"
 			}]
-			x: -8.5d
-			y: -3.5d
+			x: -9.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["3174BFB5D0EF8385"]
@@ -1662,16 +1662,15 @@
 				}
 			]
 			shape: "gear"
-			subtitle: "Действует как кабель, но на любое расстояние или между измерениями. Для связи нужно покласть две квантовые запутанности, рекомендуется их переименовать. Также хорошо использовать пространственный якорь"
+			subtitle: "Действует как кабель, но на любое расстояние или между измерениями. Для связи нужно покласть две квантовые запутанности, рекомендуется их переименовать. Также хорошо использовать пространственный якорь. Для использования как кабель нужно две штуки, также можно использовать одну штуку и карту квантового моста для доступного везде беспроводного терминала"
 			tasks: [
 				{
-					count: 16L
+					count: 8L
 					id: "4F2F516547FC1BDD"
 					item: "ae2:quantum_ring"
 					type: "item"
 				}
 				{
-					count: 2L
 					id: "4A5BDD7C2B1A1164"
 					item: "ae2:quantum_link"
 					type: "item"
@@ -1703,7 +1702,7 @@
 				item: "ae2:me_p2p_tunnel"
 				type: "item"
 			}]
-			x: -7.0d
+			x: -6.5d
 			y: -3.0d
 		}
 		{
@@ -1733,7 +1732,7 @@
 				}
 				type: "item"
 			}]
-			x: -7.0d
+			x: -6.5d
 			y: -1.5d
 		}
 		{
@@ -1769,6 +1768,231 @@
 			}]
 			x: -8.5d
 			y: 2.0d
+		}
+		{
+			dependencies: ["5D18DAC177CCCE03"]
+			id: "0FB91EFEA1ED6217"
+			rewards: [
+				{
+					count: 10
+					id: "32A595EB4080693B"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0108BC63F09E790F"
+					item: "numismatics:sprocket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1FE620B82FF3BD23"
+				item: "ae2:wireless_access_point"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0FB91EFEA1ED6217"]
+			id: "5E2CD616E5EFCC44"
+			rewards: [
+				{
+					count: 10
+					id: "6971CC9F91F76C83"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "13A6F719A831461E"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3113BEC62ECC78D9"
+				item: "ae2:wireless_terminal"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0FB91EFEA1ED6217"]
+			id: "14288FBC702A1D92"
+			rewards: [
+				{
+					count: 10
+					id: "6DE7E193C5E3BE79"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2E481BC80A11BCE4"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "559CDBD09835DD2D"
+				item: "ae2:wireless_crafting_terminal"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0FB91EFEA1ED6217"]
+			id: "3BE9B162AF95D035"
+			rewards: [
+				{
+					count: 10
+					id: "4B75FF65A26DCE73"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7FBC320E2A567C48"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "79EF0441E7157217"
+				item: "ae2wtlib:wireless_pattern_encoding_terminal"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0FB91EFEA1ED6217"]
+			id: "3BE6EEE7C7983BA4"
+			rewards: [
+				{
+					count: 10
+					id: "60A296E0AE1F404F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "6C5A3383E6325FAD"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4B0C8144BD984AE0"
+				item: "ae2wtlib:wireless_pattern_access_terminal"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0FB91EFEA1ED6217"]
+			id: "2626F25BB636F050"
+			rewards: [
+				{
+					count: 10
+					id: "6BA571B803BA1D15"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4E9628F9FC11E199"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "609EB25CE7239B1F"
+				item: "ae2wtlib:wireless_universal_terminal"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"14288FBC702A1D92"
+				"2626F25BB636F050"
+			]
+			dependency_requirement: "one_completed"
+			id: "0C11AD6F464486C8"
+			rewards: [
+				{
+					count: 10
+					id: "526F0C5B6FD0EF2F"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "140765ED11BBBE43"
+					item: "numismatics:spur"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6A9B0C1EEA34D97B"
+				item: "ae2wtlib:magnet_card"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"5E2CD616E5EFCC44"
+				"14288FBC702A1D92"
+				"3BE9B162AF95D035"
+				"3BE6EEE7C7983BA4"
+				"2626F25BB636F050"
+			]
+			dependency_requirement: "one_completed"
+			id: "75781E597C279349"
+			tasks: [{
+				id: "7CF5A3FE83E18F11"
+				title: "Подготовиться к доступу к МЭ сети отовсюду"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"75781E597C279349"
+				"4867EADA7FDC608B"
+			]
+			id: "7775673F9AC3524E"
+			rewards: [
+				{
+					count: 10
+					id: "50A2CE2008622DB5"
+					item: "create:experience_nugget"
+					type: "item"
+				}
+				{
+					id: "336EF9771FC64E98"
+					item: "numismatics:cog"
+					type: "item"
+				}
+			]
+			subtitle: "Доступ к МЭ сети из любой точки мира или другого измерения"
+			tasks: [{
+				id: "69D95558C71D3441"
+				item: "ae2wtlib:quantum_bridge_card"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -8.5d
 		}
 	]
 	title: "AE2"

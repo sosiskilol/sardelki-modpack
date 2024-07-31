@@ -2773,6 +2773,23 @@
 			x: -11.5d
 			y: 15.5d
 		}
+		{
+			dependencies: ["730F1A5BE4A3950B"]
+			id: "65C7C97AA23AFAC6"
+			rewards: [{
+				id: "28D0BA4785816C73"
+				item: "minecraft:dark_oak_button"
+				type: "item"
+			}]
+			subtitle: "В тинкерс констракт есть множество свойст которые можно добавить к инструментам в кузне. И посмотреть эффекты свойств можно в EMI "
+			tasks: [{
+				id: "47DF3DBE35FF4AF2"
+				title: "Прочитайте гайд"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 14.0d
+		}
 	]
 	title: "Tinkers Construct"
 }

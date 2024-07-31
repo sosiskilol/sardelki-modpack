@@ -1099,8 +1099,9 @@
 					type: "item"
 				}
 				{
-					id: "7622875494229FD1"
-					item: "numismatics:cog"
+					count: 2
+					id: "23F8C8FD627FC61E"
+					item: "numismatics:sprocket"
 					type: "item"
 				}
 			]
@@ -1879,7 +1880,7 @@
 				item: "create:clockwork_bearing"
 				type: "item"
 			}]
-			x: 12.5d
+			x: 10.0d
 			y: 15.0d
 		}
 		{
@@ -2258,7 +2259,7 @@
 				item: "create:secondary_linear_chassis"
 				type: "item"
 			}]
-			x: 0.0d
+			x: 2.5d
 			y: -7.5d
 		}
 		{
@@ -2384,7 +2385,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -10.0d
+			y: -7.5d
 		}
 		{
 			dependencies: ["70315E55A563E053"]
@@ -2409,7 +2410,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -12.5d
+			y: -10.0d
 		}
 		{
 			dependencies: [
@@ -2562,7 +2563,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 15.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["3ED12DCD197C601F"]
@@ -2908,7 +2909,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 17.5d
+			y: 15.0d
 		}
 		{
 			dependencies: ["65F139D048F71327"]
@@ -2933,7 +2934,7 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: 15.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["7A51632F6A921C75"]
@@ -3630,7 +3631,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -15.0d
+			y: -12.5d
 		}
 		{
 			id: "4D842674AF727408"

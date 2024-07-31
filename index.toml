@@ -6,15 +6,15 @@ hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ad_astra.snbt"
-hash = "b7ed4f1ccd5afc9a90167e6b4be98a0978780be4accd32d81a98b15d76076aba"
+hash = "43319fa4eca4c83df80a797855ca9cb072bf4a5b3b28644331faf760c09e7197"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ae2.snbt"
-hash = "1e2a9e982ca4673238d1c6fff4967a524bae0df5f482fcd36d3fa543a5e79c05"
+hash = "eb00a0ed2ce344cebe47dbb104e9c17c1fca6d768f60602adae212f95a1152c2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
-hash = "9d19dba5c035834a7ddf5acd5b5ac86f8f319d4cd6c9b34baf3f143c85bfa45d"
+hash = "ff38afeee65e8072063cdb58b06ddc9e3bd021e21f3c8e39e1261ca47d460ee8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cc.snbt"
@@ -22,15 +22,15 @@ hash = "49d38217942fe55aafa1ce7e9c63a32cfb0f56c894a661357376a66c8a6e6775"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
-hash = "37b1c0727207c4a6b672be891dd1877448e3efbeb44610b1486debced208d445"
+hash = "de257f8a4a8f09746058e3f0f9a9f540f6a5f8c1330bf431ba97a25f56e97371"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mi.snbt"
-hash = "450c160e636a9b2e4d2f96a263447a7ad4d0022318e0416cdac3bc14cff8d390"
+hash = "f559abbdf6a5d2f05dd226b36024e9b2112e2aa6c0745ff04ff02f3c26dc857a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkers_construct.snbt"
-hash = "dfd07065beae45e3bd45590c763697c341fa46c3a0d296720235ede073bcfc79"
+hash = "91ca7df1657c7ed17d940f62c3dbd8c87dce9ad3dad460d6f31e53ff6bb22948"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/vanilla.snbt"
@@ -39,6 +39,10 @@ hash = "7cfaef924aeb17efc40b7a6ca84e1e9cffe0dfe2ae6403c6985043b767771a1f"
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "ed2bcb21b54e4dcb69727ce8b2a64790107fc8cf5f6e56bcd4d1d8fd75e0c80f"
+
+[[files]]
+file = "config/modern_industrialization.toml"
+hash = "6cbb69deed9b358bef6ab8d7e84f85d2b715bdd01adf02c6ec1a6e21fe69685b"
 
 [[files]]
 file = "config/semblance.properties"
