@@ -30,7 +30,7 @@ hash = "f559abbdf6a5d2f05dd226b36024e9b2112e2aa6c0745ff04ff02f3c26dc857a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkers_construct.snbt"
-hash = "91ca7df1657c7ed17d940f62c3dbd8c87dce9ad3dad460d6f31e53ff6bb22948"
+hash = "9a9418d0dd24555841596077f12f253a6f4ab2ac0ccae73bb7b53ad80bbfb793"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/vanilla.snbt"
