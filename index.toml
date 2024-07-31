@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-track-map.json"
+hash = "0c77425bea229f815de4ac49db70cbed8906cb77aff61f7c5be29812e0e5ea3b"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
