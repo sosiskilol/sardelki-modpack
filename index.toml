@@ -49,6 +49,10 @@ file = "config/modern_industrialization.toml"
 hash = "6cbb69deed9b358bef6ab8d7e84f85d2b715bdd01adf02c6ec1a6e21fe69685b"
 
 [[files]]
+file = "config/plethora.hocon"
+hash = "af6f0192665cde75ec5f5eb0472f014fe023cacaed831eac3742a4954fc296f8"
+
+[[files]]
 file = "config/semblance.properties"
 hash = "ba84add784204ce3f1f73379024d492917771dee981a5d2d47b3f88e3ca4d235"
 
@@ -90,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "f59aa35a3ca7651d0612543820e80972da0b9abf0094ecb414b76da9a8d4c11b"
+metafile = true
+
+[[files]]
+file = "mods/ae2cc-bridge.pw.toml"
+hash = "53064357e0fcf2818eb0e2600d48ff8cfafaf104b0d7bd8ba1d88e5cb762d965"
 metafile = true
 
 [[files]]
@@ -293,6 +302,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "8a7f673c71c9523fded9f5bfd607424f8d6109d7d3b387ce703e86f28d4d9cf5"
 metafile = true
@@ -438,6 +452,16 @@ hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "742e78218a61690111250f6df25c84e0385813957b269129faa9524414edaae7"
+metafile = true
+
+[[files]]
+file = "mods/plethora-peripherals.pw.toml"
+hash = "634e9ad89419dd15aeffcaabe46396d00753e8bcb68a7e2c318061100a5ec10f"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
@@ -460,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "cd7b16dc449e4795d9bda1a38a20e2a2a835064e92cf47b28a29d03388a43ed5"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "666bb36c42a08f6f34ac4ed954f95222ba690a6380062b740b602abe8f21901c"
 metafile = true
 
 [[files]]
@@ -525,6 +554,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "10406ceb652b089dd757560a06f70189f967c9594bc694706106b96786b342a5"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "bd59204f2c5c87ca2cfd5ea291d1cf89d18e1e6f281eeeb4f0f2ea7b08d0bb9a"
 metafile = true
 
 [[files]]

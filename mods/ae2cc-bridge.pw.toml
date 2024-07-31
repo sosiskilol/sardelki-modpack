@@ -1,0 +1,13 @@
+name = "AE2CC Bridge"
+filename = "AE2CCBridge-1.0.0-1.20.1-FABRIC-0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d7fc0debbc093e88aee0e9df22d978f091d15fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4873363
+project-id = 715346
