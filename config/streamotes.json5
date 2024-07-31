@@ -1,0 +1,14 @@
+{
+	emoteChannels: [
+		"simplecubee",
+		"pwgood"
+	],
+	twitchGlobalEmotes: true,
+	twitchSubscriberEmotes: false,
+	bttvEmotes: false,
+	bttvChannelEmotes: false,
+	ffzEmotes: false,
+	ffzChannelEmotes: false,
+	x7tvEmotes: true,
+	x7tvChannelEmotes: true
+}

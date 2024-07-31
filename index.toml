@@ -53,6 +53,10 @@ file = "config/semblance.properties"
 hash = "ba84add784204ce3f1f73379024d492917771dee981a5d2d47b3f88e3ca4d235"
 
 [[files]]
+file = "config/streamotes.json5"
+hash = "aae942e78a0b32a356616b6f54a0ede2f16bf74852e69ffad5e1c152c7aa2da1"
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "be191f74ff9f87c6ad82960ddb3ce6c72a02905c7f1b9681fa8c6cbb31d6a58c"
 
