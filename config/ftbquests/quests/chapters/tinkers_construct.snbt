@@ -1309,20 +1309,12 @@
 			dependencies: ["3409CE8DA0F0EEAE"]
 			icon: "minecraft:blaze_powder"
 			id: "639AC56005B9A1D3"
-			rewards: [
-				{
-					count: 10
-					id: "2CA4345BAEED3853"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					count: 2
-					id: "636897B84A1B0FC8"
-					item: "numismatics:sprocket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "2CA4345BAEED3853"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -2400,19 +2392,12 @@
 				}
 			}
 			id: "354494C774D79D0C"
-			rewards: [
-				{
-					count: 10
-					id: "44FDB97A4D11CAE0"
-					item: "create:experience_nugget"
-					type: "item"
-				}
-				{
-					id: "545632C271847E07"
-					item: "numismatics:cog"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 10
+				id: "44FDB97A4D11CAE0"
+				item: "create:experience_nugget"
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
@@ -2781,14 +2766,14 @@
 				item: "minecraft:dark_oak_button"
 				type: "item"
 			}]
-			subtitle: "В тинкерс констракт есть множество свойств которые можно добавить к инструментам в кузне. И посмотреть эффекты свойств можно в EMI "
+			subtitle: "В тинкерс констракт есть множество свойств которые можно добавить к инструментам в кузне. И посмотреть эффекты свойств можно в EMI (введите @hep)."
 			tasks: [{
 				id: "47DF3DBE35FF4AF2"
 				title: "Прочитайте гайд"
 				type: "checkmark"
 			}]
-			x: -4.5d
-			y: 14.0d
+			x: -6.0d
+			y: 13.0d
 		}
 	]
 	title: "Tinkers Construct"
