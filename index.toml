@@ -70,7 +70,7 @@ hash = "c8db949a3f89485da95b201f596732a1ba8f56a00452e68932c89e50db278688"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "96611cf3bb56261c7ebd1b1293234a567348d62eb35cf19d97d8c39405562a75"
+hash = "e060cf1ac8fd63f2cfe256cc8fe59ad3d42dba1fc44fa2c9e9f4aa0dc75d3bf4"
 
 [[files]]
 file = "mods/EasyAuth/config.json"
