@@ -92,6 +92,11 @@ hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
 metafile = true
 
 [[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "e5e2a6211343c0b61976d046cf64dad7953ad65991a61cecc926714a44ccc7ee"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
 metafile = true
