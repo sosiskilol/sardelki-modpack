@@ -172,6 +172,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "fbcb74f0c731dcbfd8c43321587af0e442277078ef8629cf3ba56b951121789b"
 metafile = true
