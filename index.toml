@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "e25a9439cd57c1af53a62c6f8703934911a561f38330e5acfb482a82ab09a404"
+hash = "d9a6ce5045ec3619cfd28c58f92768f2a66d70c260041dcb7fc902247a3b8e99"
 metafile = true
 
 [[files]]
@@ -253,12 +253,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+hash = "aa45fedf34d5ea69075390ffe1a3a3616b291f721d3c514ff779dd8ccd87fec0"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "77ea2a3cd904a118d57f2b9e26fdf27264270f698c7563187b665153994b67a0"
+hash = "a993f861ad383e74b9744dc305e26182ca9e23d5741b8c4066aa4290d8390c8b"
 metafile = true
 
 [[files]]
@@ -273,12 +273,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "50e74c622dd7aaab5f55a7f03a8e9e7e684363799767d270a89a46f7535e62bc"
+hash = "9dc15a934ffe6b258bbd271cc67e6ce9354ae4f35421c516e32651e3b1368fb3"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8677627aa7f217b8aafa4178de4836dafb7412fa6a28e4e281df2151557d82d6"
+hash = "c30627caed2319a253bb1618e4519397344767687a80a254b91167b7ce3176f0"
 metafile = true
 
 [[files]]
@@ -337,6 +337,11 @@ hash = "7a0ddae74ef4a6015f9919459f49624bbddd7f3891dbaae71ea042456b6f44b8"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "a2bc7e0ba785fafa11f55529bd849f122e5f7d7d2e82f9be8888881adca70ae7"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
@@ -348,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
+hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
 
 [[files]]
@@ -398,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/maintenancemode.pw.toml"
-hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
+hash = "0e2f681845283e7bd4e9b9fbd368d51667709a0a5d8cd1c131183310085f044b"
 metafile = true
 
 [[files]]
@@ -428,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6daaec48585f33d86d9234a0e3d27d8c13f46800ca8d7f6c6cb543781152e02e"
+hash = "7121db2ef3656272d19fd9210e2d1fc31072ac4fdbc3d98f717807c92460ba77"
 metafile = true
 
 [[files]]
@@ -453,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "0985fd69d06dc4013e283230a0a13ea1685982c159204692afad9a4df5921588"
+hash = "13e67b24aec2300ae8d11b3d53473bdf42bdca0fb8f10f30885f8902f8cacde1"
 metafile = true
 
 [[files]]
@@ -518,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "50852c6f492cf08473040c77154def33928566d0b5f3063b304f52e9fd18143d"
+hash = "d025fe2afb38e56cb7389f7b1be0eea3bacf346ee43a02ef1ac5d95ad482417f"
 metafile = true
 
 [[files]]
@@ -568,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
+hash = "a6ae5bbb1c637f9f792eefcbf889b2de2d822312291e6e1f9734b1c32ea45418"
 metafile = true
 
 [[files]]
@@ -598,12 +603,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "50398822263e006e098b554d6f8df711a1c0cbda22863e8fb8aa4900249da470"
+hash = "4b125fbc9921f2d44bcb570483dd2eb5ae41e3b78fd0abd5a437200ee1b83478"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "86e8fdd0f89d9c0f320dd7197d2943d9beeb4cecc928334f9926cc0305242314"
+hash = "74ddd354bef761800be3b2072be23cdea3875d8c97bea648724be9647152baaf"
 metafile = true
 
 [[files]]
