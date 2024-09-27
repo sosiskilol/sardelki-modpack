@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -304,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "81e3b900dfbd7672c43ddbe22bcf81d7f8a7eb54b2529d57c13edbd833027f0c"
 metafile = true
 
 [[files]]
