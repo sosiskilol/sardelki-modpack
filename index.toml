@@ -643,7 +643,11 @@ metafile = true
 
 [[files]]
 file = "scripts/custom_create_recipes.zs"
-hash = "3d569de67ef78e07c360befe8b79a9dadfa3a32c8094077aa56f5a9d43b0765c"
+hash = "5eeb9d6bb7994fb55ca5d7575a4554410b5a63f06ba7ad8175b6767f562a59bc"
+
+[[files]]
+file = "scripts/efln_remove.zs"
+hash = "bf531b6b6fd165c6b75651536ae0e414b77c093326fc30bfd11a2aee8bc602c1"
 
 [[files]]
 file = "scripts/mi_remove.zs"

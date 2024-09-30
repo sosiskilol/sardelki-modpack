@@ -68,3 +68,39 @@ craftingTable.remove(<item:create_enchantment_industry:enchanting_guide>);
         "item": "create_jetpack:jetpack"
     }
 });
+// Netherite_Jetpack
+<recipetype:create:mechanical_crafting>.remove(<item:create_jetpack:netherite_jetpack>);
+<recipetype:create:mechanical_crafting>.addJsonRecipe("netherite_jetpack_sardelki", {
+    "type": "create:mechanical_crafting",
+
+    "pattern": [
+        " PAP ",
+        "PSBSP",
+        "PCECP",
+        " C C "
+    ],
+    "key": {
+        "P": {
+            "item": "create:brass_sheet"
+        },
+        "A": {
+            "item": "create:shaft"
+        },
+        "S": {
+            "item": "create:precision_mechanism"
+        },
+        "B": {
+            "item": "create:netherite_backtank"
+        },
+        "C": {
+            "item": "create:chute"
+        },
+        "E": {
+            "item": "create:propeller"
+        }
+    },
+
+    "result": {
+        "item": "create_jetpack:netherite_jetpack"
+    }
+});
