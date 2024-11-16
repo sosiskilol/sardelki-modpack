@@ -442,6 +442,11 @@ hash = "80f08f5c54fd3c97cee597002942ae37617ceadf7b00dd6a239a8c17b655745c"
 metafile = true
 
 [[files]]
+file = "mods/modern-train-parts.pw.toml"
+hash = "fc603223a42ce7734577ea497edef14ba5c2e2fa96faf6dfc796b04feaf68b7b"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "7121db2ef3656272d19fd9210e2d1fc31072ac4fdbc3d98f717807c92460ba77"
 metafile = true
