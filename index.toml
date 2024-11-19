@@ -182,6 +182,11 @@ hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "c81c390b0ef760626eb73aba959cfca1494c259c92587c722bcff815cae0ad95"
 metafile = true
@@ -367,6 +372,11 @@ hash = "4853c3181c353feffbe018e22ef0da37cf91e645a895067bd50de38c883bd53b"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "d5bd55613034f1dce1ea089951195fb0039b85af5bc7cf6e54c243fd8fb476e0"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
@@ -547,6 +557,11 @@ hash = "67e281e2ddabbf5bac3768f73563f976aab05fb7392b3ce2e07fd11ac8797bc3"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
@@ -614,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ffb2cfcb24ac65c753f6b877b7b6c67cddf56055cc7585faedd5e7b96b64c392"
 metafile = true
 
 [[files]]
