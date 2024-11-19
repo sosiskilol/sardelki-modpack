@@ -667,6 +667,10 @@ hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
 metafile = true
 
 [[files]]
+file = "scripts/aircraft.zs"
+hash = "3c003f1904e4a95d2f07812bc5ba0c4292166b4373714c96b3789dbae828a104"
+
+[[files]]
 file = "scripts/custom_create_recipes.zs"
 hash = "5eeb9d6bb7994fb55ca5d7575a4554410b5a63f06ba7ad8175b6767f562a59bc"
 
@@ -681,6 +685,10 @@ hash = "ce414134587b5a23a37fc172fa7cac00005a7fa0e728499eb480f30718de9b40"
 [[files]]
 file = "scripts/numismatics_remove.zs"
 hash = "a4d9ac7d042dd29da6168c2a81f155571bdfde6f4c43b529e63a151e30c37f30"
+
+[[files]]
+file = "scripts/ships.zs"
+hash = "72982913aa5e018cba34dbbe36cf9c9aedd33f957bbf29228979f7c9ae459a53"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
