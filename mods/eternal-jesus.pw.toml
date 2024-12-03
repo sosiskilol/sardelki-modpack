@@ -1,0 +1,13 @@
+name = "Eternal Jesus"
+filename = "1.20.1 - 0.15.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OW1Y0ZLR/versions/bNvjZRbn/1.20.1%20-%200.15.11.jar"
+hash-format = "sha512"
+hash = "be27bc0104d0a7fab2a5e5634cd30ab97e54f7c24a3147e10df29466e71f96ab47f45a2a67a9e7e89c84c54821adb77eb8a82909e3c10f749fd3c8c7db7fd43f"
+
+[update]
+[update.modrinth]
+mod-id = "OW1Y0ZLR"
+version = "bNvjZRbn"

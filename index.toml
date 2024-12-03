@@ -292,6 +292,11 @@ hash = "f74bba0bfe9e9fd9288d1afac05670ee574123cd336c4a4313a64fbccf6a62c3"
 metafile = true
 
 [[files]]
+file = "mods/eternal-jesus.pw.toml"
+hash = "1d44ac897f09010df1dac8f4ef3a3a880bcb9eca44df4e306bf0a21085558da8"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
