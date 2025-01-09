@@ -1,1 +1,1 @@
-# ssmp-modded
+# sardelki-modpack
