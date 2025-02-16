@@ -1,0 +1,13 @@
+name = "CStrifiky"
+filename = "CStrifiky.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ri5ZLOYS/versions/ULhlPkxD/CStrifiky.zip"
+hash-format = "sha512"
+hash = "c4e09eb1e4ec019611d795180913d5d3c5e4b802d2e8a0d5425c3029d595be5a9476aacf60b642833f0f4a7105f8c752d3a290b239ba0b7a0c6ba28bbe352a28"
+
+[update]
+[update.modrinth]
+mod-id = "ri5ZLOYS"
+version = "ULhlPkxD"

@@ -672,6 +672,11 @@ hash = "92330acf54623b70104adb84139372a43045cff7066e7068da757a4de212b07d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cstrifiky.pw.toml"
+hash = "613e97695bb4b696e60ee06a08a1d805fa6a22f2560daa4d2daea539a5d7292c"
+metafile = true
+
+[[files]]
 file = "scripts/aircraft.zs"
 hash = "3c003f1904e4a95d2f07812bc5ba0c4292166b4373714c96b3789dbae828a104"
 
